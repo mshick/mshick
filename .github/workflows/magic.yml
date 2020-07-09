@@ -1,0 +1,15 @@
+name: MAGIC
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check it out
+        uses: actions/checkout@v2
+
+      - name: do the magic
+        run: npx markdown-magic
