@@ -32,6 +32,6 @@
 
 <p align="center">
   <a href="mailto:m@shick.us">
-    <img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/494fc315092f122b6cf0fb5bba7333b244d374b7/qr-code.white.min.svg" />
+    <img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/3518b2a9e6a159451237ee0fdd77a443112d4a92/qr-code.white.min.svg" />
   </a>
 </p>
