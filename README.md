@@ -31,5 +31,9 @@
   
   
 <!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://gist.githubusercontent.com/mshick/48f6bfcea90c7937c666caa4719bfaac/raw/594eb49cfff5846428d0dce3e6a01448e8671cd9/magic.md) -->
-# MAGIC!
+# LINKS OF NOTE
+
+- [website](https://shick.us)
+- [keybase](https://keybase.io/mshick)
+- [instagram](https://www.instagram.com/_._________._._._._._/)
 <!-- AUTO-GENERATED-CONTENT:END -->
