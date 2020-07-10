@@ -25,7 +25,7 @@
   
 <p align="center">
   <a href="mailto:m@shick.us">
-    <img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/236bcbdad303db44d39ea9a67fd411b21ecf781f/qr-code.min.svg" />
+    <img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/494fc315092f122b6cf0fb5bba7333b244d374b7/qr-code.white.min.svg" />
   </a>
 </p>
   
