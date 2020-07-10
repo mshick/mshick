@@ -22,10 +22,14 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 </pre>
 
-<a href="mailto:m@shick.us">
-<img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/4088fdb6e87b7cce223733fe78006a2d2da6e69d/sms.svg" />
-</a>
-
+  
+<p align="center">
+  <a href="mailto:m@shick.us">
+    <img title="👉text me👈" width="75%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/4088fdb6e87b7cce223733fe78006a2d2da6e69d/sms.svg" />
+  </a>
+</p>
+  
+  
 <!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://gist.githubusercontent.com/mshick/48f6bfcea90c7937c666caa4719bfaac/raw/a7a1fd74a8070eb0874daded71aa8622e77a5068/magic.md) -->
 # MAGIC!
 <!-- AUTO-GENERATED-CONTENT:END -->
