@@ -30,6 +30,6 @@
 </p>
   
   
-<!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://gist.githubusercontent.com/mshick/48f6bfcea90c7937c666caa4719bfaac/raw/a7a1fd74a8070eb0874daded71aa8622e77a5068/magic.md) -->
+<!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://gist.githubusercontent.com/mshick/48f6bfcea90c7937c666caa4719bfaac/raw/594eb49cfff5846428d0dce3e6a01448e8671cd9/magic.md) -->
 # MAGIC!
 <!-- AUTO-GENERATED-CONTENT:END -->
