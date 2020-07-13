@@ -22,13 +22,16 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 </pre>
 
-<!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://gist.githubusercontent.com/mshick/48f6bfcea90c7937c666caa4719bfaac/raw/594eb49cfff5846428d0dce3e6a01448e8671cd9/magic.md) -->
-# LINKS OF NOTE
+<pre>
+_    _ _  _ _  _ ____ 
+|    | |\ | |_/  [__  
+|___ | | \| | \_ ___] 
+                           
 
-- [website](https://shick.us)
-- [keybase](https://keybase.io/mshick)
-- [instagram](https://www.instagram.com/_._________._._._._._/)
-<!-- AUTO-GENERATED-CONTENT:END -->
+ - <a href="https://shick.us">website</a>
+ - <a href="https://keybase.io/mshick">keybase</a> 
+ - <a href="https://www.instagram.com/_._________._._._._._/">instagram</a> 
+</pre>
 
 <p align="center">
   <a href="mailto:m@shick.us">
