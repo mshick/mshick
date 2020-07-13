@@ -33,6 +33,6 @@ _    _ _  _ _  _ ____
 
 <p align="center">
   <a href="mailto:m@shick.us">
-    <img title="👉text me👈" width="100%" src="https://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/887adcae343353b102cae2cdfe974bf72a3bcbb1/qr-code.white.min.svg" />
+    <img title="👉text me👈" width="100%" src="hhttps://gist.githubusercontent.com/mshick/b9ea7e101c0e88e3cda02cc48e4f0f1c/raw/63b23dcb45cd16dd6044c645e4c930ef4ed556b5/qr-code.transparent.min.svg" />
   </a>
 </p>
