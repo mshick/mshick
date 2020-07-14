@@ -44,7 +44,6 @@ function pushes::request {
 }
 
 function pushes::format {
-  local TZ='America/New_York'
   local IFS=','
   
   declare -a data=( )
