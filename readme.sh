@@ -43,7 +43,7 @@ function insert_between {
 }
 
 function format_pushes_text {
-  local TZ='America/New_York'  
+  local TZ='America/New_York'
   local IFS=','
   
   declare -a data=( )
@@ -73,15 +73,15 @@ function posts_request {
 }
 
 function gnudate {
-    if hash gdate 2>/dev/null; then
-        gdate "$@"
-    else
-        date "$@"
-    fi
+  local TZ='America/New_York'
+  if hash gdate 2>/dev/null; then
+    gdate "$@"
+  else
+    date "$@"
+  fi
 }
 
 function process_atom_feed {
-  local TZ='America/New_York'
   local IFS='>'
   local tag=''
   local value=''
@@ -113,7 +113,6 @@ function process_atom_feed {
 }
 
 function process_rss_feed {
-  local TZ='America/New_York'
   local IFS='>'
   local tag=''
   local value=''
