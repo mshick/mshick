@@ -14,7 +14,7 @@ jobs:
 
       - name: do the do do
         env:
-          MY_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MSHICK_TOKEN }}
         run: ./readme.sh
 
       - name: great job!

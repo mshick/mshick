@@ -40,7 +40,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-03-13T17:52-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2019-12-02T12:40-05:00</kbd></samp>
 - <samp>[mikepowellwrites.github.io](https://github.com/mshick/mikepowellwrites.github.io) <kbd>2019-06-16T22:19-04:00</kbd></samp>
- 
+
 <!-- PUSHES:END -->
 
 ```
@@ -63,7 +63,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Supports the Open Technology Fund](https://github.blog/2020-07-02-github-supports-the-open-technology-fund/) <kbd>2020-07-02T11:50-04:00</kbd></samp>
 - <samp>[Launching docs.github.com](https://github.blog/2020-07-01-launching-docs-github-com/) <kbd>2020-07-01T13:00-04:00</kbd></samp>
 - <samp>[Looking back on the GitHub Security Lab Capture The Flag: CodeQL and chill](https://github.blog/2020-06-30-looking-back-on-the-github-security-lab-capture-the-flag-codeql-and-chill/) <kbd>2020-06-30T15:36-04:00</kbd></samp>
- 
+
 <!-- POSTS:END -->
 
 ```
@@ -72,9 +72,9 @@ _    _ _  _ _  _ ____
 |___ | | \| | \_ ___]
 ```
 
-- [website](https://shick.us)
-- [keybase](https://keybase.io/mshick)
-- [instagram](https://www.instagram.com/_._________._._._._._/)
+- <samp>[website](https://shick.us)</samp>
+- <samp>[keybase](https://keybase.io/mshick)</samp>
+- <samp>[instagram](https://www.instagram.com/_._________._._._._._/)</samp>
 
 <p align="center">
   <a href="mailto:m@shick.us">
