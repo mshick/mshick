@@ -1,12 +1,16 @@
 name: awesome readme
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   push:
-    branches: [master]
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
-  update:
-    name: updating...
+  cinco:
+    name: cinco runtime...
     runs-on: ubuntu-latest
     steps:
       - name: check it out
