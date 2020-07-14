@@ -2,8 +2,9 @@
 
 # The temporary ${{ secrets.GITHUB_TOKEN }} doesn't work for user() queries :-(
 readonly GITHUB_TOKEN=${GITHUB_TOKEN}
+readonly FEED_URL=${FEED_URL:-https://github.blog/feed/}
 
-readonly pushes_query="
+readonly pushes_graphql="
 {
   viewer {
     repositories(first: 10, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, ownerAffiliations: [OWNER]) {
@@ -22,7 +23,15 @@ readonly pushes_query="
 }
 "
 
-function github_query {
+function gnudate {
+  if hash gdate 2>/dev/null; then
+    TZ=America/New_York gdate "$@"
+  else
+    TZ=America/New_York date "$@"
+  fi
+}
+
+function pushes::request {
   local token="$1"
   local formatted_query="${2//[$'\t\r\n']}"
 
@@ -34,15 +43,7 @@ function github_query {
     --data "{\"query\":\"${formatted_query}\"}"
 }
 
-function insert_between {
-  awk -i inplace \
-    -v begin="$1" \
-    -v end="$2" \
-    -v data="$3" '$0~end{f=0} !f{print} $0~begin{print data;f=1}' \
-    "$4"
-}
-
-function format_pushes_text {
+function pushes::format {
   local TZ='America/New_York'
   local IFS=','
   
@@ -66,21 +67,13 @@ function format_pushes_text {
   done  
 }
 
-function posts_request {
+function posts::request {
   curl -sS \
     --request 'GET' \
-    --url 'https://github.blog/feed/'
+    --url "${FEED_URL}"
 }
 
-function gnudate {
-  if hash gdate 2>/dev/null; then
-    TZ=America/New_York gdate "$@"
-  else
-    TZ=America/New_York date "$@"
-  fi
-}
-
-function process_atom_feed {
+function posts::format_atom_feed {
   local IFS='>'
   local tag=''
   local value=''
@@ -111,7 +104,7 @@ function process_atom_feed {
   done
 }
 
-function process_rss_feed {
+function posts::format_rss_feed {
   local IFS='>'
   local tag=''
   local value=''
@@ -142,28 +135,35 @@ function process_rss_feed {
   done
 }
 
-function trim {
-    local var="$*"
-    # remove leading whitespace characters
-    var="${var#"${var%%[![:space:]]*}"}"
-    # remove trailing whitespace characters
-    var="${var%"${var##*[![:space:]]}"}"   
-    printf '%s' "$var"
+function format::insert {
+  awk -i inplace \
+    -v begin="$1" \
+    -v end="$2" \
+    -v data="$3" '$0~end{f=0} !f{print} $0~begin{print data;f=1}' \
+    "$4"
 }
 
 function main {
-  local pushes_response=$(github_query "$GITHUB_TOKEN" "$pushes_query")
-  local pushes=$(echo "$pushes_response" | jq -r '.data.viewer.repositories.nodes[] | [.name, .url, .pushedAt] | @csv' | format_pushes_text)
-  pushes=$(trim "$pushes")
-  insert_between \
+  local pushes=$(
+    pushes::request "$GITHUB_TOKEN" "$pushes_graphql" \
+    | jq -r '.data.viewer.repositories.nodes[] | [.name, .url, .pushedAt] | @csv' \
+    | pushes::format \
+    | sed -e 's/  *$//'
+  )
+
+  format::insert \
     "<!-- PUSHES:START -->" \
     "<!-- PUSHES:END -->" \
     "\n$pushes\n" \
     README.md
 
-  local posts_response=$(posts_request)
-  local posts=$(echo "$posts_response" | process_rss_feed)
-  insert_between \
+  local posts=$(
+    posts::request \
+    | posts::format_rss_feed \
+    | sed -e 's/  *$//'
+  )
+
+  format::insert \
     "<!-- POSTS:START -->" \
     "<!-- POSTS:END -->" \
     "\n$posts\n" \
