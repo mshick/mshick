@@ -30,16 +30,16 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-14T17:12-04:00</kbd></samp>
-- <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-07-13T18:55-04:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-13T18:05-04:00</kbd></samp>
-- <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-07T11:08-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-07-07T10:51-04:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-06-23T18:46-04:00</kbd></samp>
-- <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-04-09T15:35-04:00</kbd></samp>
-- <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-03-13T17:52-04:00</kbd></samp>
-- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2019-12-02T12:40-05:00</kbd></samp>
-- <samp>[mikepowellwrites.github.io](https://github.com/mshick/mikepowellwrites.github.io) <kbd>2019-06-16T22:19-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-14T21:16+00:00</kbd></samp>
+- <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-07-13T22:55+00:00</kbd></samp>
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-13T22:05+00:00</kbd></samp>
+- <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-07T15:08+00:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-07-07T14:51+00:00</kbd></samp>
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-06-23T22:46+00:00</kbd></samp>
+- <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-04-09T19:35+00:00</kbd></samp>
+- <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-03-13T21:52+00:00</kbd></samp>
+- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2019-12-02T17:40+00:00</kbd></samp>
+- <samp>[mikepowellwrites.github.io](https://github.com/mshick/mikepowellwrites.github.io) <kbd>2019-06-17T02:19+00:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
