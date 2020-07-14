@@ -30,8 +30,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-
- 
 <!-- PUSHES:END -->
 
 ```
@@ -39,6 +37,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 |__/ |___ |    |___ |\ |  |     |__] |  | [__   |  [__
 |  \ |___ |___ |___ | \|  |     |    |__| ___]  |  ___]
 ```
+
+> Just an example of some GitHub blog posts...
 
 <!-- POSTS:START -->
 
@@ -52,7 +52,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Supports the Open Technology Fund](https://github.blog/2020-07-02-github-supports-the-open-technology-fund/) <kbd>2020-07-02T15:50+00:00</kbd></samp>
 - <samp>[Launching docs.github.com](https://github.blog/2020-07-01-launching-docs-github-com/) <kbd>2020-07-01T17:00+00:00</kbd></samp>
 - <samp>[Looking back on the GitHub Security Lab Capture The Flag: CodeQL and chill](https://github.blog/2020-06-30-looking-back-on-the-github-security-lab-capture-the-flag-codeql-and-chill/) <kbd>2020-06-30T19:36+00:00</kbd></samp>
- 
+
 <!-- POSTS:END -->
 
 ```
