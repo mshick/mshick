@@ -1,10 +1,11 @@
 #!/bin/bash
 
+# The temporary ${{ secrets.GITHUB_TOKEN }} doesn't work for user() queries :-(
 readonly GITHUB_TOKEN=${GITHUB_TOKEN}
 
 readonly pushes_query="
 {
-  user(login: \"mshick\") {
+  viewer {
     repositories(first: 10, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, ownerAffiliations: [OWNER]) {
       pageInfo {
         hasNextPage
