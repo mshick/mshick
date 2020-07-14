@@ -3,6 +3,7 @@
 # The temporary ${{ secrets.GITHUB_TOKEN }} doesn't work for user() queries :-(
 readonly GITHUB_TOKEN=${GITHUB_TOKEN}
 readonly FEED_URL=${FEED_URL:-https://github.blog/feed/}
+readonly TIMEZONE=${TIMEZONE:-America/New_York}
 
 readonly pushes_graphql="
 {
@@ -25,9 +26,9 @@ readonly pushes_graphql="
 
 function gnudate {
   if hash gdate 2>/dev/null; then
-    TZ=America/New_York gdate "$@"
+    TZ=${TIMEZONE} gdate "$@"
   else
-    TZ=America/New_York date "$@"
+    TZ=${TIMEZONE} date "$@"
   fi
 }
 
