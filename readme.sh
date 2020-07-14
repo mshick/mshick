@@ -73,11 +73,10 @@ function posts_request {
 }
 
 function gnudate {
-  local TZ='America/New_York'
   if hash gdate 2>/dev/null; then
-    gdate "$@"
+    TZ=America/New_York gdate "$@"
   else
-    date "$@"
+    TZ=America/New_York date "$@"
   fi
 }
 

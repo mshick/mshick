@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-14T17:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-14T17:16-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-07-13T18:55-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-13T18:05-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-07T11:08-04:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
-- <samp>[Remote work: Sales and Support on being customer-centric while working remotely](https://github.blog/2020-07-10-remote-work-sales-and-support-on-being-customer-centric-while-working-remotely/) <kbd>2020-07-10T15:24+00:00</kbd></samp>
-- <samp>[GitHub Action Hero: Jeremy Shore](https://github.blog/2020-07-10-github-action-hero-jeremy-shore/) <kbd>2020-07-10T15:00+00:00</kbd></samp>
-- <samp>[What we learned from building an industry coalition](https://github.blog/2020-07-09-what-we-learned-from-building-an-industry-coalition/) <kbd>2020-07-09T20:02+00:00</kbd></samp>
-- <samp>[Introducing the GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/) <kbd>2020-07-08T20:00+00:00</kbd></samp>
-- <samp>[GitHub Action Hero: Casey Lee](https://github.blog/2020-07-03-github-action-hero-casey-lee/) <kbd>2020-07-03T14:00+00:00</kbd></samp>
-- <samp>[How we launched docs.github.com](https://github.blog/2020-07-02-how-we-launched-docs-github-com/) <kbd>2020-07-02T19:00+00:00</kbd></samp>
-- <samp>[Git Credential Manager Core: Building a universal authentication experience](https://github.blog/2020-07-02-git-credential-manager-core-building-a-universal-authentication-experience/) <kbd>2020-07-02T16:00+00:00</kbd></samp>
-- <samp>[GitHub Supports the Open Technology Fund](https://github.blog/2020-07-02-github-supports-the-open-technology-fund/) <kbd>2020-07-02T15:50+00:00</kbd></samp>
-- <samp>[Launching docs.github.com](https://github.blog/2020-07-01-launching-docs-github-com/) <kbd>2020-07-01T17:00+00:00</kbd></samp>
-- <samp>[Looking back on the GitHub Security Lab Capture The Flag: CodeQL and chill](https://github.blog/2020-06-30-looking-back-on-the-github-security-lab-capture-the-flag-codeql-and-chill/) <kbd>2020-06-30T19:36+00:00</kbd></samp>
+- <samp>[Remote work: Sales and Support on being customer-centric while working remotely](https://github.blog/2020-07-10-remote-work-sales-and-support-on-being-customer-centric-while-working-remotely/) <kbd>2020-07-10T11:24-04:00</kbd></samp>
+- <samp>[GitHub Action Hero: Jeremy Shore](https://github.blog/2020-07-10-github-action-hero-jeremy-shore/) <kbd>2020-07-10T11:00-04:00</kbd></samp>
+- <samp>[What we learned from building an industry coalition](https://github.blog/2020-07-09-what-we-learned-from-building-an-industry-coalition/) <kbd>2020-07-09T16:02-04:00</kbd></samp>
+- <samp>[Introducing the GitHub Availability Report](https://github.blog/2020-07-08-introducing-the-github-availability-report/) <kbd>2020-07-08T16:00-04:00</kbd></samp>
+- <samp>[GitHub Action Hero: Casey Lee](https://github.blog/2020-07-03-github-action-hero-casey-lee/) <kbd>2020-07-03T10:00-04:00</kbd></samp>
+- <samp>[How we launched docs.github.com](https://github.blog/2020-07-02-how-we-launched-docs-github-com/) <kbd>2020-07-02T15:00-04:00</kbd></samp>
+- <samp>[Git Credential Manager Core: Building a universal authentication experience](https://github.blog/2020-07-02-git-credential-manager-core-building-a-universal-authentication-experience/) <kbd>2020-07-02T12:00-04:00</kbd></samp>
+- <samp>[GitHub Supports the Open Technology Fund](https://github.blog/2020-07-02-github-supports-the-open-technology-fund/) <kbd>2020-07-02T11:50-04:00</kbd></samp>
+- <samp>[Launching docs.github.com](https://github.blog/2020-07-01-launching-docs-github-com/) <kbd>2020-07-01T13:00-04:00</kbd></samp>
+- <samp>[Looking back on the GitHub Security Lab Capture The Flag: CodeQL and chill](https://github.blog/2020-06-30-looking-back-on-the-github-security-lab-capture-the-flag-codeql-and-chill/) <kbd>2020-06-30T15:36-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
