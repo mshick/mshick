@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v2
 
       - name: do the do do
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: ./readme.sh
 
       - name: great job!
