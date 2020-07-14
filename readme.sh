@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The temporary ${{ secrets.GITHUB_TOKEN }} doesn't work for user() queries :-(
-readonly GITHUB_TOKEN=${GITHUB_TOKEN}
+readonly TOKEN=${MY_TOKEN}
 
 readonly pushes_query="
 {
@@ -145,7 +145,7 @@ function process_rss_feed {
 }
 
 function main {
-  local pushes_response=$(github_query "$GITHUB_TOKEN" "$pushes_query")
+  local pushes_response=$(github_query "$TOKEN" "$pushes_query")
   local pushes=$(echo "$pushes_response" | jq -r '.data.viewer.repositories.nodes[] | [.name, .url, .pushedAt] | @csv' | format_pushes_text)
   insert_between \
     "<!-- PUSHES:START -->" \
