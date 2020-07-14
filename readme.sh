@@ -4,7 +4,7 @@ readonly GITHUB_TOKEN=${GITHUB_TOKEN}
 
 readonly pushes_query="
 {
-  viewer {
+  user(login: \"mshick\") {
     repositories(first: 10, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, ownerAffiliations: [OWNER]) {
       pageInfo {
         hasNextPage
