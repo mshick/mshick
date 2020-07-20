@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-19T08:12-04:00</kbd></samp>
+- <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-07-19T23:49-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-19T20:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-07-18T17:36-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-07-15T21:58-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-15T17:16-04:00</kbd></samp>
@@ -38,7 +39,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-13T18:05-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-07T11:08-04:00</kbd></samp>
 - <samp>[gatsby-theme-terminal](https://github.com/mshick/gatsby-theme-terminal) <kbd>2020-07-06T03:07-04:00</kbd></samp>
-- <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-04-09T15:35-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2019-12-02T12:40-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
