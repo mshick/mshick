@@ -30,16 +30,16 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-22T06:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-21T20:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-21T17:06-04:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-21T08:38-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-21T08:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-21T06:44-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-07-20T22:16-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-07-19T23:49-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-07-18T17:36-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-07-15T21:58-04:00</kbd></samp>
 - <samp>[gatsby-theme-terminal](https://github.com/mshick/gatsby-theme-terminal) <kbd>2020-07-06T03:07-04:00</kbd></samp>
-- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2019-12-02T12:40-05:00</kbd></samp>
+- <samp>[better-queue](https://github.com/mshick/better-queue) <kbd>2020-06-25T10:34-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
