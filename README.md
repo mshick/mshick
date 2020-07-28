@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-26T20:29-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-27T08:13-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-22T06:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-21T17:06-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/) <kbd>2020-07-27T12:50-04:00</kbd></samp>
+- <samp>[Introducing GitHub&#8217;s OpenAPI Description](https://github.blog/2020-07-27-introducing-githubs-openapi-description/) <kbd>2020-07-27T12:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Samson Amaugo](https://github.blog/2020-07-24-github-action-hero-samson-amaugo/) <kbd>2020-07-24T04:08-04:00</kbd></samp>
 - <samp>[How to secure  your GitHub organization and enterprise account](https://github.blog/2020-07-23-how-to-secure-your-github-organization-and-enterprise-account/) <kbd>2020-07-23T18:00-04:00</kbd></samp>
 - <samp>[Safeguarding trans-Atlantic developer collaboration](https://github.blog/2020-07-23-safeguarding-trans-atlantic-developer-collaboration/) <kbd>2020-07-23T13:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Action Hero: Nikita Sobolev](https://github.blog/2020-07-17-github-action-hero-nikita-sobolev/) <kbd>2020-07-17T11:00-04:00</kbd></samp>
 - <samp>[Securing your open source dependencies with GitHub dependency insights](https://github.blog/2020-07-16-securing-your-open-source-dependencies-with-github-dependency-insights/) <kbd>2020-07-16T14:00-04:00</kbd></samp>
 - <samp>[GitHub Archive Program: the journey of the world&#8217;s open source code to the Arctic](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/) <kbd>2020-07-16T12:05-04:00</kbd></samp>
-- <samp>[How organizations can tackle securing the world’s code](https://github.blog/2020-07-15-how-organizations-can-tackle-securing-the-worlds-code/) <kbd>2020-07-15T09:00-04:00</kbd></samp>
-- <samp>[Remote work: Sales and Support on being customer-centric while working remotely](https://github.blog/2020-07-10-remote-work-sales-and-support-on-being-customer-centric-while-working-remotely/) <kbd>2020-07-10T11:24-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
