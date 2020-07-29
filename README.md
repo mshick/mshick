@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-27T20:28-04:00</kbd></samp>
+- <samp>[twithub](https://github.com/mshick/twithub) <kbd>2020-07-28T17:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-28T08:12-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-22T06:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-21T17:06-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-07-19T23:49-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-07-18T17:36-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-07-15T21:58-04:00</kbd></samp>
-- <samp>[gatsby-theme-terminal](https://github.com/mshick/gatsby-theme-terminal) <kbd>2020-07-06T03:07-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Welcome Malta and Cyprus to GitHub Sponsors—plus updates!](https://github.blog/2020-07-28-welcome-malta-and-cyprus-to-github-sponsors-plus-updates/) <kbd>2020-07-28T14:26-04:00</kbd></samp>
+- <samp>[Announcing the GitHub public roadmap](https://github.blog/2020-07-28-announcing-the-github-public-roadmap/) <kbd>2020-07-28T11:57-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/) <kbd>2020-07-27T12:50-04:00</kbd></samp>
 - <samp>[Introducing GitHub&#8217;s OpenAPI Description](https://github.blog/2020-07-27-introducing-githubs-openapi-description/) <kbd>2020-07-27T12:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Samson Amaugo](https://github.blog/2020-07-24-github-action-hero-samson-amaugo/) <kbd>2020-07-24T04:08-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Secure at every step: Show your dependencies some love with updates](https://github.blog/2020-07-23-secure-at-every-step-show-your-dependencies-some-love-with-updates/) <kbd>2020-07-23T13:00-04:00</kbd></samp>
 - <samp>[Hardening your GitHub Enterprise Server](https://github.blog/2020-07-20-hardening-your-github-enterprise-server/) <kbd>2020-07-20T11:33-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Nikita Sobolev](https://github.blog/2020-07-17-github-action-hero-nikita-sobolev/) <kbd>2020-07-17T11:00-04:00</kbd></samp>
-- <samp>[Securing your open source dependencies with GitHub dependency insights](https://github.blog/2020-07-16-securing-your-open-source-dependencies-with-github-dependency-insights/) <kbd>2020-07-16T14:00-04:00</kbd></samp>
-- <samp>[GitHub Archive Program: the journey of the world&#8217;s open source code to the Arctic](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/) <kbd>2020-07-16T12:05-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
