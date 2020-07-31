@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-30T08:13-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-07-30T00:08-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-07-31T00:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-07-30T20:29-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
 - <samp>[twithub](https://github.com/mshick/twithub) <kbd>2020-07-28T20:45-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
