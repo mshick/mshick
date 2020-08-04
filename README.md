@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-03T08:13-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-03T00:08-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-02T20:30-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
 - <samp>[twithub](https://github.com/mshick/twithub) <kbd>2020-07-28T20:45-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Actions improvements for fork and pull request workflows](https://github.blog/2020-08-03-github-actions-improvements-for-fork-and-pull-request-workflows/) <kbd>2020-08-03T14:07-04:00</kbd></samp>
+- <samp>[GitHub joins the Open Source Security Foundation](https://github.blog/2020-08-03-github-joins-the-open-source-security-foundation/) <kbd>2020-08-03T11:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Swechhya Bista](https://github.blog/2020-07-31-github-action-hero-swechhya-bista/) <kbd>2020-07-31T13:26-04:00</kbd></samp>
 - <samp>[Token authentication requirements for API and Git operations](https://github.blog/2020-07-30-token-authentication-requirements-for-api-and-git-operations/) <kbd>2020-07-30T15:18-04:00</kbd></samp>
 - <samp>[Maintainer spotlight: How to secure your project with one of the world’s top open source tools](https://github.blog/2020-07-30-maintainer-spotlight-how-to-secure-your-project-with-one-of-the-worlds-top-open-source-tools/) <kbd>2020-07-30T12:07-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Announcing the GitHub public roadmap](https://github.blog/2020-07-28-announcing-the-github-public-roadmap/) <kbd>2020-07-28T11:57-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/) <kbd>2020-07-27T12:50-04:00</kbd></samp>
 - <samp>[Introducing GitHub&#8217;s OpenAPI Description](https://github.blog/2020-07-27-introducing-githubs-openapi-description/) <kbd>2020-07-27T12:00-04:00</kbd></samp>
-- <samp>[GitHub Action Hero: Samson Amaugo](https://github.blog/2020-07-24-github-action-hero-samson-amaugo/) <kbd>2020-07-24T04:08-04:00</kbd></samp>
-- <samp>[How to secure  your GitHub organization and enterprise account](https://github.blog/2020-07-23-how-to-secure-your-github-organization-and-enterprise-account/) <kbd>2020-07-23T18:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
