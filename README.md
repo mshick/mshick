@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-07T08:15-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-07T00:08-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-06T20:31-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
 - <samp>[twithub](https://github.com/mshick/twithub) <kbd>2020-07-28T20:45-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Remote work: Sharing tips for leading in a remote world](https://github.blog/2020-08-07-remote-work-sharing-tips-for-leading-in-a-remote-world/) <kbd>2020-08-07T18:34-04:00</kbd></samp>
+- <samp>[GitHub Action Hero &#8211; Daniel Dennis](https://github.blog/2020-08-07-github-action-hero-daniel-dennis/) <kbd>2020-08-07T17:42-04:00</kbd></samp>
 - <samp>[Achieving DevSecOps maturity with a developer-first, community-driven approach](https://github.blog/2020-08-06-achieving-devsecops-maturity-with-a-developer-first-community-driven-approach/) <kbd>2020-08-06T11:05-04:00</kbd></samp>
 - <samp>[GMTK Game Jam 2020 &#8211; staff picks](https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/) <kbd>2020-08-06T11:00-04:00</kbd></samp>
 - <samp>[GitHub Actions: Enterprise runners and fine-grained access settings with runner groups](https://github.blog/2020-08-05-github-actions-enterprise-runners-and-fine-grained-access-settings-with-runner-groups/) <kbd>2020-08-05T15:16-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Actions self-hosted runners on Google Cloud](https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud/) <kbd>2020-08-04T11:35-04:00</kbd></samp>
 - <samp>[CodeGen: Semantic&#8217;s improved language support system](https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/) <kbd>2020-08-04T10:45-04:00</kbd></samp>
 - <samp>[GitHub Actions improvements for fork and pull request workflows](https://github.blog/2020-08-03-github-actions-improvements-for-fork-and-pull-request-workflows/) <kbd>2020-08-03T14:07-04:00</kbd></samp>
-- <samp>[GitHub joins the Open Source Security Foundation](https://github.blog/2020-08-03-github-joins-the-open-source-security-foundation/) <kbd>2020-08-03T11:00-04:00</kbd></samp>
-- <samp>[GitHub Action Hero: Swechhya Bista](https://github.blog/2020-07-31-github-action-hero-swechhya-bista/) <kbd>2020-07-31T13:26-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
