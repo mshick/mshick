@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-10T08:14-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-10T00:09-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-11T00:11-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-10T20:31-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
 - <samp>[twithub](https://github.com/mshick/twithub) <kbd>2020-07-28T20:45-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub ¡Presente! na América Latina](https://github.blog/2020-08-11-github-presente-na-america-latina/) <kbd>2020-08-11T08:00-04:00</kbd></samp>
 - <samp>[Remote work: Sharing tips for leading in a remote world](https://github.blog/2020-08-07-remote-work-sharing-tips-for-leading-in-a-remote-world/) <kbd>2020-08-07T18:34-04:00</kbd></samp>
 - <samp>[GitHub Action Hero &#8211; Daniel Dennis](https://github.blog/2020-08-07-github-action-hero-daniel-dennis/) <kbd>2020-08-07T17:42-04:00</kbd></samp>
 - <samp>[Achieving DevSecOps maturity with a developer-first, community-driven approach](https://github.blog/2020-08-06-achieving-devsecops-maturity-with-a-developer-first-community-driven-approach/) <kbd>2020-08-06T11:05-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Secure at every step: How GitHub’s dependency graph is generated](https://github.blog/2020-08-04-secure-at-every-step-how-githubs-dependency-graph-is-generated/) <kbd>2020-08-04T18:11-04:00</kbd></samp>
 - <samp>[GitHub Actions self-hosted runners on Google Cloud](https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud/) <kbd>2020-08-04T11:35-04:00</kbd></samp>
 - <samp>[CodeGen: Semantic&#8217;s improved language support system](https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/) <kbd>2020-08-04T10:45-04:00</kbd></samp>
-- <samp>[GitHub Actions improvements for fork and pull request workflows](https://github.blog/2020-08-03-github-actions-improvements-for-fork-and-pull-request-workflows/) <kbd>2020-08-03T14:07-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
