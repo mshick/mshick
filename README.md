@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-13T08:14-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-13T00:09-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-12T20:31-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-08-11T18:43-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Secure at every step: A guide to DevSecOps, shifting left, and GitOps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/) <kbd>2020-08-13T13:51-04:00</kbd></samp>
+- <samp>[Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/) <kbd>2020-08-13T13:00-04:00</kbd></samp>
 - <samp>[GitHub ¡Presente! na América Latina](https://github.blog/2020-08-11-github-presente-na-america-latina/) <kbd>2020-08-11T08:00-04:00</kbd></samp>
 - <samp>[Remote work: Sharing tips for leading in a remote world](https://github.blog/2020-08-07-remote-work-sharing-tips-for-leading-in-a-remote-world/) <kbd>2020-08-07T18:34-04:00</kbd></samp>
 - <samp>[GitHub Action Hero &#8211; Daniel Dennis](https://github.blog/2020-08-07-github-action-hero-daniel-dennis/) <kbd>2020-08-07T17:42-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Actions: Enterprise runners and fine-grained access settings with runner groups](https://github.blog/2020-08-05-github-actions-enterprise-runners-and-fine-grained-access-settings-with-runner-groups/) <kbd>2020-08-05T15:16-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2020](https://github.blog/2020-08-05-github-availability-report-july-2020/) <kbd>2020-08-05T12:00-04:00</kbd></samp>
 - <samp>[Secure at every step: How GitHub’s dependency graph is generated](https://github.blog/2020-08-04-secure-at-every-step-how-githubs-dependency-graph-is-generated/) <kbd>2020-08-04T18:11-04:00</kbd></samp>
-- <samp>[GitHub Actions self-hosted runners on Google Cloud](https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud/) <kbd>2020-08-04T11:35-04:00</kbd></samp>
-- <samp>[CodeGen: Semantic&#8217;s improved language support system](https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/) <kbd>2020-08-04T10:45-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
