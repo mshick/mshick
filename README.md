@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-24T08:15-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-08-24T00:15-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-08-23T20:34-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-08-11T18:43-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[twithiub-demo](https://github.com/mshick/twithiub-demo) <kbd>2020-07-29T11:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Automate releases and more with the new Sentry Release GitHub Action](https://github.blog/2020-08-24-automate-releases-and-more-with-the-new-sentry-release-github-action/) <kbd>2020-08-24T12:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Keirron Stach](https://github.blog/2020-08-21-github-action-hero-keirron-stach/) <kbd>2020-08-21T17:53-04:00</kbd></samp>
 - <samp>[Maintainer spotlight: Managing dependencies and the Metasploit pen testing toolkit](https://github.blog/2020-08-21-maintainer-spotlight-managing-dependencies-and-the-metasploit-pen-testing-toolkit/) <kbd>2020-08-21T12:00-04:00</kbd></samp>
 - <samp>[Introducing The ReadME Project](https://github.blog/2020-08-20-readme-project/) <kbd>2020-08-20T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/) <kbd>2020-08-13T13:00-04:00</kbd></samp>
 - <samp>[GitHub ¡Presente! na América Latina](https://github.blog/2020-08-11-github-presente-na-america-latina/) <kbd>2020-08-11T08:00-04:00</kbd></samp>
 - <samp>[Remote work: Sharing tips for leading in a remote world](https://github.blog/2020-08-07-remote-work-sharing-tips-for-leading-in-a-remote-world/) <kbd>2020-08-07T18:34-04:00</kbd></samp>
-- <samp>[GitHub Action Hero &#8211; Daniel Dennis](https://github.blog/2020-08-07-github-action-hero-daniel-dennis/) <kbd>2020-08-07T17:42-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
