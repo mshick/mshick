@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-04T08:23-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-04T00:10-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-03T20:37-04:00</kbd></samp>
-- <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-03T10:51-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-08-11T18:43-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · September 2020 Edition](https://github.blog/2020-09-04-release-radar-september-2020-edition/) <kbd>2020-09-04T14:16-04:00</kbd></samp>
 - <samp>[GitHub Africa Virtual Meetup](https://github.blog/2020-09-03-github-africa-virtual-meetup/) <kbd>2020-09-04T00:07-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Stars Program ⭐️](https://github.blog/2020-09-03-introducing-the-github-stars-program/) <kbd>2020-09-03T12:00-04:00</kbd></samp>
 - <samp>[How we threat model](https://github.blog/2020-09-02-how-we-threat-model/) <kbd>2020-09-03T02:15-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Ready to vote in the U.S. 2020 elections?](https://github.blog/2020-09-01-ready-to-vote-in-the-u-s-2020-elections/) <kbd>2020-09-01T11:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Eddie Jaoude](https://github.blog/2020-08-30-github-action-hero-eddie-jaoude/) <kbd>2020-08-30T21:52-04:00</kbd></samp>
 - <samp>[Secure at every step: Putting DevSecOps into practice with code scanning](https://github.blog/2020-08-27-secure-at-every-step-putting-devsecops-into-practice-with-code-scanning/) <kbd>2020-08-27T11:00-04:00</kbd></samp>
-- <samp>[Adacats Mentorship Program: A growth journey](https://github.blog/2020-08-26-adacats-mentorship-program/) <kbd>2020-08-26T23:52-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
