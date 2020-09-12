@@ -30,10 +30,10 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-11T08:27-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-11T00:10-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-12T00:10-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-11T20:37-04:00</kbd></samp>
 - <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-08-11T18:43-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-07-31T12:12-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-22T06:05-04:00</kbd></samp>
