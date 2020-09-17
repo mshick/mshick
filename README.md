@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-16T08:17-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-16T00:11-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-15T20:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Ensure your neighbors have the right to vote: A software engineer volunteers at his local elections office](https://github.blog/2020-09-16-ensure-your-neighbors-have-the-right-to-vote-a-software-engineer-volunteers-at-a-local-elections-office/) <kbd>2020-09-16T12:06-04:00</kbd></samp>
 - <samp>[Announcing the GitHub integration with Microsoft Teams](https://github.blog/2020-09-10-announcing-the-github-integration-with-microsoft-teams/) <kbd>2020-09-10T12:00-04:00</kbd></samp>
 - <samp>[Remote Education: A series of best practices for online campus communities](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) <kbd>2020-09-10T11:00-04:00</kbd></samp>
 - <samp>[Release Radar · September 2020 Edition](https://github.blog/2020-09-04-release-radar-september-2020-edition/) <kbd>2020-09-04T14:16-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Secure at every step: What is software supply chain security and why does it matter?](https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/) <kbd>2020-09-02T13:58-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2020](https://github.blog/2020-09-02-github-availability-report-august-2020/) <kbd>2020-09-02T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/) <kbd>2020-09-01T13:00-04:00</kbd></samp>
-- <samp>[Ready to vote in the U.S. 2020 elections?](https://github.blog/2020-09-01-ready-to-vote-in-the-u-s-2020-elections/) <kbd>2020-09-01T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
