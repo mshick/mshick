@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-17T00:10-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-16T20:38-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-18T00:10-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-17T08:18-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Action Hero: Stefan Zweifel and &#8220;git-auto-commit&#8221;](https://github.blog/2020-09-17-github-action-hero-stefan-zweifel-and-git-auto-commit/) <kbd>2020-09-17T19:00-04:00</kbd></samp>
+- <samp>[We are excited to announce our next event for Latin America, GitHub ¡Presente! In Spanish](https://github.blog/2020-09-17-we-are-excited-to-announce-our-next-event-for-latin-america-github-presente-in-spanish/) <kbd>2020-09-17T15:28-04:00</kbd></samp>
+- <samp>[GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/) <kbd>2020-09-17T09:00-04:00</kbd></samp>
 - <samp>[Ensure your neighbors have the right to vote: A software engineer volunteers at his local elections office](https://github.blog/2020-09-16-ensure-your-neighbors-have-the-right-to-vote-a-software-engineer-volunteers-at-a-local-elections-office/) <kbd>2020-09-16T12:06-04:00</kbd></samp>
 - <samp>[Announcing the GitHub integration with Microsoft Teams](https://github.blog/2020-09-10-announcing-the-github-integration-with-microsoft-teams/) <kbd>2020-09-10T12:00-04:00</kbd></samp>
 - <samp>[Remote Education: A series of best practices for online campus communities](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) <kbd>2020-09-10T11:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Africa Virtual Meetup](https://github.blog/2020-09-03-github-africa-virtual-meetup/) <kbd>2020-09-04T00:07-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Stars Program ⭐️](https://github.blog/2020-09-03-introducing-the-github-stars-program/) <kbd>2020-09-03T12:00-04:00</kbd></samp>
 - <samp>[How we threat model](https://github.blog/2020-09-02-how-we-threat-model/) <kbd>2020-09-03T02:15-04:00</kbd></samp>
-- <samp>[Secure at every step: What is software supply chain security and why does it matter?](https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/) <kbd>2020-09-02T13:58-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: August 2020](https://github.blog/2020-09-02-github-availability-report-august-2020/) <kbd>2020-09-02T12:00-04:00</kbd></samp>
-- <samp>[Introducing GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/) <kbd>2020-09-01T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
