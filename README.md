@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-18T08:27-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-18T00:10-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-17T08:18-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Join us for OctogatosConf](https://github.blog/2020-09-18-join-us-for-octogatosconf/) <kbd>2020-09-18T19:24-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Stefan Zweifel and &#8220;git-auto-commit&#8221;](https://github.blog/2020-09-17-github-action-hero-stefan-zweifel-and-git-auto-commit/) <kbd>2020-09-17T19:00-04:00</kbd></samp>
 - <samp>[We are excited to announce our next event for Latin America, GitHub ¡Presente! In Spanish](https://github.blog/2020-09-17-we-are-excited-to-announce-our-next-event-for-latin-america-github-presente-in-spanish/) <kbd>2020-09-17T15:28-04:00</kbd></samp>
 - <samp>[GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/) <kbd>2020-09-17T09:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · September 2020 Edition](https://github.blog/2020-09-04-release-radar-september-2020-edition/) <kbd>2020-09-04T14:16-04:00</kbd></samp>
 - <samp>[GitHub Africa Virtual Meetup](https://github.blog/2020-09-03-github-africa-virtual-meetup/) <kbd>2020-09-04T00:07-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Stars Program ⭐️](https://github.blog/2020-09-03-introducing-the-github-stars-program/) <kbd>2020-09-03T12:00-04:00</kbd></samp>
-- <samp>[How we threat model](https://github.blog/2020-09-02-how-we-threat-model/) <kbd>2020-09-03T02:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
