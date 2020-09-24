@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-23T08:18-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-23T00:10-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-22T20:39-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 2.22 is here](https://github.blog/2020-09-23-github-enterprise-server-2-22/) <kbd>2020-09-23T15:01-04:00</kbd></samp>
+- <samp>[A better logs experience with GitHub Actions](https://github.blog/2020-09-23-a-better-logs-experience-with-github-actions/) <kbd>2020-09-23T14:30-04:00</kbd></samp>
+- <samp>[GitHub Mobile and GraphQL](https://github.blog/2020-09-23-github-mobile-and-graphql/) <kbd>2020-09-23T12:00-04:00</kbd></samp>
 - <samp>[Join us for OctogatosConf](https://github.blog/2020-09-18-join-us-for-octogatosconf/) <kbd>2020-09-18T19:24-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Stefan Zweifel and &#8220;git-auto-commit&#8221;](https://github.blog/2020-09-17-github-action-hero-stefan-zweifel-and-git-auto-commit/) <kbd>2020-09-17T19:00-04:00</kbd></samp>
 - <samp>[We are excited to announce our next event for Latin America, GitHub ¡Presente! In Spanish](https://github.blog/2020-09-17-we-are-excited-to-announce-our-next-event-for-latin-america-github-presente-in-spanish/) <kbd>2020-09-17T15:28-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Ensure your neighbors have the right to vote: A software engineer volunteers at his local elections office](https://github.blog/2020-09-16-ensure-your-neighbors-have-the-right-to-vote-a-software-engineer-volunteers-at-a-local-elections-office/) <kbd>2020-09-16T12:06-04:00</kbd></samp>
 - <samp>[Announcing the GitHub integration with Microsoft Teams](https://github.blog/2020-09-10-announcing-the-github-integration-with-microsoft-teams/) <kbd>2020-09-10T12:00-04:00</kbd></samp>
 - <samp>[Remote Education: A series of best practices for online campus communities](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) <kbd>2020-09-10T11:00-04:00</kbd></samp>
-- <samp>[Release Radar · September 2020 Edition](https://github.blog/2020-09-04-release-radar-september-2020-edition/) <kbd>2020-09-04T14:16-04:00</kbd></samp>
-- <samp>[GitHub Africa Virtual Meetup](https://github.blog/2020-09-03-github-africa-virtual-meetup/) <kbd>2020-09-04T00:07-04:00</kbd></samp>
-- <samp>[Introducing the GitHub Stars Program ⭐️](https://github.blog/2020-09-03-introducing-the-github-stars-program/) <kbd>2020-09-03T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
