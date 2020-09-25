@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-24T08:18-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-24T00:11-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-09-25T00:11-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-09-24T20:40-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-09-12T07:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Action Hero · James Ives and &#8220;GitHub Pages Deploy&#8221;](https://github.blog/2020-09-25-github-action-hero-james-ives-and-github-pages-deploy/) <kbd>2020-09-25T04:49-04:00</kbd></samp>
 - <samp>[Remote Education: Creating community through shared experiences](https://github.blog/2020-09-24-remote-education-creating-community-through-shared-experiences/) <kbd>2020-09-24T15:00-04:00</kbd></samp>
 - <samp>[GitHub India Virtual Meetup &#8211; Open Source &#038; Hacktoberfest](https://github.blog/2020-09-24-github-india-virtual-meetup-open-source-hacktoberfest/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
 - <samp>[Lightning Q&#038;A: DevSecOps in five with Maya Kaczorowski](https://github.blog/2020-09-24-lightning-qa-devsecops-in-five-with-maya-kaczorowski/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Join us for OctogatosConf](https://github.blog/2020-09-18-join-us-for-octogatosconf/) <kbd>2020-09-18T19:24-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Stefan Zweifel and &#8220;git-auto-commit&#8221;](https://github.blog/2020-09-17-github-action-hero-stefan-zweifel-and-git-auto-commit/) <kbd>2020-09-17T19:00-04:00</kbd></samp>
 - <samp>[We are excited to announce our next event for Latin America, GitHub ¡Presente! In Spanish](https://github.blog/2020-09-17-we-are-excited-to-announce-our-next-event-for-latin-america-github-presente-in-spanish/) <kbd>2020-09-17T15:28-04:00</kbd></samp>
-- <samp>[GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/) <kbd>2020-09-17T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
