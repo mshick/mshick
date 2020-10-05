@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-04T08:18-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-04T00:12-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-05T00:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-04T20:43-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-10-01T13:25-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Action Hero: Shivam Mathur and &#8220;Setup PHP&#8221;](https://github.blog/2020-10-04-github-action-hero-shivam-mathur-and-setup-php/) <kbd>2020-10-05T00:41-04:00</kbd></samp>
 - <samp>[Keeping your data pipelines healthy with the Great Expectations GitHub Action](https://github.blog/2020-10-01-keeping-your-data-pipelines-healthy-with-the-great-expectations-github-action/) <kbd>2020-10-01T12:00-04:00</kbd></samp>
 - <samp>[GitHub Welcomes the OpenJDK Project!](https://github.blog/2020-09-30-github-welcomes-the-openjdk-project/) <kbd>2020-09-30T13:00-04:00</kbd></samp>
 - <samp>[Code scanning is now available!](https://github.blog/2020-09-30-code-scanning-is-now-available/) <kbd>2020-09-30T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub India Virtual Meetup &#8211; Open Source &#038; Hacktoberfest](https://github.blog/2020-09-24-github-india-virtual-meetup-open-source-hacktoberfest/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
 - <samp>[Lightning Q&#038;A: DevSecOps in five with Maya Kaczorowski](https://github.blog/2020-09-24-lightning-qa-devsecops-in-five-with-maya-kaczorowski/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 2.22 is here](https://github.blog/2020-09-23-github-enterprise-server-2-22/) <kbd>2020-09-23T15:01-04:00</kbd></samp>
-- <samp>[A better logs experience with GitHub Actions](https://github.blog/2020-09-23-a-better-logs-experience-with-github-actions/) <kbd>2020-09-23T14:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
