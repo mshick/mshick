@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-05T08:19-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-05T00:12-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-06T00:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-05T20:43-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-10-01T13:25-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Fine-tune access to external actions](https://github.blog/2020-10-05-fine-tune-access-to-external-actions/) <kbd>2020-10-05T22:04-04:00</kbd></samp>
 - <samp>[Announcing third-party code scanning tools: static analysis &#038; developer security training](https://github.blog/2020-10-05-announcing-third-party-code-scanning-tools-static-analysis-and-developer-security-training/) <kbd>2020-10-05T12:00-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Shivam Mathur and &#8220;Setup PHP&#8221;](https://github.blog/2020-10-04-github-action-hero-shivam-mathur-and-setup-php/) <kbd>2020-10-05T00:41-04:00</kbd></samp>
 - <samp>[Keeping your data pipelines healthy with the Great Expectations GitHub Action](https://github.blog/2020-10-01-keeping-your-data-pipelines-healthy-with-the-great-expectations-github-action/) <kbd>2020-10-01T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Action Hero · James Ives and &#8220;GitHub Pages Deploy&#8221;](https://github.blog/2020-09-25-github-action-hero-james-ives-and-github-pages-deploy/) <kbd>2020-09-25T04:49-04:00</kbd></samp>
 - <samp>[Remote Education: Creating community through shared experiences](https://github.blog/2020-09-24-remote-education-creating-community-through-shared-experiences/) <kbd>2020-09-24T15:00-04:00</kbd></samp>
 - <samp>[GitHub India Virtual Meetup &#8211; Open Source &#038; Hacktoberfest](https://github.blog/2020-09-24-github-india-virtual-meetup-open-source-hacktoberfest/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
-- <samp>[Lightning Q&#038;A: DevSecOps in five with Maya Kaczorowski](https://github.blog/2020-09-24-lightning-qa-devsecops-in-five-with-maya-kaczorowski/) <kbd>2020-09-24T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
