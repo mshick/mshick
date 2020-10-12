@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-11T08:19-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-11T00:12-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-12T00:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-11T20:45-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-10-01T13:25-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Top 10 games from the JS13K 2020 competition 🕹](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/) <kbd>2020-10-12T01:00-04:00</kbd></samp>
 - <samp>[Release Radar · October 2020 Edition](https://github.blog/2020-10-09-release-radar-october-2020-edition/) <kbd>2020-10-09T17:00-04:00</kbd></samp>
 - <samp>[Testing cloud apps with GitHub Actions and cloud-native open source tools](https://github.blog/2020-10-09-devops-cloud-testing/) <kbd>2020-10-09T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2020](https://github.blog/2020-10-07-github-availability-report-september-2020/) <kbd>2020-10-07T12:31-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Safe harbors for software collaboration, part 1](https://github.blog/2020-10-06-safe-harbors-for-software-collaboration-part-1/) <kbd>2020-10-06T18:04-04:00</kbd></samp>
 - <samp>[Fine-tune access to external actions](https://github.blog/2020-10-05-fine-tune-access-to-external-actions/) <kbd>2020-10-05T22:04-04:00</kbd></samp>
 - <samp>[Announcing third-party code scanning tools: static analysis &#038; developer security training](https://github.blog/2020-10-05-announcing-third-party-code-scanning-tools-static-analysis-and-developer-security-training/) <kbd>2020-10-05T12:00-04:00</kbd></samp>
-- <samp>[GitHub Action Hero: Shivam Mathur and &#8220;Setup PHP&#8221;](https://github.blog/2020-10-04-github-action-hero-shivam-mathur-and-setup-php/) <kbd>2020-10-05T00:41-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
