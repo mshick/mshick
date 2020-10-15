@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-14T08:20-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-14T00:12-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-13T20:45-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-10-01T13:25-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we open sourced docs.github.com](https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/) <kbd>2020-10-14T12:53-04:00</kbd></samp>
+- <samp>[Even better code review in GitHub for mobile](https://github.blog/2020-10-14-even-better-code-review-in-github-for-mobile/) <kbd>2020-10-14T09:00-04:00</kbd></samp>
 - <samp>[Presenting v7.0.0 of the npm CLI](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/) <kbd>2020-10-13T12:00-04:00</kbd></samp>
 - <samp>[Top 10 games from the JS13K 2020 competition 🕹](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/) <kbd>2020-10-12T01:00-04:00</kbd></samp>
 - <samp>[Release Radar · October 2020 Edition](https://github.blog/2020-10-09-release-radar-october-2020-edition/) <kbd>2020-10-09T17:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/) <kbd>2020-10-07T12:00-04:00</kbd></samp>
 - <samp>[GitHub Docs are now open source](https://github.blog/2020-10-07-github-docs-are-now-open-source/) <kbd>2020-10-07T12:00-04:00</kbd></samp>
 - <samp>[Announcing third-party code scanning tools: infrastructure as code and container scanning](https://github.blog/2020-10-07-announcing-third-party-code-scanning-tools-infrastructure-as-code-and-container-scanning/) <kbd>2020-10-07T04:00-04:00</kbd></samp>
-- <samp>[Safe harbors for software collaboration, part 1](https://github.blog/2020-10-06-safe-harbors-for-software-collaboration-part-1/) <kbd>2020-10-06T18:04-04:00</kbd></samp>
-- <samp>[Fine-tune access to external actions](https://github.blog/2020-10-05-fine-tune-access-to-external-actions/) <kbd>2020-10-05T22:04-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
