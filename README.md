@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-15T08:21-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-15T00:13-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-14T20:45-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-10-01T13:25-04:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Updates to our Terms of Service and Privacy Statement](https://github.blog/2020-10-15-updates-to-our-terms-of-service-and-our-privacy-statement/) <kbd>2020-10-15T17:57-04:00</kbd></samp>
+- <samp>[Try something new at Local Hack Day: Learn](https://github.blog/2020-10-15-try-something-new-at-local-hack-day-learn/) <kbd>2020-10-15T15:00-04:00</kbd></samp>
+- <samp>[Standing by developers through Google v. Oracle](https://github.blog/2020-10-15-standing-by-developers-through-google-v-oracle/) <kbd>2020-10-15T14:00-04:00</kbd></samp>
+- <samp>[How to get your organization started with containerized deployments](https://github.blog/2020-10-15-how-to-get-your-organization-started-with-containerized-deployments/) <kbd>2020-10-15T13:00-04:00</kbd></samp>
+- <samp>[Pachyderm and the power of GitHub Actions: MLOps meets DevOps](https://github.blog/2020-10-15-pachyderm-and-the-power-of-github-actions-mlops-meets-devops/) <kbd>2020-10-15T12:00-04:00</kbd></samp>
 - <samp>[How we open sourced docs.github.com](https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/) <kbd>2020-10-14T12:53-04:00</kbd></samp>
 - <samp>[Even better code review in GitHub for mobile](https://github.blog/2020-10-14-even-better-code-review-in-github-for-mobile/) <kbd>2020-10-14T09:00-04:00</kbd></samp>
 - <samp>[Presenting v7.0.0 of the npm CLI](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/) <kbd>2020-10-13T12:00-04:00</kbd></samp>
 - <samp>[Top 10 games from the JS13K 2020 competition 🕹](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/) <kbd>2020-10-12T01:00-04:00</kbd></samp>
 - <samp>[Release Radar · October 2020 Edition](https://github.blog/2020-10-09-release-radar-october-2020-edition/) <kbd>2020-10-09T17:00-04:00</kbd></samp>
-- <samp>[Testing cloud apps with GitHub Actions and cloud-native open source tools](https://github.blog/2020-10-09-devops-cloud-testing/) <kbd>2020-10-09T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: September 2020](https://github.blog/2020-10-07-github-availability-report-september-2020/) <kbd>2020-10-07T12:31-04:00</kbd></samp>
-- <samp>[What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/) <kbd>2020-10-07T12:00-04:00</kbd></samp>
-- <samp>[GitHub Docs are now open source](https://github.blog/2020-10-07-github-docs-are-now-open-source/) <kbd>2020-10-07T12:00-04:00</kbd></samp>
-- <samp>[Announcing third-party code scanning tools: infrastructure as code and container scanning](https://github.blog/2020-10-07-announcing-third-party-code-scanning-tools-infrastructure-as-code-and-container-scanning/) <kbd>2020-10-07T04:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
