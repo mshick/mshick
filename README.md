@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-19T08:21-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-19T00:13-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-18T20:47-04:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.29](https://github.blog/2020-10-19-git-2-29-released/) <kbd>2020-10-19T12:44-04:00</kbd></samp>
+- <samp>[GitHub Planeta Virtual Meetup](https://github.blog/2020-10-19-github-planeta-virtual-meetup/) <kbd>2020-10-19T09:00-04:00</kbd></samp>
 - <samp>[Updates to our Terms of Service and Privacy Statement](https://github.blog/2020-10-15-updates-to-our-terms-of-service-and-our-privacy-statement/) <kbd>2020-10-15T17:57-04:00</kbd></samp>
 - <samp>[Try something new at Local Hack Day: Learn](https://github.blog/2020-10-15-try-something-new-at-local-hack-day-learn/) <kbd>2020-10-15T15:00-04:00</kbd></samp>
 - <samp>[Standing by developers through Google v. Oracle](https://github.blog/2020-10-15-standing-by-developers-through-google-v-oracle/) <kbd>2020-10-15T14:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we open sourced docs.github.com](https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/) <kbd>2020-10-14T12:53-04:00</kbd></samp>
 - <samp>[Even better code review in GitHub for mobile](https://github.blog/2020-10-14-even-better-code-review-in-github-for-mobile/) <kbd>2020-10-14T09:00-04:00</kbd></samp>
 - <samp>[Presenting v7.0.0 of the npm CLI](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/) <kbd>2020-10-13T12:00-04:00</kbd></samp>
-- <samp>[Top 10 games from the JS13K 2020 competition 🕹](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/) <kbd>2020-10-12T01:00-04:00</kbd></samp>
-- <samp>[Release Radar · October 2020 Edition](https://github.blog/2020-10-09-release-radar-october-2020-edition/) <kbd>2020-10-09T17:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
