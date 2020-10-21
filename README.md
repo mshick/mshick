@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-20T08:21-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-20T00:13-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-19T20:47-04:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A Journey of Diversity, Inclusion, and Belonging at GitHub](https://github.blog/2020-10-20-a-journey-of-diversity-inclusion-and-belonging-at-github/) <kbd>2020-10-20T13:46-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.29](https://github.blog/2020-10-19-git-2-29-released/) <kbd>2020-10-19T12:44-04:00</kbd></samp>
 - <samp>[GitHub Planeta Virtual Meetup](https://github.blog/2020-10-19-github-planeta-virtual-meetup/) <kbd>2020-10-19T09:00-04:00</kbd></samp>
 - <samp>[Updates to our Terms of Service and Privacy Statement](https://github.blog/2020-10-15-updates-to-our-terms-of-service-and-our-privacy-statement/) <kbd>2020-10-15T17:57-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Pachyderm and the power of GitHub Actions: MLOps meets DevOps](https://github.blog/2020-10-15-pachyderm-and-the-power-of-github-actions-mlops-meets-devops/) <kbd>2020-10-15T12:00-04:00</kbd></samp>
 - <samp>[How we open sourced docs.github.com](https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/) <kbd>2020-10-14T12:53-04:00</kbd></samp>
 - <samp>[Even better code review in GitHub for mobile](https://github.blog/2020-10-14-even-better-code-review-in-github-for-mobile/) <kbd>2020-10-14T09:00-04:00</kbd></samp>
-- <samp>[Presenting v7.0.0 of the npm CLI](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/) <kbd>2020-10-13T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
