@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-20T20:47-04:00</kbd></samp>
-- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-20T00:13-04:00</kbd></samp>
+- <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-21T10:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-21T08:22-04:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Hacktoberfest e GitHub ¡Presente!: celebrando comunidades open source em outubro](https://github.blog/2020-10-21-hacktoberfest-e-github-presente-celebrando-comunidades-open-source-em-outubro/) <kbd>2020-10-21T13:10-04:00</kbd></samp>
+- <samp>[Diversity, inclusion, and belonging at GitHub in 2020](https://github.blog/2020-10-21-diversity-inclusion-and-belonging-at-github-in-2020/) <kbd>2020-10-21T12:00-04:00</kbd></samp>
 - <samp>[A Journey of Diversity, Inclusion, and Belonging at GitHub](https://github.blog/2020-10-20-a-journey-of-diversity-inclusion-and-belonging-at-github/) <kbd>2020-10-20T13:46-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.29](https://github.blog/2020-10-19-git-2-29-released/) <kbd>2020-10-19T12:44-04:00</kbd></samp>
 - <samp>[GitHub Planeta Virtual Meetup](https://github.blog/2020-10-19-github-planeta-virtual-meetup/) <kbd>2020-10-19T09:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Standing by developers through Google v. Oracle](https://github.blog/2020-10-15-standing-by-developers-through-google-v-oracle/) <kbd>2020-10-15T14:00-04:00</kbd></samp>
 - <samp>[How to get your organization started with containerized deployments](https://github.blog/2020-10-15-how-to-get-your-organization-started-with-containerized-deployments/) <kbd>2020-10-15T13:00-04:00</kbd></samp>
 - <samp>[Pachyderm and the power of GitHub Actions: MLOps meets DevOps](https://github.blog/2020-10-15-pachyderm-and-the-power-of-github-actions-mlops-meets-devops/) <kbd>2020-10-15T12:00-04:00</kbd></samp>
-- <samp>[How we open sourced docs.github.com](https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/) <kbd>2020-10-14T12:53-04:00</kbd></samp>
-- <samp>[Even better code review in GitHub for mobile](https://github.blog/2020-10-14-even-better-code-review-in-github-for-mobile/) <kbd>2020-10-14T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
