@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-27T08:22-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-27T00:15-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-26T20:50-04:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Build a game this November with GitHub Game Off](https://github.blog/2020-10-27-github-game-off-2020/) <kbd>2020-10-27T15:30-04:00</kbd></samp>
+- <samp>[2020 GitHub Universe Micro-Mentoring Application](https://github.blog/2020-10-27-2020-github-universe-micro-mentoring-application/) <kbd>2020-10-27T15:17-04:00</kbd></samp>
+- <samp>[Code Scanning a GitHub Repository using GitHub Advanced Security within an Azure DevOps Pipeline](https://github.blog/2020-10-27-code-scanning-a-github-repository-using-github-advanced-security-within-an-azure-devops-pipeline/) <kbd>2020-10-27T15:00-04:00</kbd></samp>
 - <samp>[DevOps best practices Q&#038;A: Automated deployments at GitHub](https://github.blog/2020-10-22-devops-best-practices-qa-automated-deployments-at-github/) <kbd>2020-10-22T16:07-04:00</kbd></samp>
 - <samp>[Vote, and contribute to democracy through open source](https://github.blog/2020-10-22-vote-and-contribute-to-democracy-through-open-source/) <kbd>2020-10-22T16:00-04:00</kbd></samp>
 - <samp>[Introducing the npm public roadmap and a new feedback process](https://github.blog/2020-10-22-introducing-the-npm-public-roadmap-and-a-new-feedback-process/) <kbd>2020-10-22T12:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2020](https://github.blog/2020-10-21-diversity-inclusion-and-belonging-at-github-in-2020/) <kbd>2020-10-21T12:00-04:00</kbd></samp>
 - <samp>[A Journey of Diversity, Inclusion, and Belonging at GitHub](https://github.blog/2020-10-20-a-journey-of-diversity-inclusion-and-belonging-at-github/) <kbd>2020-10-20T13:46-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.29](https://github.blog/2020-10-19-git-2-29-released/) <kbd>2020-10-19T12:44-04:00</kbd></samp>
-- <samp>[GitHub Planeta Virtual Meetup](https://github.blog/2020-10-19-github-planeta-virtual-meetup/) <kbd>2020-10-19T09:00-04:00</kbd></samp>
-- <samp>[Updates to our Terms of Service and Privacy Statement](https://github.blog/2020-10-15-updates-to-our-terms-of-service-and-our-privacy-statement/) <kbd>2020-10-15T17:57-04:00</kbd></samp>
-- <samp>[Try something new at Local Hack Day: Learn](https://github.blog/2020-10-15-try-something-new-at-local-hack-day-learn/) <kbd>2020-10-15T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
