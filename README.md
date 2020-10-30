@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-29T08:24-04:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-10-29T00:16-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-10-28T20:51-04:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Getting started with DevOps automation](https://github.blog/2020-10-29-getting-started-with-devops-automation/) <kbd>2020-10-29T12:00-04:00</kbd></samp>
+- <samp>[Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
+- <samp>[Building GitHub: introduction](https://github.blog/2020-10-29-building-github-introduction/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
 - <samp>[Build a game this November with GitHub Game Off](https://github.blog/2020-10-27-github-game-off-2020/) <kbd>2020-10-27T15:30-04:00</kbd></samp>
 - <samp>[2020 GitHub Universe Micro-Mentoring Application](https://github.blog/2020-10-27-2020-github-universe-micro-mentoring-application/) <kbd>2020-10-27T15:17-04:00</kbd></samp>
 - <samp>[Code Scanning a GitHub Repository using GitHub Advanced Security within an Azure DevOps Pipeline](https://github.blog/2020-10-27-code-scanning-a-github-repository-using-github-advanced-security-within-an-azure-devops-pipeline/) <kbd>2020-10-27T15:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Vote, and contribute to democracy through open source](https://github.blog/2020-10-22-vote-and-contribute-to-democracy-through-open-source/) <kbd>2020-10-22T16:00-04:00</kbd></samp>
 - <samp>[Introducing the npm public roadmap and a new feedback process](https://github.blog/2020-10-22-introducing-the-npm-public-roadmap-and-a-new-feedback-process/) <kbd>2020-10-22T12:00-04:00</kbd></samp>
 - <samp>[Hacktoberfest e GitHub ¡Presente!: celebrando comunidades open source em outubro](https://github.blog/2020-10-21-hacktoberfest-e-github-presente-celebrando-comunidades-open-source-em-outubro/) <kbd>2020-10-21T13:10-04:00</kbd></samp>
-- <samp>[Diversity, inclusion, and belonging at GitHub in 2020](https://github.blog/2020-10-21-diversity-inclusion-and-belonging-at-github-in-2020/) <kbd>2020-10-21T12:00-04:00</kbd></samp>
-- <samp>[A Journey of Diversity, Inclusion, and Belonging at GitHub](https://github.blog/2020-10-20-a-journey-of-diversity-inclusion-and-belonging-at-github/) <kbd>2020-10-20T13:46-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.29](https://github.blog/2020-10-19-git-2-29-released/) <kbd>2020-10-19T12:44-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
