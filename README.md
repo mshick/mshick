@@ -30,8 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-11-02T18:58-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-02T07:14-05:00</kbd></samp>
 - <samp>[twithub-test](https://github.com/mshick/twithub-test) <kbd>2020-11-02T00:08-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-01T19:30-05:00</kbd></samp>
 - <samp>[import-test](https://github.com/mshick/import-test) <kbd>2020-10-16T18:35-04:00</kbd></samp>
 - <samp>[shared](https://github.com/mshick/shared) <kbd>2020-10-12T11:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-09-15T10:18-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
-- <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Commit your vote on election day!](https://github.blog/2020-11-02-commit-your-vote-on-election-day/) <kbd>2020-11-02T08:00-05:00</kbd></samp>
 - <samp>[GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/) <kbd>2020-11-01T16:35-05:00</kbd></samp>
 - <samp>[13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/) <kbd>2020-10-30T03:01-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Eyal Posener and &#8220;Go Action&#8221;](https://github.blog/2020-10-29-github-action-hero-eyal-posener-and-go-action/) <kbd>2020-10-30T01:32-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Build a game this November with GitHub Game Off](https://github.blog/2020-10-27-github-game-off-2020/) <kbd>2020-10-27T15:30-04:00</kbd></samp>
 - <samp>[2020 GitHub Universe Micro-Mentoring Application](https://github.blog/2020-10-27-2020-github-universe-micro-mentoring-application/) <kbd>2020-10-27T15:17-04:00</kbd></samp>
 - <samp>[Code Scanning a GitHub Repository using GitHub Advanced Security within an Azure DevOps Pipeline](https://github.blog/2020-10-27-code-scanning-a-github-repository-using-github-advanced-security-within-an-azure-devops-pipeline/) <kbd>2020-10-27T15:00-04:00</kbd></samp>
-- <samp>[DevOps best practices Q&#038;A: Automated deployments at GitHub](https://github.blog/2020-10-22-devops-best-practices-qa-automated-deployments-at-github/) <kbd>2020-10-22T16:07-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
