@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-03T19:31-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-04T07:15-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-11-02T18:58-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: October 2020](https://github.blog/2020-11-04-github-availability-report-october-2020/) <kbd>2020-11-04T12:30-05:00</kbd></samp>
 - <samp>[Commit your vote on election day!](https://github.blog/2020-11-02-commit-your-vote-on-election-day/) <kbd>2020-11-02T08:00-05:00</kbd></samp>
 - <samp>[GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/) <kbd>2020-11-01T16:35-05:00</kbd></samp>
 - <samp>[13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/) <kbd>2020-10-30T03:01-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Building GitHub: introduction](https://github.blog/2020-10-29-building-github-introduction/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
 - <samp>[Build a game this November with GitHub Game Off](https://github.blog/2020-10-27-github-game-off-2020/) <kbd>2020-10-27T15:30-04:00</kbd></samp>
 - <samp>[2020 GitHub Universe Micro-Mentoring Application](https://github.blog/2020-10-27-2020-github-universe-micro-mentoring-application/) <kbd>2020-10-27T15:17-04:00</kbd></samp>
-- <samp>[Code Scanning a GitHub Repository using GitHub Advanced Security within an Azure DevOps Pipeline](https://github.blog/2020-10-27-code-scanning-a-github-repository-using-github-advanced-security-within-an-azure-devops-pipeline/) <kbd>2020-10-27T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
