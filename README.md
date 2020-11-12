@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-10T19:27-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-11T07:14-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-11-02T18:58-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Veterans Day spotlight: Finding careers and camaraderie through code](https://github.blog/2020-11-11-veterans-day-spotlight-finding-careers-and-camaraderie-through-code/) <kbd>2020-11-11T09:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2020](https://github.blog/2020-11-04-github-availability-report-october-2020/) <kbd>2020-11-04T12:30-05:00</kbd></samp>
 - <samp>[Commit your vote on election day!](https://github.blog/2020-11-02-commit-your-vote-on-election-day/) <kbd>2020-11-02T08:00-05:00</kbd></samp>
 - <samp>[GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/) <kbd>2020-11-01T16:35-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
 - <samp>[Building GitHub: introduction](https://github.blog/2020-10-29-building-github-introduction/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
 - <samp>[Build a game this November with GitHub Game Off](https://github.blog/2020-10-27-github-game-off-2020/) <kbd>2020-10-27T15:30-04:00</kbd></samp>
-- <samp>[2020 GitHub Universe Micro-Mentoring Application](https://github.blog/2020-10-27-2020-github-universe-micro-mentoring-application/) <kbd>2020-10-27T15:17-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
