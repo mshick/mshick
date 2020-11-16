@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-14T19:33-05:00</kbd></samp>
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-15T07:14-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-11-02T18:58-05:00</kbd></samp>
@@ -38,7 +39,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
 - <samp>[remark-sectionize](https://github.com/mshick/remark-sectionize) <kbd>2020-07-24T11:51-04:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-07-22T06:05-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2020-07-21T06:44-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
