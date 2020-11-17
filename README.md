@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-16T07:15-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-16T19:32-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Updates to our Terms of Service and Privacy Statement now merged](https://github.blog/2020-11-16-updates-to-our-terms-of-service-and-privacy-statement-now-merged/) <kbd>2020-11-16T20:00-05:00</kbd></samp>
 - <samp>[Release Radar · November 2020 Edition](https://github.blog/2020-11-16-release-radar-nov-2020/) <kbd>2020-11-16T17:26-05:00</kbd></samp>
 - <samp>[Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/) <kbd>2020-11-16T10:52-05:00</kbd></samp>
 - <samp>[Veterans Day spotlight: Finding careers and camaraderie through code](https://github.blog/2020-11-11-veterans-day-spotlight-finding-careers-and-camaraderie-through-code/) <kbd>2020-11-11T09:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/) <kbd>2020-10-30T03:01-04:00</kbd></samp>
 - <samp>[GitHub Action Hero: Eyal Posener and &#8220;Go Action&#8221;](https://github.blog/2020-10-29-github-action-hero-eyal-posener-and-go-action/) <kbd>2020-10-30T01:32-04:00</kbd></samp>
 - <samp>[Getting started with DevOps automation](https://github.blog/2020-10-29-getting-started-with-devops-automation/) <kbd>2020-10-29T12:00-04:00</kbd></samp>
-- <samp>[Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/) <kbd>2020-10-29T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
