@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-18T19:33-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-11-19T07:16-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Take action: DMCA anti-circumvention and developer innovation](https://github.blog/2020-11-19-take-action-dmca-anti-circumvention-and-developer-innovation/) <kbd>2020-11-19T14:00-05:00</kbd></samp>
+- <samp>[GitHub Archive Program: Making the archives beautiful](https://github.blog/2020-11-19-github-archive-program-making-the-archives-beautiful/) <kbd>2020-11-19T09:00-05:00</kbd></samp>
 - <samp>[Introducing split diffs in GitHub Desktop](https://github.blog/2020-11-17-introducing-split-diffs-in-github-desktop/) <kbd>2020-11-17T12:00-05:00</kbd></samp>
 - <samp>[Updates to our Terms of Service and Privacy Statement now merged](https://github.blog/2020-11-16-updates-to-our-terms-of-service-and-privacy-statement-now-merged/) <kbd>2020-11-16T20:00-05:00</kbd></samp>
 - <samp>[Release Radar · November 2020 Edition](https://github.blog/2020-11-16-release-radar-nov-2020/) <kbd>2020-11-16T17:26-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: October 2020](https://github.blog/2020-11-04-github-availability-report-october-2020/) <kbd>2020-11-04T12:30-05:00</kbd></samp>
 - <samp>[Commit your vote on election day!](https://github.blog/2020-11-02-commit-your-vote-on-election-day/) <kbd>2020-11-02T08:00-05:00</kbd></samp>
 - <samp>[GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/) <kbd>2020-11-01T16:35-05:00</kbd></samp>
-- <samp>[13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/) <kbd>2020-10-30T03:01-04:00</kbd></samp>
-- <samp>[GitHub Action Hero: Eyal Posener and &#8220;Go Action&#8221;](https://github.blog/2020-10-29-github-action-hero-eyal-posener-and-go-action/) <kbd>2020-10-30T01:32-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
