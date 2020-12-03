@@ -30,11 +30,11 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-01T19:38-05:00</kbd></samp>
+- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-02T07:19-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
-- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-11-02T18:58-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2020-10-01T13:36-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-09-12T19:46-04:00</kbd></samp>
 - <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: November 2020](https://github.blog/2020-12-02-availability-report-november-2020/) <kbd>2020-12-02T16:00-05:00</kbd></samp>
+- <samp>[The State of the Octoverse 2020](https://github.blog/2020-12-02-the-state-of-the-octoverse-2020/) <kbd>2020-12-02T13:00-05:00</kbd></samp>
 - <samp>[The ReadME Project shares innovative paths to DevOps success](https://github.blog/2020-12-01-devops-success-readme/) <kbd>2020-12-01T11:30-05:00</kbd></samp>
 - <samp>[Nbdev: A literate programming environment that democratizes software engineering best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/) <kbd>2020-11-20T12:00-05:00</kbd></samp>
 - <samp>[Whatcha watchin’? Custom notification controls](https://github.blog/2020-11-20-whatcha-watchin-custom-notification-controls/) <kbd>2020-11-20T04:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing split diffs in GitHub Desktop](https://github.blog/2020-11-17-introducing-split-diffs-in-github-desktop/) <kbd>2020-11-17T12:00-05:00</kbd></samp>
 - <samp>[Updates to our Terms of Service and Privacy Statement now merged](https://github.blog/2020-11-16-updates-to-our-terms-of-service-and-privacy-statement-now-merged/) <kbd>2020-11-16T20:00-05:00</kbd></samp>
 - <samp>[Release Radar · November 2020 Edition](https://github.blog/2020-11-16-release-radar-nov-2020/) <kbd>2020-11-16T17:26-05:00</kbd></samp>
-- <samp>[Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/) <kbd>2020-11-16T10:52-05:00</kbd></samp>
-- <samp>[Veterans Day spotlight: Finding careers and camaraderie through code](https://github.blog/2020-11-11-veterans-day-spotlight-finding-careers-and-camaraderie-through-code/) <kbd>2020-11-11T09:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
