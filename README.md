@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-02T19:38-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-03T07:19-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Applying DevSecOps to your software supply chain](https://github.blog/2020-12-03-applying-devsecops-to-your-software-supply-chain/) <kbd>2020-12-03T17:59-05:00</kbd></samp>
+- <samp>[The evolving role of operations in DevOps](https://github.blog/2020-12-03-the-evolving-role-of-operations-in-devops/) <kbd>2020-12-03T12:00-05:00</kbd></samp>
+- <samp>[Improving the GHES release process: release candidates](https://github.blog/2020-12-03-improving-the-ghes-release-process-release-candidates/) <kbd>2020-12-03T11:00-05:00</kbd></samp>
+- <samp>[Join our panel with WHO at GitHub Universe 2020!](https://github.blog/2020-12-03-join-our-panel-with-who-at-github-universe-2020/) <kbd>2020-12-03T09:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2020](https://github.blog/2020-12-02-availability-report-november-2020/) <kbd>2020-12-02T16:00-05:00</kbd></samp>
 - <samp>[The State of the Octoverse 2020](https://github.blog/2020-12-02-the-state-of-the-octoverse-2020/) <kbd>2020-12-02T13:00-05:00</kbd></samp>
 - <samp>[The ReadME Project shares innovative paths to DevOps success](https://github.blog/2020-12-01-devops-success-readme/) <kbd>2020-12-01T11:30-05:00</kbd></samp>
 - <samp>[Nbdev: A literate programming environment that democratizes software engineering best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/) <kbd>2020-11-20T12:00-05:00</kbd></samp>
 - <samp>[Whatcha watchin’? Custom notification controls](https://github.blog/2020-11-20-whatcha-watchin-custom-notification-controls/) <kbd>2020-11-20T04:00-05:00</kbd></samp>
 - <samp>[Take action: DMCA anti-circumvention and developer innovation](https://github.blog/2020-11-19-take-action-dmca-anti-circumvention-and-developer-innovation/) <kbd>2020-11-19T14:00-05:00</kbd></samp>
-- <samp>[GitHub Archive Program: Making the archives beautiful](https://github.blog/2020-11-19-github-archive-program-making-the-archives-beautiful/) <kbd>2020-11-19T09:00-05:00</kbd></samp>
-- <samp>[Introducing split diffs in GitHub Desktop](https://github.blog/2020-11-17-introducing-split-diffs-in-github-desktop/) <kbd>2020-11-17T12:00-05:00</kbd></samp>
-- <samp>[Updates to our Terms of Service and Privacy Statement now merged](https://github.blog/2020-11-16-updates-to-our-terms-of-service-and-privacy-statement-now-merged/) <kbd>2020-11-16T20:00-05:00</kbd></samp>
-- <samp>[Release Radar · November 2020 Edition](https://github.blog/2020-11-16-release-radar-nov-2020/) <kbd>2020-11-16T17:26-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
