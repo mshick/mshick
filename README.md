@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-07T19:40-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-08T07:20-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-11-15T12:29-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[New from Universe 2020: Dark mode, GitHub Sponsors for companies, and more](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/) <kbd>2020-12-08T12:15-05:00</kbd></samp>
 - <samp>[Release Radar · December 2020 Edition](https://github.blog/2020-12-07-release-radar-dec-2020/) <kbd>2020-12-07T13:00-05:00</kbd></samp>
 - <samp>[Your DevOps guide to GitHub Universe](https://github.blog/2020-12-04-your-devops-guide-to-github-universe/) <kbd>2020-12-04T12:00-05:00</kbd></samp>
 - <samp>[Applying DevSecOps to your software supply chain](https://github.blog/2020-12-03-applying-devsecops-to-your-software-supply-chain/) <kbd>2020-12-03T17:59-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: November 2020](https://github.blog/2020-12-02-availability-report-november-2020/) <kbd>2020-12-02T16:00-05:00</kbd></samp>
 - <samp>[The State of the Octoverse 2020](https://github.blog/2020-12-02-the-state-of-the-octoverse-2020/) <kbd>2020-12-02T13:00-05:00</kbd></samp>
 - <samp>[The ReadME Project shares innovative paths to DevOps success](https://github.blog/2020-12-01-devops-success-readme/) <kbd>2020-12-01T11:30-05:00</kbd></samp>
-- <samp>[Nbdev: A literate programming environment that democratizes software engineering best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/) <kbd>2020-11-20T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
