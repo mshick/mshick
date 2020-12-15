@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-13T19:43-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-14T07:21-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-10T12:38-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Inspired by Open Source: Balanced Employee Intellectual Property Agreement 2.0](https://github.blog/2020-12-14-inspired-by-open-source-balanced-employee-intellectual-property-agreement-2-0/) <kbd>2020-12-14T12:58-05:00</kbd></samp>
 - <samp>[Introducing the new Campus Advisors program](https://github.blog/2020-12-10-introducing-the-new-campus-advisors-program/) <kbd>2020-12-10T14:20-05:00</kbd></samp>
 - <samp>[Introducing the New (and Improved!) Campus Experts Program](https://github.blog/2020-12-10-introducing-the-new-and-improved-campus-experts-program/) <kbd>2020-12-10T12:40-05:00</kbd></samp>
 - <samp>[GitHub in the enterprise](https://github.blog/2020-12-09-github-in-the-enterprise/) <kbd>2020-12-09T12:26-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Your DevOps guide to GitHub Universe](https://github.blog/2020-12-04-your-devops-guide-to-github-universe/) <kbd>2020-12-04T12:00-05:00</kbd></samp>
 - <samp>[Applying DevSecOps to your software supply chain](https://github.blog/2020-12-03-applying-devsecops-to-your-software-supply-chain/) <kbd>2020-12-03T17:59-05:00</kbd></samp>
 - <samp>[The evolving role of operations in DevOps](https://github.blog/2020-12-03-the-evolving-role-of-operations-in-devops/) <kbd>2020-12-03T12:00-05:00</kbd></samp>
-- <samp>[Improving the GHES release process: release candidates](https://github.blog/2020-12-03-improving-the-ghes-release-process-release-candidates/) <kbd>2020-12-03T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
