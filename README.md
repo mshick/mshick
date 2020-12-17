@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-15T19:43-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-16T07:22-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Reducing flaky builds by 18x](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/) <kbd>2020-12-16T11:00-05:00</kbd></samp>
 - <samp>[Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) <kbd>2020-12-15T15:28-05:00</kbd></samp>
 - <samp>[Powerful updates to temporary interaction limits](https://github.blog/2020-12-15-powerful-updates-to-temporary-interaction-limits/) <kbd>2020-12-15T13:37-05:00</kbd></samp>
 - <samp>[Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/) <kbd>2020-12-15T13:14-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub in the enterprise](https://github.blog/2020-12-09-github-in-the-enterprise/) <kbd>2020-12-09T12:26-05:00</kbd></samp>
 - <samp>[Building together: GitHub partner ecosystem continues to grow](https://github.blog/2020-12-09-building-together-github-partner-ecosystem-continues-to-grow/) <kbd>2020-12-09T12:25-05:00</kbd></samp>
 - <samp>[New from Universe 2020: Dark mode, GitHub Sponsors for companies, and more](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/) <kbd>2020-12-08T12:15-05:00</kbd></samp>
-- <samp>[Release Radar · December 2020 Edition](https://github.blog/2020-12-07-release-radar-dec-2020/) <kbd>2020-12-07T13:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
