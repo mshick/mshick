@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-17T19:44-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-18T07:23-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to make DevOps your competitive advantage](https://github.blog/2020-12-18-how-to-make-devops-your-competitive-advantage/) <kbd>2020-12-18T16:00-05:00</kbd></samp>
+- <samp>[Learn about ghapi, a new third-party Python client for the GitHub API](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/) <kbd>2020-12-18T12:00-05:00</kbd></samp>
+- <samp>[Happy anniversary GitHub Security Lab!](https://github.blog/2020-12-18-happy-anniversary-github-security-lab/) <kbd>2020-12-18T09:00-05:00</kbd></samp>
 - <samp>[Shifting supply chain security left with dependency review](https://github.blog/2020-12-17-shifting-supply-chain-security-left-with-dependency-review/) <kbd>2020-12-17T15:20-05:00</kbd></samp>
 - <samp>[Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) <kbd>2020-12-17T13:00-05:00</kbd></samp>
 - <samp>[No cookie for you](https://github.blog/2020-12-17-no-cookie-for-you/) <kbd>2020-12-17T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) <kbd>2020-12-15T15:28-05:00</kbd></samp>
 - <samp>[Powerful updates to temporary interaction limits](https://github.blog/2020-12-15-powerful-updates-to-temporary-interaction-limits/) <kbd>2020-12-15T13:37-05:00</kbd></samp>
 - <samp>[Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/) <kbd>2020-12-15T13:14-05:00</kbd></samp>
-- <samp>[Inspired by Open Source: Balanced Employee Intellectual Property Agreement 2.0](https://github.blog/2020-12-14-inspired-by-open-source-balanced-employee-intellectual-property-agreement-2-0/) <kbd>2020-12-14T12:58-05:00</kbd></samp>
-- <samp>[Introducing the new Campus Advisors program](https://github.blog/2020-12-10-introducing-the-new-campus-advisors-program/) <kbd>2020-12-10T14:20-05:00</kbd></samp>
-- <samp>[Introducing the New (and Improved!) Campus Experts Program](https://github.blog/2020-12-10-introducing-the-new-and-improved-campus-experts-program/) <kbd>2020-12-10T12:40-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
