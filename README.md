@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-22T19:50-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-22T07:26-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
@@ -53,7 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
-- <samp>[How to launch a tech career in 2020](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2020/) <kbd>2020-12-22T13:13-05:00</kbd></samp>
+- <samp>[How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/) <kbd>2020-12-22T13:13-05:00</kbd></samp>
 - <samp>[Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/) <kbd>2020-12-22T13:00-05:00</kbd></samp>
 - <samp>[Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/) <kbd>2020-12-22T12:00-05:00</kbd></samp>
 - <samp>[Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) <kbd>2020-12-21T16:04-05:00</kbd></samp>
