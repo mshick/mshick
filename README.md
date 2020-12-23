@@ -30,11 +30,11 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-21T19:48-05:00</kbd></samp>
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-22T07:26-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-10T12:38-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2020-11-03T14:46-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to launch a tech career in 2020](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2020/) <kbd>2020-12-22T13:13-05:00</kbd></samp>
+- <samp>[Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/) <kbd>2020-12-22T13:00-05:00</kbd></samp>
+- <samp>[Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/) <kbd>2020-12-22T12:00-05:00</kbd></samp>
 - <samp>[Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) <kbd>2020-12-21T16:04-05:00</kbd></samp>
 - <samp>[GitHub joins amicus brief warning of systemic risk from private sector offensive actors](https://github.blog/2020-12-21-github-joins-amicus-brief-warning-of-systemic-risk-from-private-sector-offensive-actors/) <kbd>2020-12-21T15:51-05:00</kbd></samp>
 - <samp>[Visualizing GitHub’s global community](https://github.blog/2020-12-21-visualizing-githubs-global-community/) <kbd>2020-12-21T12:45-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to make DevOps your competitive advantage](https://github.blog/2020-12-18-how-to-make-devops-your-competitive-advantage/) <kbd>2020-12-18T16:00-05:00</kbd></samp>
 - <samp>[Learn about ghapi, a new third-party Python client for the GitHub API](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/) <kbd>2020-12-18T12:00-05:00</kbd></samp>
 - <samp>[Happy anniversary GitHub Security Lab!](https://github.blog/2020-12-18-happy-anniversary-github-security-lab/) <kbd>2020-12-18T09:00-05:00</kbd></samp>
-- <samp>[Shifting supply chain security left with dependency review](https://github.blog/2020-12-17-shifting-supply-chain-security-left-with-dependency-review/) <kbd>2020-12-17T15:20-05:00</kbd></samp>
-- <samp>[Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) <kbd>2020-12-17T13:00-05:00</kbd></samp>
-- <samp>[No cookie for you](https://github.blog/2020-12-17-no-cookie-for-you/) <kbd>2020-12-17T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
