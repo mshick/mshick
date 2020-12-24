@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-22T19:50-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2020-12-23T07:26-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/) <kbd>2020-12-23T16:37-05:00</kbd></samp>
 - <samp>[How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/) <kbd>2020-12-22T13:13-05:00</kbd></samp>
 - <samp>[Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/) <kbd>2020-12-22T13:00-05:00</kbd></samp>
 - <samp>[Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/) <kbd>2020-12-22T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we built the GitHub globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) <kbd>2020-12-21T12:45-05:00</kbd></samp>
 - <samp>[How to make DevOps your competitive advantage](https://github.blog/2020-12-18-how-to-make-devops-your-competitive-advantage/) <kbd>2020-12-18T16:00-05:00</kbd></samp>
 - <samp>[Learn about ghapi, a new third-party Python client for the GitHub API](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/) <kbd>2020-12-18T12:00-05:00</kbd></samp>
-- <samp>[Happy anniversary GitHub Security Lab!](https://github.blog/2020-12-18-happy-anniversary-github-security-lab/) <kbd>2020-12-18T09:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
