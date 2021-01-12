@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-10T20:04-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-11T07:34-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub security features: highlights from 2020](https://github.blog/2021-01-11-github-security-features-highlights-from-2020/) <kbd>2021-01-11T11:02-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2020](https://github.blog/2021-01-06-github-availability-report-december-2020/) <kbd>2021-01-06T13:30-05:00</kbd></samp>
 - <samp>[Building On-Call Culture at GitHub](https://github.blog/2021-01-06-building-on-call-culture-at-github/) <kbd>2021-01-06T12:00-05:00</kbd></samp>
 - <samp>[Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/) <kbd>2021-01-05T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/) <kbd>2020-12-22T13:00-05:00</kbd></samp>
 - <samp>[Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/) <kbd>2020-12-22T12:00-05:00</kbd></samp>
 - <samp>[Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) <kbd>2020-12-21T16:04-05:00</kbd></samp>
-- <samp>[GitHub joins amicus brief warning of systemic risk from private sector offensive actors](https://github.blog/2020-12-21-github-joins-amicus-brief-warning-of-systemic-risk-from-private-sector-offensive-actors/) <kbd>2020-12-21T15:51-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
