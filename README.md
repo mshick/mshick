@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-16T20:20-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-17T07:39-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Update on an employee matter](https://github.blog/2021-01-17-update-on-an-employee-matter/) <kbd>2021-01-17T12:00-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.0 is here!](https://github.blog/2021-01-15-github-enterprise-server-3-0-is-here/) <kbd>2021-01-15T12:00-05:00</kbd></samp>
 - <samp>[GitHub security features: highlights from 2020](https://github.blog/2021-01-11-github-security-features-highlights-from-2020/) <kbd>2021-01-11T11:02-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2020](https://github.blog/2021-01-06-github-availability-report-december-2020/) <kbd>2021-01-06T13:30-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/) <kbd>2020-12-23T16:37-05:00</kbd></samp>
 - <samp>[How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/) <kbd>2020-12-22T13:13-05:00</kbd></samp>
 - <samp>[Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/) <kbd>2020-12-22T13:00-05:00</kbd></samp>
-- <samp>[Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/) <kbd>2020-12-22T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
