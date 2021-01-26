@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-24T20:21-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-01-25T07:44-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) <kbd>2021-01-25T12:46-05:00</kbd></samp>
 - <samp>[Level up your code with TwilioQuest](https://github.blog/2021-01-22-level-up-your-code-with-twilioquest/) <kbd>2021-01-22T12:18-05:00</kbd></samp>
 - <samp>[The best of Changelog • 2020 Edition](https://github.blog/2021-01-21-changelog-2020-edition/) <kbd>2021-01-21T12:00-05:00</kbd></samp>
 - <samp>[Update on an employee matter](https://github.blog/2021-01-17-update-on-an-employee-matter/) <kbd>2021-01-17T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Building On-Call Culture at GitHub](https://github.blog/2021-01-06-building-on-call-culture-at-github/) <kbd>2021-01-06T12:00-05:00</kbd></samp>
 - <samp>[Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/) <kbd>2021-01-05T13:00-05:00</kbd></samp>
 - <samp>[Announcing the GitHub Education Classroom Report 2020](https://github.blog/2020-12-30-announcing-the-github-education-classroom-report-2020/) <kbd>2020-12-30T11:00-05:00</kbd></samp>
-- <samp>[Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/) <kbd>2020-12-23T16:37-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
