@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-02T19:41-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-03T07:23-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Fighting for developers: GitHub policy 2020 in review](https://github.blog/2021-02-03-fighting-for-developers-github-policy-2020-in-review/) <kbd>2021-02-03T13:59-05:00</kbd></samp>
+- <samp>[Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/) <kbd>2021-02-03T13:00-05:00</kbd></samp>
+- <samp>[GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/) <kbd>2021-02-02T18:53-05:00</kbd></samp>
 - <samp>[What’s next for DevOps: Q&#038;A with Lightstep CEO Ben Sigelman](https://github.blog/2021-02-02-whats-next-for-devops-qa-with-lightstep-ceo-ben-sigelman/) <kbd>2021-02-02T14:00-05:00</kbd></samp>
 - <samp>[npm 7 is now generally available!](https://github.blog/2021-02-02-npm-7-is-now-generally-available/) <kbd>2021-02-02T12:09-05:00</kbd></samp>
 - <samp>[GitHub Campus Experts applications are open](https://github.blog/2021-02-01-github-campus-experts-applications-are-open/) <kbd>2021-02-01T11:18-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The Social Sector is Contributing to the Broader OSS Ecosystem](https://github.blog/2021-01-26-the-social-sector-is-contributing-to-the-broader-oss-ecosystem/) <kbd>2021-01-26T12:24-05:00</kbd></samp>
 - <samp>[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) <kbd>2021-01-25T12:46-05:00</kbd></samp>
 - <samp>[Level up your code with TwilioQuest](https://github.blog/2021-01-22-level-up-your-code-with-twilioquest/) <kbd>2021-01-22T12:18-05:00</kbd></samp>
-- <samp>[The best of Changelog • 2020 Edition](https://github.blog/2021-01-21-changelog-2020-edition/) <kbd>2021-01-21T12:00-05:00</kbd></samp>
-- <samp>[Update on an employee matter](https://github.blog/2021-01-17-update-on-an-employee-matter/) <kbd>2021-01-17T12:00-05:00</kbd></samp>
-- <samp>[GitHub Enterprise Server 3.0 is here!](https://github.blog/2021-01-15-github-enterprise-server-3-0-is-here/) <kbd>2021-01-15T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
