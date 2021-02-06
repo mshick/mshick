@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-04T19:37-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-05T07:20-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · January 2021 Edition](https://github.blog/2021-02-05-release-radar-jan-2021/) <kbd>2021-02-05T18:00-05:00</kbd></samp>
 - <samp>[Extending GitOps to reliability-as-code with GitHub and StackPulse](https://github.blog/2021-02-04-extending-gitops-to-reliability-as-code-with-github-and-stackpulse/) <kbd>2021-02-04T15:30-05:00</kbd></samp>
 - <samp>[GitHub reduces Marketplace transaction fees, revamps Technology Partner Program](https://github.blog/2021-02-04-github-reduces-marketplace-transaction-fees-revamps-technology-partner-program/) <kbd>2021-02-04T13:58-05:00</kbd></samp>
 - <samp>[How We Illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/) <kbd>2021-02-04T12:29-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What’s next for DevOps: Q&#038;A with Lightstep CEO Ben Sigelman](https://github.blog/2021-02-02-whats-next-for-devops-qa-with-lightstep-ceo-ben-sigelman/) <kbd>2021-02-02T14:00-05:00</kbd></samp>
 - <samp>[npm 7 is now generally available!](https://github.blog/2021-02-02-npm-7-is-now-generally-available/) <kbd>2021-02-02T12:09-05:00</kbd></samp>
 - <samp>[GitHub Campus Experts applications are open](https://github.blog/2021-02-01-github-campus-experts-applications-are-open/) <kbd>2021-02-01T11:18-05:00</kbd></samp>
-- <samp>[Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/) <kbd>2021-01-29T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
