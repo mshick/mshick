@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-10T19:37-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-11T07:21-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we designed and wrote the narrative for our homepage](https://github.blog/2021-02-11-how-we-designed-and-wrote-the-narrative-for-our-homepage/) <kbd>2021-02-11T13:00-05:00</kbd></samp>
 - <samp>[New global ID format coming to GraphQL](https://github.blog/2021-02-10-new-global-id-format-coming-to-graphql/) <kbd>2021-02-10T13:00-05:00</kbd></samp>
 - <samp>[Using CWE and CVSS scores to get more context on a security advisory](https://github.blog/2021-02-09-using-cwe-and-cvss-scores-to-get-more-context-on-a-security-advisory/) <kbd>2021-02-09T12:00-05:00</kbd></samp>
 - <samp>[Release Radar · January 2021 Edition](https://github.blog/2021-02-05-release-radar-jan-2021/) <kbd>2021-02-05T18:00-05:00</kbd></samp>
 - <samp>[Extending GitOps to reliability-as-code with GitHub and StackPulse](https://github.blog/2021-02-04-extending-gitops-to-reliability-as-code-with-github-and-stackpulse/) <kbd>2021-02-04T15:30-05:00</kbd></samp>
 - <samp>[GitHub reduces Marketplace transaction fees, revamps Technology Partner Program](https://github.blog/2021-02-04-github-reduces-marketplace-transaction-fees-revamps-technology-partner-program/) <kbd>2021-02-04T13:58-05:00</kbd></samp>
-- <samp>[How We Illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/) <kbd>2021-02-04T12:29-05:00</kbd></samp>
+- <samp>[How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/) <kbd>2021-02-04T12:29-05:00</kbd></samp>
 - <samp>[Fighting for developers: GitHub policy 2020 in review](https://github.blog/2021-02-03-fighting-for-developers-github-policy-2020-in-review/) <kbd>2021-02-03T13:59-05:00</kbd></samp>
 - <samp>[Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/) <kbd>2021-02-03T13:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/) <kbd>2021-02-02T18:53-05:00</kbd></samp>
-- <samp>[What’s next for DevOps: Q&#038;A with Lightstep CEO Ben Sigelman](https://github.blog/2021-02-02-whats-next-for-devops-qa-with-lightstep-ceo-ben-sigelman/) <kbd>2021-02-02T14:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
