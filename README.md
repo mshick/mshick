@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-15T19:38-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-16T07:20-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.0 is now generally available](https://github.blog/2021-02-16-github-enterprise-server-3-0-is-now-generally-available/) <kbd>2021-02-16T18:21-05:00</kbd></samp>
 - <samp>[Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/) <kbd>2021-02-12T12:13-05:00</kbd></samp>
 - <samp>[How we designed and wrote the narrative for our homepage](https://github.blog/2021-02-11-how-we-designed-and-wrote-the-narrative-for-our-homepage/) <kbd>2021-02-11T13:00-05:00</kbd></samp>
 - <samp>[New global ID format coming to GraphQL](https://github.blog/2021-02-10-new-global-id-format-coming-to-graphql/) <kbd>2021-02-10T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub reduces Marketplace transaction fees, revamps Technology Partner Program](https://github.blog/2021-02-04-github-reduces-marketplace-transaction-fees-revamps-technology-partner-program/) <kbd>2021-02-04T13:58-05:00</kbd></samp>
 - <samp>[How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/) <kbd>2021-02-04T12:29-05:00</kbd></samp>
 - <samp>[Fighting for developers: GitHub policy 2020 in review](https://github.blog/2021-02-03-fighting-for-developers-github-policy-2020-in-review/) <kbd>2021-02-03T13:59-05:00</kbd></samp>
-- <samp>[Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/) <kbd>2021-02-03T13:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
