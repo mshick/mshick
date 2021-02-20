@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-18T19:38-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-19T07:21-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Your guide to Developer Experience Week at GitHub InFocus](https://github.blog/2021-02-19-your-guide-developer-experience-week-github-infocus/) <kbd>2021-02-19T17:16-05:00</kbd></samp>
+- <samp>[MLH Fellowship, powered by GitHub, welcomes American Express and Adobe to the Summer 2021 Program](https://github.blog/2021-02-19-mlh-fellowship-welcomes-american-express-adobe-summer-2021/) <kbd>2021-02-19T08:59-05:00</kbd></samp>
 - <samp>[Introducing GitHub Campus TV!](https://github.blog/2021-02-17-introducing-github-campus-tv/) <kbd>2021-02-17T12:54-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.0 is now generally available](https://github.blog/2021-02-16-github-enterprise-server-3-0-is-now-generally-available/) <kbd>2021-02-16T18:21-05:00</kbd></samp>
 - <samp>[Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/) <kbd>2021-02-12T12:13-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Using CWE and CVSS scores to get more context on a security advisory](https://github.blog/2021-02-09-using-cwe-and-cvss-scores-to-get-more-context-on-a-security-advisory/) <kbd>2021-02-09T12:00-05:00</kbd></samp>
 - <samp>[Release Radar · January 2021 Edition](https://github.blog/2021-02-05-release-radar-jan-2021/) <kbd>2021-02-05T18:00-05:00</kbd></samp>
 - <samp>[Extending GitOps to reliability-as-code with GitHub and StackPulse](https://github.blog/2021-02-04-extending-gitops-to-reliability-as-code-with-github-and-stackpulse/) <kbd>2021-02-04T15:30-05:00</kbd></samp>
-- <samp>[GitHub reduces Marketplace transaction fees, revamps Technology Partner Program](https://github.blog/2021-02-04-github-reduces-marketplace-transaction-fees-revamps-technology-partner-program/) <kbd>2021-02-04T13:58-05:00</kbd></samp>
-- <samp>[How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/) <kbd>2021-02-04T12:29-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
