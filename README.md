@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-23T19:39-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-24T07:26-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Hello from GitHub’s new Chief Security Officer](https://github.blog/2021-02-24-hello-from-githubs-new-chief-security-officer/) <kbd>2021-02-24T15:00-05:00</kbd></samp>
+- <samp>[Black History Month Spotlight: Honoring Black creators, activists, and community builders](https://github.blog/2021-02-24-black-history-month-spotlight-honoring-black-creators-activists-and-community-builders/) <kbd>2021-02-24T12:00-05:00</kbd></samp>
+- <samp>[Let’s talk about tech internships](https://github.blog/2021-02-24-lets-talk-about-tech-internships/) <kbd>2021-02-24T10:58-05:00</kbd></samp>
 - <samp>[Dr. Bernice King on how technology can transform the Black economy](https://github.blog/2021-02-23-dr-bernice-king-on-how-technology-can-transform-the-black-economy/) <kbd>2021-02-23T17:13-05:00</kbd></samp>
 - <samp>[Open source in the 5G stack](https://github.blog/2021-02-23-open-source-in-the-5g-stack/) <kbd>2021-02-23T15:46-05:00</kbd></samp>
 - <samp>[Your guide to Developer Experience Week at GitHub InFocus](https://github.blog/2021-02-19-your-guide-developer-experience-week-github-infocus/) <kbd>2021-02-19T17:16-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing GitHub Campus TV!](https://github.blog/2021-02-17-introducing-github-campus-tv/) <kbd>2021-02-17T12:54-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.0 is now generally available](https://github.blog/2021-02-16-github-enterprise-server-3-0-is-now-generally-available/) <kbd>2021-02-16T18:21-05:00</kbd></samp>
 - <samp>[Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/) <kbd>2021-02-12T12:13-05:00</kbd></samp>
-- <samp>[How we designed and wrote the narrative for our homepage](https://github.blog/2021-02-11-how-we-designed-and-wrote-the-narrative-for-our-homepage/) <kbd>2021-02-11T13:00-05:00</kbd></samp>
-- <samp>[New global ID format coming to GraphQL](https://github.blog/2021-02-10-new-global-id-format-coming-to-graphql/) <kbd>2021-02-10T13:00-05:00</kbd></samp>
-- <samp>[Using CWE and CVSS scores to get more context on a security advisory](https://github.blog/2021-02-09-using-cwe-and-cvss-scores-to-get-more-context-on-a-security-advisory/) <kbd>2021-02-09T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
