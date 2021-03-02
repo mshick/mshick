@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-02-28T19:42-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-01T07:21-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Your guide to DevOps automation and CI/CD at GitHub InFocus](https://github.blog/2021-03-01-guide-devops-automation-ci-cd-github-infocus/) <kbd>2021-03-01T12:46-05:00</kbd></samp>
 - <samp>[The little bug that couldn&#8217;t: Securing OpenSSL](https://github.blog/2021-02-25-the-little-bug-that-couldnt-securing-openssl/) <kbd>2021-02-25T14:00-05:00</kbd></samp>
 - <samp>[2020 Transparency Report](https://github.blog/2021-02-25-2020-transparency-report/) <kbd>2021-02-25T13:30-05:00</kbd></samp>
 - <samp>[Hello from GitHub’s new Chief Security Officer](https://github.blog/2021-02-24-hello-from-githubs-new-chief-security-officer/) <kbd>2021-02-24T15:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Open source in the 5G stack](https://github.blog/2021-02-23-open-source-in-the-5g-stack/) <kbd>2021-02-23T15:46-05:00</kbd></samp>
 - <samp>[Your guide to Developer Experience Week at GitHub InFocus](https://github.blog/2021-02-19-your-guide-developer-experience-week-github-infocus/) <kbd>2021-02-19T17:16-05:00</kbd></samp>
 - <samp>[MLH Fellowship, powered by GitHub, welcomes American Express and Adobe to the Summer 2021 Program](https://github.blog/2021-02-19-mlh-fellowship-welcomes-american-express-adobe-summer-2021/) <kbd>2021-02-19T08:59-05:00</kbd></samp>
-- <samp>[Introducing GitHub Campus TV!](https://github.blog/2021-02-17-introducing-github-campus-tv/) <kbd>2021-02-17T12:54-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
