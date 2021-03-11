@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-09T19:41-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-10T07:22-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/) <kbd>2021-03-10T12:57-05:00</kbd></samp>
 - <samp>[GitHub Discussions now available for private repositories](https://github.blog/2021-03-09-github-discussions-now-available-for-private-repositories/) <kbd>2021-03-09T16:30-05:00</kbd></samp>
 - <samp>[Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/) <kbd>2021-03-09T13:00-05:00</kbd></samp>
 - <samp>[GitHub security update: A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/) <kbd>2021-03-08T22:34-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: February 2021](https://github.blog/2021-03-03-github-availability-report-february-2021/) <kbd>2021-03-03T14:17-05:00</kbd></samp>
 - <samp>[Octoverse spotlight: Exploring the people and stories behind GitHub data](https://github.blog/2021-03-03-octoverse-spotlight-exploring-people-stories-github-data/) <kbd>2021-03-03T10:54-05:00</kbd></samp>
 - <samp>[GitHub Security Lab Capture the Flag: A call to hacktion](https://github.blog/2021-03-02-github-security-lab-capture-the-flag-a-call-to-hacktion/) <kbd>2021-03-02T11:27-05:00</kbd></samp>
-- <samp>[Your guide to DevOps automation and CI/CD at GitHub InFocus](https://github.blog/2021-03-01-guide-devops-automation-ci-cd-github-infocus/) <kbd>2021-03-01T12:46-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
