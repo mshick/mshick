@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-14T20:42-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-15T08:26-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[FUD chills: GitHub stands with security researchers on DMCA Section 1201](https://github.blog/2021-03-15-fud-chills-github-stands-with-security-researchers-on-dmca-section-1201/) <kbd>2021-03-15T15:59-04:00</kbd></samp>
+- <samp>[Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/) <kbd>2021-03-15T15:38-04:00</kbd></samp>
+- <samp>[Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/) <kbd>2021-03-15T14:20-04:00</kbd></samp>
 - <samp>[Scripting with GitHub CLI](https://github.blog/2021-03-11-scripting-with-github-cli/) <kbd>2021-03-11T12:59-05:00</kbd></samp>
 - <samp>[How MLOps can drive governance for machine learning: A conversation with Algorithmia](https://github.blog/2021-03-11-mlops-governance-for-machine-learning-algorithmia/) <kbd>2021-03-11T11:59-05:00</kbd></samp>
 - <samp>[Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/) <kbd>2021-03-10T12:57-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/) <kbd>2021-03-09T13:00-05:00</kbd></samp>
 - <samp>[GitHub security update: A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/) <kbd>2021-03-08T22:34-05:00</kbd></samp>
 - <samp>[This week at GitHub InFocus: Code security and DevSecOps](https://github.blog/2021-03-08-github-infocus-code-security-devsecops/) <kbd>2021-03-08T16:08-05:00</kbd></samp>
-- <samp>[Release Radar · February 2021 Edition](https://github.blog/2021-03-05-release-radar-feb-2021/) <kbd>2021-03-05T18:00-05:00</kbd></samp>
-- <samp>[4 things you didn’t know you could do with GitHub Actions](https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/) <kbd>2021-03-04T15:06-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: February 2021](https://github.blog/2021-03-03-github-availability-report-february-2021/) <kbd>2021-03-03T14:17-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
