@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-15T20:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-16T08:27-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Using GitHub code scanning and CodeQL to detect traces of Solorigate and other backdoors](https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/) <kbd>2021-03-16T13:55-04:00</kbd></samp>
+- <samp>[Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/) <kbd>2021-03-16T12:35-04:00</kbd></samp>
 - <samp>[FUD chills: GitHub stands with security researchers on DMCA Section 1201](https://github.blog/2021-03-15-fud-chills-github-stands-with-security-researchers-on-dmca-section-1201/) <kbd>2021-03-15T15:59-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/) <kbd>2021-03-15T15:38-04:00</kbd></samp>
 - <samp>[Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/) <kbd>2021-03-15T14:20-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/) <kbd>2021-03-10T12:57-05:00</kbd></samp>
 - <samp>[GitHub Discussions now available for private repositories](https://github.blog/2021-03-09-github-discussions-now-available-for-private-repositories/) <kbd>2021-03-09T16:30-05:00</kbd></samp>
 - <samp>[Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/) <kbd>2021-03-09T13:00-05:00</kbd></samp>
-- <samp>[GitHub security update: A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/) <kbd>2021-03-08T22:34-05:00</kbd></samp>
-- <samp>[This week at GitHub InFocus: Code security and DevSecOps](https://github.blog/2021-03-08-github-infocus-code-security-devsecops/) <kbd>2021-03-08T16:08-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
