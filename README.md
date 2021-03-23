@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-21T20:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-22T08:28-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Capture the Flag results](https://github.blog/2021-03-22-github-ctf-results/) <kbd>2021-03-22T15:18-04:00</kbd></samp>
+- <samp>[Open innovation will be the winning strategy for digital sovereignty and human progress in the new decade](https://github.blog/2021-03-22-open-innovation-winning-strategy-digital-sovereignty-human-progress/) <kbd>2021-03-22T11:58-04:00</kbd></samp>
 - <samp>[How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) <kbd>2021-03-18T15:59-04:00</kbd></samp>
 - <samp>[What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/) <kbd>2021-03-18T11:58-04:00</kbd></samp>
 - <samp>[Using GitHub code scanning and CodeQL to detect traces of Solorigate and other backdoors](https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/) <kbd>2021-03-16T13:55-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/) <kbd>2021-03-15T15:38-04:00</kbd></samp>
 - <samp>[Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/) <kbd>2021-03-15T14:20-04:00</kbd></samp>
 - <samp>[Scripting with GitHub CLI](https://github.blog/2021-03-11-scripting-with-github-cli/) <kbd>2021-03-11T12:59-05:00</kbd></samp>
-- <samp>[How MLOps can drive governance for machine learning: A conversation with Algorithmia](https://github.blog/2021-03-11-mlops-governance-for-machine-learning-algorithmia/) <kbd>2021-03-11T11:59-05:00</kbd></samp>
-- <samp>[Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/) <kbd>2021-03-10T12:57-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
