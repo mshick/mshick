@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-24T08:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-24T21:16-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing the GitHub Education Stream Team!](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) <kbd>2021-03-25T08:29-04:00</kbd></samp>
 - <samp>[One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/) <kbd>2021-03-24T18:28-04:00</kbd></samp>
 - <samp>[Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/) <kbd>2021-03-23T13:00-04:00</kbd></samp>
 - <samp>[GitHub Capture the Flag results](https://github.blog/2021-03-22-github-ctf-results/) <kbd>2021-03-22T15:18-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Using GitHub code scanning and CodeQL to detect traces of Solorigate and other backdoors](https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/) <kbd>2021-03-16T13:55-04:00</kbd></samp>
 - <samp>[Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/) <kbd>2021-03-16T12:35-04:00</kbd></samp>
 - <samp>[FUD chills: GitHub stands with security researchers on DMCA Section 1201](https://github.blog/2021-03-15-fud-chills-github-stands-with-security-researchers-on-dmca-section-1201/) <kbd>2021-03-15T15:59-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/) <kbd>2021-03-15T15:38-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
