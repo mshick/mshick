@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-25T09:01-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-03-25T20:47-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2020-12-12T16:13-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub India: Celebrating a community connected by code](https://github.blog/2021-03-25-github-india-celebrating-a-community-connected-by-code/) <kbd>2021-03-26T01:00-04:00</kbd></samp>
 - <samp>[How GitHub Actions renders large-scale logs](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/) <kbd>2021-03-25T12:28-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Education Stream Team!](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) <kbd>2021-03-25T08:29-04:00</kbd></samp>
 - <samp>[One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/) <kbd>2021-03-24T18:28-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) <kbd>2021-03-18T15:59-04:00</kbd></samp>
 - <samp>[What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/) <kbd>2021-03-18T11:58-04:00</kbd></samp>
 - <samp>[Using GitHub code scanning and CodeQL to detect traces of Solorigate and other backdoors](https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/) <kbd>2021-03-16T13:55-04:00</kbd></samp>
-- <samp>[Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/) <kbd>2021-03-16T12:35-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
