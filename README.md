@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-04T21:00-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-05T08:29-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Behind GitHub&#8217;s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) <kbd>2021-04-05T12:31-04:00</kbd></samp>
+- <samp>[How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/) <kbd>2021-04-05T11:59-04:00</kbd></samp>
 - <samp>[Introducing new push notifications, scheduling, releases and more on GitHub Mobile](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/) <kbd>2021-03-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Desktop now supports cherry-picking](https://github.blog/2021-03-30-github-desktop-now-supports-cherry-picking/) <kbd>2021-03-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Advanced Security: Introducing security overview beta and general availability of secret scanning for private repositories](https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/) <kbd>2021-03-30T09:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub Actions renders large-scale logs](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/) <kbd>2021-03-25T12:28-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Education Stream Team!](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) <kbd>2021-03-25T08:29-04:00</kbd></samp>
 - <samp>[One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/) <kbd>2021-03-24T18:28-04:00</kbd></samp>
-- <samp>[Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/) <kbd>2021-03-23T13:00-04:00</kbd></samp>
-- <samp>[GitHub Capture the Flag results](https://github.blog/2021-03-22-github-ctf-results/) <kbd>2021-03-22T15:18-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
