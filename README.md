@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-05T08:29-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-05T20:58-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Announcing the Global Maintainer Summit](https://github.blog/2021-04-06-announcing-the-global-maintainer-summit/) <kbd>2021-04-06T08:00-04:00</kbd></samp>
 - <samp>[Behind GitHub&#8217;s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) <kbd>2021-04-05T12:31-04:00</kbd></samp>
 - <samp>[How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/) <kbd>2021-04-05T11:59-04:00</kbd></samp>
 - <samp>[Introducing new push notifications, scheduling, releases and more on GitHub Mobile](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/) <kbd>2021-03-30T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub India: Celebrating a community connected by code](https://github.blog/2021-03-25-github-india-celebrating-a-community-connected-by-code/) <kbd>2021-03-26T01:00-04:00</kbd></samp>
 - <samp>[How GitHub Actions renders large-scale logs](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/) <kbd>2021-03-25T12:28-04:00</kbd></samp>
 - <samp>[Introducing the GitHub Education Stream Team!](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) <kbd>2021-03-25T08:29-04:00</kbd></samp>
-- <samp>[One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/) <kbd>2021-03-24T18:28-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
