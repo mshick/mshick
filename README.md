@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-06T20:58-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-07T08:29-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/) <kbd>2021-04-07T12:29-04:00</kbd></samp>
 - <samp>[Supreme Court sides with developers in Google v. Oracle](https://github.blog/2021-04-06-supreme-court-sides-with-developers-in-google-v-oracle/) <kbd>2021-04-06T13:55-04:00</kbd></samp>
 - <samp>[Announcing the Global Maintainer Summit](https://github.blog/2021-04-06-announcing-the-global-maintainer-summit/) <kbd>2021-04-06T08:00-04:00</kbd></samp>
 - <samp>[Behind GitHub&#8217;s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) <kbd>2021-04-05T12:31-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Advanced Security: Introducing security overview beta and general availability of secret scanning for private repositories](https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/) <kbd>2021-03-30T09:00-04:00</kbd></samp>
 - <samp>[Women’s History Month spotlight: Honoring women developers](https://github.blog/2021-03-29-womens-history-month-spotlight-honoring-women-developers/) <kbd>2021-03-29T12:16-04:00</kbd></samp>
 - <samp>[GitHub India: Celebrating a community connected by code](https://github.blog/2021-03-25-github-india-celebrating-a-community-connected-by-code/) <kbd>2021-03-26T01:00-04:00</kbd></samp>
-- <samp>[How GitHub Actions renders large-scale logs](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/) <kbd>2021-03-25T12:28-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
