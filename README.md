@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-12T21:01-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-13T08:29-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Implementing least privilege for secrets in GitHub Actions](https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/) <kbd>2021-04-13T14:05-04:00</kbd></samp>
 - <samp>[Release Radar · March 2021 Edition](https://github.blog/2021-04-09-release-radar-mar-2021/) <kbd>2021-04-09T14:30-04:00</kbd></samp>
 - <samp>[Safe harbors for software collaboration, part 2](https://github.blog/2021-04-08-safe-harbors-for-software-collaboration-part-2/) <kbd>2021-04-08T15:48-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/) <kbd>2021-04-07T12:29-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/) <kbd>2021-04-05T11:59-04:00</kbd></samp>
 - <samp>[Introducing new push notifications, scheduling, releases and more on GitHub Mobile](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/) <kbd>2021-03-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Desktop now supports cherry-picking](https://github.blog/2021-03-30-github-desktop-now-supports-cherry-picking/) <kbd>2021-03-30T12:00-04:00</kbd></samp>
-- <samp>[GitHub Advanced Security: Introducing security overview beta and general availability of secret scanning for private repositories](https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/) <kbd>2021-03-30T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
