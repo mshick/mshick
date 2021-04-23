@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-21T08:29-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-22T08:29-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/) <kbd>2021-04-22T16:53-04:00</kbd></samp>
+- <samp>[Environmental sustainability at GitHub](https://github.blog/2021-04-22-environmental-sustainability-github/) <kbd>2021-04-22T11:00-04:00</kbd></samp>
 - <samp>[New and simplified Enterprise and Partner Terms](https://github.blog/2021-04-20-new-simplified-enterprise-and-partner-terms/) <kbd>2021-04-20T15:43-04:00</kbd></samp>
 - <samp>[Open source goes to Mars 🚀](https://github.blog/2021-04-19-open-source-goes-to-mars/) <kbd>2021-04-19T09:00-04:00</kbd></samp>
 - <samp>[Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/) <kbd>2021-04-15T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Safe harbors for software collaboration, part 2](https://github.blog/2021-04-08-safe-harbors-for-software-collaboration-part-2/) <kbd>2021-04-08T15:48-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/) <kbd>2021-04-07T12:29-04:00</kbd></samp>
 - <samp>[Supreme Court sides with developers in Google v. Oracle](https://github.blog/2021-04-06-supreme-court-sides-with-developers-in-google-v-oracle/) <kbd>2021-04-06T13:55-04:00</kbd></samp>
-- <samp>[Announcing the Global Maintainer Summit](https://github.blog/2021-04-06-announcing-the-global-maintainer-summit/) <kbd>2021-04-06T08:00-04:00</kbd></samp>
-- <samp>[Behind GitHub&#8217;s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) <kbd>2021-04-05T12:31-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
