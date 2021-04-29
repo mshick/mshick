@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-27T20:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-04-28T08:30-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases](https://github.blog/2021-04-28-github-desktop-hiding-whitespace-expanding-diffs-repo-aliases/) <kbd>2021-04-28T12:00-04:00</kbd></samp>
+- <samp>[How we use GitHub Actions to manage GitHub Docs](https://github.blog/2021-04-28-use-github-actions-manage-docs/) <kbd>2021-04-28T11:45-04:00</kbd></samp>
 - <samp>[How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/) <kbd>2021-04-27T11:59-04:00</kbd></samp>
 - <samp>[GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/) <kbd>2021-04-22T16:53-04:00</kbd></samp>
 - <samp>[Environmental sustainability at GitHub](https://github.blog/2021-04-22-environmental-sustainability-github/) <kbd>2021-04-22T11:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/) <kbd>2021-04-15T12:00-04:00</kbd></samp>
 - <samp>[Implementing least privilege for secrets in GitHub Actions](https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/) <kbd>2021-04-13T14:05-04:00</kbd></samp>
 - <samp>[Release Radar · March 2021 Edition](https://github.blog/2021-04-09-release-radar-mar-2021/) <kbd>2021-04-09T14:30-04:00</kbd></samp>
-- <samp>[Safe harbors for software collaboration, part 2](https://github.blog/2021-04-08-safe-harbors-for-software-collaboration-part-2/) <kbd>2021-04-08T15:48-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/) <kbd>2021-04-07T12:29-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
