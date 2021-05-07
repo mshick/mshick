@@ -30,15 +30,15 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-05T20:47-04:00</kbd></samp>
+- <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-05-06T18:42-04:00</kbd></samp>
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-06T13:20-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-06T08:24-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-03-31T16:35-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
-- <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2020-12-10T14:12-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2020-11-14T12:41-05:00</kbd></samp>
 - <samp>[shopify-test-pattern](https://github.com/mshick/shopify-test-pattern) <kbd>2020-09-04T11:24-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.1 available as a release candidate](https://github.blog/2021-05-06-github-enterprise-server-3-1-available-release-candidate/) <kbd>2021-05-06T13:37-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2021](https://github.blog/2021-05-05-github-availability-report-april-2021/) <kbd>2021-05-05T11:59-04:00</kbd></samp>
 - <samp>[How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/) <kbd>2021-05-04T11:57-04:00</kbd></samp>
 - <samp>[Goodbye Dependabot Preview, hello Dependabot!](https://github.blog/2021-04-29-goodbye-dependabot-preview-hello-dependabot/) <kbd>2021-04-29T13:09-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we use GitHub Actions to manage GitHub Docs](https://github.blog/2021-04-28-use-github-actions-manage-docs/) <kbd>2021-04-28T11:45-04:00</kbd></samp>
 - <samp>[How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/) <kbd>2021-04-27T11:59-04:00</kbd></samp>
 - <samp>[GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/) <kbd>2021-04-22T16:53-04:00</kbd></samp>
-- <samp>[Environmental sustainability at GitHub](https://github.blog/2021-04-22-environmental-sustainability-github/) <kbd>2021-04-22T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
