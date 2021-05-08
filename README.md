@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-06T20:49-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-07T08:24-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-05-06T18:42-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-06T13:20-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-03-31T21:58-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · April 2021 Edition](https://github.blog/2021-05-07-release-radar-apr-2021/) <kbd>2021-05-07T19:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.1 available as a release candidate](https://github.blog/2021-05-06-github-enterprise-server-3-1-available-release-candidate/) <kbd>2021-05-06T13:37-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2021](https://github.blog/2021-05-05-github-availability-report-april-2021/) <kbd>2021-05-05T11:59-04:00</kbd></samp>
 - <samp>[How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/) <kbd>2021-05-04T11:57-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases](https://github.blog/2021-04-28-github-desktop-hiding-whitespace-expanding-diffs-repo-aliases/) <kbd>2021-04-28T12:00-04:00</kbd></samp>
 - <samp>[How we use GitHub Actions to manage GitHub Docs](https://github.blog/2021-04-28-use-github-actions-manage-docs/) <kbd>2021-04-28T11:45-04:00</kbd></samp>
 - <samp>[How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/) <kbd>2021-04-27T11:59-04:00</kbd></samp>
-- <samp>[GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/) <kbd>2021-04-22T16:53-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
