@@ -30,12 +30,12 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-09T20:51-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-05-10T15:58-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-05-10T08:25-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-05-09T06:02-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-05-08T20:32-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-05-08T17:14-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-06T13:20-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-03-31T02:45-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2020-12-02T15:35-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/) <kbd>2021-05-10T13:20-04:00</kbd></samp>
 - <samp>[Release Radar · April 2021 Edition](https://github.blog/2021-05-07-release-radar-apr-2021/) <kbd>2021-05-07T19:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.1 available as a release candidate](https://github.blog/2021-05-06-github-enterprise-server-3-1-available-release-candidate/) <kbd>2021-05-06T13:37-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2021](https://github.blog/2021-05-05-github-availability-report-april-2021/) <kbd>2021-05-05T11:59-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance/) <kbd>2021-04-29T11:50-04:00</kbd></samp>
 - <samp>[GitHub Desktop supports hiding whitespace, expanding diffs, and creating repository aliases](https://github.blog/2021-04-28-github-desktop-hiding-whitespace-expanding-diffs-repo-aliases/) <kbd>2021-04-28T12:00-04:00</kbd></samp>
 - <samp>[How we use GitHub Actions to manage GitHub Docs](https://github.blog/2021-04-28-use-github-actions-manage-docs/) <kbd>2021-04-28T11:45-04:00</kbd></samp>
-- <samp>[How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/) <kbd>2021-04-27T11:59-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
