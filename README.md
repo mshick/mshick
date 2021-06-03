@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-01T22:37-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-02T09:10-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-05-30T09:17-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-05-30T03:00-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-05-29T16:15-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: May 2021](https://github.blog/2021-06-02-github-availability-report-may-2021/) <kbd>2021-06-02T20:00-04:00</kbd></samp>
 - <samp>[Github Social Impact: How we&#8217;re driving change with social sector organizations](https://github.blog/2021-06-01-github-social-impact-driving-change-social-sector/) <kbd>2021-06-01T12:00-04:00</kbd></samp>
 - <samp>[Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/) <kbd>2021-05-26T15:20-04:00</kbd></samp>
 - <samp>[Octoverse Spotlight 2021: The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/) <kbd>2021-05-25T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/) <kbd>2021-05-13T12:00-04:00</kbd></samp>
 - <samp>[Join GitHub on June 5 to celebrate the Class of 2021](https://github.blog/2021-05-11-join-github-june-5-celebrate-class-of-2021/) <kbd>2021-05-11T18:08-04:00</kbd></samp>
 - <samp>[Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/) <kbd>2021-05-10T13:20-04:00</kbd></samp>
-- <samp>[Release Radar · April 2021 Edition](https://github.blog/2021-05-07-release-radar-apr-2021/) <kbd>2021-05-07T19:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
