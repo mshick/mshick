@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-07T21:17-04:00</kbd></samp>
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2021-06-08T19:46-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-08T08:26-04:00</kbd></samp>
 - <samp>[auth0-sample](https://github.com/mshick/auth0-sample) <kbd>2021-06-04T12:28-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-05-30T09:17-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-05-30T03:00-04:00</kbd></samp>
@@ -38,7 +39,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-05-11T15:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-11T10:15-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-05-09T06:02-04:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2020-12-22T14:17-05:00</kbd></samp>
 - <samp>[release-drafter](https://github.com/mshick/release-drafter) <kbd>2020-12-15T15:47-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Securing the open source supply chain by scanning for package registry credentials](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/) <kbd>2021-06-08T12:00-04:00</kbd></samp>
 - <samp>[Updates to our policies regarding exploits, malware, and vulnerability research](https://github.blog/2021-06-04-updates-to-our-policies-regarding-exploits-malware-and-vulnerability-research/) <kbd>2021-06-04T12:00-04:00</kbd></samp>
 - <samp>[Release Radar · May 2021 Edition](https://github.blog/2021-06-04-release-radar-may-2021/) <kbd>2021-06-04T05:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.1 is now generally available](https://github.blog/2021-06-03-github-enterprise-server-3-1-is-now-generally-available/) <kbd>2021-06-03T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Octoverse Spotlight 2021: The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/) <kbd>2021-05-25T11:00-04:00</kbd></samp>
 - <samp>[Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/) <kbd>2021-05-19T18:34-04:00</kbd></samp>
 - <samp>[GitHub Artifact Exporter open source release](https://github.blog/2021-05-18-github-artifact-exporter-open-source-release/) <kbd>2021-05-18T11:59-04:00</kbd></samp>
-- <samp>[Headphones on, volume up: Introducing The ReadME Podcast](https://github.blog/2021-05-17-introducing-readme-podcast/) <kbd>2021-05-17T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
