@@ -30,12 +30,12 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-09T20:55-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-06-10T12:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-10T08:26-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2021-06-08T19:46-04:00</kbd></samp>
 - <samp>[auth0-sample](https://github.com/mshick/auth0-sample) <kbd>2021-06-04T12:28-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-05-30T09:17-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-05-30T03:00-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-05-29T16:15-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-05-11T15:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-11T10:15-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-05-09T06:02-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Blacktocats turn five](https://github.blog/2021-06-10-blacktocats-turn-five/) <kbd>2021-06-10T15:03-04:00</kbd></samp>
+- <samp>[What’s new from GitHub Changelog? May 2021 Recap](https://github.blog/2021-06-10-whats-new-from-github-changelog-may-2021-recap/) <kbd>2021-06-10T13:32-04:00</kbd></samp>
+- <samp>[Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/) <kbd>2021-06-10T12:00-04:00</kbd></samp>
 - <samp>[Securing the open source supply chain by scanning for package registry credentials](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/) <kbd>2021-06-08T12:00-04:00</kbd></samp>
 - <samp>[Updates to our policies regarding exploits, malware, and vulnerability research](https://github.blog/2021-06-04-updates-to-our-policies-regarding-exploits-malware-and-vulnerability-research/) <kbd>2021-06-04T12:00-04:00</kbd></samp>
 - <samp>[Release Radar · May 2021 Edition](https://github.blog/2021-06-04-release-radar-may-2021/) <kbd>2021-06-04T05:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: May 2021](https://github.blog/2021-06-02-github-availability-report-may-2021/) <kbd>2021-06-02T20:00-04:00</kbd></samp>
 - <samp>[Github Social Impact: How we&#8217;re driving change with social sector organizations](https://github.blog/2021-06-01-github-social-impact-driving-change-social-sector/) <kbd>2021-06-01T12:00-04:00</kbd></samp>
 - <samp>[Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/) <kbd>2021-05-26T15:20-04:00</kbd></samp>
-- <samp>[Octoverse Spotlight 2021: The Good Day Project—Personal analytics to make your work days better](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/) <kbd>2021-05-25T11:00-04:00</kbd></samp>
-- <samp>[Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/) <kbd>2021-05-19T18:34-04:00</kbd></samp>
-- <samp>[GitHub Artifact Exporter open source release](https://github.blog/2021-05-18-github-artifact-exporter-open-source-release/) <kbd>2021-05-18T11:59-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
