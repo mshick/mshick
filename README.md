@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-21T20:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-22T08:24-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-06-11T16:31-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) <kbd>2021-06-22T13:07-04:00</kbd></samp>
 - <samp>[GitHub Packages Container registry is generally available](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/) <kbd>2021-06-21T15:04-04:00</kbd></samp>
 - <samp>[GitHub Desktop 2.9 includes squashing, reordering, amending, and more!](https://github.blog/2021-06-16-github-desktop-2-9-squashing-reordering-amending/) <kbd>2021-06-16T12:00-04:00</kbd></samp>
 - <samp>[Blacktocats turn five](https://github.blog/2021-06-10-blacktocats-turn-five/) <kbd>2021-06-10T15:03-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Updates to our policies regarding exploits, malware, and vulnerability research](https://github.blog/2021-06-04-updates-to-our-policies-regarding-exploits-malware-and-vulnerability-research/) <kbd>2021-06-04T12:00-04:00</kbd></samp>
 - <samp>[Release Radar · May 2021 Edition](https://github.blog/2021-06-04-release-radar-may-2021/) <kbd>2021-06-04T05:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.1 is now generally available](https://github.blog/2021-06-03-github-enterprise-server-3-1-is-now-generally-available/) <kbd>2021-06-03T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: May 2021](https://github.blog/2021-06-02-github-availability-report-may-2021/) <kbd>2021-06-02T20:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
