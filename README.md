@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-28T20:48-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-06-29T08:24-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-06-11T16:31-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) <kbd>2021-06-29T10:28-04:00</kbd></samp>
 - <samp>[Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) <kbd>2021-06-25T12:01-04:00</kbd></samp>
 - <samp>[Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/) <kbd>2021-06-24T12:00-04:00</kbd></samp>
 - <samp>[Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/) <kbd>2021-06-23T12:04-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Blacktocats turn five](https://github.blog/2021-06-10-blacktocats-turn-five/) <kbd>2021-06-10T15:03-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? May 2021 Recap](https://github.blog/2021-06-10-whats-new-from-github-changelog-may-2021-recap/) <kbd>2021-06-10T13:32-04:00</kbd></samp>
 - <samp>[Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/) <kbd>2021-06-10T12:00-04:00</kbd></samp>
-- <samp>[Securing the open source supply chain by scanning for package registry credentials](https://github.blog/2021-06-08-securing-open-source-supply-chain-scanning-package-registry-credentials/) <kbd>2021-06-08T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
