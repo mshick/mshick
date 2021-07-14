@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-12T20:53-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-13T08:27-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) <kbd>2021-07-13T12:01-04:00</kbd></samp>
 - <samp>[Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) <kbd>2021-07-12T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) <kbd>2021-07-07T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) <kbd>2021-06-29T10:28-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) <kbd>2021-06-22T13:07-04:00</kbd></samp>
 - <samp>[GitHub Packages Container registry is generally available](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/) <kbd>2021-06-21T15:04-04:00</kbd></samp>
 - <samp>[GitHub Desktop 2.9 includes squashing, reordering, amending, and more!](https://github.blog/2021-06-16-github-desktop-2-9-squashing-reordering-amending/) <kbd>2021-06-16T12:00-04:00</kbd></samp>
-- <samp>[Blacktocats turn five](https://github.blog/2021-06-10-blacktocats-turn-five/) <kbd>2021-06-10T15:03-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
