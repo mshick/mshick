@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-14T20:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-15T08:25-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) <kbd>2021-07-15T12:00-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) <kbd>2021-07-13T12:01-04:00</kbd></samp>
 - <samp>[Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) <kbd>2021-07-12T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) <kbd>2021-07-07T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/) <kbd>2021-06-23T12:04-04:00</kbd></samp>
 - <samp>[A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) <kbd>2021-06-22T13:07-04:00</kbd></samp>
 - <samp>[GitHub Packages Container registry is generally available](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/) <kbd>2021-06-21T15:04-04:00</kbd></samp>
-- <samp>[GitHub Desktop 2.9 includes squashing, reordering, amending, and more!](https://github.blog/2021-06-16-github-desktop-2-9-squashing-reordering-amending/) <kbd>2021-06-16T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
