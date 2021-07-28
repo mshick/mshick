@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-26T20:54-04:00</kbd></samp>
+- <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-27T16:24-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-07-27T08:25-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-06-10T12:47-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2021-06-08T19:46-04:00</kbd></samp>
 - <samp>[auth0-sample](https://github.com/mshick/auth0-sample) <kbd>2021-06-04T12:28-04:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-05-11T10:15-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) <kbd>2021-07-27T10:00-04:00</kbd></samp>
 - <samp>[Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/) <kbd>2021-07-22T13:00-04:00</kbd></samp>
 - <samp>[GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/) <kbd>2021-07-22T12:00-04:00</kbd></samp>
 - <samp>[Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) <kbd>2021-07-15T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) <kbd>2021-06-29T10:28-04:00</kbd></samp>
 - <samp>[Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) <kbd>2021-06-25T12:01-04:00</kbd></samp>
 - <samp>[Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/) <kbd>2021-06-24T12:00-04:00</kbd></samp>
-- <samp>[Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/) <kbd>2021-06-23T12:04-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
