@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-08T20:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-09T08:25-04:00</kbd></samp>
 - <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-28T14:00-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) <kbd>2021-08-09T10:00-04:00</kbd></samp>
 - <samp>[Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) <kbd>2021-08-05T13:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) <kbd>2021-08-04T12:00-04:00</kbd></samp>
 - <samp>[15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/) <kbd>2021-07-28T12:01-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) <kbd>2021-07-15T12:00-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) <kbd>2021-07-13T12:01-04:00</kbd></samp>
 - <samp>[Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) <kbd>2021-07-12T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) <kbd>2021-07-07T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
