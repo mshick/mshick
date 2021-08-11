@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-09T20:53-04:00</kbd></samp>
+- <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-08-10T13:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-10T08:25-04:00</kbd></samp>
 - <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-28T14:00-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-06-11T05:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-06-10T12:47-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2021-06-08T19:46-04:00</kbd></samp>
-- <samp>[auth0-sample](https://github.com/mshick/auth0-sample) <kbd>2021-06-04T12:28-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
