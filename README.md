@@ -30,15 +30,15 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-12T08:25-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-11T20:50-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-08-10T13:47-04:00</kbd></samp>
 - <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-28T14:00-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2021-07-12T15:50-04:00</kbd></samp>
 - <samp>[serverless-plugin-warmup](https://github.com/mshick/serverless-plugin-warmup) <kbd>2021-06-14T18:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2021-06-11T20:12-04:00</kbd></samp>
-- <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-06-11T16:31-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2021-06-08T19:46-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/) <kbd>2021-08-12T20:15-04:00</kbd></samp>
+- <samp>[Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) <kbd>2021-08-12T14:00-04:00</kbd></samp>
 - <samp>[GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) <kbd>2021-08-11T12:00-04:00</kbd></samp>
 - <samp>[August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) <kbd>2021-08-09T10:00-04:00</kbd></samp>
 - <samp>[Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) <kbd>2021-08-05T13:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) <kbd>2021-07-27T10:00-04:00</kbd></samp>
 - <samp>[Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/) <kbd>2021-07-22T13:00-04:00</kbd></samp>
 - <samp>[GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/) <kbd>2021-07-22T12:00-04:00</kbd></samp>
-- <samp>[Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) <kbd>2021-07-15T12:00-04:00</kbd></samp>
-- <samp>[What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) <kbd>2021-07-13T12:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
