@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-15T20:50-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-16T08:31-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) <kbd>2021-08-16T19:15-04:00</kbd></samp>
+- <samp>[Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) <kbd>2021-08-16T14:00-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/) <kbd>2021-08-12T20:15-04:00</kbd></samp>
 - <samp>[Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) <kbd>2021-08-12T14:00-04:00</kbd></samp>
 - <samp>[GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) <kbd>2021-08-11T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) <kbd>2021-08-04T12:00-04:00</kbd></samp>
 - <samp>[15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/) <kbd>2021-07-28T12:01-04:00</kbd></samp>
 - <samp>[Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) <kbd>2021-07-27T10:00-04:00</kbd></samp>
-- <samp>[Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/) <kbd>2021-07-22T13:00-04:00</kbd></samp>
-- <samp>[GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/) <kbd>2021-07-22T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
