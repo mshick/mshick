@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-18T20:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-19T08:25-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) <kbd>2021-08-19T12:12-04:00</kbd></samp>
 - <samp>[GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/) <kbd>2021-08-17T15:59-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) <kbd>2021-08-16T19:15-04:00</kbd></samp>
 - <samp>[Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) <kbd>2021-08-16T14:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) <kbd>2021-08-09T10:00-04:00</kbd></samp>
 - <samp>[Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) <kbd>2021-08-05T13:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) <kbd>2021-08-04T12:00-04:00</kbd></samp>
-- <samp>[15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/) <kbd>2021-07-28T12:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
