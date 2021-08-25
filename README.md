@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-23T20:49-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-24T08:24-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/) <kbd>2021-08-24T12:08-04:00</kbd></samp>
 - <samp>[The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/) <kbd>2021-08-23T15:04-04:00</kbd></samp>
 - <samp>[Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) <kbd>2021-08-19T12:12-04:00</kbd></samp>
 - <samp>[GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/) <kbd>2021-08-17T15:59-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) <kbd>2021-08-12T14:00-04:00</kbd></samp>
 - <samp>[GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) <kbd>2021-08-11T12:00-04:00</kbd></samp>
 - <samp>[August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) <kbd>2021-08-09T10:00-04:00</kbd></samp>
-- <samp>[Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) <kbd>2021-08-05T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
