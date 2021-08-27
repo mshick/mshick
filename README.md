@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-25T20:48-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-26T08:25-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[30 free and open source Linux games &#8211; part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/) <kbd>2021-08-26T12:00-04:00</kbd></samp>
 - <samp>[2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/) <kbd>2021-08-25T12:00-04:00</kbd></samp>
 - <samp>[30 free and open source Linux games &#8211; part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/) <kbd>2021-08-25T12:00-04:00</kbd></samp>
 - <samp>[GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/) <kbd>2021-08-24T12:08-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) <kbd>2021-08-16T19:15-04:00</kbd></samp>
 - <samp>[Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) <kbd>2021-08-16T14:00-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/) <kbd>2021-08-12T20:15-04:00</kbd></samp>
-- <samp>[Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) <kbd>2021-08-12T14:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
