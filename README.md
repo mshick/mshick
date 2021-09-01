@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-30T20:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-08-31T08:25-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-08-11T13:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/) <kbd>2021-08-31T14:42-04:00</kbd></samp>
+- <samp>[Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/) <kbd>2021-08-31T13:00-04:00</kbd></samp>
 - <samp>[30 free and open source Linux games &#8211; part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/) <kbd>2021-08-27T12:00-04:00</kbd></samp>
 - <samp>[30 free and open source Linux games &#8211; part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/) <kbd>2021-08-26T12:00-04:00</kbd></samp>
 - <samp>[2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/) <kbd>2021-08-25T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/) <kbd>2021-08-23T15:04-04:00</kbd></samp>
 - <samp>[Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) <kbd>2021-08-19T12:12-04:00</kbd></samp>
 - <samp>[GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/) <kbd>2021-08-17T15:59-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) <kbd>2021-08-16T19:15-04:00</kbd></samp>
-- <samp>[Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) <kbd>2021-08-16T14:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
