@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-08T20:54-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-09T08:25-04:00</kbd></samp>
 - <samp>[theme-ui-next-boilerplate](https://github.com/mshick/theme-ui-next-boilerplate) <kbd>2021-09-01T07:05-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-08-12T02:36-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/) <kbd>2021-09-09T13:26-04:00</kbd></samp>
+- <samp>[An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/) <kbd>2021-09-09T13:23-04:00</kbd></samp>
 - <samp>[GitHub security update: Vulnerabilities in tar and @npmcli/arborist](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/) <kbd>2021-09-08T12:00-04:00</kbd></samp>
 - <samp>[Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/) <kbd>2021-09-07T12:10-04:00</kbd></samp>
 - <samp>[Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/) <kbd>2021-09-03T17:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/) <kbd>2021-09-01T13:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/) <kbd>2021-09-01T12:00-04:00</kbd></samp>
 - <samp>[Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/) <kbd>2021-08-31T14:42-04:00</kbd></samp>
-- <samp>[Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/) <kbd>2021-08-31T13:00-04:00</kbd></samp>
-- <samp>[30 free and open source Linux games &#8211; part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/) <kbd>2021-08-27T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
