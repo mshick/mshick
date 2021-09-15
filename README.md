@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-13T20:56-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-14T08:24-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-12T20:10-04:00</kbd></samp>
 - <samp>[theme-ui-next-boilerplate](https://github.com/mshick/theme-ui-next-boilerplate) <kbd>2021-09-01T07:05-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-08-12T10:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/) <kbd>2021-09-14T12:00-04:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? August 2021 Recap]( next month. ) <kbd>2021-09-13T13:01-04:00</kbd></samp>
 - <samp>[Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/) <kbd>2021-09-12T23:30-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/) <kbd>2021-09-09T13:26-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/) <kbd>2021-09-03T17:00-04:00</kbd></samp>
 - <samp>[Introducing the MLH Fellowship: GitHub Externship Track](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/) <kbd>2021-09-02T16:18-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/) <kbd>2021-09-01T13:30-04:00</kbd></samp>
-- <samp>[Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/) <kbd>2021-09-01T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
