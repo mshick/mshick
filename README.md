@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-26T20:53-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-09-27T08:26-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-09-21T19:03-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-09-21T15:59-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-09-21T11:07-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Revised enterprise DPA with new standard contractual clauses](https://github.blog/2021-09-27-revised-enterprise-dpa-new-standard-contractual-clauses/) <kbd>2021-09-27T20:51-04:00</kbd></samp>
+- <samp>[Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) <kbd>2021-09-27T12:02-04:00</kbd></samp>
 - <samp>[Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/) <kbd>2021-09-23T13:19-04:00</kbd></samp>
 - <samp>[GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/) <kbd>2021-09-23T12:09-04:00</kbd></samp>
 - <samp>[Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/) <kbd>2021-09-16T13:32-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/) <kbd>2021-09-12T23:30-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/) <kbd>2021-09-09T13:26-04:00</kbd></samp>
 - <samp>[An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/) <kbd>2021-09-09T13:23-04:00</kbd></samp>
-- <samp>[GitHub security update: Vulnerabilities in tar and @npmcli/arborist](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/) <kbd>2021-09-08T12:00-04:00</kbd></samp>
-- <samp>[Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/) <kbd>2021-09-07T12:10-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
