@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-03T20:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-04T08:25-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-28T11:58-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-09-21T19:03-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-09-21T15:59-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/) <kbd>2021-10-04T14:07-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/) <kbd>2021-10-01T14:21-04:00</kbd></samp>
 - <samp>[Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/) <kbd>2021-09-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/) <kbd>2021-09-28T12:21-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/) <kbd>2021-09-23T12:09-04:00</kbd></samp>
 - <samp>[Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/) <kbd>2021-09-16T13:32-04:00</kbd></samp>
 - <samp>[The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/) <kbd>2021-09-14T12:00-04:00</kbd></samp>
-- <samp>[What’s new from GitHub Changelog? August 2021 Recap]( next month. ) <kbd>2021-09-13T13:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
