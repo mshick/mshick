@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-05T20:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-06T08:25-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-28T11:58-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-09-21T19:03-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-09-21T15:59-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/) <kbd>2021-10-06T12:18-04:00</kbd></samp>
 - <samp>[13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/) <kbd>2021-10-05T12:00-04:00</kbd></samp>
 - <samp>[A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/) <kbd>2021-10-04T14:07-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/) <kbd>2021-10-01T14:21-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) <kbd>2021-09-27T12:02-04:00</kbd></samp>
 - <samp>[Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/) <kbd>2021-09-23T13:19-04:00</kbd></samp>
 - <samp>[GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/) <kbd>2021-09-23T12:09-04:00</kbd></samp>
-- <samp>[Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/) <kbd>2021-09-16T13:32-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
