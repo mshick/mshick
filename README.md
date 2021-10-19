@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-17T20:57-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-18T08:25-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-28T11:58-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-09-21T19:03-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/) <kbd>2021-10-18T12:10-04:00</kbd></samp>
 - <samp>[💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/) <kbd>2021-10-15T10:28-04:00</kbd></samp>
 - <samp>[Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/) <kbd>2021-10-14T11:53-04:00</kbd></samp>
 - <samp>[Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/) <kbd>2021-10-12T12:34-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/) <kbd>2021-10-07T12:05-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/) <kbd>2021-10-06T12:18-04:00</kbd></samp>
 - <samp>[13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/) <kbd>2021-10-05T12:00-04:00</kbd></samp>
-- <samp>[A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/) <kbd>2021-10-04T14:07-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
