@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-28T08:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-10-28T20:51-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-28T11:58-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2021-09-21T19:03-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/) <kbd>2021-10-29T04:01-04:00</kbd></samp>
 - <samp>[Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/) <kbd>2021-10-27T11:30-04:00</kbd></samp>
 - <samp>[A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/) <kbd>2021-10-25T17:32-04:00</kbd></samp>
 - <samp>[GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/) <kbd>2021-10-22T16:23-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/) <kbd>2021-10-18T12:10-04:00</kbd></samp>
 - <samp>[💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/) <kbd>2021-10-15T10:28-04:00</kbd></samp>
 - <samp>[Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/) <kbd>2021-10-14T11:53-04:00</kbd></samp>
-- <samp>[Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/) <kbd>2021-10-12T12:34-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
