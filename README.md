@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-11T19:55-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-12T07:26-05:00</kbd></samp>
 - <samp>[next.js](https://github.com/mshick/next.js) <kbd>2021-10-31T08:15-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/) <kbd>2021-11-12T17:00-05:00</kbd></samp>
+- <samp>[Highlights from GitHub&#8217;s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/) <kbd>2021-11-12T12:30-05:00</kbd></samp>
 - <samp>[7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/) <kbd>2021-11-10T13:00-05:00</kbd></samp>
 - <samp>[Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/) <kbd>2021-11-10T11:27-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/) <kbd>2021-11-09T14:33-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[10 GitHub Actions resources to bookmark from the basics to CI/CD](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/) <kbd>2021-11-04T11:57-04:00</kbd></samp>
 - <samp>[Building the next phase of GitHub, together](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/) <kbd>2021-11-03T11:08-04:00</kbd></samp>
 - <samp>[Thank you, GitHub](https://github.blog/2021-11-03-thank-you-github/) <kbd>2021-11-03T11:08-04:00</kbd></samp>
-- <samp>[Blue-teaming for Exiv2: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/) <kbd>2021-11-02T12:16-04:00</kbd></samp>
-- <samp>[Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/) <kbd>2021-11-01T16:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
