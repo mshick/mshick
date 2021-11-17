@@ -30,9 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-15T19:54-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-16T07:26-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
-- <samp>[next.js](https://github.com/mshick/next.js) <kbd>2021-10-31T08:15-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2021-09-28T11:58-04:00</kbd></samp>
@@ -40,6 +39,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-09-21T15:59-04:00</kbd></samp>
 - <samp>[theme-ui-next-boilerplate](https://github.com/mshick/theme-ui-next-boilerplate) <kbd>2021-09-01T07:05-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-08-10T13:47-04:00</kbd></samp>
+- <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-28T14:00-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/) <kbd>2021-11-16T16:00-05:00</kbd></samp>
+- <samp>[Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/) <kbd>2021-11-16T13:00-05:00</kbd></samp>
+- <samp>[The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/) <kbd>2021-11-16T09:00-05:00</kbd></samp>
 - <samp>[GitHub&#8217;s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/) <kbd>2021-11-15T18:00-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/) <kbd>2021-11-15T12:42-05:00</kbd></samp>
 - <samp>[Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/) <kbd>2021-11-12T17:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/) <kbd>2021-11-10T13:00-05:00</kbd></samp>
 - <samp>[Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/) <kbd>2021-11-10T11:27-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/) <kbd>2021-11-09T14:33-05:00</kbd></samp>
-- <samp>[Blue-teaming for Exiv2: three rules of bug fixing for better OSS security](https://github.blog/2021-11-09-three-rules-bug-fixing-better-oss-security/) <kbd>2021-11-09T13:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/) <kbd>2021-11-04T16:37-04:00</kbd></samp>
-- <samp>[10 GitHub Actions resources to bookmark from the basics to CI/CD](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/) <kbd>2021-11-04T11:57-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
