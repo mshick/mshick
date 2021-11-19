@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-17T19:54-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-18T07:27-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/) <kbd>2021-11-18T12:06-05:00</kbd></samp>
 - <samp>[GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/) <kbd>2021-11-17T12:00-05:00</kbd></samp>
 - <samp>[GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/) <kbd>2021-11-16T16:00-05:00</kbd></samp>
 - <samp>[Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/) <kbd>2021-11-16T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/) <kbd>2021-11-12T17:00-05:00</kbd></samp>
 - <samp>[Highlights from GitHub&#8217;s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/) <kbd>2021-11-12T12:30-05:00</kbd></samp>
 - <samp>[7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/) <kbd>2021-11-10T13:00-05:00</kbd></samp>
-- <samp>[Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/) <kbd>2021-11-10T11:27-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
