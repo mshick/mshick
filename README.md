@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-22T19:54-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-23T07:26-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Secure deployments with OpenID Connect &#038; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/) <kbd>2021-11-23T15:16-05:00</kbd></samp>
+- <samp>[How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/) <kbd>2021-11-23T12:37-05:00</kbd></samp>
+- <samp>[The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/) <kbd>2021-11-23T11:47-05:00</kbd></samp>
 - <samp>[Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/) <kbd>2021-11-22T12:27-05:00</kbd></samp>
 - <samp>[In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/) <kbd>2021-11-19T16:21-05:00</kbd></samp>
 - <samp>[What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/) <kbd>2021-11-19T13:41-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/) <kbd>2021-11-17T12:00-05:00</kbd></samp>
 - <samp>[GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/) <kbd>2021-11-16T16:00-05:00</kbd></samp>
 - <samp>[Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/) <kbd>2021-11-16T13:00-05:00</kbd></samp>
-- <samp>[The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/) <kbd>2021-11-16T09:00-05:00</kbd></samp>
-- <samp>[GitHub&#8217;s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/) <kbd>2021-11-15T18:00-05:00</kbd></samp>
-- <samp>[Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/) <kbd>2021-11-15T12:42-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
