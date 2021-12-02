@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-11-30T19:58-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-01T07:27-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/) <kbd>2021-12-01T15:14-05:00</kbd></samp>
+- <samp>[Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/) <kbd>2021-12-01T13:01-05:00</kbd></samp>
 - <samp>[GitHub Externships: enabling India’s next generation of developers](https://github.blog/2021-11-30-github-externships-enabling-indias-next-generation-of-developers/) <kbd>2021-11-30T22:30-05:00</kbd></samp>
 - <samp>[5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/) <kbd>2021-11-30T12:09-05:00</kbd></samp>
 - <samp>[GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/) <kbd>2021-11-29T12:38-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/) <kbd>2021-11-23T11:47-05:00</kbd></samp>
 - <samp>[Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/) <kbd>2021-11-22T12:27-05:00</kbd></samp>
 - <samp>[In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/) <kbd>2021-11-19T16:21-05:00</kbd></samp>
-- <samp>[What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/) <kbd>2021-11-19T13:41-05:00</kbd></samp>
-- <samp>[7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/) <kbd>2021-11-18T12:06-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
