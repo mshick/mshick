@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-05T19:57-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-06T07:27-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Write more secure code with the OWASP Top 10 Proactive Controls](https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/) <kbd>2021-12-06T17:30-05:00</kbd></samp>
+- <samp>[Safeguard your containers with new container signing capability in GitHub Actions](https://github.blog/2021-12-06-safeguard-container-signing-capability-actions/) <kbd>2021-12-06T12:30-05:00</kbd></samp>
 - <samp>[Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/) <kbd>2021-12-03T17:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/) <kbd>2021-12-01T15:14-05:00</kbd></samp>
 - <samp>[Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/) <kbd>2021-12-01T13:01-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/) <kbd>2021-11-29T12:38-05:00</kbd></samp>
 - <samp>[Secure deployments with OpenID Connect &#038; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/) <kbd>2021-11-23T15:16-05:00</kbd></samp>
 - <samp>[Blue-teaming for Exiv2: how to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/) <kbd>2021-11-23T12:37-05:00</kbd></samp>
-- <samp>[The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/) <kbd>2021-11-23T11:47-05:00</kbd></samp>
-- <samp>[Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/) <kbd>2021-11-22T12:27-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
