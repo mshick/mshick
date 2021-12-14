@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-12T19:56-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-13T07:27-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) <kbd>2021-12-13T14:06-05:00</kbd></samp>
+- <samp>[What’s new from GitHub Changelog? November 2021 recap](https://github.blog/2021-12-13-whats-new-from-github-changelog-november-2021-recap/) <kbd>2021-12-13T12:45-05:00</kbd></samp>
+- <samp>[GitHub at the UN Internet Governance Forum](https://github.blog/2021-12-13-github-at-the-un-internet-governance-forum/) <kbd>2021-12-13T12:01-05:00</kbd></samp>
 - <samp>[Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) <kbd>2021-12-09T12:00-05:00</kbd></samp>
 - <samp>[Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/) <kbd>2021-12-09T12:00-05:00</kbd></samp>
 - <samp>[Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/) <kbd>2021-12-08T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Enrolling all npm publishers in enhanced login verification and next steps for two-factor authentication enforcement](https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/) <kbd>2021-12-07T12:00-05:00</kbd></samp>
 - <samp>[Write more secure code with the OWASP Top 10 Proactive Controls](https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/) <kbd>2021-12-06T17:30-05:00</kbd></samp>
 - <samp>[Safeguard your containers with new container signing capability in GitHub Actions](https://github.blog/2021-12-06-safeguard-container-signing-capability-actions/) <kbd>2021-12-06T12:30-05:00</kbd></samp>
-- <samp>[Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/) <kbd>2021-12-03T17:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/) <kbd>2021-12-01T15:14-05:00</kbd></samp>
-- <samp>[Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/) <kbd>2021-12-01T13:01-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
