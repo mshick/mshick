@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-16T19:59-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2021-12-17T07:26-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/) <kbd>2021-12-17T12:35-05:00</kbd></samp>
 - <samp>[Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/) <kbd>2021-12-16T12:59-05:00</kbd></samp>
 - <samp>[5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/) <kbd>2021-12-16T12:04-05:00</kbd></samp>
 - <samp>[A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) <kbd>2021-12-15T13:35-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What’s new from GitHub Changelog? November 2021 recap](https://github.blog/2021-12-13-whats-new-from-github-changelog-november-2021-recap/) <kbd>2021-12-13T12:45-05:00</kbd></samp>
 - <samp>[GitHub at the UN Internet Governance Forum](https://github.blog/2021-12-13-github-at-the-un-internet-governance-forum/) <kbd>2021-12-13T12:01-05:00</kbd></samp>
 - <samp>[Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) <kbd>2021-12-09T12:00-05:00</kbd></samp>
-- <samp>[Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/) <kbd>2021-12-09T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
