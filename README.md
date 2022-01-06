@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-04T20:01-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-05T07:28-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) <kbd>2022-01-05T16:34-05:00</kbd></samp>
+- <samp>[How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) <kbd>2022-01-05T13:18-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/) <kbd>2021-12-28T12:00-05:00</kbd></samp>
 - <samp>[How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/) <kbd>2021-12-21T12:55-05:00</kbd></samp>
 - <samp>[How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/) <kbd>2021-12-20T12:47-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/) <kbd>2021-12-16T12:04-05:00</kbd></samp>
 - <samp>[A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) <kbd>2021-12-15T13:35-05:00</kbd></samp>
 - <samp>[Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/) <kbd>2021-12-14T14:46-05:00</kbd></samp>
-- <samp>[How to define security requirements for your OSS project](https://github.blog/2021-12-14-how-to-define-security-requirements-for-your-oss-project/) <kbd>2021-12-14T12:11-05:00</kbd></samp>
-- <samp>[GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) <kbd>2021-12-13T14:06-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
