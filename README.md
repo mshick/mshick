@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-12T07:29-05:00</kbd></samp>
+- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-12T20:02-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2021-09-21T15:59-04:00</kbd></samp>
 - <samp>[theme-ui-next-boilerplate](https://github.com/mshick/theme-ui-next-boilerplate) <kbd>2021-09-01T07:05-04:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2021-08-10T13:47-04:00</kbd></samp>
-- <samp>[test-pattern](https://github.com/mshick/test-pattern) <kbd>2021-07-28T14:00-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) <kbd>2022-01-13T05:00-05:00</kbd></samp>
 - <samp>[How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) <kbd>2022-01-12T12:56-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) <kbd>2022-01-05T16:34-05:00</kbd></samp>
 - <samp>[How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) <kbd>2022-01-05T13:18-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/) <kbd>2021-12-17T12:35-05:00</kbd></samp>
 - <samp>[Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/) <kbd>2021-12-16T12:59-05:00</kbd></samp>
 - <samp>[5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/) <kbd>2021-12-16T12:04-05:00</kbd></samp>
-- <samp>[A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) <kbd>2021-12-15T13:35-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
