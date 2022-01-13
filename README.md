@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-11T20:00-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-12T07:29-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2021-10-30T12:02-04:00</kbd></samp>
 - <samp>[node-csv](https://github.com/mshick/node-csv) <kbd>2021-10-13T17:09-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) <kbd>2022-01-12T12:56-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) <kbd>2022-01-05T16:34-05:00</kbd></samp>
 - <samp>[How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) <kbd>2022-01-05T13:18-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/) <kbd>2021-12-28T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/) <kbd>2021-12-16T12:59-05:00</kbd></samp>
 - <samp>[5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/) <kbd>2021-12-16T12:04-05:00</kbd></samp>
 - <samp>[A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) <kbd>2021-12-15T13:35-05:00</kbd></samp>
-- <samp>[Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/) <kbd>2021-12-14T14:46-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
