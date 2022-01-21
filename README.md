@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-19T20:06-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-20T07:30-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-01-15T01:37-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2021-11-15T06:32-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/) <kbd>2022-01-20T11:58-05:00</kbd></samp>
 - <samp>[Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/) <kbd>2022-01-19T10:00-05:00</kbd></samp>
 - <samp>[How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/) <kbd>2022-01-18T12:41-05:00</kbd></samp>
 - <samp>[Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) <kbd>2022-01-13T15:23-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) <kbd>2022-01-05T16:34-05:00</kbd></samp>
 - <samp>[How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) <kbd>2022-01-05T13:18-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/) <kbd>2021-12-28T12:00-05:00</kbd></samp>
-- <samp>[How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/) <kbd>2021-12-21T12:55-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
