@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-23T19:55-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-24T07:25-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-01-22T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-01-22T04:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/) <kbd>2022-01-24T15:00-05:00</kbd></samp>
 - <samp>[Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/) <kbd>2022-01-21T18:00-05:00</kbd></samp>
 - <samp>[Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/) <kbd>2022-01-20T11:58-05:00</kbd></samp>
 - <samp>[Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/) <kbd>2022-01-19T10:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) <kbd>2022-01-13T05:00-05:00</kbd></samp>
 - <samp>[How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) <kbd>2022-01-12T12:56-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) <kbd>2022-01-05T16:34-05:00</kbd></samp>
-- <samp>[How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) <kbd>2022-01-05T13:18-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
