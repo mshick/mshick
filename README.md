@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-25T20:01-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-26T07:25-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-01-22T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-01-22T04:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/) <kbd>2022-01-26T12:59-05:00</kbd></samp>
 - <samp>[Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/) <kbd>2022-01-25T11:41-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/) <kbd>2022-01-24T15:00-05:00</kbd></samp>
 - <samp>[Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/) <kbd>2022-01-21T18:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) <kbd>2022-01-13T15:23-05:00</kbd></samp>
 - <samp>[How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/) <kbd>2022-01-13T12:14-05:00</kbd></samp>
 - <samp>[The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) <kbd>2022-01-13T05:00-05:00</kbd></samp>
-- <samp>[How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) <kbd>2022-01-12T12:56-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
