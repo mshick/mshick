@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-26T19:57-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-01-27T07:26-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-01-22T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-01-22T04:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[2021 Transparency Report](https://github.blog/2022-01-27-2021-transparency-report/) <kbd>2022-01-27T18:35-05:00</kbd></samp>
+- <samp>[Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/) <kbd>2022-01-27T16:17-05:00</kbd></samp>
 - <samp>[Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/) <kbd>2022-01-26T12:59-05:00</kbd></samp>
 - <samp>[Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/) <kbd>2022-01-25T11:41-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/) <kbd>2022-01-24T15:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/) <kbd>2022-01-19T10:00-05:00</kbd></samp>
 - <samp>[How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/) <kbd>2022-01-18T12:41-05:00</kbd></samp>
 - <samp>[Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) <kbd>2022-01-13T15:23-05:00</kbd></samp>
-- <samp>[How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/) <kbd>2022-01-13T12:14-05:00</kbd></samp>
-- <samp>[The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) <kbd>2022-01-13T05:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
