@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-03T19:56-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-04T07:21-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-01-22T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-01-22T04:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-01-13T00:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/) <kbd>2022-02-04T18:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/) <kbd>2022-02-02T19:00-05:00</kbd></samp>
 - <samp>[How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/) <kbd>2022-02-02T14:48-05:00</kbd></samp>
 - <samp>[New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/) <kbd>2022-02-02T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[2021 Transparency Report](https://github.blog/2022-01-27-2021-transparency-report/) <kbd>2022-01-27T18:35-05:00</kbd></samp>
 - <samp>[Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/) <kbd>2022-01-27T16:17-05:00</kbd></samp>
 - <samp>[Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/) <kbd>2022-01-26T12:59-05:00</kbd></samp>
-- <samp>[Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/) <kbd>2022-01-25T11:41-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
