@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-13T19:56-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-14T07:26-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-02-11T21:48-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) <kbd>2022-02-14T11:57-05:00</kbd></samp>
 - <samp>[Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/) <kbd>2022-02-11T12:30-05:00</kbd></samp>
 - <samp>[How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) <kbd>2022-02-10T12:56-05:00</kbd></samp>
 - <samp>[Coordinated vulnerability disclosure (CVD) for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/) <kbd>2022-02-09T15:24-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/) <kbd>2022-02-02T14:48-05:00</kbd></samp>
 - <samp>[New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/) <kbd>2022-02-02T13:00-05:00</kbd></samp>
 - <samp>[Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/) <kbd>2022-02-01T12:07-05:00</kbd></samp>
-- <samp>[Top-100 npm package maintainers now require 2FA, and additional security-focused improvements to npm](https://github.blog/2022-02-01-top-100-npm-package-maintainers-require-2fa-additional-security/) <kbd>2022-02-01T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
