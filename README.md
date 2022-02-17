@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-15T20:02-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-16T07:29-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-02-11T21:48-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/) <kbd>2022-02-16T13:17-05:00</kbd></samp>
+- <samp>[Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/) <kbd>2022-02-16T12:38-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/) <kbd>2022-02-15T18:23-05:00</kbd></samp>
 - <samp>[The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/) <kbd>2022-02-15T12:17-05:00</kbd></samp>
 - <samp>[Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-02-15T10:58-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) <kbd>2022-02-10T12:56-05:00</kbd></samp>
 - <samp>[Coordinated vulnerability disclosure (CVD) for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/) <kbd>2022-02-09T15:24-05:00</kbd></samp>
 - <samp>[Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/) <kbd>2022-02-08T14:11-05:00</kbd></samp>
-- <samp>[Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/) <kbd>2022-02-04T18:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/) <kbd>2022-02-02T19:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
