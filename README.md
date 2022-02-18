@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-16T19:55-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-17T07:26-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-02-11T21:48-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/) <kbd>2022-02-17T13:00-05:00</kbd></samp>
+- <samp>[Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) <kbd>2022-02-17T12:59-05:00</kbd></samp>
 - <samp>[How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/) <kbd>2022-02-16T13:17-05:00</kbd></samp>
 - <samp>[Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/) <kbd>2022-02-16T12:38-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/) <kbd>2022-02-15T18:23-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) <kbd>2022-02-14T11:57-05:00</kbd></samp>
 - <samp>[Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/) <kbd>2022-02-11T12:30-05:00</kbd></samp>
 - <samp>[How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) <kbd>2022-02-10T12:56-05:00</kbd></samp>
-- <samp>[Coordinated vulnerability disclosure (CVD) for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/) <kbd>2022-02-09T15:24-05:00</kbd></samp>
-- <samp>[Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/) <kbd>2022-02-08T14:11-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
