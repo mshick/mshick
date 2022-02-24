@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-22T20:08-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-02-23T07:28-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-02-11T21:48-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/) <kbd>2022-02-23T14:54-05:00</kbd></samp>
+- <samp>[Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/) <kbd>2022-02-23T13:10-05:00</kbd></samp>
 - <samp>[Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/) <kbd>2022-02-22T12:18-05:00</kbd></samp>
 - <samp>[GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/) <kbd>2022-02-22T12:00-05:00</kbd></samp>
 - <samp>[Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/) <kbd>2022-02-17T13:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/) <kbd>2022-02-16T12:38-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/) <kbd>2022-02-15T18:23-05:00</kbd></samp>
 - <samp>[The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/) <kbd>2022-02-15T12:17-05:00</kbd></samp>
-- <samp>[Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-02-15T10:58-05:00</kbd></samp>
-- <samp>[Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) <kbd>2022-02-14T11:57-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
