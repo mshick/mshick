@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-01T20:31-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-02T07:33-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-01T18:40-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/) <kbd>2022-03-02T18:24-05:00</kbd></samp>
+- <samp>[Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/) <kbd>2022-03-02T16:56-05:00</kbd></samp>
 - <samp>[A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/) <kbd>2022-02-23T14:54-05:00</kbd></samp>
 - <samp>[Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/) <kbd>2022-02-23T13:10-05:00</kbd></samp>
 - <samp>[Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/) <kbd>2022-02-22T12:18-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) <kbd>2022-02-17T12:59-05:00</kbd></samp>
 - <samp>[How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/) <kbd>2022-02-16T13:17-05:00</kbd></samp>
 - <samp>[Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/) <kbd>2022-02-16T12:38-05:00</kbd></samp>
-- <samp>[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/) <kbd>2022-02-15T18:23-05:00</kbd></samp>
-- <samp>[The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/) <kbd>2022-02-15T12:17-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
