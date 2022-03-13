@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[newnewsite](https://github.com/mshick/newnewsite) <kbd>2022-03-12T12:26-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-12T07:26-05:00</kbd></samp>
+- <samp>[newnewsite](https://github.com/mshick/newnewsite) <kbd>2022-03-12T20:08-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-12T20:05-05:00</kbd></samp>
 - <samp>[gallery-bug](https://github.com/mshick/gallery-bug) <kbd>2022-03-11T11:05-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-01T18:40-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
