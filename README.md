@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-15T21:10-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-03-16T18:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-16T08:28-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-15T18:44-04:00</kbd></samp>
-- <samp>[newnewsite](https://github.com/mshick/newnewsite) <kbd>2022-03-15T14:41-04:00</kbd></samp>
 - <samp>[gallery-bug](https://github.com/mshick/gallery-bug) <kbd>2022-03-11T11:05-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-02-13T09:22-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/) <kbd>2022-03-16T10:37-04:00</kbd></samp>
 - <samp>[Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/) <kbd>2022-03-10T13:36-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/) <kbd>2022-03-02T18:24-05:00</kbd></samp>
 - <samp>[Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/) <kbd>2022-03-02T16:56-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/) <kbd>2022-02-22T12:00-05:00</kbd></samp>
 - <samp>[Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/) <kbd>2022-02-17T13:00-05:00</kbd></samp>
 - <samp>[Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) <kbd>2022-02-17T12:59-05:00</kbd></samp>
-- <samp>[How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/) <kbd>2022-02-16T13:17-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
