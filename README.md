@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-22T21:21-04:00</kbd></samp>
 - <samp>[test-imports](https://github.com/mshick/test-imports) <kbd>2022-03-22T16:37-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-22T08:30-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-03-20T08:46-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-15T18:44-04:00</kbd></samp>
 - <samp>[gallery-bug](https://github.com/mshick/gallery-bug) <kbd>2022-03-11T11:05-05:00</kbd></samp>
