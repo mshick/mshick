@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-22T21:21-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-23T08:30-04:00</kbd></samp>
 - <samp>[test-imports](https://github.com/mshick/test-imports) <kbd>2022-03-22T16:37-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-03-20T08:46-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-15T18:44-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/) <kbd>2022-03-23T16:39-04:00</kbd></samp>
+- <samp>[GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/) <kbd>2022-03-23T12:30-04:00</kbd></samp>
 - <samp>[Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/) <kbd>2022-03-22T19:47-04:00</kbd></samp>
 - <samp>[Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/) <kbd>2022-03-22T13:48-04:00</kbd></samp>
 - <samp>[Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/) <kbd>2022-03-21T17:20-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/) <kbd>2022-03-16T10:37-04:00</kbd></samp>
 - <samp>[Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/) <kbd>2022-03-10T13:36-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/) <kbd>2022-03-02T18:24-05:00</kbd></samp>
-- <samp>[Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/) <kbd>2022-03-02T16:56-05:00</kbd></samp>
-- <samp>[A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/) <kbd>2022-02-23T14:54-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
