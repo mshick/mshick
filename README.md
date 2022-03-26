@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-24T21:11-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-03-25T15:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-25T09:00-04:00</kbd></samp>
 - <samp>[test-imports](https://github.com/mshick/test-imports) <kbd>2022-03-22T16:37-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-03-20T08:46-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-15T18:44-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-02-13T01:30-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-02-11T21:48-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2022-02-11T00:30-05:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-01-22T04:52-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/) <kbd>2022-03-25T14:00-04:00</kbd></samp>
 - <samp>[An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/) <kbd>2022-03-23T16:39-04:00</kbd></samp>
 - <samp>[GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/) <kbd>2022-03-23T12:30-04:00</kbd></samp>
 - <samp>[Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/) <kbd>2022-03-22T19:47-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/) <kbd>2022-03-17T19:05-04:00</kbd></samp>
 - <samp>[Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/) <kbd>2022-03-16T10:37-04:00</kbd></samp>
 - <samp>[Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/) <kbd>2022-03-10T13:36-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/) <kbd>2022-03-02T18:24-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
