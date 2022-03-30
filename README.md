@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-28T21:18-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-29T08:34-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-03-26T17:29-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/) <kbd>2022-03-29T12:30-04:00</kbd></samp>
+- <samp>[Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/) <kbd>2022-03-29T06:00-04:00</kbd></samp>
 - <samp>[How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/) <kbd>2022-03-28T13:00-04:00</kbd></samp>
 - <samp>[Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/) <kbd>2022-03-25T14:00-04:00</kbd></samp>
 - <samp>[An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/) <kbd>2022-03-23T16:39-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/) <kbd>2022-03-22T13:48-04:00</kbd></samp>
 - <samp>[Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/) <kbd>2022-03-21T17:20-04:00</kbd></samp>
 - <samp>[Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/) <kbd>2022-03-21T13:41-04:00</kbd></samp>
-- <samp>[Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/) <kbd>2022-03-17T19:05-04:00</kbd></samp>
-- <samp>[Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/) <kbd>2022-03-16T10:37-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
