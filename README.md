@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-30T21:17-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-03-31T08:36-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-03-26T17:29-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/) <kbd>2022-03-31T13:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/) <kbd>2022-03-29T12:30-04:00</kbd></samp>
 - <samp>[Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/) <kbd>2022-03-29T06:00-04:00</kbd></samp>
 - <samp>[How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/) <kbd>2022-03-28T13:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/) <kbd>2022-03-22T19:47-04:00</kbd></samp>
 - <samp>[Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/) <kbd>2022-03-22T13:48-04:00</kbd></samp>
 - <samp>[Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/) <kbd>2022-03-21T17:20-04:00</kbd></samp>
-- <samp>[Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/) <kbd>2022-03-21T13:41-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
