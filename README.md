@@ -30,14 +30,14 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-03T21:22-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-04T15:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-04T08:35-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-03-26T17:29-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-03-26T07:00-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-03-25T15:59-04:00</kbd></samp>
 - <samp>[test-imports](https://github.com/mshick/test-imports) <kbd>2022-03-22T16:37-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-03-20T08:46-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-03-15T18:44-04:00</kbd></samp>
 - <samp>[gallery-bug](https://github.com/mshick/gallery-bug) <kbd>2022-03-11T11:05-05:00</kbd></samp>
 
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/) <kbd>2022-04-04T13:57-04:00</kbd></samp>
 - <samp>[How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/) <kbd>2022-03-31T13:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/) <kbd>2022-03-29T12:30-04:00</kbd></samp>
 - <samp>[Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/) <kbd>2022-03-29T06:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/) <kbd>2022-03-23T12:30-04:00</kbd></samp>
 - <samp>[Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/) <kbd>2022-03-22T19:47-04:00</kbd></samp>
 - <samp>[Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/) <kbd>2022-03-22T13:48-04:00</kbd></samp>
-- <samp>[Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/) <kbd>2022-03-21T17:20-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
