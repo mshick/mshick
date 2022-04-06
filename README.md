@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-04T21:16-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-05T08:34-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-04T15:03-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) <kbd>2022-04-05T11:50-04:00</kbd></samp>
 - <samp>[Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/) <kbd>2022-04-04T13:57-04:00</kbd></samp>
 - <samp>[How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/) <kbd>2022-03-31T13:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/) <kbd>2022-03-29T12:30-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/) <kbd>2022-03-23T16:39-04:00</kbd></samp>
 - <samp>[GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/) <kbd>2022-03-23T12:30-04:00</kbd></samp>
 - <samp>[Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/) <kbd>2022-03-22T19:47-04:00</kbd></samp>
-- <samp>[Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/) <kbd>2022-03-22T13:48-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
