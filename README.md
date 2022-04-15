@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-13T21:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-14T08:34-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-04T15:03-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/) <kbd>2022-04-14T12:30-04:00</kbd></samp>
 - <samp>[Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/) <kbd>2022-04-12T13:51-04:00</kbd></samp>
 - <samp>[What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/) <kbd>2022-04-12T13:00-04:00</kbd></samp>
 - <samp>[Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/) <kbd>2022-04-11T13:20-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/) <kbd>2022-04-06T14:45-04:00</kbd></samp>
 - <samp>[Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/) <kbd>2022-04-06T14:13-04:00</kbd></samp>
 - <samp>[How Dependabot empowers you to keep your projects secure](https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/) <kbd>2022-04-06T11:55-04:00</kbd></samp>
-- <samp>[4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) <kbd>2022-04-05T11:50-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
