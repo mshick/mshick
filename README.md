@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-18T21:41-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-18T17:35-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-19T14:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-19T08:41-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Sharing security expertise through CodeQL packs (Part I)](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/) <kbd>2022-04-19T13:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/) <kbd>2022-04-18T12:44-04:00</kbd></samp>
 - <samp>[Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) <kbd>2022-04-15T18:35-04:00</kbd></samp>
 - <samp>[Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/) <kbd>2022-04-14T12:30-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/) <kbd>2022-04-08T13:00-04:00</kbd></samp>
 - <samp>[Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/) <kbd>2022-04-07T14:00-04:00</kbd></samp>
 - <samp>[Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/) <kbd>2022-04-07T09:18-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/) <kbd>2022-04-06T14:45-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
