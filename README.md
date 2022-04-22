@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-20T21:40-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-20T12:48-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-04-21T17:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-04-21T08:37-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/) <kbd>2022-04-21T17:14-04:00</kbd></samp>
+- <samp>[Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/) <kbd>2022-04-21T12:30-04:00</kbd></samp>
 - <samp>[Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/) <kbd>2022-04-20T14:38-04:00</kbd></samp>
 - <samp>[Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/) <kbd>2022-04-20T12:00-04:00</kbd></samp>
 - <samp>[Sharing security expertise through CodeQL packs (Part I)](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/) <kbd>2022-04-19T13:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/) <kbd>2022-04-14T12:30-04:00</kbd></samp>
 - <samp>[Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/) <kbd>2022-04-12T13:51-04:00</kbd></samp>
 - <samp>[What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/) <kbd>2022-04-12T13:00-04:00</kbd></samp>
-- <samp>[Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/) <kbd>2022-04-11T13:20-04:00</kbd></samp>
-- <samp>[Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/) <kbd>2022-04-08T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
