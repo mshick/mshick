@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-01T08:30-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-01T21:45-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -56,7 +56,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/) <kbd>2022-04-29T11:00-04:00</kbd></samp>
 - <samp>[Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/) <kbd>2022-04-28T11:55-04:00</kbd></samp>
 - <samp>[GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/) <kbd>2022-04-26T12:00-04:00</kbd></samp>
-- <samp>[Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/) <kbd>2022-04-25T13:29-04:00</kbd></samp>
+- <samp>[Being friendly: Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/) <kbd>2022-04-25T13:29-04:00</kbd></samp>
 - <samp>[Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/) <kbd>2022-04-23T03:01-04:00</kbd></samp>
 - <samp>[Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/) <kbd>2022-04-22T12:30-04:00</kbd></samp>
 - <samp>[5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/) <kbd>2022-04-22T10:59-04:00</kbd></samp>
