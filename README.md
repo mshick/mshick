@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-01T21:45-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-02T08:39-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/) <kbd>2022-05-02T12:26-04:00</kbd></samp>
 - <samp>[Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/) <kbd>2022-04-29T11:00-04:00</kbd></samp>
 - <samp>[Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/) <kbd>2022-04-28T11:55-04:00</kbd></samp>
 - <samp>[GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/) <kbd>2022-04-26T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/) <kbd>2022-04-22T10:59-04:00</kbd></samp>
 - <samp>[Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/) <kbd>2022-04-21T17:14-04:00</kbd></samp>
 - <samp>[Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/) <kbd>2022-04-21T12:30-04:00</kbd></samp>
-- <samp>[Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/) <kbd>2022-04-20T14:38-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
