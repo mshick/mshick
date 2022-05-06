@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-04T21:40-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-05T08:42-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[20 of our favorite games + source code from Ludum Dare 50](https://github.blog/2022-05-05-ludum-dare-50/) <kbd>2022-05-05T16:37-04:00</kbd></samp>
+- <samp>[The ReadME Project Q&#038;A: What you need to know about teaching technical skills](https://github.blog/2022-05-05-the-readme-project-qa-what-you-need-to-know-about-teaching-technical-skills/) <kbd>2022-05-05T13:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/) <kbd>2022-05-04T18:01-04:00</kbd></samp>
 - <samp>[Software security starts with the developer: Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/) <kbd>2022-05-04T11:04-04:00</kbd></samp>
 - <samp>[Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/) <kbd>2022-05-02T12:26-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/) <kbd>2022-04-26T12:00-04:00</kbd></samp>
 - <samp>[Being friendly: Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/) <kbd>2022-04-25T13:29-04:00</kbd></samp>
 - <samp>[Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/) <kbd>2022-04-23T03:01-04:00</kbd></samp>
-- <samp>[Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/) <kbd>2022-04-22T12:30-04:00</kbd></samp>
-- <samp>[5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/) <kbd>2022-04-22T10:59-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
