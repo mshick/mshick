@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-19T21:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-20T08:36-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/) <kbd>2022-05-20T12:00-04:00</kbd></samp>
+- <samp>[Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/) <kbd>2022-05-20T11:27-04:00</kbd></samp>
 - <samp>[Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/) <kbd>2022-05-19T13:41-04:00</kbd></samp>
 - <samp>[How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/) <kbd>2022-05-19T12:48-04:00</kbd></samp>
 - <samp>[Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/) <kbd>2022-05-18T17:50-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Achieves ISO/IEC 27001:2013 Certification!](https://github.blog/2022-05-16-github-achieves-iso-iec-270012013-certification/) <kbd>2022-05-16T12:00-04:00</kbd></samp>
 - <samp>[Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/) <kbd>2022-05-11T14:00-04:00</kbd></samp>
 - <samp>[Open Source Monthly &#8211; May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/) <kbd>2022-05-11T11:00-04:00</kbd></samp>
-- <samp>[Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/) <kbd>2022-05-10T12:00-04:00</kbd></samp>
-- <samp>[Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/) <kbd>2022-05-09T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
