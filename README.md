@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-24T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-25T08:36-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) <kbd>2022-05-25T18:22-04:00</kbd></samp>
 - <samp>[Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/) <kbd>2022-05-24T12:00-04:00</kbd></samp>
 - <samp>[GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/) <kbd>2022-05-23T23:30-04:00</kbd></samp>
 - <samp>[Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/) <kbd>2022-05-23T13:54-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/) <kbd>2022-05-19T12:48-04:00</kbd></samp>
 - <samp>[Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/) <kbd>2022-05-18T17:50-04:00</kbd></samp>
 - <samp>[How to measure innersource across your organization](https://github.blog/2022-05-16-how-to-measure-innersource-across-your-organization/) <kbd>2022-05-16T18:29-04:00</kbd></samp>
-- <samp>[How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/) <kbd>2022-05-16T12:02-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
