@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-30T21:43-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-31T08:36-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/) <kbd>2022-05-31T12:36-04:00</kbd></samp>
 - <samp>[Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/) <kbd>2022-05-31T04:00-04:00</kbd></samp>
 - <samp>[npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/) <kbd>2022-05-27T00:37-04:00</kbd></samp>
 - <samp>[How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) <kbd>2022-05-25T18:22-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/) <kbd>2022-05-20T12:00-04:00</kbd></samp>
 - <samp>[Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/) <kbd>2022-05-20T11:27-04:00</kbd></samp>
 - <samp>[Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/) <kbd>2022-05-19T13:41-04:00</kbd></samp>
-- <samp>[How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/) <kbd>2022-05-19T12:48-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
