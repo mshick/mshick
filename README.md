@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-05-31T21:57-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-01T08:41-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/) <kbd>2022-06-01T17:09-04:00</kbd></samp>
+- <samp>[Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) <kbd>2022-06-01T15:10-04:00</kbd></samp>
+- <samp>[GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) <kbd>2022-06-01T14:55-04:00</kbd></samp>
+- <samp>[Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/) <kbd>2022-06-01T12:28-04:00</kbd></samp>
+- <samp>[GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/) <kbd>2022-06-01T09:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/) <kbd>2022-05-31T12:36-04:00</kbd></samp>
 - <samp>[Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/) <kbd>2022-05-31T04:00-04:00</kbd></samp>
 - <samp>[npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/) <kbd>2022-05-27T00:37-04:00</kbd></samp>
 - <samp>[How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) <kbd>2022-05-25T18:22-04:00</kbd></samp>
 - <samp>[Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/) <kbd>2022-05-24T12:00-04:00</kbd></samp>
-- <samp>[GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/) <kbd>2022-05-23T23:30-04:00</kbd></samp>
-- <samp>[Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/) <kbd>2022-05-23T13:54-04:00</kbd></samp>
-- <samp>[Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/) <kbd>2022-05-20T12:00-04:00</kbd></samp>
-- <samp>[Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/) <kbd>2022-05-20T11:27-04:00</kbd></samp>
-- <samp>[Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/) <kbd>2022-05-19T13:41-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
