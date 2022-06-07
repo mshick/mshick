@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-05T21:42-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-06T08:36-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) <kbd>2022-06-06T12:15-04:00</kbd></samp>
+- <samp>[GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/) <kbd>2022-06-06T06:15-04:00</kbd></samp>
 - <samp>[A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/) <kbd>2022-06-03T13:31-04:00</kbd></samp>
 - <samp>[Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/) <kbd>2022-06-03T05:00-04:00</kbd></samp>
 - <samp>[What&#8217;s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/) <kbd>2022-06-02T12:52-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) <kbd>2022-06-01T15:10-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) <kbd>2022-06-01T14:55-04:00</kbd></samp>
 - <samp>[Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/) <kbd>2022-06-01T12:28-04:00</kbd></samp>
-- <samp>[GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/) <kbd>2022-06-01T09:00-04:00</kbd></samp>
-- <samp>[GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/) <kbd>2022-05-31T12:36-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
