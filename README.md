@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-07T21:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-08T08:37-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/) <kbd>2022-06-08T11:00-04:00</kbd></samp>
+- <samp>[Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/) <kbd>2022-06-08T04:00-04:00</kbd></samp>
 - <samp>[One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/) <kbd>2022-06-07T15:55-04:00</kbd></samp>
 - <samp>[Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) <kbd>2022-06-06T12:15-04:00</kbd></samp>
 - <samp>[GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/) <kbd>2022-06-06T06:15-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What&#8217;s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/) <kbd>2022-06-02T12:52-04:00</kbd></samp>
 - <samp>[GitHub All In: Our first student cohort and what’s next](https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/) <kbd>2022-06-02T12:00-04:00</kbd></samp>
 - <samp>[GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/) <kbd>2022-06-01T17:09-04:00</kbd></samp>
-- <samp>[Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) <kbd>2022-06-01T15:10-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) <kbd>2022-06-01T14:55-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
