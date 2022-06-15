@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-13T21:54-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-14T08:34-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/) <kbd>2022-06-14T15:04-04:00</kbd></samp>
+- <samp>[How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/) <kbd>2022-06-14T12:55-04:00</kbd></samp>
 - <samp>[Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/) <kbd>2022-06-13T16:47-04:00</kbd></samp>
 - <samp>[Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/) <kbd>2022-06-10T15:12-04:00</kbd></samp>
 - <samp>[How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/) <kbd>2022-06-10T14:37-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) <kbd>2022-06-09T11:00-04:00</kbd></samp>
 - <samp>[Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/) <kbd>2022-06-08T11:00-04:00</kbd></samp>
 - <samp>[Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/) <kbd>2022-06-08T04:00-04:00</kbd></samp>
-- <samp>[One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/) <kbd>2022-06-07T15:55-04:00</kbd></samp>
-- <samp>[Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) <kbd>2022-06-06T12:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
