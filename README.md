@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-14T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-15T08:34-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/) <kbd>2022-06-15T20:29-04:00</kbd></samp>
+- <samp>[Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/) <kbd>2022-06-15T13:00-04:00</kbd></samp>
+- <samp>[GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/) <kbd>2022-06-15T11:46-04:00</kbd></samp>
 - <samp>[Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/) <kbd>2022-06-14T15:04-04:00</kbd></samp>
 - <samp>[How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/) <kbd>2022-06-14T12:55-04:00</kbd></samp>
 - <samp>[Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/) <kbd>2022-06-13T16:47-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/) <kbd>2022-06-10T14:37-04:00</kbd></samp>
 - <samp>[Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/) <kbd>2022-06-09T16:47-04:00</kbd></samp>
 - <samp>[Introducing Entitlements: GitHub&#8217;s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/) <kbd>2022-06-09T11:00-04:00</kbd></samp>
-- <samp>[Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) <kbd>2022-06-09T11:00-04:00</kbd></samp>
-- <samp>[Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/) <kbd>2022-06-08T11:00-04:00</kbd></samp>
-- <samp>[Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/) <kbd>2022-06-08T04:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
