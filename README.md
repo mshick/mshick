@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-16T21:45-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-17T08:40-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) <kbd>2022-06-17T15:00-04:00</kbd></samp>
 - <samp>[Release Radar · May 2022 Edition](https://github.blog/2022-06-16-release-radar-may-2022/) <kbd>2022-06-16T18:05-04:00</kbd></samp>
 - <samp>[The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/) <kbd>2022-06-16T12:00-04:00</kbd></samp>
 - <samp>[Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/) <kbd>2022-06-15T20:29-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/) <kbd>2022-06-14T12:55-04:00</kbd></samp>
 - <samp>[Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/) <kbd>2022-06-13T16:47-04:00</kbd></samp>
 - <samp>[Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/) <kbd>2022-06-10T15:12-04:00</kbd></samp>
-- <samp>[How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/) <kbd>2022-06-10T14:37-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
