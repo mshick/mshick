@@ -30,10 +30,10 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-22T12:17-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-22T08:35-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-06-22T01:21-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-21T21:53-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-06-03T10:48-04:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-04-12T20:48-04:00</kbd></samp>
 - <samp>[bundler-contentlayer-repro](https://github.com/mshick/bundler-contentlayer-repro) <kbd>2022-03-28T12:12-04:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-03-26T22:13-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-03-26T17:29-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/) <kbd>2022-06-22T17:04-04:00</kbd></samp>
 - <samp>[GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) <kbd>2022-06-21T12:04-04:00</kbd></samp>
 - <samp>[GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/) <kbd>2022-06-20T13:00-04:00</kbd></samp>
 - <samp>[Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) <kbd>2022-06-17T15:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/) <kbd>2022-06-15T13:00-04:00</kbd></samp>
 - <samp>[GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/) <kbd>2022-06-15T11:46-04:00</kbd></samp>
 - <samp>[Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/) <kbd>2022-06-14T15:04-04:00</kbd></samp>
-- <samp>[How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/) <kbd>2022-06-14T12:55-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
