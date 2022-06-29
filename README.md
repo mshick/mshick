@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-27T21:49-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-06-28T08:37-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-24T12:03-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-06-24T05:38-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-06-23T08:00-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/) <kbd>2022-06-28T13:00-04:00</kbd></samp>
 - <samp>[GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/) <kbd>2022-06-27T16:24-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/) <kbd>2022-06-27T14:01-04:00</kbd></samp>
 - <samp>[Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/) <kbd>2022-06-24T11:32-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) <kbd>2022-06-17T15:00-04:00</kbd></samp>
 - <samp>[Release Radar · May 2022 Edition](https://github.blog/2022-06-16-release-radar-may-2022/) <kbd>2022-06-16T18:05-04:00</kbd></samp>
 - <samp>[The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/) <kbd>2022-06-16T12:00-04:00</kbd></samp>
-- <samp>[Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/) <kbd>2022-06-15T20:29-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
