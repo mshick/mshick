@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-05T21:59-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-05T08:37-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-24T12:03-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-06-24T05:38-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-06-23T08:00-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/) <kbd>2022-07-06T04:00-04:00</kbd></samp>
 - <samp>[Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/) <kbd>2022-07-01T13:00-04:00</kbd></samp>
 - <samp>[How the GitHub Security Team uses projects and GitHub Actions for planning, tracking, and more](https://github.blog/2022-07-01-how-the-github-security-team-uses-projects-and-github-actions-for-planning-tracking-and-more/) <kbd>2022-07-01T11:22-04:00</kbd></samp>
 - <samp>[Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) <kbd>2022-06-30T15:34-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/) <kbd>2022-06-29T13:00-04:00</kbd></samp>
 - <samp>[Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/) <kbd>2022-06-28T13:00-04:00</kbd></samp>
 - <samp>[GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/) <kbd>2022-06-27T16:24-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/) <kbd>2022-06-27T14:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
