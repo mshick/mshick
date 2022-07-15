@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-13T21:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-14T08:36-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-24T12:03-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-06-24T05:38-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/) <kbd>2022-07-14T12:05-04:00</kbd></samp>
 - <samp>[Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/) <kbd>2022-07-07T14:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/) <kbd>2022-07-06T12:00-04:00</kbd></samp>
 - <samp>[Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/) <kbd>2022-07-06T04:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/) <kbd>2022-06-30T11:11-04:00</kbd></samp>
 - <samp>[Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/) <kbd>2022-06-30T11:00-04:00</kbd></samp>
 - <samp>[The Chromium super (inline cache) type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/) <kbd>2022-06-29T14:39-04:00</kbd></samp>
-- <samp>[Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/) <kbd>2022-06-29T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
