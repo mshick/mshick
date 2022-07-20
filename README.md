@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-18T22:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-07-19T08:37-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-07-15T17:25-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-07-15T10:52-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/) <kbd>2022-07-19T12:15-04:00</kbd></samp>
 - <samp>[Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/) <kbd>2022-07-18T12:06-04:00</kbd></samp>
 - <samp>[Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/) <kbd>2022-07-14T12:05-04:00</kbd></samp>
 - <samp>[Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/) <kbd>2022-07-07T14:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How the GitHub Security Team uses projects and GitHub Actions for planning, tracking, and more](https://github.blog/2022-07-01-how-the-github-security-team-uses-projects-and-github-actions-for-planning-tracking-and-more/) <kbd>2022-07-01T11:22-04:00</kbd></samp>
 - <samp>[Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) <kbd>2022-06-30T15:34-04:00</kbd></samp>
 - <samp>[What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/) <kbd>2022-06-30T11:11-04:00</kbd></samp>
-- <samp>[Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/) <kbd>2022-06-30T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
