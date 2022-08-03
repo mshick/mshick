@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-01T22:05-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-02T08:40-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-07-22T14:14-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-07-21T20:47-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-07-15T10:52-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/) <kbd>2022-08-02T09:00-04:00</kbd></samp>
 - <samp>[Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/) <kbd>2022-07-28T13:00-04:00</kbd></samp>
 - <samp>[GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/) <kbd>2022-07-28T09:00-04:00</kbd></samp>
 - <samp>[Release Radar · June 2022 Edition](https://github.blog/2022-07-27-release-radar-jun-2022/) <kbd>2022-07-27T13:10-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing even more security enhancements to npm](https://github.blog/2022-07-26-introducing-even-more-security-enhancements-to-npm/) <kbd>2022-07-26T12:00-04:00</kbd></samp>
 - <samp>[Tips &#038; tricks for using GitHub Projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/) <kbd>2022-07-21T12:00-04:00</kbd></samp>
 - <samp>[Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/) <kbd>2022-07-20T11:58-04:00</kbd></samp>
-- <samp>[6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/) <kbd>2022-07-19T12:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
