@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-02T21:52-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-02T08:40-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-07-21T20:47-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-07-15T10:52-04:00</kbd></samp>
