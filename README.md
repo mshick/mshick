@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-07T21:46-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-08T08:36-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-07-21T20:47-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/) <kbd>2022-08-08T12:22-04:00</kbd></samp>
+- <samp>[All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/) <kbd>2022-08-08T11:00-04:00</kbd></samp>
 - <samp>[Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/) <kbd>2022-08-05T13:00-04:00</kbd></samp>
 - <samp>[5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/) <kbd>2022-08-04T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/) <kbd>2022-08-03T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/) <kbd>2022-07-28T09:00-04:00</kbd></samp>
 - <samp>[Release Radar · June 2022 Edition](https://github.blog/2022-07-27-release-radar-jun-2022/) <kbd>2022-07-27T13:10-04:00</kbd></samp>
 - <samp>[Corrupting memory without memory corruption](https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/) <kbd>2022-07-27T13:00-04:00</kbd></samp>
-- <samp>[Planning next to your code &#8211; GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/) <kbd>2022-07-27T12:00-04:00</kbd></samp>
-- <samp>[Launching GitHub Community: Powered by GitHub Discussions](https://github.blog/2022-07-26-launching-github-community-powered-by-github-discussions/) <kbd>2022-07-26T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
