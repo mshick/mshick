@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-16T22:04-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-17T08:39-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-07-21T20:47-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/) <kbd>2022-08-17T12:00-04:00</kbd></samp>
+- <samp>[GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/) <kbd>2022-08-17T09:00-04:00</kbd></samp>
 - <samp>[2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/) <kbd>2022-08-16T17:00-04:00</kbd></samp>
 - <samp>[The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/) <kbd>2022-08-15T11:00-04:00</kbd></samp>
 - <samp>[GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) <kbd>2022-08-10T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/) <kbd>2022-08-08T11:00-04:00</kbd></samp>
 - <samp>[Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/) <kbd>2022-08-05T13:00-04:00</kbd></samp>
 - <samp>[5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/) <kbd>2022-08-04T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/) <kbd>2022-08-03T12:00-04:00</kbd></samp>
-- <samp>[Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/) <kbd>2022-08-02T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
