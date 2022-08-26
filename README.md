@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-24T22:00-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-25T08:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-08-18T15:18-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/) <kbd>2022-08-25T13:00-04:00</kbd></samp>
+- <samp>[Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/) <kbd>2022-08-25T10:16-04:00</kbd></samp>
+- <samp>[Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/) <kbd>2022-08-25T09:00-04:00</kbd></samp>
 - <samp>[The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/) <kbd>2022-08-23T09:00-04:00</kbd></samp>
 - <samp>[GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/) <kbd>2022-08-17T12:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/) <kbd>2022-08-17T09:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/) <kbd>2022-08-15T11:00-04:00</kbd></samp>
 - <samp>[GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) <kbd>2022-08-10T12:00-04:00</kbd></samp>
 - <samp>[Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/) <kbd>2022-08-09T11:00-04:00</kbd></samp>
-- <samp>[New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/) <kbd>2022-08-08T12:22-04:00</kbd></samp>
-- <samp>[All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/) <kbd>2022-08-08T11:00-04:00</kbd></samp>
-- <samp>[Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/) <kbd>2022-08-05T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
