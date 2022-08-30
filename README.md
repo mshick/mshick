@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-28T22:08-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-08-29T08:37-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-08-18T15:18-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Git&#8217;s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/) <kbd>2022-08-29T09:00-04:00</kbd></samp>
 - <samp>[3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/) <kbd>2022-08-26T12:00-04:00</kbd></samp>
 - <samp>[Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/) <kbd>2022-08-25T13:00-04:00</kbd></samp>
 - <samp>[Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/) <kbd>2022-08-25T10:16-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/) <kbd>2022-08-17T09:00-04:00</kbd></samp>
 - <samp>[2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/) <kbd>2022-08-16T17:00-04:00</kbd></samp>
 - <samp>[The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/) <kbd>2022-08-15T11:00-04:00</kbd></samp>
-- <samp>[GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) <kbd>2022-08-10T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
