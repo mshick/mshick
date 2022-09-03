@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-01T22:01-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-02T08:36-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/) <kbd>2022-09-02T19:13-04:00</kbd></samp>
+- <samp>[Git&#8217;s database internals V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/) <kbd>2022-09-02T09:05-04:00</kbd></samp>
 - <samp>[GitHub Actions: introducing the new, larger GitHub-hosted runners beta](https://github.blog/2022-09-01-github-actions-introducing-the-new-larger-github-hosted-runners-beta/) <kbd>2022-09-01T12:08-04:00</kbd></samp>
 - <samp>[Git&#8217;s database internals IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/) <kbd>2022-09-01T09:00-04:00</kbd></samp>
 - <samp>[What you can expect at GitHub Universe 2022: cloud, security, community, and AI](https://github.blog/2022-08-31-what-you-can-expect-at-github-universe-2022-cloud-security-community-and-ai/) <kbd>2022-08-31T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git&#8217;s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/) <kbd>2022-08-29T09:00-04:00</kbd></samp>
 - <samp>[3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/) <kbd>2022-08-26T12:00-04:00</kbd></samp>
 - <samp>[Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/) <kbd>2022-08-25T13:00-04:00</kbd></samp>
-- <samp>[Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/) <kbd>2022-08-25T10:16-04:00</kbd></samp>
-- <samp>[Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/) <kbd>2022-08-25T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
