@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-06T22:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-07T08:39-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/) <kbd>2022-09-07T14:00-04:00</kbd></samp>
+- <samp>[Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) <kbd>2022-09-07T12:00-04:00</kbd></samp>
 - <samp>[Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/) <kbd>2022-09-06T12:00-04:00</kbd></samp>
 - <samp>[Contributing to open source at GitHub](https://github.blog/2022-09-06-contributing-to-open-source-at-github/) <kbd>2022-09-06T09:30-04:00</kbd></samp>
 - <samp>[Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/) <kbd>2022-09-02T19:13-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git&#8217;s database internals IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/) <kbd>2022-09-01T09:00-04:00</kbd></samp>
 - <samp>[What you can expect at GitHub Universe 2022: cloud, security, community, and AI](https://github.blog/2022-08-31-what-you-can-expect-at-github-universe-2022-cloud-security-community-and-ai/) <kbd>2022-08-31T12:00-04:00</kbd></samp>
 - <samp>[Git&#8217;s database internals III: file history queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/) <kbd>2022-08-31T10:00-04:00</kbd></samp>
-- <samp>[Git&#8217;s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/) <kbd>2022-08-30T12:00-04:00</kbd></samp>
-- <samp>[Git&#8217;s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/) <kbd>2022-08-29T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
