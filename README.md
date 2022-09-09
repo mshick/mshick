@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-07T22:04-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-08T08:38-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-08-02T13:59-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot now available for teachers](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/) <kbd>2022-09-08T14:00-04:00</kbd></samp>
 - <samp>[Research: open source software in India, Kenya, Egypt, and Mexico](https://github.blog/2022-09-08-research-open-source-software-in-india-kenya-egypt-and-mexico/) <kbd>2022-09-08T03:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/) <kbd>2022-09-07T14:00-04:00</kbd></samp>
 - <samp>[Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) <kbd>2022-09-07T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git&#8217;s database internals V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/) <kbd>2022-09-02T09:05-04:00</kbd></samp>
 - <samp>[GitHub Actions: introducing the new, larger GitHub-hosted runners beta](https://github.blog/2022-09-01-github-actions-introducing-the-new-larger-github-hosted-runners-beta/) <kbd>2022-09-01T12:08-04:00</kbd></samp>
 - <samp>[Git&#8217;s database internals IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/) <kbd>2022-09-01T09:00-04:00</kbd></samp>
-- <samp>[What you can expect at GitHub Universe 2022: cloud, security, community, and AI](https://github.blog/2022-08-31-what-you-can-expect-at-github-universe-2022-cloud-security-community-and-ai/) <kbd>2022-08-31T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
