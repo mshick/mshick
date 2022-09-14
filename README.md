@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-12T22:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-13T08:42-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-10T13:56-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/) <kbd>2022-09-13T12:00-04:00</kbd></samp>
+- <samp>[Join GitHub at the Grace Hopper Celebration 2022](https://github.blog/2022-09-13-join-github-at-the-grace-hopper-celebration-2022/) <kbd>2022-09-13T09:30-04:00</kbd></samp>
 - <samp>[Gear-up and unlock the newest GitHub Global Campus features](https://github.blog/2022-09-12-gear-up-and-unlock-the-newest-github-global-campus-features/) <kbd>2022-09-12T15:17-04:00</kbd></samp>
 - <samp>[SCA vs SAST: what are they and which one is right for you?](https://github.blog/2022-09-09-sca-vs-sast-what-are-they-and-which-one-is-right-for-you/) <kbd>2022-09-09T11:16-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available for teachers](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/) <kbd>2022-09-08T14:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) <kbd>2022-09-07T12:00-04:00</kbd></samp>
 - <samp>[Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/) <kbd>2022-09-06T12:00-04:00</kbd></samp>
 - <samp>[Contributing to open source at GitHub](https://github.blog/2022-09-06-contributing-to-open-source-at-github/) <kbd>2022-09-06T09:30-04:00</kbd></samp>
-- <samp>[Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/) <kbd>2022-09-02T19:13-04:00</kbd></samp>
-- <samp>[Git&#8217;s database internals V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/) <kbd>2022-09-02T09:05-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
