@@ -30,13 +30,13 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-19T08:44-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-18T22:49-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-18T22:14-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-07-21T20:47-04:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-07-15T10:52-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-24T12:03-04:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-06-24T05:38-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-09-19T15:15-04:00</kbd></samp>
+- <samp>[5 steps to convince your boss to send you to GitHub Universe](https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/) <kbd>2022-09-19T14:02-04:00</kbd></samp>
+- <samp>[5 tips for prioritizing Dependabot alerts](https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/) <kbd>2022-09-19T12:28-04:00</kbd></samp>
 - <samp>[How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/) <kbd>2022-09-16T11:31-04:00</kbd></samp>
 - <samp>[8 things you didn’t know you could do with GitHub Copilot](https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/) <kbd>2022-09-14T12:00-04:00</kbd></samp>
 - <samp>[Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/) <kbd>2022-09-13T12:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Gear-up and unlock the newest GitHub Global Campus features](https://github.blog/2022-09-12-gear-up-and-unlock-the-newest-github-global-campus-features/) <kbd>2022-09-12T15:17-04:00</kbd></samp>
 - <samp>[SCA vs SAST: what are they and which one is right for you?](https://github.blog/2022-09-09-sca-vs-sast-what-are-they-and-which-one-is-right-for-you/) <kbd>2022-09-09T11:16-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available for teachers](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/) <kbd>2022-09-08T14:00-04:00</kbd></samp>
-- <samp>[Research: open source software in India, Kenya, Egypt, and Mexico](https://github.blog/2022-09-08-research-open-source-software-in-india-kenya-egypt-and-mexico/) <kbd>2022-09-08T03:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/) <kbd>2022-09-07T14:00-04:00</kbd></samp>
-- <samp>[Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) <kbd>2022-09-07T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
