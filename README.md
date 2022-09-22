@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-20T22:22-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-21T08:43-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-20T16:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Security alert: new phishing campaign targets GitHub users](https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/) <kbd>2022-09-21T17:49-04:00</kbd></samp>
+- <samp>[Applications for micro-mentoring at GitHub Universe 2022 are now live](https://github.blog/2022-09-21-applications-for-micro-mentoring-at-github-universe-2022-are-now-live/) <kbd>2022-09-21T12:00-04:00</kbd></samp>
+- <samp>[The ReadME Project: Built for you!](https://github.blog/2022-09-21-the-readme-project-built-for-you/) <kbd>2022-09-21T10:00-04:00</kbd></samp>
+- <samp>[Why we signed the Copenhagen Pledge on Tech for Democracy](https://github.blog/2022-09-21-why-we-signed-the-copenhagen-pledge-on-tech-for-democracy/) <kbd>2022-09-21T09:30-04:00</kbd></samp>
 - <samp>[Transform your software engineering practices with GitHub Enterprise](https://github.blog/2022-09-20-transform-your-software-engineering-practices-with-github-enterprise/) <kbd>2022-09-20T14:00-04:00</kbd></samp>
 - <samp>[“If you don’t make it beautiful, it’s for sure doomed”: putting the Vault in GitHub’s Arctic Code Vault](https://github.blog/2022-09-20-if-you-dont-make-it-beautiful-its-for-sure-doomed-putting-the-vault-in-githubs-arctic-code-vault/) <kbd>2022-09-20T12:00-04:00</kbd></samp>
 - <samp>[Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-09-19T15:15-04:00</kbd></samp>
 - <samp>[5 steps to convince your boss to send you to GitHub Universe](https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/) <kbd>2022-09-19T14:02-04:00</kbd></samp>
 - <samp>[5 tips for prioritizing Dependabot alerts](https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/) <kbd>2022-09-19T12:28-04:00</kbd></samp>
 - <samp>[How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/) <kbd>2022-09-16T11:31-04:00</kbd></samp>
-- <samp>[8 things you didn’t know you could do with GitHub Copilot](https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/) <kbd>2022-09-14T12:00-04:00</kbd></samp>
-- <samp>[Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/) <kbd>2022-09-13T12:00-04:00</kbd></samp>
-- <samp>[Join GitHub at the Grace Hopper Celebration 2022](https://github.blog/2022-09-13-join-github-at-the-grace-hopper-celebration-2022/) <kbd>2022-09-13T09:30-04:00</kbd></samp>
-- <samp>[Gear-up and unlock the newest GitHub Global Campus features](https://github.blog/2022-09-12-gear-up-and-unlock-the-newest-github-global-campus-features/) <kbd>2022-09-12T15:17-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
