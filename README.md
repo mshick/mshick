@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-22T22:10-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-09-23T08:40-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-20T16:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-23-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-09-23T12:56-04:00</kbd></samp>
 - <samp>[GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available/) <kbd>2022-09-22T12:00-04:00</kbd></samp>
 - <samp>[Security alert: new phishing campaign targets GitHub users](https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/) <kbd>2022-09-21T17:49-04:00</kbd></samp>
 - <samp>[Applications for micro-mentoring at GitHub Universe 2022 are now live](https://github.blog/2022-09-21-applications-for-micro-mentoring-at-github-universe-2022-are-now-live/) <kbd>2022-09-21T12:00-04:00</kbd></samp>
@@ -60,7 +61,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Why we signed the Copenhagen Pledge on Tech for Democracy](https://github.blog/2022-09-21-why-we-signed-the-copenhagen-pledge-on-tech-for-democracy/) <kbd>2022-09-21T09:30-04:00</kbd></samp>
 - <samp>[Transform your software engineering practices with GitHub Enterprise](https://github.blog/2022-09-20-transform-your-software-engineering-practices-with-github-enterprise/) <kbd>2022-09-20T14:00-04:00</kbd></samp>
 - <samp>[“If you don’t make it beautiful, it’s for sure doomed”: putting the Vault in GitHub’s Arctic Code Vault](https://github.blog/2022-09-20-if-you-dont-make-it-beautiful-its-for-sure-doomed-putting-the-vault-in-githubs-arctic-code-vault/) <kbd>2022-09-20T12:00-04:00</kbd></samp>
-- <samp>[Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/) <kbd>2022-09-19T15:15-04:00</kbd></samp>
 - <samp>[5 steps to convince your boss to send you to GitHub Universe](https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/) <kbd>2022-09-19T14:02-04:00</kbd></samp>
 - <samp>[5 tips for prioritizing Dependabot alerts](https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/) <kbd>2022-09-19T12:28-04:00</kbd></samp>
 
