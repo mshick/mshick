@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-02T21:51-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-03T08:45-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-24T15:53-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/) <kbd>2022-10-03T14:01-04:00</kbd></samp>
 - <samp>[GitHub supports internet freedom and global availability in Iran](https://github.blog/2022-09-29-github-supports-internet-freedom-and-global-availability-in-iran/) <kbd>2022-09-29T15:11-04:00</kbd></samp>
 - <samp>[After the offer: staying in tech long-term](https://github.blog/2022-09-29-after-the-offer-staying-in-tech-long-term/) <kbd>2022-09-29T12:00-04:00</kbd></samp>
 - <samp>[Best practices on rolling out code scanning at enterprise scale](https://github.blog/2022-09-28-best-practices-on-rolling-out-code-scanning-at-enterprise-scale/) <kbd>2022-09-28T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Applications for micro-mentoring at GitHub Universe 2022 are now live](https://github.blog/2022-09-21-applications-for-micro-mentoring-at-github-universe-2022-are-now-live/) <kbd>2022-09-21T12:00-04:00</kbd></samp>
 - <samp>[The ReadME Project: Built for you!](https://github.blog/2022-09-21-the-readme-project-built-for-you/) <kbd>2022-09-21T10:00-04:00</kbd></samp>
 - <samp>[Why we signed the Copenhagen Pledge on Tech for Democracy](https://github.blog/2022-09-21-why-we-signed-the-copenhagen-pledge-on-tech-for-democracy/) <kbd>2022-09-21T09:30-04:00</kbd></samp>
-- <samp>[Transform your software engineering practices with GitHub Enterprise](https://github.blog/2022-09-20-transform-your-software-engineering-practices-with-github-enterprise/) <kbd>2022-09-20T14:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
