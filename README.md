@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-05T21:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-06T08:46-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-24T15:53-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Developers are now included in the WIPO Global Innovation Index](https://github.blog/2022-10-06-developers-are-now-included-in-the-wipo-global-innovation-index/) <kbd>2022-10-06T17:00-04:00</kbd></samp>
+- <samp>[GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/) <kbd>2022-10-06T14:00-04:00</kbd></samp>
 - <samp>[js13kGames 2022 winners 🏆](https://github.blog/2022-10-06-js13k-2022-winners/) <kbd>2022-10-06T03:01-04:00</kbd></samp>
 - <samp>[Detect secrets in your code more accurately with dry runs for custom patterns now available in GitHub Advanced Security](https://github.blog/2022-10-05-detect-secrets-in-your-code-more-accurately-with-dry-runs-for-custom-patterns/) <kbd>2022-10-05T14:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/) <kbd>2022-10-05T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Expand your open source contributions during Hacktoberfest 2022](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/) <kbd>2022-10-04T08:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/) <kbd>2022-10-03T14:01-04:00</kbd></samp>
 - <samp>[GitHub supports internet freedom and global availability in Iran](https://github.blog/2022-09-29-github-supports-internet-freedom-and-global-availability-in-iran/) <kbd>2022-09-29T15:11-04:00</kbd></samp>
-- <samp>[After the offer: staying in tech long-term](https://github.blog/2022-09-29-after-the-offer-staying-in-tech-long-term/) <kbd>2022-09-29T12:00-04:00</kbd></samp>
-- <samp>[Best practices on rolling out code scanning at enterprise scale](https://github.blog/2022-09-28-best-practices-on-rolling-out-code-scanning-at-enterprise-scale/) <kbd>2022-09-28T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
