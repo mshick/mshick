@@ -30,16 +30,16 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-09T22:07-04:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-10T17:33-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-10T13:34-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-10T08:49-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-09-24T15:53-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-09-01T12:04-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
 - <samp>[eslint-mdx-next](https://github.com/mshick/eslint-mdx-next) <kbd>2022-07-05T15:29-04:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-06-24T12:03-04:00</kbd></samp>
-- <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-06-24T05:38-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
