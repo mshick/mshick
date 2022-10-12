@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-10T22:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-11T08:46-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-10T17:33-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-10T13:34-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/) <kbd>2022-10-11T15:39-04:00</kbd></samp>
+- <samp>[On the go with GitHub Projects on GitHub Mobile (public beta)](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/) <kbd>2022-10-11T12:00-04:00</kbd></samp>
 - <samp>[Developers are now included in the WIPO Global Innovation Index](https://github.blog/2022-10-06-developers-are-now-included-in-the-wipo-global-innovation-index/) <kbd>2022-10-06T17:00-04:00</kbd></samp>
 - <samp>[GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/) <kbd>2022-10-06T14:00-04:00</kbd></samp>
 - <samp>[js13kGames 2022 winners 🏆](https://github.blog/2022-10-06-js13k-2022-winners/) <kbd>2022-10-06T03:01-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Working on a creative project? Unleash your originality and start to tinker with the Aspiring Creatives Experience](https://github.blog/2022-10-05-working-on-a-creative-project-unleash-your-originality-and-start-to-tinker-with-the-aspiring-creatives-experience/) <kbd>2022-10-05T11:00-04:00</kbd></samp>
 - <samp>[Two ways you can experience GitHub Universe](https://github.blog/2022-10-05-two-ways-you-can-experience-github-universe/) <kbd>2022-10-05T09:01-04:00</kbd></samp>
 - <samp>[Expand your open source contributions during Hacktoberfest 2022](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/) <kbd>2022-10-04T08:00-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/) <kbd>2022-10-03T14:01-04:00</kbd></samp>
-- <samp>[GitHub supports internet freedom and global availability in Iran](https://github.blog/2022-09-29-github-supports-internet-freedom-and-global-availability-in-iran/) <kbd>2022-09-29T15:11-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
