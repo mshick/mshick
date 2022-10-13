@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-11T22:20-04:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-10T17:33-04:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-12T17:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-12T08:43-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-10T13:34-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
@@ -54,6 +54,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 <!-- POSTS:START -->
 
 - <samp>[The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/) <kbd>2022-10-11T15:39-04:00</kbd></samp>
+- <samp>[View GitHub code scanning findings directly in VS Code and GitHub Codespaces](https://github.blog/2022-10-11-view-github-code-scanning-findings-directly-in-vs-code-and-github-codespaces/) <kbd>2022-10-11T15:10-04:00</kbd></samp>
 - <samp>[On the go with GitHub Projects on GitHub Mobile (public beta)](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/) <kbd>2022-10-11T12:00-04:00</kbd></samp>
 - <samp>[Developers are now included in the WIPO Global Innovation Index](https://github.blog/2022-10-06-developers-are-now-included-in-the-wipo-global-innovation-index/) <kbd>2022-10-06T17:00-04:00</kbd></samp>
 - <samp>[GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/) <kbd>2022-10-06T14:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/) <kbd>2022-10-05T12:00-04:00</kbd></samp>
 - <samp>[Working on a creative project? Unleash your originality and start to tinker with the Aspiring Creatives Experience](https://github.blog/2022-10-05-working-on-a-creative-project-unleash-your-originality-and-start-to-tinker-with-the-aspiring-creatives-experience/) <kbd>2022-10-05T11:00-04:00</kbd></samp>
 - <samp>[Two ways you can experience GitHub Universe](https://github.blog/2022-10-05-two-ways-you-can-experience-github-universe/) <kbd>2022-10-05T09:01-04:00</kbd></samp>
-- <samp>[Expand your open source contributions during Hacktoberfest 2022](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/) <kbd>2022-10-04T08:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
