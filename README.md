@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-13T22:22-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-14T08:44-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-10-12T23:20-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-12T17:59-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-10T13:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/) <kbd>2022-10-14T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) <kbd>2022-10-13T15:25-04:00</kbd></samp>
 - <samp>[The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/) <kbd>2022-10-13T11:00-04:00</kbd></samp>
 - <samp>[The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/) <kbd>2022-10-11T15:39-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/) <kbd>2022-10-06T14:00-04:00</kbd></samp>
 - <samp>[js13kGames 2022 winners 🏆](https://github.blog/2022-10-06-js13k-2022-winners/) <kbd>2022-10-06T03:01-04:00</kbd></samp>
 - <samp>[Detect secrets in your code more accurately with dry runs for custom patterns now available in GitHub Advanced Security](https://github.blog/2022-10-05-detect-secrets-in-your-code-more-accurately-with-dry-runs-for-custom-patterns/) <kbd>2022-10-05T14:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/) <kbd>2022-10-05T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
