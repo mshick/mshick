@@ -30,10 +30,10 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-16T22:25-04:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-16T08:04-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-17T15:00-04:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-17T14:42-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-17T08:49-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-10-12T23:20-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-10T13:34-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/) <kbd>2022-10-17T13:00-04:00</kbd></samp>
+- <samp>[5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/) <kbd>2022-10-17T11:00-04:00</kbd></samp>
 - <samp>[OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/) <kbd>2022-10-14T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) <kbd>2022-10-13T15:25-04:00</kbd></samp>
 - <samp>[The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/) <kbd>2022-10-13T11:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[On the go with GitHub Projects on GitHub Mobile (public beta)](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/) <kbd>2022-10-11T12:00-04:00</kbd></samp>
 - <samp>[Developers are now included in the WIPO Global Innovation Index](https://github.blog/2022-10-06-developers-are-now-included-in-the-wipo-global-innovation-index/) <kbd>2022-10-06T17:00-04:00</kbd></samp>
 - <samp>[GitHub’s supply chain security features now support Dart](https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/) <kbd>2022-10-06T14:00-04:00</kbd></samp>
-- <samp>[js13kGames 2022 winners 🏆](https://github.blog/2022-10-06-js13k-2022-winners/) <kbd>2022-10-06T03:01-04:00</kbd></samp>
-- <samp>[Detect secrets in your code more accurately with dry runs for custom patterns now available in GitHub Advanced Security](https://github.blog/2022-10-05-detect-secrets-in-your-code-more-accurately-with-dry-runs-for-custom-patterns/) <kbd>2022-10-05T14:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
