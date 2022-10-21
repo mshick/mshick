@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-19T22:07-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-20T08:49-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-17T15:00-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-17T14:42-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-10-12T23:20-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/) <kbd>2022-10-20T14:00-04:00</kbd></samp>
+- <samp>[Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/) <kbd>2022-10-20T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/) <kbd>2022-10-18T13:11-04:00</kbd></samp>
 - <samp>[Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/) <kbd>2022-10-18T11:35-04:00</kbd></samp>
 - <samp>[GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/) <kbd>2022-10-17T13:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) <kbd>2022-10-13T15:25-04:00</kbd></samp>
 - <samp>[The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/) <kbd>2022-10-13T11:00-04:00</kbd></samp>
 - <samp>[The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/) <kbd>2022-10-11T15:39-04:00</kbd></samp>
-- <samp>[View GitHub code scanning findings directly in VS Code and GitHub Codespaces](https://github.blog/2022-10-11-view-github-code-scanning-findings-directly-in-vs-code-and-github-codespaces/) <kbd>2022-10-11T15:10-04:00</kbd></samp>
-- <samp>[On the go with GitHub Projects on GitHub Mobile (public beta)](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/) <kbd>2022-10-11T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
