@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-21T08:46-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-21T08:09-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-20T21:49-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-17T14:42-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-10-12T23:20-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-05T18:26-04:00</kbd></samp>
@@ -53,7 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
-- <samp>[Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/) <kbd>2022-10-21T03:30-04:00</kbd></samp>
+- <samp>[Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/) <kbd>2022-10-21T13:30-04:00</kbd></samp>
+- <samp>[Git Merge 2022 &#8211; that&#8217;s a wrap! 🎬](https://github.blog/2022-10-21-git-merge-2022-mission-report/) <kbd>2022-10-21T12:00-04:00</kbd></samp>
 - <samp>[Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/) <kbd>2022-10-20T14:00-04:00</kbd></samp>
 - <samp>[Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/) <kbd>2022-10-20T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/) <kbd>2022-10-18T13:11-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/) <kbd>2022-10-17T11:00-04:00</kbd></samp>
 - <samp>[OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/) <kbd>2022-10-14T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) <kbd>2022-10-13T15:25-04:00</kbd></samp>
-- <samp>[The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/) <kbd>2022-10-13T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
