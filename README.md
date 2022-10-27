@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-25T21:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-26T08:46-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-22T13:01-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-21T08:09-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-10-12T23:20-04:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[3 strategies for consolidating your toolkit and boosting productivity](https://github.blog/2022-10-26-3-strategies-for-consolidating-your-toolkit-and-boosting-productivity/) <kbd>2022-10-26T12:00-04:00</kbd></samp>
+- <samp>[Why and how GitHub encrypts sensitive database columns using ActiveRecord::Encryption](https://github.blog/2022-10-26-why-and-how-github-encrypts-sensitive-database-columns-using-activerecordencryption/) <kbd>2022-10-26T10:00-04:00</kbd></samp>
 - <samp>[Why we&#8217;re excited about the Sigstore general availability](https://github.blog/2022-10-25-why-were-excited-about-the-sigstore-general-availability/) <kbd>2022-10-25T09:02-04:00</kbd></samp>
 - <samp>[Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/) <kbd>2022-10-21T13:30-04:00</kbd></samp>
 - <samp>[Git Merge 2022 &#8211; that&#8217;s a wrap! 🎬](https://github.blog/2022-10-21-git-merge-2022-mission-report/) <kbd>2022-10-21T12:00-04:00</kbd></samp>
-- <samp>[Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/) <kbd>2022-10-20T14:00-04:00</kbd></samp>
+- <samp>[Unboxing fork improvements](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/) <kbd>2022-10-20T14:00-04:00</kbd></samp>
 - <samp>[Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/) <kbd>2022-10-20T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/) <kbd>2022-10-18T13:11-04:00</kbd></samp>
 - <samp>[Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/) <kbd>2022-10-18T11:35-04:00</kbd></samp>
 - <samp>[GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/) <kbd>2022-10-17T13:00-04:00</kbd></samp>
-- <samp>[5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/) <kbd>2022-10-17T11:00-04:00</kbd></samp>
-- <samp>[OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/) <kbd>2022-10-14T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
