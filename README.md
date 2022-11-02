@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-10-31T22:10-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-01T08:46-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-30T15:30-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Game Off 2022 theme announcement](https://github.blog/2022-11-01-game-off-2022-theme-announcement/) <kbd>2022-11-01T16:37-04:00</kbd></samp>
+- <samp>[Preview: referencing public code in GitHub Copilot](https://github.blog/2022-11-01-preview-referencing-public-code-in-github-copilot/) <kbd>2022-11-01T15:00-04:00</kbd></samp>
+- <samp>[All In for Students: expanding the next generation of open source leaders](https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/) <kbd>2022-11-01T11:15-04:00</kbd></samp>
 - <samp>[Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/) <kbd>2022-10-31T13:09-04:00</kbd></samp>
 - <samp>[13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/) <kbd>2022-10-29T03:01-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @ahacker1](https://github.blog/2022-10-28-cybersecurity-spotlight-on-bug-bounty-researcher-ahacker1/) <kbd>2022-10-28T14:34-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Choose your own GitHub Universe 2022 adventure](https://github.blog/2022-10-27-choose-your-own-github-universe-2022-adventure/) <kbd>2022-10-27T14:54-04:00</kbd></samp>
 - <samp>[What we learned from the Security Lab’s Community Office Hours](https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/) <kbd>2022-10-27T11:00-04:00</kbd></samp>
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2022](https://github.blog/2022-10-27-diversity-inclusion-and-belonging-at-github-in-2022/) <kbd>2022-10-27T09:13-04:00</kbd></samp>
-- <samp>[3 strategies for consolidating your toolkit and boosting productivity](https://github.blog/2022-10-26-3-strategies-for-consolidating-your-toolkit-and-boosting-productivity/) <kbd>2022-10-26T12:00-04:00</kbd></samp>
-- <samp>[Why and how GitHub encrypts sensitive database columns using ActiveRecord::Encryption](https://github.blog/2022-10-26-why-and-how-github-encrypts-sensitive-database-columns-using-activerecordencryption/) <kbd>2022-10-26T10:00-04:00</kbd></samp>
-- <samp>[Why we&#8217;re excited about the Sigstore general availability](https://github.blog/2022-10-25-why-were-excited-about-the-sigstore-general-availability/) <kbd>2022-10-25T09:02-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
