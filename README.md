@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-02T21:48-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-03T08:39-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-30T15:30-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Advocating for developers to the US Copyright Office](https://github.blog/2022-11-03-advocating-for-developers-to-the-us-copyright-office/) <kbd>2022-11-03T12:00-04:00</kbd></samp>
+- <samp>[How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/) <kbd>2022-11-03T08:53-04:00</kbd></samp>
 - <samp>[GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) <kbd>2022-11-02T14:39-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/) <kbd>2022-11-02T12:00-04:00</kbd></samp>
 - <samp>[Game Off 2022 theme announcement](https://github.blog/2022-11-01-game-off-2022-theme-announcement/) <kbd>2022-11-01T16:37-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/) <kbd>2022-10-31T13:09-04:00</kbd></samp>
 - <samp>[13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/) <kbd>2022-10-29T03:01-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @ahacker1](https://github.blog/2022-10-28-cybersecurity-spotlight-on-bug-bounty-researcher-ahacker1/) <kbd>2022-10-28T14:34-04:00</kbd></samp>
-- <samp>[Release Radar · September 2022 Edition](https://github.blog/2022-10-28-release-radar-sept-2022/) <kbd>2022-10-28T14:00-04:00</kbd></samp>
-- <samp>[Choose your own GitHub Universe 2022 adventure](https://github.blog/2022-10-27-choose-your-own-github-universe-2022-adventure/) <kbd>2022-10-27T14:54-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
