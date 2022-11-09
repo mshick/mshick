@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-07T20:44-05:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-07T19:13-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-10-30T15:30-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-08T19:05-05:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-08T13:13-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-08T07:42-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.7 is now generally available](https://github.blog/2022-11-08-github-enterprise-server-3-7-is-now-generally-available/) <kbd>2022-11-08T12:37-05:00</kbd></samp>
 - <samp>[How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/) <kbd>2022-11-04T11:30-04:00</kbd></samp>
 - <samp>[Advocating for developers to the US Copyright Office](https://github.blog/2022-11-03-advocating-for-developers-to-the-us-copyright-office/) <kbd>2022-11-03T12:00-04:00</kbd></samp>
 - <samp>[How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/) <kbd>2022-11-03T08:53-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Preview: referencing public code in GitHub Copilot](https://github.blog/2022-11-01-preview-referencing-public-code-in-github-copilot/) <kbd>2022-11-01T15:00-04:00</kbd></samp>
 - <samp>[All In for Students: expanding the next generation of open source leaders](https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/) <kbd>2022-11-01T11:15-04:00</kbd></samp>
 - <samp>[Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/) <kbd>2022-10-31T13:09-04:00</kbd></samp>
-- <samp>[13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/) <kbd>2022-10-29T03:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
