@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-14T20:40-05:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-15T07:36-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-11T17:29-05:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-08T13:13-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/) <kbd>2022-11-15T15:51-05:00</kbd></samp>
+- <samp>[A better way to search, navigate, and understand code on GitHub](https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/) <kbd>2022-11-15T14:51-05:00</kbd></samp>
+- <samp>[The journey of your work has never been clearer](https://github.blog/2022-11-15-the-journey-of-your-work-has-never-been-clearer/) <kbd>2022-11-15T13:50-05:00</kbd></samp>
 - <samp>[Introducing GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/) <kbd>2022-11-10T12:00-05:00</kbd></samp>
 - <samp>[What’s new with Codespaces from GitHub Universe 2022](https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/) <kbd>2022-11-10T11:00-05:00</kbd></samp>
 - <samp>[Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/) <kbd>2022-11-09T12:49-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
 - <samp>[Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
 - <samp>[The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
-- <samp>[Why more companies are investing in open source program offices](https://github.blog/2022-11-09-why-companies-are-starting-ospos/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
-- <samp>[The importance of improving supply chain security in open source](https://github.blog/2022-11-09-improving-open-source-supply-chain-security/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
-- <samp>[Bringing greater financial sustainability to open source communities](https://github.blog/2022-11-09-financial-sustainability-in-open-source/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
