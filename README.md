@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-16T20:40-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-17T07:37-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-11T17:29-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/) <kbd>2022-11-17T14:56-05:00</kbd></samp>
 - <samp>[The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/) <kbd>2022-11-15T15:51-05:00</kbd></samp>
 - <samp>[A better way to search, navigate, and understand code on GitHub](https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/) <kbd>2022-11-15T14:51-05:00</kbd></samp>
 - <samp>[The journey of your work has never been clearer](https://github.blog/2022-11-15-the-journey-of-your-work-has-never-been-clearer/) <kbd>2022-11-15T13:50-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
 - <samp>[Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
 - <samp>[Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
-- <samp>[The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
