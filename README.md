@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-20T20:41-05:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-21T10:31-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-21T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-11T17:29-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
