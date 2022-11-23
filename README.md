@@ -30,11 +30,11 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-21T20:42-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-21T10:31-05:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-22T14:54-05:00</kbd></samp>
+- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-11-22T10:53-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-22T07:36-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
-- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-10-29T04:32-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-08-18T15:25-04:00</kbd></samp>
 - <samp>[contentlayer](https://github.com/mshick/contentlayer) <kbd>2022-08-01T17:50-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Exciting New GitHub Features Powering Machine Learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/) <kbd>2022-11-22T14:00-05:00</kbd></samp>
 - <samp>[Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/) <kbd>2022-11-17T14:56-05:00</kbd></samp>
 - <samp>[The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/) <kbd>2022-11-15T15:51-05:00</kbd></samp>
 - <samp>[A better way to search, navigate, and understand code on GitHub](https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/) <kbd>2022-11-15T14:51-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/) <kbd>2022-11-09T12:49-05:00</kbd></samp>
 - <samp>[An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
 - <samp>[Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
-- <samp>[Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/) <kbd>2022-11-09T11:29-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
