@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-11-30T20:41-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-01T07:34-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-27T06:27-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-11-22T10:53-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How empowering developers helps teams ship secure software faster](https://github.blog/2022-12-01-how-empowering-developers-helps-teams-ship-secure-software-faster/) <kbd>2022-12-01T15:07-05:00</kbd></samp>
+- <samp>[An enterprise account is coming to all Enterprise customers](https://github.blog/2022-12-01-an-enterprise-account-is-coming-to-all-enterprise-customers/) <kbd>2022-12-01T12:00-05:00</kbd></samp>
 - <samp>[To infinity and beyond: enabling the future of GitHub&#8217;s REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/) <kbd>2022-11-28T15:17-05:00</kbd></samp>
 - <samp>[Exciting new GitHub features powering machine learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/) <kbd>2022-11-22T14:00-05:00</kbd></samp>
 - <samp>[Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/) <kbd>2022-11-17T14:56-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The journey of your work has never been clearer](https://github.blog/2022-11-15-the-journey-of-your-work-has-never-been-clearer/) <kbd>2022-11-15T13:50-05:00</kbd></samp>
 - <samp>[Introducing GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/) <kbd>2022-11-10T12:00-05:00</kbd></samp>
 - <samp>[What’s new with Codespaces from GitHub Universe 2022](https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/) <kbd>2022-11-10T11:00-05:00</kbd></samp>
-- <samp>[Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/) <kbd>2022-11-09T12:49-05:00</kbd></samp>
-- <samp>[An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/) <kbd>2022-11-09T12:35-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
