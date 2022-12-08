@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-06T20:20-05:00</kbd></samp>
+- <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-07T18:32-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-07T07:30-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2022-12-06T09:33-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-12-06T02:44-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-12-05T14:27-05:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-11-22T10:53-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2022-11-15T16:48-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2022-09-19T11:18-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot is generally available for businesses](https://github.blog/2022-12-07-github-copilot-is-generally-available-for-businesses/) <kbd>2022-12-07T12:34-05:00</kbd></samp>
+- <samp>[GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/) <kbd>2022-12-07T12:00-05:00</kbd></samp>
 - <samp>[New npm features for secure publishing and safe consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/) <kbd>2022-12-06T12:42-05:00</kbd></samp>
 - <samp>[ICYMI: A look back at GitHub Universe 2022](https://github.blog/2022-12-05-icymi-a-look-back-at-github-universe-2022/) <kbd>2022-12-05T14:11-05:00</kbd></samp>
 - <samp>[GitHub, accessibility, and the disability divide](https://github.blog/2022-12-02-github-accessibility-and-the-disability-divide/) <kbd>2022-12-02T12:44-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[An enterprise account is coming to all Enterprise customers](https://github.blog/2022-12-01-an-enterprise-account-is-coming-to-all-enterprise-customers/) <kbd>2022-12-01T12:00-05:00</kbd></samp>
 - <samp>[To infinity and beyond: enabling the future of GitHub&#8217;s REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/) <kbd>2022-11-28T15:17-05:00</kbd></samp>
 - <samp>[Exciting new GitHub features powering machine learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/) <kbd>2022-11-22T14:00-05:00</kbd></samp>
-- <samp>[Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/) <kbd>2022-11-17T14:56-05:00</kbd></samp>
-- <samp>[The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/) <kbd>2022-11-15T15:51-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
