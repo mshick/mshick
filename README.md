@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-13T07:31-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-12T20:22-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-12-11T09:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-12-11T04:37-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2022-12-10T20:02-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Creating an accessible search experience with the QueryBuilder component](https://github.blog/2022-12-13-creating-an-accessible-search-experience-with-the-querybuilder-component/) <kbd>2022-12-13T11:08-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/) <kbd>2022-12-12T10:50-05:00</kbd></samp>
 - <samp>[Release Radar · October 2022 Edition](https://github.blog/2022-12-09-release-radar-october-2022/) <kbd>2022-12-09T14:00-05:00</kbd></samp>
 - <samp>[Experiment: The hidden costs of waiting on slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/) <kbd>2022-12-08T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/) <kbd>2022-12-07T12:00-05:00</kbd></samp>
 - <samp>[New npm features for secure publishing and safe consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/) <kbd>2022-12-06T12:42-05:00</kbd></samp>
 - <samp>[ICYMI: A look back at GitHub Universe 2022](https://github.blog/2022-12-05-icymi-a-look-back-at-github-universe-2022/) <kbd>2022-12-05T14:11-05:00</kbd></samp>
-- <samp>[GitHub, accessibility, and the disability divide](https://github.blog/2022-12-02-github-accessibility-and-the-disability-divide/) <kbd>2022-12-02T12:44-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
