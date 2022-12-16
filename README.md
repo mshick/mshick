@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-14T20:21-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-15T07:30-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-12-11T09:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-12-11T04:37-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Leaked a secret? Check your GitHub alerts&#8230;for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/) <kbd>2022-12-15T12:00-05:00</kbd></samp>
+- <samp>[GitHub Advanced Security customers can now push protect their custom patterns](https://github.blog/2022-12-15-github-advanced-security-customers-can-now-push-protect-their-custom-patterns/) <kbd>2022-12-15T12:00-05:00</kbd></samp>
 - <samp>[Raising the bar for software security: next steps for GitHub.com 2FA](https://github.blog/2022-12-14-raising-the-bar-for-software-security-next-steps-for-github-com-2fa/) <kbd>2022-12-14T12:00-05:00</kbd></samp>
 - <samp>[Creating an accessible search experience with the QueryBuilder component](https://github.blog/2022-12-13-creating-an-accessible-search-experience-with-the-querybuilder-component/) <kbd>2022-12-13T11:08-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/) <kbd>2022-12-12T10:50-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git Commit Uruguay: Lowering barriers to make software development more inclusive and diverse](https://github.blog/2022-12-08-git-commit-uruguay-lowering-barriers-to-make-software-development-more-inclusive-and-diverse/) <kbd>2022-12-08T12:00-05:00</kbd></samp>
 - <samp>[Hello from GitHub’s new Chief Product Officer](https://github.blog/2022-12-08-hello-from-githubs-new-chief-product-officer/) <kbd>2022-12-08T11:59-05:00</kbd></samp>
 - <samp>[GitHub Copilot is generally available for businesses](https://github.blog/2022-12-07-github-copilot-is-generally-available-for-businesses/) <kbd>2022-12-07T12:34-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/) <kbd>2022-12-07T12:00-05:00</kbd></samp>
-- <samp>[New npm features for secure publishing and safe consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/) <kbd>2022-12-06T12:42-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
