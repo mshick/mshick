@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-29T07:27-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2022-12-29T05:36-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2022-12-28T20:16-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-12-11T09:47-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2022-12-11T04:37-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/) <kbd>2022-12-29T12:00-05:00</kbd></samp>
 - <samp>[What&#8217;s with all the ducks?](https://github.blog/2022-12-23-whats-with-all-the-ducks/) <kbd>2022-12-23T12:00-05:00</kbd></samp>
 - <samp>[GitHub Gives 2022: Creating positive, lasting contributions in our communities](https://github.blog/2022-12-21-github-gives-2022-creating-positive-lasting-contributions-in-our-communities/) <kbd>2022-12-21T11:06-05:00</kbd></samp>
 - <samp>[Increase developer productivity, save time on developer onboarding, and drive ROI in 2023](https://github.blog/2022-12-20-increase-developer-productivity-save-time-on-developer-onboarding-and-drive-roi-in-2023/) <kbd>2022-12-20T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · November 2022 Edition](https://github.blog/2022-12-16-release-radar-nov-2022/) <kbd>2022-12-16T14:00-05:00</kbd></samp>
 - <samp>[Leaked a secret? Check your GitHub alerts&#8230;for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/) <kbd>2022-12-15T12:00-05:00</kbd></samp>
 - <samp>[GitHub Advanced Security customers can now push protect their custom patterns](https://github.blog/2022-12-15-github-advanced-security-customers-can-now-push-protect-their-custom-patterns/) <kbd>2022-12-15T12:00-05:00</kbd></samp>
-- <samp>[Raising the bar for software security: next steps for GitHub.com 2FA](https://github.blog/2022-12-14-raising-the-bar-for-software-security-next-steps-for-github-com-2fa/) <kbd>2022-12-14T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
