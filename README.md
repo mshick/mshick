@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-03T20:16-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-04T07:29-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2023-01-03T19:51-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2022-12-11T09:47-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/) <kbd>2023-01-04T12:20-05:00</kbd></samp>
 - <samp>[GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/) <kbd>2022-12-30T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/) <kbd>2022-12-29T12:00-05:00</kbd></samp>
 - <samp>[What&#8217;s with all the ducks?](https://github.blog/2022-12-23-whats-with-all-the-ducks/) <kbd>2022-12-23T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we use GitHub to be more productive, collaborative, and secure](https://github.blog/2022-12-20-how-we-use-github-to-be-more-productive-collaborative-and-secure/) <kbd>2022-12-20T12:00-05:00</kbd></samp>
 - <samp>[[Video] How has open source changed in the last 10 years?](https://github.blog/2022-12-19-video-how-has-open-source-changed-in-the-last-10-years/) <kbd>2022-12-19T10:14-05:00</kbd></samp>
 - <samp>[Release Radar · November 2022 Edition](https://github.blog/2022-12-16-release-radar-nov-2022/) <kbd>2022-12-16T14:00-05:00</kbd></samp>
-- <samp>[Leaked a secret? Check your GitHub alerts&#8230;for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/) <kbd>2022-12-15T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
