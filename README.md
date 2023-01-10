@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-08T20:16-05:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-06T11:36-05:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-09T07:31-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2023-01-05T20:41-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Discussions just got better with Category Forms!](https://github.blog/2023-01-09-github-discussions-just-got-better-with-category-forms/) <kbd>2023-01-09T16:54-05:00</kbd></samp>
+- <samp>[Default setup: A new way to enable GitHub code scanning](https://github.blog/2023-01-09-default-setup-a-new-way-to-enable-github-code-scanning/) <kbd>2023-01-09T13:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/) <kbd>2023-01-04T12:20-05:00</kbd></samp>
 - <samp>[GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/) <kbd>2022-12-30T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/) <kbd>2022-12-29T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Increase developer productivity, save time on developer onboarding, and drive ROI in 2023](https://github.blog/2022-12-20-increase-developer-productivity-save-time-on-developer-onboarding-and-drive-roi-in-2023/) <kbd>2022-12-20T13:00-05:00</kbd></samp>
 - <samp>[Not just flightless birds: How EMUs secure and scale identity and access management for your GitHub Enterprise](https://github.blog/2022-12-20-emus-more-than-just-flightless-birds/) <kbd>2022-12-20T13:00-05:00</kbd></samp>
 - <samp>[How we use GitHub to be more productive, collaborative, and secure](https://github.blog/2022-12-20-how-we-use-github-to-be-more-productive-collaborative-and-secure/) <kbd>2022-12-20T12:00-05:00</kbd></samp>
-- <samp>[[Video] How has open source changed in the last 10 years?](https://github.blog/2022-12-19-video-how-has-open-source-changed-in-the-last-10-years/) <kbd>2022-12-19T10:14-05:00</kbd></samp>
-- <samp>[Release Radar · November 2022 Edition](https://github.blog/2022-12-16-release-radar-nov-2022/) <kbd>2022-12-16T14:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
