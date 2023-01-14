@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-12T20:19-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-13T07:29-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[New GitHub CLI extension tools](https://github.blog/2023-01-13-new-github-cli-extension-tools/) <kbd>2023-01-13T12:00-05:00</kbd></samp>
 - <samp>[A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/) <kbd>2023-01-12T12:56-05:00</kbd></samp>
 - <samp>[Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/) <kbd>2023-01-11T11:00-05:00</kbd></samp>
 - <samp>[Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/) <kbd>2023-01-10T14:37-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/) <kbd>2022-12-30T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/) <kbd>2022-12-29T12:00-05:00</kbd></samp>
 - <samp>[What&#8217;s with all the ducks?](https://github.blog/2022-12-23-whats-with-all-the-ducks/) <kbd>2022-12-23T12:00-05:00</kbd></samp>
-- <samp>[GitHub Gives 2022: Creating positive, lasting contributions in our communities](https://github.blog/2022-12-21-github-gives-2022-creating-positive-lasting-contributions-in-our-communities/) <kbd>2022-12-21T11:06-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
