@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-16T20:16-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-17T07:32-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Dependabot alerts are now visible to more developers](https://github.blog/2023-01-17-dependabot-alerts-are-now-visible-to-more-developers/) <kbd>2023-01-17T15:19-05:00</kbd></samp>
+- <samp>[Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/) <kbd>2023-01-17T13:31-05:00</kbd></samp>
+- <samp>[3 common DevOps antipatterns and cloud native strategies that can help](https://github.blog/2023-01-17-3-common-devops-antipatterns-and-cloud-native-strategies-that-can-help/) <kbd>2023-01-17T12:00-05:00</kbd></samp>
 - <samp>[Game Off 2022 winners 🏆](https://github.blog/2023-01-13-game-off-2022-winners/) <kbd>2023-01-13T22:00-05:00</kbd></samp>
 - <samp>[New GitHub CLI extension tools](https://github.blog/2023-01-13-new-github-cli-extension-tools/) <kbd>2023-01-13T12:00-05:00</kbd></samp>
 - <samp>[A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/) <kbd>2023-01-12T12:56-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/) <kbd>2023-01-10T14:37-05:00</kbd></samp>
 - <samp>[GitHub Discussions just got better with Category Forms!](https://github.blog/2023-01-09-github-discussions-just-got-better-with-category-forms/) <kbd>2023-01-09T16:54-05:00</kbd></samp>
 - <samp>[Default setup: A new way to enable GitHub code scanning](https://github.blog/2023-01-09-default-setup-a-new-way-to-enable-github-code-scanning/) <kbd>2023-01-09T13:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/) <kbd>2023-01-04T12:20-05:00</kbd></samp>
-- <samp>[GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/) <kbd>2022-12-30T12:00-05:00</kbd></samp>
-- <samp>[GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/) <kbd>2022-12-29T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
