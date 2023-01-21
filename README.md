@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-19T20:18-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-20T07:31-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/) <kbd>2023-01-20T14:00-05:00</kbd></samp>
+- <samp>[Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/) <kbd>2023-01-20T13:00-05:00</kbd></samp>
+- <samp>[Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/) <kbd>2023-01-20T12:00-05:00</kbd></samp>
 - <samp>[Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/) <kbd>2023-01-19T15:24-05:00</kbd></samp>
 - <samp>[How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/) <kbd>2023-01-19T14:30-05:00</kbd></samp>
 - <samp>[Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/) <kbd>2023-01-19T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/) <kbd>2023-01-17T13:31-05:00</kbd></samp>
 - <samp>[3 common DevOps antipatterns and cloud native strategies that can help](https://github.blog/2023-01-17-3-common-devops-antipatterns-and-cloud-native-strategies-that-can-help/) <kbd>2023-01-17T12:00-05:00</kbd></samp>
 - <samp>[Game Off 2022 winners 🏆](https://github.blog/2023-01-13-game-off-2022-winners/) <kbd>2023-01-13T22:00-05:00</kbd></samp>
-- <samp>[New GitHub CLI extension tools](https://github.blog/2023-01-13-new-github-cli-extension-tools/) <kbd>2023-01-13T12:00-05:00</kbd></samp>
-- <samp>[A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/) <kbd>2023-01-12T12:56-05:00</kbd></samp>
-- <samp>[Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/) <kbd>2023-01-11T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
