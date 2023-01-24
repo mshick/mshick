@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-22T20:16-05:00</kbd></samp>
+- <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-23T13:33-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-23T07:29-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-12-07T21:58-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-27T06:27-05:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2022-10-30T14:30-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/) <kbd>2023-01-23T12:00-05:00</kbd></samp>
+- <samp>[Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/) <kbd>2023-01-23T10:05-05:00</kbd></samp>
 - <samp>[Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/) <kbd>2023-01-20T14:00-05:00</kbd></samp>
 - <samp>[Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/) <kbd>2023-01-20T13:00-05:00</kbd></samp>
 - <samp>[Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/) <kbd>2023-01-20T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/) <kbd>2023-01-19T12:00-05:00</kbd></samp>
 - <samp>[Dependabot alerts are now visible to more developers](https://github.blog/2023-01-17-dependabot-alerts-are-now-visible-to-more-developers/) <kbd>2023-01-17T15:19-05:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/) <kbd>2023-01-17T13:31-05:00</kbd></samp>
-- <samp>[3 common DevOps antipatterns and cloud native strategies that can help](https://github.blog/2023-01-17-3-common-devops-antipatterns-and-cloud-native-strategies-that-can-help/) <kbd>2023-01-17T12:00-05:00</kbd></samp>
-- <samp>[Game Off 2022 winners 🏆](https://github.blog/2023-01-13-game-off-2022-winners/) <kbd>2023-01-13T22:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
