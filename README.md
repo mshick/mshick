@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-24T20:15-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-25T07:31-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/) <kbd>2023-01-25T12:52-05:00</kbd></samp>
 - <samp>[Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/) <kbd>2023-01-23T12:00-05:00</kbd></samp>
 - <samp>[Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/) <kbd>2023-01-23T10:05-05:00</kbd></samp>
 - <samp>[Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/) <kbd>2023-01-20T14:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/) <kbd>2023-01-19T14:30-05:00</kbd></samp>
 - <samp>[Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/) <kbd>2023-01-19T12:00-05:00</kbd></samp>
 - <samp>[Dependabot alerts are now visible to more developers](https://github.blog/2023-01-17-dependabot-alerts-are-now-visible-to-more-developers/) <kbd>2023-01-17T15:19-05:00</kbd></samp>
-- <samp>[Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/) <kbd>2023-01-17T13:31-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
