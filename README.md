@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-29T20:14-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-30T07:31-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/) <kbd>2023-01-30T13:01-05:00</kbd></samp>
 - <samp>[Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/) <kbd>2023-01-27T11:00-05:00</kbd></samp>
 - <samp>[Setting the foundations for compliance](https://github.blog/2023-01-26-setting-the-foundations-for-compliance/) <kbd>2023-01-26T12:00-05:00</kbd></samp>
 - <samp>[100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/) <kbd>2023-01-25T12:52-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/) <kbd>2023-01-20T13:00-05:00</kbd></samp>
 - <samp>[Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/) <kbd>2023-01-20T12:00-05:00</kbd></samp>
 - <samp>[Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/) <kbd>2023-01-19T15:24-05:00</kbd></samp>
-- <samp>[How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/) <kbd>2023-01-19T14:30-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
