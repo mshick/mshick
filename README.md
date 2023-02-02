@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-01-31T20:27-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-01T07:31-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/) <kbd>2023-02-01T18:00-05:00</kbd></samp>
+- <samp>[Open source’s impact on the world’s 100 million developers](https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/) <kbd>2023-02-01T13:01-05:00</kbd></samp>
+- <samp>[GitHub Availability Report: January 2023](https://github.blog/2023-02-01-github-availability-report-january-2023/) <kbd>2023-02-01T11:00-05:00</kbd></samp>
 - <samp>[Skilling for the future: How GitHub is advancing diversity, equity, and inclusion within open source communities](https://github.blog/2023-01-31-skilling-for-the-future-how-github-is-advancing-diversity-equity-and-inclusion-within-open-source-communities/) <kbd>2023-01-31T17:41-05:00</kbd></samp>
 - <samp>[Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/) <kbd>2023-01-30T13:01-05:00</kbd></samp>
 - <samp>[Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/) <kbd>2023-01-27T11:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/) <kbd>2023-01-25T12:52-05:00</kbd></samp>
 - <samp>[Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/) <kbd>2023-01-23T12:00-05:00</kbd></samp>
 - <samp>[Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/) <kbd>2023-01-23T10:05-05:00</kbd></samp>
-- <samp>[Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/) <kbd>2023-01-20T14:00-05:00</kbd></samp>
-- <samp>[Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/) <kbd>2023-01-20T13:00-05:00</kbd></samp>
-- <samp>[Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/) <kbd>2023-01-20T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
