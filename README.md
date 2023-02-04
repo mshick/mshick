@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-02T20:21-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-03T07:29-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Europe’s chance to be a leader in the age of AI](https://github.blog/2023-02-03-europes-chance-to-be-a-leader-in-the-age-of-ai/) <kbd>2023-02-03T08:00-05:00</kbd></samp>
 - <samp>[How the GitHub Docs team uses GitHub Projects](https://github.blog/2023-02-02-how-the-github-docs-team-uses-github-projects/) <kbd>2023-02-02T14:00-05:00</kbd></samp>
 - <samp>[Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/) <kbd>2023-02-02T13:03-05:00</kbd></samp>
 - <samp>[Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/) <kbd>2023-02-01T18:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/) <kbd>2023-01-30T13:01-05:00</kbd></samp>
 - <samp>[Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/) <kbd>2023-01-27T11:00-05:00</kbd></samp>
 - <samp>[Setting the foundations for compliance](https://github.blog/2023-01-26-setting-the-foundations-for-compliance/) <kbd>2023-01-26T12:00-05:00</kbd></samp>
-- <samp>[100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/) <kbd>2023-01-25T12:52-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
