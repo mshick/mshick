@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-12T20:21-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-13T07:31-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-01-09T15:56-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Yout amicus: fighting for developers&#8217; right to innovate](https://github.blog/2023-02-13-yout-amicus-fighting-for-developers-right-to-innovate/) <kbd>2023-02-13T12:00-05:00</kbd></samp>
 - <samp>[Release Radar, Festive Edition · December 2022 &#8211; January 2023](https://github.blog/2023-02-08-release-radar-dec-2022-jan-2023/) <kbd>2023-02-08T18:05-05:00</kbd></samp>
 - <samp>[The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/) <kbd>2023-02-06T12:00-05:00</kbd></samp>
 - <samp>[How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2023-02-06-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/) <kbd>2023-02-06T10:02-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/) <kbd>2023-02-02T13:03-05:00</kbd></samp>
 - <samp>[Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/) <kbd>2023-02-01T18:00-05:00</kbd></samp>
 - <samp>[Open source’s impact on the world’s 100 million developers](https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/) <kbd>2023-02-01T13:01-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: January 2023](https://github.blog/2023-02-01-github-availability-report-january-2023/) <kbd>2023-02-01T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
