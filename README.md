@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-22T20:18-05:00</kbd></samp>
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-23T07:33-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-02-21T10:27-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2023-01-03T19:51-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
 - <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-12-07T21:58-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2022-11-27T06:27-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Measuring government policy on open source with a new dataset](https://github.blog/2023-02-23-measuring-government-policy-on-open-source-with-a-new-dataset/) <kbd>2023-02-23T16:25-05:00</kbd></samp>
+- <samp>[The code that wasn&#8217;t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/) <kbd>2023-02-23T12:00-05:00</kbd></samp>
+- <samp>[A beginner&#8217;s guide to learning to code with GitHub Codespaces](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/) <kbd>2023-02-22T18:30-05:00</kbd></samp>
 - <samp>[Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/) <kbd>2023-02-22T11:24-05:00</kbd></samp>
 - <samp>[Update on the future stability of source code archives and hashes](https://github.blog/2023-02-21-update-on-the-future-stability-of-source-code-archives-and-hashes/) <kbd>2023-02-21T12:00-05:00</kbd></samp>
 - <samp>[ICYMI: CodeQL enhancements](https://github.blog/2023-02-16-icymi-codeql-enhancements/) <kbd>2023-02-16T11:54-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/) <kbd>2023-02-14T13:45-05:00</kbd></samp>
 - <samp>[GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/) <kbd>2023-02-14T12:56-05:00</kbd></samp>
 - <samp>[GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/) <kbd>2023-02-14T12:55-05:00</kbd></samp>
-- <samp>[Yout amicus: fighting for developers&#8217; right to innovate](https://github.blog/2023-02-13-yout-amicus-fighting-for-developers-right-to-innovate/) <kbd>2023-02-13T12:00-05:00</kbd></samp>
-- <samp>[Release Radar, Festive Edition · December 2022 &#8211; January 2023](https://github.blog/2023-02-08-release-radar-dec-2022-jan-2023/) <kbd>2023-02-08T18:05-05:00</kbd></samp>
-- <samp>[The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/) <kbd>2023-02-06T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
