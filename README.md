@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-23T20:20-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-24T07:31-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-02-21T10:27-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[3 ways to meet compliance needs without slowing down agility](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/) <kbd>2023-02-24T14:00-05:00</kbd></samp>
 - <samp>[Measuring government policy on open source with a new dataset](https://github.blog/2023-02-23-measuring-government-policy-on-open-source-with-a-new-dataset/) <kbd>2023-02-23T16:25-05:00</kbd></samp>
 - <samp>[The code that wasn&#8217;t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/) <kbd>2023-02-23T12:00-05:00</kbd></samp>
 - <samp>[A beginner&#8217;s guide to learning to code with GitHub Codespaces](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/) <kbd>2023-02-22T18:30-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/) <kbd>2023-02-15T15:50-05:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/) <kbd>2023-02-14T13:45-05:00</kbd></samp>
 - <samp>[GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/) <kbd>2023-02-14T12:56-05:00</kbd></samp>
-- <samp>[GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/) <kbd>2023-02-14T12:55-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
