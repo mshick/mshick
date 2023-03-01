@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-27T20:20-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-02-28T07:32-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-02-26T10:42-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to build a consistent workflow for development and operations teams](https://github.blog/2023-02-28-how-to-build-a-consistent-workflow-for-development-and-operations-teams/) <kbd>2023-02-28T14:00-05:00</kbd></samp>
+- <samp>[10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/) <kbd>2023-02-28T13:00-05:00</kbd></samp>
+- <samp>[Secret scanning alerts are now available (and free) for all public repositories](https://github.blog/2023-02-28-secret-scanning-alerts-are-now-available-and-free-for-all-public-repositories/) <kbd>2023-02-28T12:00-05:00</kbd></samp>
 - <samp>[3 ways to meet compliance needs without slowing down agility](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/) <kbd>2023-02-24T14:00-05:00</kbd></samp>
 - <samp>[Measuring government policy on open source with a new dataset](https://github.blog/2023-02-23-measuring-government-policy-on-open-source-with-a-new-dataset/) <kbd>2023-02-23T16:25-05:00</kbd></samp>
 - <samp>[The code that wasn&#8217;t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/) <kbd>2023-02-23T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/) <kbd>2023-02-22T11:24-05:00</kbd></samp>
 - <samp>[Update on the future stability of source code archives and hashes](https://github.blog/2023-02-21-update-on-the-future-stability-of-source-code-archives-and-hashes/) <kbd>2023-02-21T12:00-05:00</kbd></samp>
 - <samp>[ICYMI: CodeQL enhancements](https://github.blog/2023-02-16-icymi-codeql-enhancements/) <kbd>2023-02-16T11:54-05:00</kbd></samp>
-- <samp>[2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/) <kbd>2023-02-15T15:50-05:00</kbd></samp>
-- <samp>[Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/) <kbd>2023-02-14T13:45-05:00</kbd></samp>
-- <samp>[GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/) <kbd>2023-02-14T12:56-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
