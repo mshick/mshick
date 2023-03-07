@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-06T07:32-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-06T20:35-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-02-26T10:42-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/) <kbd>2023-03-06T23:30-05:00</kbd></samp>
 - <samp>[How to automate your dev environment with dev containers and GitHub Codespaces](https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/) <kbd>2023-03-06T12:27-05:00</kbd></samp>
 - <samp>[Release Radar · February 2023 Edition](https://github.blog/2023-03-05-release-radar-feb-2023/) <kbd>2023-03-05T18:50-05:00</kbd></samp>
 - <samp>[GitHub Security Lab audited DataHub: Here&#8217;s what they found](https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/) <kbd>2023-03-03T14:53-05:00</kbd></samp>
 - <samp>[GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/) <kbd>2023-03-03T13:59-05:00</kbd></samp>
-- <samp>[See you at SCALE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/) <kbd>2023-03-03T06:30-05:00</kbd></samp>
+- <samp>[See you at SCaLE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/) <kbd>2023-03-03T06:30-05:00</kbd></samp>
 - <samp>[Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/) <kbd>2023-03-02T14:11-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/) <kbd>2023-03-01T16:35-05:00</kbd></samp>
 - <samp>[GitHub Actions Importer is now generally available](https://github.blog/2023-03-01-github-actions-importer-is-now-generally-available/) <kbd>2023-03-01T12:00-05:00</kbd></samp>
 - <samp>[GitHub Actions: Introducing faster GitHub-hosted x64 macOS runners](https://github.blog/2023-03-01-github-actions-introducing-faster-github-hosted-x64-macos-runners/) <kbd>2023-03-01T11:00-05:00</kbd></samp>
-- <samp>[How to build a consistent workflow for development and operations teams](https://github.blog/2023-02-28-how-to-build-a-consistent-workflow-for-development-and-operations-teams/) <kbd>2023-02-28T14:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
