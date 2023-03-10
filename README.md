@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-08T20:25-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-09T07:33-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-02-26T10:42-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How GitHub accelerates development for embedded systems](https://github.blog/2023-03-09-how-github-accelerates-development-for-embedded-systems/) <kbd>2023-03-09T13:00-05:00</kbd></samp>
+- <samp>[Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/) <kbd>2023-03-09T12:00-05:00</kbd></samp>
+- <samp>[How GitHub Docs’ new search works](https://github.blog/2023-03-09-how-github-docs-new-search-works/) <kbd>2023-03-09T11:00-05:00</kbd></samp>
+- <samp>[Multi-repository variant analysis: a powerful new way to perform security research across GitHub](https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github/) <kbd>2023-03-09T10:00-05:00</kbd></samp>
 - <samp>[Application security orchestration with GitHub Advanced Security](https://github.blog/2023-03-08-application-security-orchestration-with-github-advanced-security/) <kbd>2023-03-08T15:36-05:00</kbd></samp>
 - <samp>[GitHub Galaxy 2023: your guide to building a more flexible and productive software development cycle](https://github.blog/2023-03-08-github-galaxy-2023-your-guide-to-building-a-more-flexible-and-productive-software-development-cycle/) <kbd>2023-03-08T11:36-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/) <kbd>2023-03-07T17:51-05:00</kbd></samp>
 - <samp>[File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/) <kbd>2023-03-07T11:00-05:00</kbd></samp>
 - <samp>[Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/) <kbd>2023-03-06T23:30-05:00</kbd></samp>
 - <samp>[How to automate your dev environment with dev containers and GitHub Codespaces](https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/) <kbd>2023-03-06T12:27-05:00</kbd></samp>
-- <samp>[Release Radar · February 2023 Edition](https://github.blog/2023-03-05-release-radar-feb-2023/) <kbd>2023-03-05T18:50-05:00</kbd></samp>
-- <samp>[GitHub Security Lab audited DataHub: Here&#8217;s what they found](https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/) <kbd>2023-03-03T14:53-05:00</kbd></samp>
-- <samp>[GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/) <kbd>2023-03-03T13:59-05:00</kbd></samp>
-- <samp>[See you at SCaLE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/) <kbd>2023-03-03T06:30-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
