@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-21T21:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-03-22T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-03-21T10:26-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) <kbd>2023-03-22T09:58-04:00</kbd></samp>
 - <samp>[Partnering with EU policymakers to ensure the Cyber Resilience Act works for developers](https://github.blog/2023-03-17-partnering-with-eu-policymakers-to-ensure-the-cyber-resilience-act-works-for-developers/) <kbd>2023-03-17T11:35-04:00</kbd></samp>
 - <samp>[Godot 4.0 Release Party 🎉](https://github.blog/2023-03-16-godot-4-0-release-party/) <kbd>2023-03-16T15:14-04:00</kbd></samp>
 - <samp>[How the Grafana Alerting team scales their issue management with GitHub Projects](https://github.blog/2023-03-15-how-the-grafana-alerting-team-scales-their-issue-management-with-github-projects/) <kbd>2023-03-15T17:18-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing Activating Developers and the new Digital Public Goods Open Source Community Manager Program](https://github.blog/2023-03-13-introducing-activating-developers-and-the-new-digital-public-goods-open-source-community-manager-program/) <kbd>2023-03-13T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub vulnerability management integrations for security professionals](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/) <kbd>2023-03-10T13:00-05:00</kbd></samp>
 - <samp>[Don’t leave developers behind in the Section 230 debate](https://github.blog/2023-03-10-dont-leave-developers-behind-in-the-section-230-debate/) <kbd>2023-03-10T12:00-05:00</kbd></samp>
-- <samp>[How GitHub accelerates development for embedded systems](https://github.blog/2023-03-09-how-github-accelerates-development-for-embedded-systems/) <kbd>2023-03-09T13:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
