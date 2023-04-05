@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-03T21:16-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-04T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-03-31T23:29-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What’s new with GitHub Sponsors](https://github.blog/2023-04-04-whats-new-with-github-sponsors/) <kbd>2023-04-04T12:07-04:00</kbd></samp>
 - <samp>[Level up monitoring and reporting for your enterprise](https://github.blog/2023-04-03-level-up-monitoring-and-reporting-for-your-enterprise/) <kbd>2023-04-03T15:00-04:00</kbd></samp>
 - <samp>[Calling all open source maintainers](https://github.blog/2023-04-03-calling-all-open-source-maintainers/) <kbd>2023-04-03T12:00-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/) <kbd>2023-03-31T13:19-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Announcing the GitHub Actions extension for VS Code](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/) <kbd>2023-03-28T11:09-04:00</kbd></samp>
 - <samp>[We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/) <kbd>2023-03-24T01:27-04:00</kbd></samp>
 - <samp>[Build a secure code mindset with the GitHub Secure Code Game](https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/) <kbd>2023-03-23T12:00-04:00</kbd></samp>
-- <samp>[GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) <kbd>2023-03-22T09:58-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
