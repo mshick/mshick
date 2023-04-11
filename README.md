@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-10T08:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-10T21:10-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-03-31T23:29-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/) <kbd>2023-04-10T22:00-04:00</kbd></samp>
 - <samp>[What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/) <kbd>2023-04-07T11:00-04:00</kbd></samp>
 - <samp>[Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/) <kbd>2023-04-07T10:32-04:00</kbd></samp>
 - <samp>[Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/) <kbd>2023-04-06T14:05-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/) <kbd>2023-04-05T11:00-04:00</kbd></samp>
 - <samp>[What’s new with GitHub Sponsors](https://github.blog/2023-04-04-whats-new-with-github-sponsors/) <kbd>2023-04-04T12:07-04:00</kbd></samp>
 - <samp>[Level up monitoring and reporting for your enterprise](https://github.blog/2023-04-03-level-up-monitoring-and-reporting-for-your-enterprise/) <kbd>2023-04-03T15:00-04:00</kbd></samp>
-- <samp>[Calling all open source maintainers](https://github.blog/2023-04-03-calling-all-open-source-maintainers/) <kbd>2023-04-03T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
