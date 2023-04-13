@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-11T21:11-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-12T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-03-31T23:29-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Accelerator: our first cohort and what&#8217;s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) <kbd>2023-04-12T12:00-04:00</kbd></samp>
 - <samp>[Introducing the newest GitHub Shop collection](https://github.blog/2023-04-11-introducing-the-newest-github-shop-collection/) <kbd>2023-04-11T15:22-04:00</kbd></samp>
 - <samp>[Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/) <kbd>2023-04-11T12:36-04:00</kbd></samp>
 - <samp>[How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/) <kbd>2023-04-10T22:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/) <kbd>2023-04-06T12:00-04:00</kbd></samp>
 - <samp>[Bring your enterprise together with enterprise accounts for all](https://github.blog/2023-04-05-bring-your-enterprise-together-with-enterprise-accounts-for-all/) <kbd>2023-04-05T13:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/) <kbd>2023-04-05T12:00-04:00</kbd></samp>
-- <samp>[Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/) <kbd>2023-04-05T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
