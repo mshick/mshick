@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-13T21:11-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-03-31T23:29-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-04-14T14:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-14T08:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[3 benefits of migrating and consolidating your source code](https://github.blog/2023-04-14-3-benefits-of-migrating-and-consolidating-your-source-code/) <kbd>2023-04-14T13:48-04:00</kbd></samp>
+- <samp>[How generative AI is changing the way developers work](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/) <kbd>2023-04-14T11:15-04:00</kbd></samp>
 - <samp>[Ensuring compliance in developer workflows](https://github.blog/2023-04-13-ensuring-compliance-in-developer-workflows/) <kbd>2023-04-13T12:04-04:00</kbd></samp>
 - <samp>[GitHub Accelerator: our first cohort and what&#8217;s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) <kbd>2023-04-12T12:00-04:00</kbd></samp>
 - <samp>[Introducing the newest GitHub Shop collection](https://github.blog/2023-04-11-introducing-the-newest-github-shop-collection/) <kbd>2023-04-11T15:22-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/) <kbd>2023-04-07T11:00-04:00</kbd></samp>
 - <samp>[Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/) <kbd>2023-04-07T10:32-04:00</kbd></samp>
 - <samp>[Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/) <kbd>2023-04-06T14:05-04:00</kbd></samp>
-- <samp>[Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/) <kbd>2023-04-06T12:00-04:00</kbd></samp>
-- <samp>[Bring your enterprise together with enterprise accounts for all](https://github.blog/2023-04-05-bring-your-enterprise-together-with-enterprise-accounts-for-all/) <kbd>2023-04-05T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
