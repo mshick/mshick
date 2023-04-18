@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-16T21:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-17T08:29-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-04-14T14:41-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Multi-repository enablement: effortlessly scale code scanning across your repositories](https://github.blog/2023-04-17-multi-repository-enablement-effortlessly-scale-code-scanning-across-your-repositories/) <kbd>2023-04-17T14:13-04:00</kbd></samp>
 - <samp>[3 benefits of migrating and consolidating your source code](https://github.blog/2023-04-14-3-benefits-of-migrating-and-consolidating-your-source-code/) <kbd>2023-04-14T13:48-04:00</kbd></samp>
 - <samp>[How generative AI is changing the way developers work](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/) <kbd>2023-04-14T11:15-04:00</kbd></samp>
 - <samp>[Ensuring compliance in developer workflows](https://github.blog/2023-04-13-ensuring-compliance-in-developer-workflows/) <kbd>2023-04-13T12:04-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/) <kbd>2023-04-10T22:00-04:00</kbd></samp>
 - <samp>[What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/) <kbd>2023-04-07T11:00-04:00</kbd></samp>
 - <samp>[Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/) <kbd>2023-04-07T10:32-04:00</kbd></samp>
-- <samp>[Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/) <kbd>2023-04-06T14:05-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
