@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-18T21:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-19T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-04-18T13:25-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-02-23T10:23-05:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Private vulnerability reporting now generally available](https://github.blog/2023-04-19-private-vulnerability-reporting-now-generally-available/) <kbd>2023-04-19T12:00-04:00</kbd></samp>
+- <samp>[Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/) <kbd>2023-04-19T12:00-04:00</kbd></samp>
 - <samp>[GitHub joins industry commitment to curb cyber mercenaries](https://github.blog/2023-04-18-github-joins-industry-commitment-to-curb-cyber-mercenaries/) <kbd>2023-04-18T12:26-04:00</kbd></samp>
 - <samp>[Multi-repository enablement: effortlessly scale code scanning across your repositories](https://github.blog/2023-04-17-multi-repository-enablement-effortlessly-scale-code-scanning-across-your-repositories/) <kbd>2023-04-17T14:13-04:00</kbd></samp>
 - <samp>[3 benefits of migrating and consolidating your source code](https://github.blog/2023-04-14-3-benefits-of-migrating-and-consolidating-your-source-code/) <kbd>2023-04-14T13:48-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Accelerator: our first cohort and what&#8217;s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) <kbd>2023-04-12T12:00-04:00</kbd></samp>
 - <samp>[Introducing the newest GitHub Shop collection](https://github.blog/2023-04-11-introducing-the-newest-github-shop-collection/) <kbd>2023-04-11T15:22-04:00</kbd></samp>
 - <samp>[Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/) <kbd>2023-04-11T12:36-04:00</kbd></samp>
-- <samp>[How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/) <kbd>2023-04-10T22:00-04:00</kbd></samp>
-- <samp>[What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/) <kbd>2023-04-07T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
