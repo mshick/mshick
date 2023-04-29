@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-27T21:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-04-28T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-04-27T15:41-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[This month on The ReadME Podcast: exploring the fusion of technology and progress](https://github.blog/2023-04-28-this-month-on-the-readme-podcast-exploring-the-fusion-of-technology-and-progress/) <kbd>2023-04-28T12:00-04:00</kbd></samp>
 - <samp>[CLI tricks every developer should know](https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/) <kbd>2023-04-26T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/) <kbd>2023-04-25T13:13-04:00</kbd></samp>
 - <samp>[Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/) <kbd>2023-04-25T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/) <kbd>2023-04-19T12:00-04:00</kbd></samp>
 - <samp>[GitHub joins industry commitment to curb cyber mercenaries](https://github.blog/2023-04-18-github-joins-industry-commitment-to-curb-cyber-mercenaries/) <kbd>2023-04-18T12:26-04:00</kbd></samp>
 - <samp>[Multi-repository enablement: effortlessly scale code scanning across your repositories](https://github.blog/2023-04-17-multi-repository-enablement-effortlessly-scale-code-scanning-across-your-repositories/) <kbd>2023-04-17T14:13-04:00</kbd></samp>
-- <samp>[3 benefits of migrating and consolidating your source code](https://github.blog/2023-04-14-3-benefits-of-migrating-and-consolidating-your-source-code/) <kbd>2023-04-14T13:48-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
