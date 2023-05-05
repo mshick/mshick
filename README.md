@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-03T21:11-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-03T16:53-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-04T17:37-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-04T08:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Manage your application security stack effectively with the tool status page](https://github.blog/2023-05-04-manage-your-application-security-stack-effectively-with-the-tool-status-page/) <kbd>2023-05-04T14:34-04:00</kbd></samp>
+- <samp>[All In for Students 2023 cohort: our biggest group of open source leaders yet!](https://github.blog/2023-05-04-all-in-for-students-2023-cohort-our-biggest-group-of-open-source-leaders-yet/) <kbd>2023-05-04T13:35-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2023](https://github.blog/2023-05-03-github-availability-report-april-2023/) <kbd>2023-05-03T17:00-04:00</kbd></samp>
 - <samp>[More than meets the pull request: maintainers talk contributions](https://github.blog/2023-05-03-more-than-meets-the-pull-request-maintainers-talk-contributions/) <kbd>2023-05-03T12:00-04:00</kbd></samp>
 - <samp>[Dependabot relieves alert fatigue from npm devDependencies](https://github.blog/2023-05-02-dependabot-relieves-alert-fatigue-from-npm-devdependencies/) <kbd>2023-05-02T16:36-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/) <kbd>2023-04-25T13:13-04:00</kbd></samp>
 - <samp>[Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/) <kbd>2023-04-25T12:00-04:00</kbd></samp>
 - <samp>[Shaping the GitHub of the future as COO](https://github.blog/2023-04-25-shaping-the-github-of-the-future-as-coo/) <kbd>2023-04-25T10:00-04:00</kbd></samp>
-- <samp>[Announcing GitHub Actions Deployment Protection Rules, now in public beta](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/) <kbd>2023-04-20T12:00-04:00</kbd></samp>
-- <samp>[Private vulnerability reporting now generally available](https://github.blog/2023-04-19-private-vulnerability-reporting-now-generally-available/) <kbd>2023-04-19T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
