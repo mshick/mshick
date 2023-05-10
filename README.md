@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-08T21:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-09T09:03-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-07T09:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How companies are boosting productivity with generative AI](https://github.blog/2023-05-09-how-companies-are-boosting-productivity-with-generative-ai/) <kbd>2023-05-09T15:42-04:00</kbd></samp>
+- <samp>[How to fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/) <kbd>2023-05-09T13:40-04:00</kbd></samp>
+- <samp>[Push protection is generally available, and free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/) <kbd>2023-05-09T12:00-04:00</kbd></samp>
 - <samp>[How we work: inclusive retrospectives for the GitHub Accessibility leadership team](https://github.blog/2023-05-08-how-we-work-inclusive-retrospectives-for-the-github-accessibility-leadership-team/) <kbd>2023-05-08T14:21-04:00</kbd></samp>
 - <samp>[GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/) <kbd>2023-05-08T12:00-04:00</kbd></samp>
 - <samp>[Building a culture of innovation in your business with GitHub](https://github.blog/2023-05-08-building-a-culture-of-innovation-in-your-business-with-github/) <kbd>2023-05-08T11:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Web Summit Rio 2023: Building an app in 18 minutes with GitHub Copilot X](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/) <kbd>2023-05-05T10:07-04:00</kbd></samp>
 - <samp>[Manage your application security stack effectively with the tool status page](https://github.blog/2023-05-04-manage-your-application-security-stack-effectively-with-the-tool-status-page/) <kbd>2023-05-04T14:34-04:00</kbd></samp>
 - <samp>[All In for Students 2023 cohort: our biggest group of open source leaders yet!](https://github.blog/2023-05-04-all-in-for-students-2023-cohort-our-biggest-group-of-open-source-leaders-yet/) <kbd>2023-05-04T13:35-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: April 2023](https://github.blog/2023-05-03-github-availability-report-april-2023/) <kbd>2023-05-03T17:00-04:00</kbd></samp>
-- <samp>[More than meets the pull request: maintainers talk contributions](https://github.blog/2023-05-03-more-than-meets-the-pull-request-maintainers-talk-contributions/) <kbd>2023-05-03T12:00-04:00</kbd></samp>
-- <samp>[Dependabot relieves alert fatigue from npm devDependencies](https://github.blog/2023-05-02-dependabot-relieves-alert-fatigue-from-npm-devdependencies/) <kbd>2023-05-02T16:36-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
