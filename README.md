@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-14T21:14-04:00</kbd></samp>
+- <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-15T08:29-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-12T14:10-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2023-01-05T20:41-05:00</kbd></samp>
 - <samp>[hapi-postgraphile](https://github.com/mshick/hapi-postgraphile) <kbd>2023-01-03T19:51-05:00</kbd></samp>
 - <samp>[add-pr-comment-proxy](https://github.com/mshick/add-pr-comment-proxy) <kbd>2022-12-13T00:52-05:00</kbd></samp>
-- <samp>[mshick.github.io](https://github.com/mshick/mshick.github.io) <kbd>2022-12-07T21:58-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
