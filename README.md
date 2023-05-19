@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-17T21:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-18T08:28-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-12T14:10-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[9 tips to go from attendee to speaker at a tech conference](https://github.blog/2023-05-18-9-tips-to-go-from-attendee-to-speaker-at-a-tech-conference/) <kbd>2023-05-18T12:28-04:00</kbd></samp>
+- <samp>[GitHub celebrates developers with disabilities on Global Accessibility Awareness Day](https://github.blog/2023-05-18-github-celebrates-developers-with-disabilities-on-global-accessibility-awareness-day/) <kbd>2023-05-18T09:00-04:00</kbd></samp>
 - <samp>[Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
 - <samp>[How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
 - <samp>[Design&#8217;s journey towards accessibility](https://github.blog/2023-05-17-designs-journey-towards-accessibility/) <kbd>2023-05-17T11:30-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How I used GitHub Copilot to build a browser extension](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/) <kbd>2023-05-12T12:00-04:00</kbd></samp>
 - <samp>[Navigation and search improvements for accessibility](https://github.blog/2023-05-11-navigation-and-search-improvements-for-accessibility/) <kbd>2023-05-11T16:20-04:00</kbd></samp>
 - <samp>[Unlocking inclusive design: how Primer&#8217;s color system is making GitHub.com more inclusive](https://github.blog/2023-05-11-unlocking-inclusive-design-how-primers-color-system-is-making-github-com-more-inclusive/) <kbd>2023-05-11T13:56-04:00</kbd></samp>
-- <samp>[Revolutionize your open source workflows: the top 3 reasons why GitHub Codespaces is a must-have for maintainers](https://github.blog/2023-05-10-revolutionize-your-open-source-workflows-the-top-3-reasons-why-github-codespaces-is-a-must-have-for-maintainers/) <kbd>2023-05-10T15:09-04:00</kbd></samp>
-- <samp>[Game Bytes · May 2023](https://github.blog/2023-05-10-game-bytes-may-2023/) <kbd>2023-05-10T11:29-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
