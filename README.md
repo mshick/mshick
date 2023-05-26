@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-24T21:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-25T08:29-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-12T14:10-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The 2023 Open Source Program Office (OSPO) Survey is live!](https://github.blog/2023-05-25-the-2023-open-source-program-office-ospo-survey-is-live/) <kbd>2023-05-25T13:00-04:00</kbd></samp>
+- <samp>[Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/) <kbd>2023-05-25T12:00-04:00</kbd></samp>
 - <samp>[How to automate a Microsoft Power Platform deployment using GitHub Actions](https://github.blog/2023-05-24-how-to-automate-a-microsoft-power-platform-deployment-using-github-actions/) <kbd>2023-05-24T14:04-04:00</kbd></samp>
 - <samp>[Kelsey Hightower on leadership in open source and the future of Kubernetes](https://github.blog/2023-05-24-kelsey-hightower-on-leadership-in-open-source-and-the-future-of-kubernetes/) <kbd>2023-05-24T12:00-04:00</kbd></samp>
 - <samp>[Announcing the public preview of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-05-23-announcing-the-public-preview-of-github-advanced-security-for-azure-devops/) <kbd>2023-05-23T11:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
 - <samp>[How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
 - <samp>[Design&#8217;s journey towards accessibility](https://github.blog/2023-05-17-designs-journey-towards-accessibility/) <kbd>2023-05-17T11:30-04:00</kbd></samp>
-- <samp>[Addressing GitHub’s recent availability issues](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues/) <kbd>2023-05-16T14:33-04:00</kbd></samp>
-- <samp>[This month on The ReadME Podcast: Balancing openness and control](https://github.blog/2023-05-12-this-month-on-the-readme-podcast-balancing-openness-and-control/) <kbd>2023-05-12T14:04-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
