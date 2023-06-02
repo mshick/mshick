@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-05-31T21:50-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-01T08:29-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-05-12T14:10-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Elevating open source contributors to open source maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/) <kbd>2023-06-01T13:46-04:00</kbd></samp>
+- <samp>[Highlights from Git 2.41](https://github.blog/2023-06-01-highlights-from-git-2-41/) <kbd>2023-06-01T12:34-04:00</kbd></samp>
 - <samp>[The 2023 Open Source Program Office (OSPO) Survey is live!](https://github.blog/2023-05-25-the-2023-open-source-program-office-ospo-survey-is-live/) <kbd>2023-05-25T13:00-04:00</kbd></samp>
 - <samp>[Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/) <kbd>2023-05-25T12:00-04:00</kbd></samp>
 - <samp>[How to automate a Microsoft Power Platform deployment using GitHub Actions](https://github.blog/2023-05-24-how-to-automate-a-microsoft-power-platform-deployment-using-github-actions/) <kbd>2023-05-24T14:04-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[9 tips to go from attendee to speaker at a tech conference](https://github.blog/2023-05-18-9-tips-to-go-from-attendee-to-speaker-at-a-tech-conference/) <kbd>2023-05-18T12:28-04:00</kbd></samp>
 - <samp>[GitHub celebrates developers with disabilities on Global Accessibility Awareness Day](https://github.blog/2023-05-18-github-celebrates-developers-with-disabilities-on-global-accessibility-awareness-day/) <kbd>2023-05-18T09:00-04:00</kbd></samp>
 - <samp>[Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
-- <samp>[How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/) <kbd>2023-05-17T13:32-04:00</kbd></samp>
-- <samp>[Design&#8217;s journey towards accessibility](https://github.blog/2023-05-17-designs-journey-towards-accessibility/) <kbd>2023-05-17T11:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
