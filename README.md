@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-06T21:37-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-07T08:29-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/) <kbd>2023-06-07T12:57-04:00</kbd></samp>
 - <samp>[Swift support brings broader mobile application security to GitHub Advanced Security](https://github.blog/2023-06-06-swift-support-brings-broader-mobile-application-security-to-github-advanced-security/) <kbd>2023-06-06T12:01-04:00</kbd></samp>
 - <samp>[Announcing the Stale Repos Action](https://github.blog/2023-06-05-announcing-the-stale-repos-action/) <kbd>2023-06-05T12:17-04:00</kbd></samp>
 - <samp>[Applying GitOps principles to your operations](https://github.blog/2023-06-02-applying-gitops-principles-to-your-operations/) <kbd>2023-06-02T13:30-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/) <kbd>2023-05-25T12:00-04:00</kbd></samp>
 - <samp>[How to automate a Microsoft Power Platform deployment using GitHub Actions](https://github.blog/2023-05-24-how-to-automate-a-microsoft-power-platform-deployment-using-github-actions/) <kbd>2023-05-24T14:04-04:00</kbd></samp>
 - <samp>[Kelsey Hightower on leadership in open source and the future of Kubernetes](https://github.blog/2023-05-24-kelsey-hightower-on-leadership-in-open-source-and-the-future-of-kubernetes/) <kbd>2023-05-24T12:00-04:00</kbd></samp>
-- <samp>[Announcing the public preview of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-05-23-announcing-the-public-preview-of-github-advanced-security-for-azure-devops/) <kbd>2023-05-23T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
