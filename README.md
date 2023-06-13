@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-11T21:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-12T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub’s revamped VIP Bug Bounty Program](https://github.blog/2023-06-12-githubs-revamped-vip-bug-bounty-program/) <kbd>2023-06-12T15:51-04:00</kbd></samp>
+- <samp>[Make your GitHub projects more accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/) <kbd>2023-06-12T13:00-04:00</kbd></samp>
+- <samp>[Cloud migration made easy: introducing GitHub Enterprise Importer](https://github.blog/2023-06-12-cloud-migration-made-easy-introducing-github-enterprise-importer/) <kbd>2023-06-12T12:04-04:00</kbd></samp>
 - <samp>[Maintainer Month 2023: How the community gathered to spread some maintainer love](https://github.blog/2023-06-08-maintainer-month-2023-how-the-community-gathered-to-spread-some-maintainer-love/) <kbd>2023-06-08T17:01-04:00</kbd></samp>
 - <samp>[Developer experience: what is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/) <kbd>2023-06-08T15:23-04:00</kbd></samp>
 - <samp>[Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/) <kbd>2023-06-07T12:57-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Announcing the Stale Repos Action](https://github.blog/2023-06-05-announcing-the-stale-repos-action/) <kbd>2023-06-05T12:17-04:00</kbd></samp>
 - <samp>[Applying GitOps principles to your operations](https://github.blog/2023-06-02-applying-gitops-principles-to-your-operations/) <kbd>2023-06-02T13:30-04:00</kbd></samp>
 - <samp>[Elevating open source contributors to open source maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/) <kbd>2023-06-01T13:46-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.41](https://github.blog/2023-06-01-highlights-from-git-2-41/) <kbd>2023-06-01T12:34-04:00</kbd></samp>
-- <samp>[The 2023 Open Source Program Office (OSPO) Survey is live!](https://github.blog/2023-05-25-the-2023-open-source-program-office-ospo-survey-is-live/) <kbd>2023-05-25T13:00-04:00</kbd></samp>
-- <samp>[Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/) <kbd>2023-05-25T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
