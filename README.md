@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-19T21:18-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-20T08:29-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) <kbd>2023-06-20T12:00-04:00</kbd></samp>
 - <samp>[Developers need the right to challenge junk patents](https://github.blog/2023-06-19-developers-need-the-right-to-challenge-junk-patents/) <kbd>2023-06-19T15:34-04:00</kbd></samp>
 - <samp>[Exploring GitHub with the redesigned navigation, now in public beta](https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/) <kbd>2023-06-15T12:20-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/) <kbd>2023-06-15T08:53-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Make your GitHub projects more accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/) <kbd>2023-06-12T13:00-04:00</kbd></samp>
 - <samp>[Cloud migration made easy: introducing GitHub Enterprise Importer](https://github.blog/2023-06-12-cloud-migration-made-easy-introducing-github-enterprise-importer/) <kbd>2023-06-12T12:04-04:00</kbd></samp>
 - <samp>[Maintainer Month 2023: How the community gathered to spread some maintainer love](https://github.blog/2023-06-08-maintainer-month-2023-how-the-community-gathered-to-spread-some-maintainer-love/) <kbd>2023-06-08T17:01-04:00</kbd></samp>
-- <samp>[Developer experience: What is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/) <kbd>2023-06-08T15:23-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
