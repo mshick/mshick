@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-25T21:42-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-06-26T08:32-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/) <kbd>2023-06-26T12:36-04:00</kbd></samp>
 - <samp>[Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/) <kbd>2023-06-21T18:20-04:00</kbd></samp>
 - <samp>[Bridging code and community](https://github.blog/2023-06-21-bridging-code-and-community/) <kbd>2023-06-21T16:44-04:00</kbd></samp>
 - <samp>[Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/) <kbd>2023-06-21T13:35-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/) <kbd>2023-06-15T08:53-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: May 2023](https://github.blog/2023-06-14-github-availability-report-may-2023/) <kbd>2023-06-14T14:56-04:00</kbd></samp>
 - <samp>[Survey reveals AI’s impact on the developer experience](https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/) <kbd>2023-06-13T11:00-04:00</kbd></samp>
-- <samp>[GitHub’s revamped VIP Bug Bounty Program](https://github.blog/2023-06-12-githubs-revamped-vip-bug-bounty-program/) <kbd>2023-06-12T15:51-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
