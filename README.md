@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-05T21:40-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-06T08:34-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Accessibility considerations behind code search and code view](https://github.blog/2023-07-06-accessibility-considerations-behind-code-search-and-code-view/) <kbd>2023-07-06T15:00-04:00</kbd></samp>
+- <samp>[Keeping up with big shifts in tech](https://github.blog/2023-07-06-keeping-up-with-big-shifts-in-tech/) <kbd>2023-07-06T12:00-04:00</kbd></samp>
 - <samp>[GitHub achieves ISO/IEC 27701:2019, 27018:2019, and CSA STAR certifications](https://github.blog/2023-07-05-github-achieves-iso-iec-277012019-270182019-and-csa-star-certifications/) <kbd>2023-07-05T14:16-04:00</kbd></samp>
 - <samp>[Introduction to SELinux](https://github.blog/2023-07-05-introduction-to-selinux/) <kbd>2023-07-05T12:00-04:00</kbd></samp>
 - <samp>[Leading your platform migration with developer experience](https://github.blog/2023-07-03-leading-your-platform-migration-with-developer-experience/) <kbd>2023-07-03T19:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) <kbd>2023-06-27T12:20-04:00</kbd></samp>
 - <samp>[New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/) <kbd>2023-06-26T12:36-04:00</kbd></samp>
 - <samp>[Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/) <kbd>2023-06-21T18:20-04:00</kbd></samp>
-- <samp>[Bridging code and community](https://github.blog/2023-06-21-bridging-code-and-community/) <kbd>2023-06-21T16:44-04:00</kbd></samp>
-- <samp>[Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/) <kbd>2023-06-21T13:35-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
