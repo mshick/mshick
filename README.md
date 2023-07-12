@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-10T21:23-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-11T08:33-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/) <kbd>2023-07-11T17:52-04:00</kbd></samp>
+- <samp>[Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/) <kbd>2023-07-11T12:52-04:00</kbd></samp>
 - <samp>[Accessibility considerations behind code search and code view](https://github.blog/2023-07-06-accessibility-considerations-behind-code-search-and-code-view/) <kbd>2023-07-06T15:00-04:00</kbd></samp>
 - <samp>[Keeping up with big shifts in tech](https://github.blog/2023-07-06-keeping-up-with-big-shifts-in-tech/) <kbd>2023-07-06T12:00-04:00</kbd></samp>
 - <samp>[GitHub achieves ISO/IEC 27701:2019, 27018:2019, and CSA STAR certifications](https://github.blog/2023-07-05-github-achieves-iso-iec-277012019-270182019-and-csa-star-certifications/) <kbd>2023-07-05T14:16-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Game Bytes · June 2023](https://github.blog/2023-06-30-game-bytes-june-2023/) <kbd>2023-06-30T13:26-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/) <kbd>2023-06-29T12:45-04:00</kbd></samp>
 - <samp>[The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) <kbd>2023-06-27T12:20-04:00</kbd></samp>
-- <samp>[New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/) <kbd>2023-06-26T12:36-04:00</kbd></samp>
-- <samp>[Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/) <kbd>2023-06-21T18:20-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
