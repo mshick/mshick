@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-16T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-17T08:34-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-06-05T22:18-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) <kbd>2023-07-17T10:27-04:00</kbd></samp>
 - <samp>[Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/) <kbd>2023-07-13T20:58-04:00</kbd></samp>
 - <samp>[(De)coding conventions](https://github.blog/2023-07-13-decoding-conventions/) <kbd>2023-07-13T14:02-04:00</kbd></samp>
 - <samp>[Moving from a product to a service mindset](https://github.blog/2023-07-13-moving-from-a-product-to-a-service-mindset/) <kbd>2023-07-13T09:44-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/) <kbd>2023-07-12T11:02-04:00</kbd></samp>
 - <samp>[GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/) <kbd>2023-07-11T17:52-04:00</kbd></samp>
 - <samp>[Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/) <kbd>2023-07-11T12:52-04:00</kbd></samp>
-- <samp>[Accessibility considerations behind code search and code view](https://github.blog/2023-07-06-accessibility-considerations-behind-code-search-and-code-view/) <kbd>2023-07-06T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
