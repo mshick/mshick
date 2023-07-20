@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-18T22:39-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-19T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T13:00-04:00</kbd></samp>
+- <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T12:00-04:00</kbd></samp>
 - <samp>[Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/) <kbd>2023-07-18T10:43-04:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) <kbd>2023-07-17T10:27-04:00</kbd></samp>
 - <samp>[Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/) <kbd>2023-07-13T20:58-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/) <kbd>2023-07-12T16:00-04:00</kbd></samp>
 - <samp>[No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/) <kbd>2023-07-12T14:36-04:00</kbd></samp>
 - <samp>[GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/) <kbd>2023-07-12T11:12-04:00</kbd></samp>
-- <samp>[Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/) <kbd>2023-07-12T11:02-04:00</kbd></samp>
-- <samp>[GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/) <kbd>2023-07-11T17:52-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
