@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-23T21:17-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-24T08:29-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Repository Rules are now generally available](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/) <kbd>2023-07-24T12:01-04:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/) <kbd>2023-07-20T11:45-04:00</kbd></samp>
 - <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T13:00-04:00</kbd></samp>
 - <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[(De)coding conventions](https://github.blog/2023-07-13-decoding-conventions/) <kbd>2023-07-13T14:02-04:00</kbd></samp>
 - <samp>[Moving from a product to a service mindset](https://github.blog/2023-07-13-moving-from-a-product-to-a-service-mindset/) <kbd>2023-07-13T09:44-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/) <kbd>2023-07-12T16:00-04:00</kbd></samp>
-- <samp>[No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/) <kbd>2023-07-12T14:36-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
