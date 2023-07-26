@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-25T08:30-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-07-25T21:17-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T03:01-04:00</kbd></samp>
 - <samp>[Game Bytes · July 2023](https://github.blog/2023-07-25-game-bytes-july-2023/) <kbd>2023-07-25T15:00-04:00</kbd></samp>
 - <samp>[How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/) <kbd>2023-07-25T13:00-04:00</kbd></samp>
 - <samp>[How to responsibly adopt GitHub Copilot with the GitHub Copilot Trust Center](https://github.blog/2023-07-25-how-to-responsibly-adopt-github-copilot-with-the-github-copilot-trust-center/) <kbd>2023-07-25T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T12:00-04:00</kbd></samp>
 - <samp>[Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/) <kbd>2023-07-18T10:43-04:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) <kbd>2023-07-17T10:27-04:00</kbd></samp>
-- <samp>[Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/) <kbd>2023-07-13T20:58-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
