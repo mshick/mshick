@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-01T21:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-02T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T15:55-04:00</kbd></samp>
+- <samp>[How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/) <kbd>2023-08-02T08:31-04:00</kbd></samp>
 - <samp>[Closing vulnerabilities in Decidim, a Ruby-based citizen participation platform](https://github.blog/2023-07-28-closing-vulnerabilities-in-decidim-a-ruby-based-citizen-participation-platform/) <kbd>2023-07-28T09:00-04:00</kbd></samp>
 - <samp>[Scaling merge-ort across GitHub](https://github.blog/2023-07-27-scaling-merge-ort-across-github/) <kbd>2023-07-27T12:00-04:00</kbd></samp>
 - <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T03:01-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to responsibly adopt GitHub Copilot with the GitHub Copilot Trust Center](https://github.blog/2023-07-25-how-to-responsibly-adopt-github-copilot-with-the-github-copilot-trust-center/) <kbd>2023-07-25T12:00-04:00</kbd></samp>
 - <samp>[GitHub Repository Rules are now generally available](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/) <kbd>2023-07-24T12:01-04:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/) <kbd>2023-07-20T11:45-04:00</kbd></samp>
-- <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T13:00-04:00</kbd></samp>
-- <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
