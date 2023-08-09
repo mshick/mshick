@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-07T21:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-08T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A guide to designing and shipping AI developer tools](https://github.blog/2023-08-08-a-guide-to-designing-and-shipping-ai-developer-tools/) <kbd>2023-08-08T10:28-04:00</kbd></samp>
 - <samp>[A checklist and guide to get your repository collaboration-ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/) <kbd>2023-08-04T12:00-04:00</kbd></samp>
 - <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T12:01-04:00</kbd></samp>
 - <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T15:55-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Scaling merge-ort across GitHub](https://github.blog/2023-07-27-scaling-merge-ort-across-github/) <kbd>2023-07-27T12:00-04:00</kbd></samp>
 - <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T03:01-04:00</kbd></samp>
 - <samp>[Game Bytes · July 2023](https://github.blog/2023-07-25-game-bytes-july-2023/) <kbd>2023-07-25T15:00-04:00</kbd></samp>
-- <samp>[How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/) <kbd>2023-07-25T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
