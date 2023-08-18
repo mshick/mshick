@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-16T20:57-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-17T08:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[mTLS: When certificate authentication is done wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/) <kbd>2023-08-17T17:22-04:00</kbd></samp>
 - <samp>[Build for today, transform for tomorrow at GitHub Universe 2023](https://github.blog/2023-08-15-build-for-today-transform-for-tomorrow-at-github-universe-2023/) <kbd>2023-08-15T15:04-04:00</kbd></samp>
 - <samp>[Release Radar · July 2023 Edition](https://github.blog/2023-08-15-release-radar-jul-23/) <kbd>2023-08-15T14:00-04:00</kbd></samp>
 - <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Four tips to keep your GitHub Actions workflows secure](https://github.blog/2023-08-09-four-tips-to-keep-your-github-actions-workflows-secure/) <kbd>2023-08-09T12:00-04:00</kbd></samp>
 - <samp>[A guide to designing and shipping AI developer tools](https://github.blog/2023-08-08-a-guide-to-designing-and-shipping-ai-developer-tools/) <kbd>2023-08-08T10:28-04:00</kbd></samp>
 - <samp>[A checklist and guide to get your repository collaboration-ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/) <kbd>2023-08-04T12:00-04:00</kbd></samp>
-- <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T12:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
