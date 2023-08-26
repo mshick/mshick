@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-24T21:00-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-25T08:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/) <kbd>2023-08-25T14:11-04:00</kbd></samp>
 - <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T16:55-04:00</kbd></samp>
 - <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T12:57-04:00</kbd></samp>
 - <samp>[AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/) <kbd>2023-08-23T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Release Radar · July 2023 Edition](https://github.blog/2023-08-15-release-radar-jul-23/) <kbd>2023-08-15T14:00-04:00</kbd></samp>
 - <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T12:00-04:00</kbd></samp>
 - <samp>[Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/) <kbd>2023-08-14T11:21-04:00</kbd></samp>
-- <samp>[Enhanced push protection features for developers and organizations](https://github.blog/2023-08-09-enhanced-push-protection-features-for-developers-and-organizations/) <kbd>2023-08-09T15:02-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
