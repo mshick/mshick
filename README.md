@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-08-31T21:04-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-01T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/) <kbd>2023-09-01T11:00-04:00</kbd></samp>
 - <samp>[How GitHub reduces costs with upgraded Codespaces](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/) <kbd>2023-08-31T11:00-04:00</kbd></samp>
 - <samp>[Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) <kbd>2023-08-30T10:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.10 is now generally available](https://github.blog/2023-08-29-github-enterprise-server-3-10-is-now-generally-available/) <kbd>2023-08-29T14:59-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T12:57-04:00</kbd></samp>
 - <samp>[AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/) <kbd>2023-08-23T12:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.42](https://github.blog/2023-08-21-highlights-from-git-2-42/) <kbd>2023-08-21T13:45-04:00</kbd></samp>
-- <samp>[mTLS: When certificate authentication is done wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/) <kbd>2023-08-17T17:22-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
