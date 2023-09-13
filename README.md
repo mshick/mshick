@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-11T20:59-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-12T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T12:48-04:00</kbd></samp>
 - <samp>[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/) <kbd>2023-09-06T15:04-04:00</kbd></samp>
 - <samp>[Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/) <kbd>2023-09-01T11:00-04:00</kbd></samp>
 - <samp>[Optimize your GitHub Codespaces costs with upgraded virtual machines](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/) <kbd>2023-08-31T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/) <kbd>2023-08-25T14:11-04:00</kbd></samp>
 - <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T16:55-04:00</kbd></samp>
 - <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T12:57-04:00</kbd></samp>
-- <samp>[AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/) <kbd>2023-08-23T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
