@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-13T21:00-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-14T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) <kbd>2023-09-14T13:34-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T15:00-04:00</kbd></samp>
 - <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T12:00-04:00</kbd></samp>
 - <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T12:48-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) <kbd>2023-08-30T10:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.10 is now generally available](https://github.blog/2023-08-29-github-enterprise-server-3-10-is-now-generally-available/) <kbd>2023-08-29T14:59-04:00</kbd></samp>
 - <samp>[10 things you didn’t know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2023-08-28T12:18-04:00</kbd></samp>
-- <samp>[Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/) <kbd>2023-08-25T14:11-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
