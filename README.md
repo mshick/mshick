@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-20T21:00-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-21T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T16:56-04:00</kbd></samp>
+- <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T12:00-04:00</kbd></samp>
+- <samp>[Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/) <kbd>2023-09-21T11:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for all individuals](https://github.blog/2023-09-20-github-copilot-chat-beta-now-available-for-all-individuals/) <kbd>2023-09-20T13:00-04:00</kbd></samp>
 - <samp>[Introducing Learning Paths on Global Campus](https://github.blog/2023-09-20-introducing-learning-paths-on-global-campus/) <kbd>2023-09-20T12:00-04:00</kbd></samp>
 - <samp>[Announcing general availability of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-09-20-announcing-general-availability-of-github-advanced-security-for-azure-devops/) <kbd>2023-09-20T11:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) <kbd>2023-09-14T13:34-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T15:00-04:00</kbd></samp>
 - <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T12:00-04:00</kbd></samp>
-- <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T12:48-04:00</kbd></samp>
-- <samp>[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/) <kbd>2023-09-06T15:04-04:00</kbd></samp>
-- <samp>[Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/) <kbd>2023-09-01T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
