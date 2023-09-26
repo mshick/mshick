@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-24T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-09-25T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2023-04-20T11:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/) <kbd>2023-09-25T12:08-04:00</kbd></samp>
 - <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T16:56-04:00</kbd></samp>
 - <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T12:00-04:00</kbd></samp>
 - <samp>[Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/) <kbd>2023-09-21T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Switching from Bitbucket Server and Bamboo to GitHub just got easier](https://github.blog/2023-09-18-switching-from-bitbucket-server-and-bamboo-to-github-just-got-easier/) <kbd>2023-09-18T12:00-04:00</kbd></samp>
 - <samp>[Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) <kbd>2023-09-14T13:34-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T15:00-04:00</kbd></samp>
-- <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
