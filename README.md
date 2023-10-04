@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-02T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-03T08:27-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Sponsors is expanding](https://github.blog/2023-10-03-sponsors-is-expanding/) <kbd>2023-10-03T13:00-04:00</kbd></samp>
+- <samp>[3 strategies to expand your threat model and secure your supply chain](https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain/) <kbd>2023-10-03T12:24-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @inspector-ambitious](https://github.blog/2023-10-02-cybersecurity-spotlight-on-bug-bounty-researcher-inspector-ambitious/) <kbd>2023-10-02T13:19-04:00</kbd></samp>
 - <samp>[Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/) <kbd>2023-10-02T11:01-04:00</kbd></samp>
 - <samp>[Game Bytes · September 2023](https://github.blog/2023-09-29-game-bytes/) <kbd>2023-09-29T10:36-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/) <kbd>2023-09-26T13:30-04:00</kbd></samp>
 - <samp>[Your ultimate guide to the GitHub Universe ‘23 agenda](https://github.blog/2023-09-26-your-ultimate-guide-to-the-github-universe-23-agenda/) <kbd>2023-09-26T12:00-04:00</kbd></samp>
 - <samp>[Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/) <kbd>2023-09-26T11:00-04:00</kbd></samp>
-- <samp>[Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/) <kbd>2023-09-25T12:08-04:00</kbd></samp>
-- <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T16:56-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
