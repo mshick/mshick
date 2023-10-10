@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-08T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-09T08:29-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/) <kbd>2023-10-09T13:00-04:00</kbd></samp>
+- <samp>[Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/2023-10-09-prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/) <kbd>2023-10-09T12:00-04:00</kbd></samp>
+- <samp>[Skilling African developers through All In Africa](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) <kbd>2023-10-09T10:02-04:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to open source LLMs and generative AI](https://github.blog/2023-10-05-a-developers-guide-to-open-source-llms-and-generative-ai/) <kbd>2023-10-05T12:00-04:00</kbd></samp>
 - <samp>[How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) <kbd>2023-10-04T13:00-04:00</kbd></samp>
 - <samp>[Introducing secret scanning validity checks for major cloud services](https://github.blog/2023-10-04-introducing-secret-scanning-validity-checks-for-major-cloud-services/) <kbd>2023-10-04T12:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[3 strategies to expand your threat model and secure your supply chain](https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain/) <kbd>2023-10-03T12:24-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @inspector-ambitious](https://github.blog/2023-10-02-cybersecurity-spotlight-on-bug-bounty-researcher-inspector-ambitious/) <kbd>2023-10-02T13:19-04:00</kbd></samp>
 - <samp>[Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/) <kbd>2023-10-02T11:01-04:00</kbd></samp>
-- <samp>[Game Bytes · September 2023](https://github.blog/2023-09-29-game-bytes/) <kbd>2023-09-29T10:36-04:00</kbd></samp>
-- <samp>[GitHub Learning Pathways: Learn from the best](https://github.blog/2023-09-28-github-learning-pathways-learn-from-the-best/) <kbd>2023-09-28T13:33-04:00</kbd></samp>
-- <samp>[How I used GitHub Copilot Chat to build a ReactJS gallery prototype](https://github.blog/2023-09-27-how-i-used-github-copilot-chat-to-build-a-reactjs-gallery-prototype/) <kbd>2023-09-27T12:24-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
