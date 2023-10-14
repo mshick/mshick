@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-12T21:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-13T08:27-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T03:13-04:00</kbd></samp>
 - <samp>[Ensuring the next generation of open source leaders are truly &#8220;all in&#8221;](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/) <kbd>2023-10-12T11:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/) <kbd>2023-10-11T15:47-04:00</kbd></samp>
 - <samp>[Enforcing code reliability by requiring workflows with GitHub Repository Rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Skilling African developers through All In Africa](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) <kbd>2023-10-09T10:02-04:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to open source LLMs and generative AI](https://github.blog/2023-10-05-a-developers-guide-to-open-source-llms-and-generative-ai/) <kbd>2023-10-05T12:00-04:00</kbd></samp>
 - <samp>[How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) <kbd>2023-10-04T13:00-04:00</kbd></samp>
-- <samp>[Introducing secret scanning validity checks for major cloud services](https://github.blog/2023-10-04-introducing-secret-scanning-validity-checks-for-major-cloud-services/) <kbd>2023-10-04T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
