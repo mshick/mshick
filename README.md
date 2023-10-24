@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-22T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-23T08:27-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/) <kbd>2023-10-23T16:39-04:00</kbd></samp>
 - <samp>[ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/) <kbd>2023-10-19T15:14-04:00</kbd></samp>
 - <samp>[Your curated GitHub Universe agenda: AI, ethics, and productivity](https://github.blog/2023-10-17-your-curated-github-universe-agenda-ai-ethics-and-productivity/) <kbd>2023-10-17T15:03-04:00</kbd></samp>
 - <samp>[The clock is ticking: Atlassian’s support for Bitbucket Server ends on February 15, 2024](https://github.blog/2023-10-17-the-clock-is-ticking-atlassians-support-for-bitbucket-server-ends-on-february-15-2024/) <kbd>2023-10-17T14:00-04:00</kbd></samp>
@@ -61,8 +62,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T03:13-04:00</kbd></samp>
 - <samp>[Ensuring the next generation of open source leaders are truly &#8220;all in&#8221;](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/) <kbd>2023-10-12T11:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/) <kbd>2023-10-11T15:47-04:00</kbd></samp>
-- <samp>[Enforcing code reliability by requiring workflows with GitHub Repository Rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T11:00-04:00</kbd></samp>
-- <samp>[Research: Quantifying GitHub Copilot’s impact on code quality](https://github.blog/2023-10-10-research-quantifying-github-copilots-impact-on-code-quality/) <kbd>2023-10-10T12:00-04:00</kbd></samp>
+- <samp>[Enforcing code reliability by requiring workflows with GitHub repository rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
