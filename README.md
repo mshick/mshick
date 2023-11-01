@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-30T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-10-31T08:27-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T15:22-04:00</kbd></samp>
 - <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T02:11-04:00</kbd></samp>
 - <samp>[The architecture of today&#8217;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) <kbd>2023-10-30T12:22-04:00</kbd></samp>
 - <samp>[Hackable Halloween games MMXXIII](https://github.blog/2023-10-30-hackable-halloween-games-mmxxiii/) <kbd>2023-10-30T04:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Cybersecurity spotlight on bug bounty researcher @Ammar Askar](https://github.blog/2023-10-25-cybersecurity-spotlight-on-bug-bounty-researcher-ammar-askar/) <kbd>2023-10-25T12:00-04:00</kbd></samp>
 - <samp>[How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/) <kbd>2023-10-23T16:39-04:00</kbd></samp>
 - <samp>[ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/) <kbd>2023-10-19T15:14-04:00</kbd></samp>
-- <samp>[Your curated GitHub Universe agenda: AI, ethics, and productivity](https://github.blog/2023-10-17-your-curated-github-universe-agenda-ai-ethics-and-productivity/) <kbd>2023-10-17T15:03-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
