@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-01T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-02T08:26-04:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Leveraging AI to empower all developers at GitHub Universe 2023](https://github.blog/2023-11-02-leveraging-ai-to-empower-all-developers-at-github-universe-2023/) <kbd>2023-11-02T12:02-04:00</kbd></samp>
+- <samp>[Celebrating the first round of GitHub Accelerator and what&#8217;s next](https://github.blog/2023-11-02-celebrating-the-first-round-of-github-accelerator-and-whats-next/) <kbd>2023-11-02T10:00-04:00</kbd></samp>
 - <samp>[GitHub Game Off 2023 theme announcement](https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/) <kbd>2023-11-01T16:36-04:00</kbd></samp>
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2023](https://github.blog/2023-11-01-diversity-inclusion-and-belonging-at-github-in-2023/) <kbd>2023-11-01T12:01-04:00</kbd></samp>
 - <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T15:22-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Hackable Halloween games MMXXIII](https://github.blog/2023-10-30-hackable-halloween-games-mmxxiii/) <kbd>2023-10-30T04:00-04:00</kbd></samp>
 - <samp>[Demystifying LLMs: How they can do things they weren&#8217;t trained to do](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/) <kbd>2023-10-27T12:57-04:00</kbd></samp>
 - <samp>[Developers are the first group to adopt AI at work. Here’s why that matters.](https://github.blog/2023-10-27-developers-are-the-first-group-to-adopt-ai-at-work-heres-why-that-matters/) <kbd>2023-10-27T11:00-04:00</kbd></samp>
-- <samp>[5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) <kbd>2023-10-26T12:00-04:00</kbd></samp>
-- <samp>[Cybersecurity spotlight on bug bounty researcher @Ammar Askar](https://github.blog/2023-10-25-cybersecurity-spotlight-on-bug-bounty-researcher-ammar-askar/) <kbd>2023-10-25T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
