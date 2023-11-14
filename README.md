@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-12T20:05-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-13T07:27-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: October 2023](https://github.blog/2023-11-13-github-availability-report-october-2023/) <kbd>2023-11-13T15:10-05:00</kbd></samp>
 - <samp>[Celebrating the GitHub Awards 2023 recipients 🎉](https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/) <kbd>2023-11-09T19:00-05:00</kbd></samp>
 - <samp>[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) <kbd>2023-11-08T12:10-05:00</kbd></samp>
 - <samp>[Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) <kbd>2023-11-08T12:10-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Game Off 2023 theme announcement](https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/) <kbd>2023-11-01T16:36-04:00</kbd></samp>
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2023](https://github.blog/2023-11-01-diversity-inclusion-and-belonging-at-github-in-2023/) <kbd>2023-11-01T12:01-04:00</kbd></samp>
 - <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T15:22-04:00</kbd></samp>
-- <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T02:11-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
