@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-19T20:06-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-11-20T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/) <kbd>2023-11-20T13:07-05:00</kbd></samp>
 - <samp>[Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/) <kbd>2023-11-16T12:00-05:00</kbd></samp>
 - <samp>[Universe&#8217;s key takeaway: Innovate better with AI-powered workflows on a single, unified platform](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/) <kbd>2023-11-15T16:25-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2023](https://github.blog/2023-11-13-github-availability-report-october-2023/) <kbd>2023-11-13T15:10-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Introducing AI-powered application security testing with GitHub Advanced Security](https://github.blog/2023-11-08-ai-powered-appsec/) <kbd>2023-11-08T12:09-05:00</kbd></samp>
 - <samp>[Leveraging AI to empower all developers at GitHub Universe 2023](https://github.blog/2023-11-02-leveraging-ai-to-empower-all-developers-at-github-universe-2023/) <kbd>2023-11-02T12:02-04:00</kbd></samp>
 - <samp>[Celebrating the first round of GitHub Accelerator and what&#8217;s next](https://github.blog/2023-11-02-celebrating-the-first-round-of-github-accelerator-and-whats-next/) <kbd>2023-11-02T10:00-04:00</kbd></samp>
-- <samp>[GitHub Game Off 2023 theme announcement](https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/) <kbd>2023-11-01T16:36-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
