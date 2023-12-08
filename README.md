@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-06T20:05-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-07T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/) <kbd>2023-12-07T17:00-05:00</kbd></samp>
+- <samp>[From macOS runners to secure deployments, what’s new from GitHub Actions](https://github.blog/2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions/) <kbd>2023-12-07T16:01-05:00</kbd></samp>
+- <samp>[GitHub Innovation Graph Q2 2023 Data Release](https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/) <kbd>2023-12-07T11:37-05:00</kbd></samp>
 - <samp>[Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/) <kbd>2023-12-06T12:30-05:00</kbd></samp>
 - <samp>[How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/) <kbd>2023-12-06T11:00-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/) <kbd>2023-12-05T18:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The ultimate gifts for the developer in your life this holiday season](https://github.blog/2023-12-04-the-ultimate-gifts-for-the-developer-in-your-life-this-holiday-season/) <kbd>2023-12-04T11:56-05:00</kbd></samp>
 - <samp>[Insider newsletter digest: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/) <kbd>2023-11-30T12:35-05:00</kbd></samp>
 - <samp>[Securing our home labs: Home Assistant code review](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/) <kbd>2023-11-30T08:52-05:00</kbd></samp>
-- <samp>[For Good First Issue: Introducing a new way to contribute](https://github.blog/2023-11-21-for-good-first-issue-introducing-a-new-way-to-contribute/) <kbd>2023-11-21T12:00-05:00</kbd></samp>
-- <samp>[Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/) <kbd>2023-11-20T13:07-05:00</kbd></samp>
-- <samp>[Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/) <kbd>2023-11-16T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
