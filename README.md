@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-13T20:05-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-14T07:27-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Scaling vulnerability management across thousands of services and more than 150 million findings](https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/) <kbd>2023-12-14T09:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/) <kbd>2023-12-13T15:48-05:00</kbd></samp>
 - <samp>[Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/) <kbd>2023-12-13T12:00-05:00</kbd></samp>
 - <samp>[Default setup now includes scheduled scans and supports all languages covered by CodeQL](https://github.blog/2023-12-13-default-setup-now-includes-scheduled-scans-and-supports-all-languages-covered-by-codeql/) <kbd>2023-12-13T11:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/) <kbd>2023-12-06T12:30-05:00</kbd></samp>
 - <samp>[How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/) <kbd>2023-12-06T11:00-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/) <kbd>2023-12-05T18:00-05:00</kbd></samp>
-- <samp>[Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/) <kbd>2023-12-05T17:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
