@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-18T20:05-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2023-12-19T07:27-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we organize and get things done with SERVICEOWNERS](https://github.blog/2023-12-19-how-we-organize-and-get-things-done-with-serviceowners/) <kbd>2023-12-19T13:00-05:00</kbd></samp>
+- <samp>[From migration tools to updates to Enterprise Managed Users, what’s new in GitHub Enterprise](https://github.blog/2023-12-19-from-migration-tools-to-updates-to-enterprise-managed-users-whats-new-in-github-enterprise/) <kbd>2023-12-19T12:00-05:00</kbd></samp>
+- <samp>[Release Radar · End of 2023 Edition](https://github.blog/2023-12-19-release-radar-dec-2023/) <kbd>2023-12-19T11:00-05:00</kbd></samp>
 - <samp>[Scaling vulnerability management across thousands of services and more than 150 million findings](https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/) <kbd>2023-12-14T09:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/) <kbd>2023-12-13T15:48-05:00</kbd></samp>
 - <samp>[Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/) <kbd>2023-12-13T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/) <kbd>2023-12-07T17:00-05:00</kbd></samp>
 - <samp>[From macOS runners to secure deployments, what’s new from GitHub Actions](https://github.blog/2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions/) <kbd>2023-12-07T16:01-05:00</kbd></samp>
 - <samp>[GitHub Innovation Graph Q2 2023 Data Release](https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/) <kbd>2023-12-07T11:37-05:00</kbd></samp>
-- <samp>[Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/) <kbd>2023-12-06T12:30-05:00</kbd></samp>
-- <samp>[How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/) <kbd>2023-12-06T11:00-05:00</kbd></samp>
-- <samp>[GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/) <kbd>2023-12-05T18:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
