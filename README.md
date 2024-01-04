@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-02T20:04-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-03T07:26-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Our move to generated SDKs](https://github.blog/2024-01-03-our-move-to-generated-sdks/) <kbd>2024-01-03T10:03-05:00</kbd></samp>
 - <samp>[GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/) <kbd>2023-12-29T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top blog posts of 2023](https://github.blog/2023-12-27-githubs-top-blog-posts-of-2023/) <kbd>2023-12-27T12:00-05:00</kbd></samp>
 - <samp>[How we organize and get things done with SERVICEOWNERS](https://github.blog/2023-12-19-how-we-organize-and-get-things-done-with-serviceowners/) <kbd>2023-12-19T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/) <kbd>2023-12-13T15:48-05:00</kbd></samp>
 - <samp>[Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/) <kbd>2023-12-13T12:00-05:00</kbd></samp>
 - <samp>[Default setup now includes scheduled scans and supports all languages covered by CodeQL](https://github.blog/2023-12-13-default-setup-now-includes-scheduled-scans-and-supports-all-languages-covered-by-codeql/) <kbd>2023-12-13T11:00-05:00</kbd></samp>
-- <samp>[Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/) <kbd>2023-12-07T17:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
