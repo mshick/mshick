@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-07T20:06-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-08T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Certifications are generally available](https://github.blog/2024-01-08-github-certifications-are-generally-available/) <kbd>2024-01-08T15:42-05:00</kbd></samp>
+- <samp>[GitHub and the Ekoparty 2023 Capture the Flag](https://github.blog/2024-01-08-github-and-the-ekoparty-2023-capture-the-flag/) <kbd>2024-01-08T12:00-05:00</kbd></samp>
+- <samp>[Frenemies to friends: Developers and security tools](https://github.blog/2024-01-08-frenemies-to-friends-developers-and-security-tools/) <kbd>2024-01-08T10:15-05:00</kbd></samp>
 - <samp>[5 ways to make your DevSecOps strategy developer-friendly](https://github.blog/2024-01-05-5-ways-to-make-your-devsecops-strategy-developer-friendly/) <kbd>2024-01-05T10:02-05:00</kbd></samp>
 - <samp>[Our move to generated SDKs](https://github.blog/2024-01-03-our-move-to-generated-sdks/) <kbd>2024-01-03T10:03-05:00</kbd></samp>
 - <samp>[GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/) <kbd>2023-12-29T12:00-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we organize and get things done with SERVICEOWNERS](https://github.blog/2023-12-19-how-we-organize-and-get-things-done-with-serviceowners/) <kbd>2023-12-19T13:00-05:00</kbd></samp>
 - <samp>[From migration tools to updates to Enterprise Managed Users, what’s new in GitHub Enterprise](https://github.blog/2023-12-19-from-migration-tools-to-updates-to-enterprise-managed-users-whats-new-in-github-enterprise/) <kbd>2023-12-19T12:00-05:00</kbd></samp>
 - <samp>[Release Radar · End of 2023 Edition](https://github.blog/2023-12-19-release-radar-dec-2023/) <kbd>2023-12-19T11:00-05:00</kbd></samp>
-- <samp>[Scaling vulnerability management across thousands of services and more than 150 million findings](https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/) <kbd>2023-12-14T09:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/) <kbd>2023-12-13T15:48-05:00</kbd></samp>
-- <samp>[Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/) <kbd>2023-12-13T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
