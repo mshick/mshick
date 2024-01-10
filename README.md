@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-09T07:27-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-09T20:06-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Game Off 2023 results 🏆](https://github.blog/2024-01-09-game-off-2023-results/) <kbd>2024-01-09T15:28-05:00</kbd></samp>
 - <samp>[GitHub Certifications are generally available](https://github.blog/2024-01-08-github-certifications-are-generally-available/) <kbd>2024-01-08T15:42-05:00</kbd></samp>
 - <samp>[GitHub and the Ekoparty 2023 Capture the Flag](https://github.blog/2024-01-08-github-and-the-ekoparty-2023-capture-the-flag/) <kbd>2024-01-08T12:00-05:00</kbd></samp>
 - <samp>[Frenemies to friends: Developers and security tools](https://github.blog/2024-01-08-frenemies-to-friends-developers-and-security-tools/) <kbd>2024-01-08T10:15-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub’s top blog posts of 2023](https://github.blog/2023-12-27-githubs-top-blog-posts-of-2023/) <kbd>2023-12-27T12:00-05:00</kbd></samp>
 - <samp>[How we organize and get things done with SERVICEOWNERS](https://github.blog/2023-12-19-how-we-organize-and-get-things-done-with-serviceowners/) <kbd>2023-12-19T13:00-05:00</kbd></samp>
 - <samp>[From migration tools to updates to Enterprise Managed Users, what’s new in GitHub Enterprise](https://github.blog/2023-12-19-from-migration-tools-to-updates-to-enterprise-managed-users-whats-new-in-github-enterprise/) <kbd>2023-12-19T12:00-05:00</kbd></samp>
-- <samp>[Release Radar · End of 2023 Edition](https://github.blog/2023-12-19-release-radar-dec-2023/) <kbd>2023-12-19T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
