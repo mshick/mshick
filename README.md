@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-16T20:06-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-17T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: December 2023](https://github.blog/2024-01-17-github-availability-report-december-2023/) <kbd>2024-01-17T16:49-05:00</kbd></samp>
+- <samp>[GitHub-hosted runners: Double the power for open source](https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/) <kbd>2024-01-17T13:58-05:00</kbd></samp>
+- <samp>[A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/) <kbd>2024-01-17T12:00-05:00</kbd></samp>
 - <samp>[Rotating credentials for GitHub.com and new GHES patches](https://github.blog/2024-01-16-rotating-credentials-for-github-com-and-new-ghes-patches/) <kbd>2024-01-16T15:04-05:00</kbd></samp>
 - <samp>[Empowering Uruguay’s future workforce with AI](https://github.blog/2024-01-11-empowering-uruguays-future-workforce-with-ai/) <kbd>2024-01-11T15:44-05:00</kbd></samp>
 - <samp>[Game Off 2023 results 🏆](https://github.blog/2024-01-09-game-off-2023-results/) <kbd>2024-01-09T15:28-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub and the Ekoparty 2023 Capture the Flag](https://github.blog/2024-01-08-github-and-the-ekoparty-2023-capture-the-flag/) <kbd>2024-01-08T12:00-05:00</kbd></samp>
 - <samp>[Frenemies to friends: Developers and security tools](https://github.blog/2024-01-08-frenemies-to-friends-developers-and-security-tools/) <kbd>2024-01-08T10:15-05:00</kbd></samp>
 - <samp>[5 ways to make your DevSecOps strategy developer-friendly](https://github.blog/2024-01-05-5-ways-to-make-your-devsecops-strategy-developer-friendly/) <kbd>2024-01-05T10:02-05:00</kbd></samp>
-- <samp>[Our move to generated SDKs](https://github.blog/2024-01-03-our-move-to-generated-sdks/) <kbd>2024-01-03T10:03-05:00</kbd></samp>
-- <samp>[GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/) <kbd>2023-12-29T12:00-05:00</kbd></samp>
-- <samp>[GitHub’s top blog posts of 2023](https://github.blog/2023-12-27-githubs-top-blog-posts-of-2023/) <kbd>2023-12-27T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
