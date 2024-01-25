@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-23T20:07-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-24T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/) <kbd>2024-01-24T18:21-05:00</kbd></samp>
 - <samp>[A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/) <kbd>2024-01-23T15:00-05:00</kbd></samp>
 - <samp>[Good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/) <kbd>2024-01-23T12:00-05:00</kbd></samp>
 - <samp>[How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/) <kbd>2024-01-22T14:46-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[New data and visualizations highlight the resilience of international developer collaboration](https://github.blog/2024-01-18-new-data-and-visualizations-highlight-the-resilience-of-international-developer-collaboration/) <kbd>2024-01-18T11:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2023](https://github.blog/2024-01-17-github-availability-report-december-2023/) <kbd>2024-01-17T16:49-05:00</kbd></samp>
 - <samp>[GitHub-hosted runners: Double the power for open source](https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/) <kbd>2024-01-17T13:58-05:00</kbd></samp>
-- <samp>[A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/) <kbd>2024-01-17T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
