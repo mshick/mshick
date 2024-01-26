@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-24T20:07-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-01-25T07:28-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2023-07-18T16:15-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/) <kbd>2024-01-25T17:28-05:00</kbd></samp>
+- <samp>[GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/) <kbd>2024-01-25T15:36-05:00</kbd></samp>
 - <samp>[How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/) <kbd>2024-01-24T18:21-05:00</kbd></samp>
 - <samp>[A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/) <kbd>2024-01-23T15:00-05:00</kbd></samp>
 - <samp>[Yes, good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/) <kbd>2024-01-23T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Game Bytes · January 2024](https://github.blog/2024-01-18-game-bytes-january-2024/) <kbd>2024-01-18T16:37-05:00</kbd></samp>
 - <samp>[Insider newsletter digest: Build from anywhere](https://github.blog/2024-01-18-insider-newsletter-digest-build-from-anywhere/) <kbd>2024-01-18T12:00-05:00</kbd></samp>
 - <samp>[New data and visualizations highlight the resilience of international developer collaboration](https://github.blog/2024-01-18-new-data-and-visualizations-highlight-the-resilience-of-international-developer-collaboration/) <kbd>2024-01-18T11:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: December 2023](https://github.blog/2024-01-17-github-availability-report-december-2023/) <kbd>2024-01-17T16:49-05:00</kbd></samp>
-- <samp>[GitHub-hosted runners: Double the power for open source](https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/) <kbd>2024-01-17T13:58-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
