@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-01T20:01-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-01T07:25-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
 - <samp>[aws-node-project](https://github.com/mshick/aws-node-project) <kbd>2023-05-15T18:05-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · January 2024 Edition](https://github.blog/2024-02-02-release-radar-jan-2024/) <kbd>2024-02-02T05:24-05:00</kbd></samp>
 - <samp>[Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/) <kbd>2024-01-25T17:28-05:00</kbd></samp>
 - <samp>[GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/) <kbd>2024-01-25T15:36-05:00</kbd></samp>
 - <samp>[How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/) <kbd>2024-01-24T18:21-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/) <kbd>2024-01-22T12:30-05:00</kbd></samp>
 - <samp>[Game Bytes · January 2024](https://github.blog/2024-01-18-game-bytes-january-2024/) <kbd>2024-01-18T16:37-05:00</kbd></samp>
 - <samp>[Insider newsletter digest: Build from anywhere](https://github.blog/2024-01-18-insider-newsletter-digest-build-from-anywhere/) <kbd>2024-01-18T12:00-05:00</kbd></samp>
-- <samp>[New data and visualizations highlight the resilience of international developer collaboration](https://github.blog/2024-01-18-new-data-and-visualizations-highlight-the-resilience-of-international-developer-collaboration/) <kbd>2024-01-18T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
