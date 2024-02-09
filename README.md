@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-07T20:00-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-08T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub&#8217;s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/) <kbd>2024-02-08T12:15-05:00</kbd></samp>
 - <samp>[AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/) <kbd>2024-02-06T13:19-05:00</kbd></samp>
 - <samp>[Release Radar · January 2024 Edition](https://github.blog/2024-02-02-release-radar-jan-2024/) <kbd>2024-02-02T05:24-05:00</kbd></samp>
 - <samp>[Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/) <kbd>2024-01-25T17:28-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Yes, good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/) <kbd>2024-01-23T12:00-05:00</kbd></samp>
 - <samp>[How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/) <kbd>2024-01-22T14:46-05:00</kbd></samp>
 - <samp>[10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/) <kbd>2024-01-22T12:30-05:00</kbd></samp>
-- <samp>[Game Bytes · January 2024](https://github.blog/2024-01-18-game-bytes-january-2024/) <kbd>2024-01-18T16:37-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
