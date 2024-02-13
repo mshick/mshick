@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-11T20:02-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-12T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/) <kbd>2024-02-12T13:18-05:00</kbd></samp>
+- <samp>[The architecture of SAST tools: An explainer for developers](https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/) <kbd>2024-02-12T12:03-05:00</kbd></samp>
 - <samp>[Copilot in GitHub Support is now available!](https://github.blog/2024-02-09-copilot-in-github-support-is-now-available/) <kbd>2024-02-09T11:00-05:00</kbd></samp>
 - <samp>[GitHub&#8217;s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/) <kbd>2024-02-08T12:15-05:00</kbd></samp>
 - <samp>[AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/) <kbd>2024-02-06T13:19-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/) <kbd>2024-01-25T15:36-05:00</kbd></samp>
 - <samp>[How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/) <kbd>2024-01-24T18:21-05:00</kbd></samp>
 - <samp>[A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/) <kbd>2024-01-23T15:00-05:00</kbd></samp>
-- <samp>[Yes, good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/) <kbd>2024-01-23T12:00-05:00</kbd></samp>
-- <samp>[How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/) <kbd>2024-01-22T14:46-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
