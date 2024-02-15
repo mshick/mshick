@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-13T20:02-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-14T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: January 2024](https://github.blog/2024-02-14-github-availability-report-january-2024/) <kbd>2024-02-14T15:11-05:00</kbd></samp>
+- <samp>[Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/) <kbd>2024-02-14T12:00-05:00</kbd></samp>
 - <samp>[Bringing npm registry services to GitHub Codespaces](https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/) <kbd>2024-02-13T13:00-05:00</kbd></samp>
 - <samp>[Powering advancements of AI in the open: Apply now to GitHub Accelerator](https://github.blog/2024-02-13-powering-advancements-of-ai-in-the-open-apply-now-to-github-accelerator/) <kbd>2024-02-13T12:00-05:00</kbd></samp>
 - <samp>[Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/) <kbd>2024-02-12T13:18-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub&#8217;s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/) <kbd>2024-02-08T12:15-05:00</kbd></samp>
 - <samp>[AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/) <kbd>2024-02-06T13:19-05:00</kbd></samp>
 - <samp>[Release Radar · January 2024 Edition](https://github.blog/2024-02-02-release-radar-jan-2024/) <kbd>2024-02-02T05:24-05:00</kbd></samp>
-- <samp>[Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/) <kbd>2024-01-25T17:28-05:00</kbd></samp>
-- <samp>[GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/) <kbd>2024-01-25T15:36-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
