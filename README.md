@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-20T20:01-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-21T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/) <kbd>2024-02-21T12:00-05:00</kbd></samp>
+- <samp>[Empowering all developers to build without barriers](https://github.blog/2024-02-21-empowering-all-developers-to-build-without-barriers/) <kbd>2024-02-21T10:37-05:00</kbd></samp>
 - <samp>[Build code security skills with the GitHub Secure Code Game](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) <kbd>2024-02-15T16:08-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: January 2024](https://github.blog/2024-02-14-github-availability-report-january-2024/) <kbd>2024-02-14T15:11-05:00</kbd></samp>
 - <samp>[Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/) <kbd>2024-02-14T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/) <kbd>2024-02-12T13:18-05:00</kbd></samp>
 - <samp>[The architecture of SAST tools: An explainer for developers](https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/) <kbd>2024-02-12T12:03-05:00</kbd></samp>
 - <samp>[Copilot in GitHub Support is now available!](https://github.blog/2024-02-09-copilot-in-github-support-is-now-available/) <kbd>2024-02-09T11:00-05:00</kbd></samp>
-- <samp>[GitHub&#8217;s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/) <kbd>2024-02-08T12:15-05:00</kbd></samp>
-- <samp>[AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/) <kbd>2024-02-06T13:19-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
