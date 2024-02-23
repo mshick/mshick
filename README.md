@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-21T20:00-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-22T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/) <kbd>2024-02-22T13:32-05:00</kbd></samp>
+- <samp>[Insider newsletter digest: Cook up a controller with GitHub Copilot](https://github.blog/2024-02-22-insider-newsletter-digest-cook-up-a-controller-with-github-copilot/) <kbd>2024-02-22T11:00-05:00</kbd></samp>
 - <samp>[How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/) <kbd>2024-02-21T12:00-05:00</kbd></samp>
 - <samp>[Empowering all developers to build without barriers](https://github.blog/2024-02-21-empowering-all-developers-to-build-without-barriers/) <kbd>2024-02-21T10:37-05:00</kbd></samp>
 - <samp>[Build code security skills with the GitHub Secure Code Game](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) <kbd>2024-02-15T16:08-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Bringing npm registry services to GitHub Codespaces](https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/) <kbd>2024-02-13T13:00-05:00</kbd></samp>
 - <samp>[Powering advancements of AI in the open: Apply now to GitHub Accelerator](https://github.blog/2024-02-13-powering-advancements-of-ai-in-the-open-apply-now-to-github-accelerator/) <kbd>2024-02-13T12:00-05:00</kbd></samp>
 - <samp>[Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/) <kbd>2024-02-12T13:18-05:00</kbd></samp>
-- <samp>[The architecture of SAST tools: An explainer for developers](https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/) <kbd>2024-02-12T12:03-05:00</kbd></samp>
-- <samp>[Copilot in GitHub Support is now available!](https://github.blog/2024-02-09-copilot-in-github-support-is-now-available/) <kbd>2024-02-09T11:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
