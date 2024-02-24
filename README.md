@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-22T20:00-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-23T07:24-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.44](https://github.blog/2024-02-23-highlights-from-git-2-44/) <kbd>2024-02-23T12:23-05:00</kbd></samp>
 - <samp>[How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/) <kbd>2024-02-22T13:32-05:00</kbd></samp>
 - <samp>[Insider newsletter digest: Cook up a controller with GitHub Copilot](https://github.blog/2024-02-22-insider-newsletter-digest-cook-up-a-controller-with-github-copilot/) <kbd>2024-02-22T11:00-05:00</kbd></samp>
 - <samp>[How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/) <kbd>2024-02-21T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/) <kbd>2024-02-14T12:00-05:00</kbd></samp>
 - <samp>[Bringing npm registry services to GitHub Codespaces](https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/) <kbd>2024-02-13T13:00-05:00</kbd></samp>
 - <samp>[Powering advancements of AI in the open: Apply now to GitHub Accelerator](https://github.blog/2024-02-13-powering-advancements-of-ai-in-the-open-apply-now-to-github-accelerator/) <kbd>2024-02-13T12:00-05:00</kbd></samp>
-- <samp>[Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/) <kbd>2024-02-12T13:18-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
