@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-27T20:00-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-02-28T07:24-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Customizing and fine-tuning LLMs: What you need to know](https://github.blog/2024-02-28-customizing-and-fine-tuning-llms-what-you-need-to-know/) <kbd>2024-02-28T13:00-05:00</kbd></samp>
+- <samp>[How we’re using GitHub Projects to standardize our workflows and stay aligned](https://github.blog/2024-02-28-how-were-using-github-projects-to-standardize-our-workflows-and-stay-aligned/) <kbd>2024-02-28T12:00-05:00</kbd></samp>
 - <samp>[GitHub Copilot Enterprise is now generally available](https://github.blog/2024-02-27-github-copilot-enterprise-is-now-generally-available/) <kbd>2024-02-27T10:54-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.44](https://github.blog/2024-02-23-highlights-from-git-2-44/) <kbd>2024-02-23T12:23-05:00</kbd></samp>
 - <samp>[How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/) <kbd>2024-02-22T13:32-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Empowering all developers to build without barriers](https://github.blog/2024-02-21-empowering-all-developers-to-build-without-barriers/) <kbd>2024-02-21T10:37-05:00</kbd></samp>
 - <samp>[Build code security skills with the GitHub Secure Code Game](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) <kbd>2024-02-15T16:08-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: January 2024](https://github.blog/2024-02-14-github-availability-report-january-2024/) <kbd>2024-02-14T15:11-05:00</kbd></samp>
-- <samp>[Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/) <kbd>2024-02-14T12:00-05:00</kbd></samp>
-- <samp>[Bringing npm registry services to GitHub Codespaces](https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/) <kbd>2024-02-13T13:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
