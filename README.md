@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-03T20:02-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-04T07:29-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Keeping repository maintainer information accurate](https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/) <kbd>2024-03-04T16:07-05:00</kbd></samp>
+- <samp>[GitHub Copilot Learning Pathway: Accelerate your business with AI](https://github.blog/2024-03-04-github-copilot-learning-pathway-accelerate-your-business-with-ai/) <kbd>2024-03-04T12:34-05:00</kbd></samp>
 - <samp>[Game Bytes · February 2024](https://github.blog/2024-02-29-game-bytes-february-2024/) <kbd>2024-02-29T14:30-05:00</kbd></samp>
 - <samp>[Meet Kayla: A college student and open source ambassador](https://github.blog/2024-02-29-meet-kayla-a-college-student-and-open-source-ambassador/) <kbd>2024-02-29T13:00-05:00</kbd></samp>
 - <samp>[Keeping secrets out of public repositories](https://github.blog/2024-02-29-keeping-secrets-out-of-public-repositories/) <kbd>2024-02-29T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Copilot Enterprise is now generally available](https://github.blog/2024-02-27-github-copilot-enterprise-is-now-generally-available/) <kbd>2024-02-27T10:54-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.44](https://github.blog/2024-02-23-highlights-from-git-2-44/) <kbd>2024-02-23T12:23-05:00</kbd></samp>
 - <samp>[How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/) <kbd>2024-02-22T13:32-05:00</kbd></samp>
-- <samp>[Insider newsletter digest: Cook up a controller with GitHub Copilot](https://github.blog/2024-02-22-insider-newsletter-digest-cook-up-a-controller-with-github-copilot/) <kbd>2024-02-22T11:00-05:00</kbd></samp>
-- <samp>[How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/) <kbd>2024-02-21T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
