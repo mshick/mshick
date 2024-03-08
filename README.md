@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-06T19:51-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-07T07:25-05:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Exploring an increase in circumvention claims in our transparency data](https://github.blog/2024-03-07-exploring-an-increase-in-circumvention-claims-in-our-transparency-data/) <kbd>2024-03-07T13:00-05:00</kbd></samp>
+- <samp>[Hard and soft skills for developers coding in the age of AI](https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai/) <kbd>2024-03-07T12:00-05:00</kbd></samp>
 - <samp>[How GitHub uses merge queue to ship hundreds of changes every day](https://github.blog/2024-03-06-how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/) <kbd>2024-03-06T11:43-05:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.12 is now generally available](https://github.blog/2024-03-06-github-enterprise-server-3-12-is-now-generally-available/) <kbd>2024-03-06T11:43-05:00</kbd></samp>
 - <samp>[Keeping repository maintainer information accurate](https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/) <kbd>2024-03-04T16:07-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Meet Kayla: A college student and open source ambassador](https://github.blog/2024-02-29-meet-kayla-a-college-student-and-open-source-ambassador/) <kbd>2024-02-29T13:00-05:00</kbd></samp>
 - <samp>[Keeping secrets out of public repositories](https://github.blog/2024-02-29-keeping-secrets-out-of-public-repositories/) <kbd>2024-02-29T12:00-05:00</kbd></samp>
 - <samp>[Customizing and fine-tuning LLMs: What you need to know](https://github.blog/2024-02-28-customizing-and-fine-tuning-llms-what-you-need-to-know/) <kbd>2024-02-28T13:00-05:00</kbd></samp>
-- <samp>[How we’re using GitHub Projects to standardize our workflows and stay aligned](https://github.blog/2024-02-28-how-were-using-github-projects-to-standardize-our-workflows-and-stay-aligned/) <kbd>2024-02-28T12:00-05:00</kbd></samp>
-- <samp>[GitHub Copilot Enterprise is now generally available](https://github.blog/2024-02-27-github-copilot-enterprise-is-now-generally-available/) <kbd>2024-02-27T10:54-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
