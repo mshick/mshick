@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-20T21:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-21T08:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Insider newsletter digest: 4 things you didn&#8217;t know you could do with GitHub Projects](https://github.blog/2024-03-21-insider-newsletter-digest-4-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2024-03-21T12:18-04:00</kbd></samp>
 - <samp>[Found means fixed: Introducing code scanning autofix, powered by GitHub Copilot and CodeQL](https://github.blog/2024-03-20-found-means-fixed-introducing-code-scanning-autofix-powered-by-github-copilot-and-codeql/) <kbd>2024-03-20T12:00-04:00</kbd></samp>
 - <samp>[Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/) <kbd>2024-03-18T11:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: February 2024](https://github.blog/2024-03-13-github-availability-report-february-2024/) <kbd>2024-03-13T14:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Enterprise Server 3.12 is now generally available](https://github.blog/2024-03-06-github-enterprise-server-3-12-is-now-generally-available/) <kbd>2024-03-06T11:43-05:00</kbd></samp>
 - <samp>[Keeping repository maintainer information accurate](https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/) <kbd>2024-03-04T16:07-05:00</kbd></samp>
 - <samp>[GitHub Copilot Learning Pathway: Accelerate your business with AI](https://github.blog/2024-03-04-github-copilot-learning-pathway-accelerate-your-business-with-ai/) <kbd>2024-03-04T12:34-05:00</kbd></samp>
-- <samp>[Game Bytes · February 2024](https://github.blog/2024-02-29-game-bytes-february-2024/) <kbd>2024-02-29T14:30-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
