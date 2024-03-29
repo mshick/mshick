@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-27T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-03-28T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-02-01T14:01-05:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Empowering women through open source](https://github.blog/2024-03-28-empowering-women-through-open-source/) <kbd>2024-03-28T14:42-04:00</kbd></samp>
 - <samp>[Game Bytes · March 2024](https://github.blog/2024-03-27-game-bytes-march-2024/) <kbd>2024-03-27T19:04-04:00</kbd></samp>
 - <samp>[Using GitHub Copilot in your IDE: Tips, tricks and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/) <kbd>2024-03-25T13:06-04:00</kbd></samp>
 - <samp>[Insider newsletter digest: 4 things you didn&#8217;t know you could do with GitHub Projects](https://github.blog/2024-03-21-insider-newsletter-digest-4-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2024-03-21T12:18-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Exploring an increase in circumvention claims in our transparency data](https://github.blog/2024-03-07-exploring-an-increase-in-circumvention-claims-in-our-transparency-data/) <kbd>2024-03-07T13:00-05:00</kbd></samp>
 - <samp>[Hard and soft skills for developers coding in the age of AI](https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai/) <kbd>2024-03-07T12:00-05:00</kbd></samp>
 - <samp>[How GitHub uses merge queue to ship hundreds of changes every day](https://github.blog/2024-03-06-how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/) <kbd>2024-03-06T11:43-05:00</kbd></samp>
-- <samp>[GitHub Enterprise Server 3.12 is now generally available](https://github.blog/2024-03-06-github-enterprise-server-3-12-is-now-generally-available/) <kbd>2024-03-06T11:43-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
