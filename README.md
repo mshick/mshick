@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-09T21:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-10T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Helping policymakers weigh the benefits of open source AI](https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/) <kbd>2024-04-10T18:53-04:00</kbd></samp>
+- <samp>[GitHub Availability Report: March 2024](https://github.blog/2024-04-10-github-availability-report-march-2024/) <kbd>2024-04-10T16:15-04:00</kbd></samp>
 - <samp>[4 ways GitHub engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/) <kbd>2024-04-09T15:00-04:00</kbd></samp>
 - <samp>[Explore the seasons of software development with four full years of data](https://github.blog/2024-04-09-explore-the-seasons-of-software-development-with-four-full-years-of-data/) <kbd>2024-04-09T11:00-04:00</kbd></samp>
 - <samp>[What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/) <kbd>2024-04-04T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Empowering women through open source](https://github.blog/2024-03-28-empowering-women-through-open-source/) <kbd>2024-03-28T14:42-04:00</kbd></samp>
 - <samp>[Game Bytes · March 2024](https://github.blog/2024-03-27-game-bytes-march-2024/) <kbd>2024-03-27T19:04-04:00</kbd></samp>
 - <samp>[Using GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/) <kbd>2024-03-25T13:06-04:00</kbd></samp>
-- <samp>[Insider newsletter digest: 4 things you didn&#8217;t know you could do with GitHub Projects](https://github.blog/2024-03-21-insider-newsletter-digest-4-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2024-03-21T12:18-04:00</kbd></samp>
-- <samp>[Found means fixed: Introducing code scanning autofix, powered by GitHub Copilot and CodeQL](https://github.blog/2024-03-20-found-means-fixed-introducing-code-scanning-autofix-powered-by-github-copilot-and-codeql/) <kbd>2024-03-20T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
