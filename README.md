@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-17T21:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-18T08:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A policy proposal on our approach to deepfake tools and responsible AI](https://github.blog/2024-04-18-a-policy-proposal-on-our-approach-to-deepfake-tools-and-responsible-ai/) <kbd>2024-04-18T13:30-04:00</kbd></samp>
 - <samp>[The world&#8217;s fair of software: Join us at GitHub Universe 2024](https://github.blog/2024-04-16-the-worlds-fair-of-software-join-us-at-github-universe-2024/) <kbd>2024-04-16T12:00-04:00</kbd></samp>
 - <samp>[All In Africa: New cohort now open!](https://github.blog/2024-04-11-all-in-africa-new-cohort-now-open/) <kbd>2024-04-11T12:13-04:00</kbd></samp>
 - <samp>[Helping policymakers weigh the benefits of open source AI](https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/) <kbd>2024-04-10T18:53-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/) <kbd>2024-04-04T12:00-04:00</kbd></samp>
 - <samp>[Security research without ever leaving GitHub: From code scanning to CVE via Codespaces and private vulnerability reporting](https://github.blog/2024-04-03-security-research-without-ever-leaving-github-from-code-scanning-to-cve-via-codespaces-and-private-vulnerability-reporting/) <kbd>2024-04-03T10:26-04:00</kbd></samp>
 - <samp>[Bringing enterprise-level security and even more power to GitHub-hosted runners](https://github.blog/2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners/) <kbd>2024-04-02T12:35-04:00</kbd></samp>
-- <samp>[Empowering women through open source](https://github.blog/2024-03-28-empowering-women-through-open-source/) <kbd>2024-03-28T14:42-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
