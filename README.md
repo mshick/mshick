@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-23T21:04-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-24T08:31-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/) <kbd>2024-04-24T11:00-04:00</kbd></samp>
 - <samp>[Using open source to help the earth](https://github.blog/2024-04-22-using-open-source-to-help-the-earth/) <kbd>2024-04-22T11:00-04:00</kbd></samp>
 - <samp>[A short guide to mastering keyboard shortcuts on GitHub](https://github.blog/2024-04-19-a-short-guide-to-mastering-keyboard-shortcuts-on-github/) <kbd>2024-04-19T12:37-04:00</kbd></samp>
 - <samp>[A policy proposal on our approach to deepfake tools and responsible AI](https://github.blog/2024-04-18-a-policy-proposal-on-our-approach-to-deepfake-tools-and-responsible-ai/) <kbd>2024-04-18T13:30-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: March 2024](https://github.blog/2024-04-10-github-availability-report-march-2024/) <kbd>2024-04-10T16:15-04:00</kbd></samp>
 - <samp>[4 ways GitHub engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/) <kbd>2024-04-09T15:00-04:00</kbd></samp>
 - <samp>[Explore the seasons of software development with four full years of data](https://github.blog/2024-04-09-explore-the-seasons-of-software-development-with-four-full-years-of-data/) <kbd>2024-04-09T11:00-04:00</kbd></samp>
-- <samp>[What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/) <kbd>2024-04-04T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
