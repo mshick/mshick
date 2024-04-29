@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-28T08:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-28T21:05-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/) <kbd>2024-04-29T04:00-04:00</kbd></samp>
 - <samp>[GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/) <kbd>2024-04-26T11:33-04:00</kbd></samp>
 - <samp>[Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/) <kbd>2024-04-24T11:00-04:00</kbd></samp>
 - <samp>[Using open source to help the earth](https://github.blog/2024-04-22-using-open-source-to-help-the-earth/) <kbd>2024-04-22T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[All In Africa: New cohort now open!](https://github.blog/2024-04-11-all-in-africa-new-cohort-now-open/) <kbd>2024-04-11T12:13-04:00</kbd></samp>
 - <samp>[Helping policymakers weigh the benefits of open source AI](https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/) <kbd>2024-04-10T18:53-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2024](https://github.blog/2024-04-10-github-availability-report-march-2024/) <kbd>2024-04-10T16:15-04:00</kbd></samp>
-- <samp>[4 ways GitHub engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/) <kbd>2024-04-09T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
