@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-28T21:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-29T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/) <kbd>2024-04-29T13:14-04:00</kbd></samp>
+- <samp>[GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/) <kbd>2024-04-29T12:00-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/) <kbd>2024-04-29T04:00-04:00</kbd></samp>
 - <samp>[GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/) <kbd>2024-04-26T11:33-04:00</kbd></samp>
 - <samp>[Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/) <kbd>2024-04-24T11:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[A policy proposal on our approach to deepfake tools and responsible AI](https://github.blog/2024-04-18-a-policy-proposal-on-our-approach-to-deepfake-tools-and-responsible-ai/) <kbd>2024-04-18T13:30-04:00</kbd></samp>
 - <samp>[The world&#8217;s fair of software: Join us at GitHub Universe 2024](https://github.blog/2024-04-16-the-worlds-fair-of-software-join-us-at-github-universe-2024/) <kbd>2024-04-16T12:00-04:00</kbd></samp>
 - <samp>[All In Africa: New cohort now open!](https://github.blog/2024-04-11-all-in-africa-new-cohort-now-open/) <kbd>2024-04-11T12:13-04:00</kbd></samp>
-- <samp>[Helping policymakers weigh the benefits of open source AI](https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/) <kbd>2024-04-10T18:53-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: March 2024](https://github.blog/2024-04-10-github-availability-report-march-2024/) <kbd>2024-04-10T16:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
