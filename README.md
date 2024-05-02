@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-04-30T21:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-01T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Empowering accessibility: GitHub&#8217;s journey building an in-house Champions program](https://github.blog/2024-05-01-empowering-accessibility-githubs-journey-building-an-in-house-champions-program/) <kbd>2024-05-01T13:00-04:00</kbd></samp>
+- <samp>[5 tips to supercharge your developer career in 2024](https://github.blog/2024-05-01-5-tips-to-supercharge-your-developer-career-in-2024/) <kbd>2024-05-01T12:10-04:00</kbd></samp>
 - <samp>[Where does your software (really) come from?](https://github.blog/2024-04-30-where-does-your-software-really-come-from/) <kbd>2024-04-30T12:35-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/) <kbd>2024-04-29T13:14-04:00</kbd></samp>
 - <samp>[GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/) <kbd>2024-04-29T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/) <kbd>2024-04-24T11:00-04:00</kbd></samp>
 - <samp>[Using open source to help the earth](https://github.blog/2024-04-22-using-open-source-to-help-the-earth/) <kbd>2024-04-22T11:00-04:00</kbd></samp>
 - <samp>[A short guide to mastering keyboard shortcuts on GitHub](https://github.blog/2024-04-19-a-short-guide-to-mastering-keyboard-shortcuts-on-github/) <kbd>2024-04-19T12:37-04:00</kbd></samp>
-- <samp>[A policy proposal on our approach to deepfake tools and responsible AI](https://github.blog/2024-04-18-a-policy-proposal-on-our-approach-to-deepfake-tools-and-responsible-ai/) <kbd>2024-04-18T13:30-04:00</kbd></samp>
-- <samp>[The world&#8217;s fair of software: Join us at GitHub Universe 2024](https://github.blog/2024-04-16-the-worlds-fair-of-software-join-us-at-github-universe-2024/) <kbd>2024-04-16T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
