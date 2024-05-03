@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-01T21:04-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-02T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/) <kbd>2024-05-02T12:30-04:00</kbd></samp>
+- <samp>[Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/) <kbd>2024-05-02T12:00-04:00</kbd></samp>
+- <samp>[Celebrating 1 year of A11y Design Bootcamp: Takeaways and tips](https://github.blog/2024-05-02-celebrating-1-year-of-a11y-design-bootcamp-takeaways-and-tips/) <kbd>2024-05-02T11:00-04:00</kbd></samp>
 - <samp>[Empowering accessibility: GitHub&#8217;s journey building an in-house Champions program](https://github.blog/2024-05-01-empowering-accessibility-githubs-journey-building-an-in-house-champions-program/) <kbd>2024-05-01T13:00-04:00</kbd></samp>
 - <samp>[5 tips to supercharge your developer career in 2024](https://github.blog/2024-05-01-5-tips-to-supercharge-your-developer-career-in-2024/) <kbd>2024-05-01T12:10-04:00</kbd></samp>
 - <samp>[Where does your software (really) come from?](https://github.blog/2024-04-30-where-does-your-software-really-come-from/) <kbd>2024-04-30T12:35-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/) <kbd>2024-04-29T12:00-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/) <kbd>2024-04-29T04:00-04:00</kbd></samp>
 - <samp>[GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/) <kbd>2024-04-26T11:33-04:00</kbd></samp>
-- <samp>[Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/) <kbd>2024-04-24T11:00-04:00</kbd></samp>
-- <samp>[Using open source to help the earth](https://github.blog/2024-04-22-using-open-source-to-help-the-earth/) <kbd>2024-04-22T11:00-04:00</kbd></samp>
-- <samp>[A short guide to mastering keyboard shortcuts on GitHub](https://github.blog/2024-04-19-a-short-guide-to-mastering-keyboard-shortcuts-on-github/) <kbd>2024-04-19T12:37-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
