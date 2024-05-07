@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-05T21:06-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-06T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/) <kbd>2024-05-06T14:43-04:00</kbd></samp>
 - <samp>[Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/) <kbd>2024-05-02T12:30-04:00</kbd></samp>
 - <samp>[Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/) <kbd>2024-05-02T12:00-04:00</kbd></samp>
 - <samp>[Celebrating 1 year of A11y Design Bootcamp: Takeaways and tips](https://github.blog/2024-05-02-celebrating-1-year-of-a11y-design-bootcamp-takeaways-and-tips/) <kbd>2024-05-02T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/) <kbd>2024-04-29T13:14-04:00</kbd></samp>
 - <samp>[GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/) <kbd>2024-04-29T12:00-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/) <kbd>2024-04-29T04:00-04:00</kbd></samp>
-- <samp>[GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/) <kbd>2024-04-26T11:33-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
