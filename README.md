@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-06T21:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-07T08:27-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we’re building more inclusive and accessible components at GitHub](https://github.blog/2024-05-07-how-were-building-more-inclusive-and-accessible-components-at-github/) <kbd>2024-05-07T13:00-04:00</kbd></samp>
+- <samp>[GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/) <kbd>2024-05-07T12:00-04:00</kbd></samp>
 - <samp>[Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/) <kbd>2024-05-06T14:43-04:00</kbd></samp>
 - <samp>[Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/) <kbd>2024-05-02T12:30-04:00</kbd></samp>
 - <samp>[Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/) <kbd>2024-05-02T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[5 tips to supercharge your developer career in 2024](https://github.blog/2024-05-01-5-tips-to-supercharge-your-developer-career-in-2024/) <kbd>2024-05-01T12:10-04:00</kbd></samp>
 - <samp>[Where does your software (really) come from?](https://github.blog/2024-04-30-where-does-your-software-really-come-from/) <kbd>2024-04-30T12:35-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/) <kbd>2024-04-29T13:14-04:00</kbd></samp>
-- <samp>[GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/) <kbd>2024-04-29T12:00-04:00</kbd></samp>
-- <samp>[CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/) <kbd>2024-04-29T04:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
