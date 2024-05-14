@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-12T21:07-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-13T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-04-03T17:13-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/) <kbd>2024-05-13T14:27-04:00</kbd></samp>
+- <samp>[Say hello to the SPORTech collection](https://github.blog/2024-05-13-say-hello-to-the-sportech-collection/) <kbd>2024-05-13T13:01-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2024](https://github.blog/2024-05-10-github-availability-report-april-2024/) <kbd>2024-05-10T13:13-04:00</kbd></samp>
 - <samp>[How AI enhances static application security testing (SAST)](https://github.blog/2024-05-09-how-ai-enhances-static-application-security-testing-sast/) <kbd>2024-05-09T12:00-04:00</kbd></samp>
 - <samp>[Just launched: Second cohort of the DPG Open Source Community Manager Program!](https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/) <kbd>2024-05-08T12:07-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/) <kbd>2024-05-06T14:43-04:00</kbd></samp>
 - <samp>[Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/) <kbd>2024-05-02T12:30-04:00</kbd></samp>
 - <samp>[Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/) <kbd>2024-05-02T12:00-04:00</kbd></samp>
-- <samp>[Celebrating 1 year of A11y Design Bootcamp: Takeaways and tips](https://github.blog/2024-05-02-celebrating-1-year-of-a11y-design-bootcamp-takeaways-and-tips/) <kbd>2024-05-02T11:00-04:00</kbd></samp>
-- <samp>[Empowering accessibility: GitHub&#8217;s journey building an in-house Champions program](https://github.blog/2024-05-01-empowering-accessibility-githubs-journey-building-an-in-house-champions-program/) <kbd>2024-05-01T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
