@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-20T21:06-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-21T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-05-16T06:32-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) <kbd>2024-05-21T11:27-04:00</kbd></samp>
 - <samp>[Scaling accessibility within GitHub and beyond](https://github.blog/2024-05-16-scaling-accessibility-within-github-and-beyond/) <kbd>2024-05-16T12:00-04:00</kbd></samp>
 - <samp>[Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/) <kbd>2024-05-14T13:07-04:00</kbd></samp>
 - <samp>[Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/) <kbd>2024-05-13T14:27-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Just launched: Second cohort of the DPG Open Source Community Manager Program!](https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/) <kbd>2024-05-08T12:07-04:00</kbd></samp>
 - <samp>[How we’re building more inclusive and accessible components at GitHub](https://github.blog/2024-05-07-how-were-building-more-inclusive-and-accessible-components-at-github/) <kbd>2024-05-07T13:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/) <kbd>2024-05-07T12:00-04:00</kbd></samp>
-- <samp>[Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/) <kbd>2024-05-06T14:43-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
