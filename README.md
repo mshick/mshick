@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-27T21:07-04:00</kbd></samp>
+- <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-28T08:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-05-16T06:32-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[testimport](https://github.com/mshick/testimport) <kbd>2023-01-24T10:23-05:00</kbd></samp>
 - <samp>[google-cloud-runtime-configuration-util](https://github.com/mshick/google-cloud-runtime-configuration-util) <kbd>2023-01-06T03:34-05:00</kbd></samp>
 - <samp>[fast-envsubst](https://github.com/mshick/fast-envsubst) <kbd>2023-01-05T22:03-05:00</kbd></samp>
-- <samp>[arrivals-osx](https://github.com/mshick/arrivals-osx) <kbd>2023-01-05T20:41-05:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
