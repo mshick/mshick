@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-28T21:10-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-05-29T08:29-04:00</kbd></samp>
 - <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-05-16T06:32-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub and JFrog partner to unify code and binaries for DevSecOps](https://github.blog/2024-05-29-github-and-jfrog/) <kbd>2024-05-29T09:15-04:00</kbd></samp>
 - <samp>[What is Git? Our beginner’s guide to version control](https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/) <kbd>2024-05-27T10:25-04:00</kbd></samp>
 - <samp>[2024 GitHub Accelerator: Meet the 11 projects shaping open source AI](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/) <kbd>2024-05-23T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) <kbd>2024-05-21T11:27-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Say hello to the SPORTech collection](https://github.blog/2024-05-13-say-hello-to-the-sportech-collection/) <kbd>2024-05-13T13:01-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2024](https://github.blog/2024-05-10-github-availability-report-april-2024/) <kbd>2024-05-10T13:13-04:00</kbd></samp>
 - <samp>[How AI enhances static application security testing (SAST)](https://github.blog/2024-05-09-how-ai-enhances-static-application-security-testing-sast/) <kbd>2024-05-09T12:00-04:00</kbd></samp>
-- <samp>[Just launched: Second cohort of the DPG Open Source Community Manager Program!](https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/) <kbd>2024-05-08T12:07-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
