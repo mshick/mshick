@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-10T21:09-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-11T08:30-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-06T14:55-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-05T09:44-04:00</kbd></samp>
 - <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/) <kbd>2024-06-11T13:00-04:00</kbd></samp>
+- <samp>[10 years of the GitHub Security Bug Bounty Program](https://github.blog/2024-06-11-10-years-of-the-github-security-bug-bounty-program/) <kbd>2024-06-11T12:00-04:00</kbd></samp>
 - <samp>[Top 12 Git commands every developer must know](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/) <kbd>2024-06-10T09:00-04:00</kbd></samp>
 - <samp>[How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/) <kbd>2024-06-03T12:45-04:00</kbd></samp>
 - <samp>[Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) <kbd>2024-06-03T12:31-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[2024 GitHub Accelerator: Meet the 11 projects shaping open source AI](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/) <kbd>2024-05-23T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) <kbd>2024-05-21T11:27-04:00</kbd></samp>
 - <samp>[Scaling accessibility within GitHub and beyond](https://github.blog/2024-05-16-scaling-accessibility-within-github-and-beyond/) <kbd>2024-05-16T12:00-04:00</kbd></samp>
-- <samp>[Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/) <kbd>2024-05-14T13:07-04:00</kbd></samp>
-- <samp>[Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/) <kbd>2024-05-13T14:27-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
