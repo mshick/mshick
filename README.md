@@ -30,10 +30,10 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-17T21:10-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-17T10:51-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-18T14:35-04:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-18T13:25-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-18T08:30-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-14T10:13-04:00</kbd></samp>
 - <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
 - <samp>[dynamodb-parallel-scan](https://github.com/mshick/dynamodb-parallel-scan) <kbd>2024-01-24T19:30-05:00</kbd></samp>
 - <samp>[fullstack-apigw](https://github.com/mshick/fullstack-apigw) <kbd>2023-09-29T15:16-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.13 is now generally available](https://github.blog/2024-06-18-github-enterprise-server-3-13-is-now-generally-available/) <kbd>2024-06-18T13:02-04:00</kbd></samp>
 - <samp>[Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/) <kbd>2024-06-13T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: May 2024](https://github.blog/2024-06-12-github-availability-report-may-2024/) <kbd>2024-06-12T15:00-04:00</kbd></samp>
 - <samp>[Leveraging technology on the frontlines of emergency: How communities of developers are taking action](https://github.blog/2024-06-12-leveraging-technology-on-the-frontlines-of-emergency-how-communities-of-developers-are-taking-action/) <kbd>2024-06-12T12:37-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/) <kbd>2024-06-03T12:45-04:00</kbd></samp>
 - <samp>[Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) <kbd>2024-06-03T12:31-04:00</kbd></samp>
 - <samp>[GitHub and JFrog partner to unify code and binaries for DevSecOps](https://github.blog/2024-05-29-github-and-jfrog/) <kbd>2024-05-29T09:15-04:00</kbd></samp>
-- <samp>[What is Git? Our beginner’s guide to version control](https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/) <kbd>2024-05-27T10:25-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
