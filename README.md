@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-20T21:08-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-20T10:05-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-20T08:29-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-18T13:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
 - <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
