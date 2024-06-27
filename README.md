@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-25T21:09-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-25T10:41-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-26T09:33-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-06-26T08:31-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-18T13:25-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
 - <samp>[next-platform-starter](https://github.com/mshick/next-platform-starter) <kbd>2024-05-28T12:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/) <kbd>2024-06-26T12:00-04:00</kbd></samp>
 - <samp>[Beginner&#8217;s guide to GitHub repositories: How to create your first repo](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/) <kbd>2024-06-24T09:00-04:00</kbd></samp>
 - <samp>[Execute commands by sending JSON? Learn how unsafe deserialization vulnerabilities work in Ruby projects](https://github.blog/2024-06-20-execute-commands-by-sending-json-learn-how-unsafe-deserialization-vulnerabilities-work-in-ruby-projects/) <kbd>2024-06-20T11:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.13 is now generally available](https://github.blog/2024-06-18-github-enterprise-server-3-13-is-now-generally-available/) <kbd>2024-06-18T13:02-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/) <kbd>2024-06-11T13:00-04:00</kbd></samp>
 - <samp>[10 years of the GitHub Security Bug Bounty Program](https://github.blog/2024-06-11-10-years-of-the-github-security-bug-bounty-program/) <kbd>2024-06-11T12:00-04:00</kbd></samp>
 - <samp>[Top 12 Git commands every developer must know](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/) <kbd>2024-06-10T09:00-04:00</kbd></samp>
-- <samp>[How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/) <kbd>2024-06-03T12:45-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
