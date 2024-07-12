@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-10T21:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-11T08:30-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Advancing responsible practices for open source AI](https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/) <kbd>2024-07-11T17:26-04:00</kbd></samp>
 - <samp>[Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/) <kbd>2024-07-09T15:06-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Uploading files and folders to GitHub](https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/) <kbd>2024-07-08T09:00-04:00</kbd></samp>
 - <samp>[Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/) <kbd>2024-06-26T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/) <kbd>2024-06-13T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: May 2024](https://github.blog/2024-06-12-github-availability-report-may-2024/) <kbd>2024-06-12T15:00-04:00</kbd></samp>
 - <samp>[Leveraging technology on the frontlines of emergency: How communities of developers are taking action](https://github.blog/2024-06-12-leveraging-technology-on-the-frontlines-of-emergency-how-communities-of-developers-are-taking-action/) <kbd>2024-06-12T12:37-04:00</kbd></samp>
-- <samp>[How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/) <kbd>2024-06-11T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
