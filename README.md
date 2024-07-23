@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-21T21:14-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-22T08:31-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/) <kbd>2024-07-22T11:00-04:00</kbd></samp>
 - <samp>[How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/) <kbd>2024-07-17T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2024](https://github.blog/2024-07-12-github-availability-report-june-2024/) <kbd>2024-07-12T16:32-04:00</kbd></samp>
 - <samp>[Advancing responsible practices for open source AI](https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/) <kbd>2024-07-11T17:26-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Beginner&#8217;s guide to GitHub repositories: How to create your first repo](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/) <kbd>2024-06-24T09:00-04:00</kbd></samp>
 - <samp>[Execute commands by sending JSON? Learn how unsafe deserialization vulnerabilities work in Ruby projects](https://github.blog/2024-06-20-execute-commands-by-sending-json-learn-how-unsafe-deserialization-vulnerabilities-work-in-ruby-projects/) <kbd>2024-06-20T11:00-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.13 is now generally available](https://github.blog/2024-06-18-github-enterprise-server-3-13-is-now-generally-available/) <kbd>2024-06-18T13:02-04:00</kbd></samp>
-- <samp>[Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/) <kbd>2024-06-13T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
