@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-28T21:14-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-29T08:31-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/) <kbd>2024-07-29T13:13-04:00</kbd></samp>
+- <samp>[How GitHub supports neurodiverse employees (and how your company can, too)](https://github.blog/engineering/engineering-principles/how-github-supports-neurodiverse-employees-and-how-your-company-can-too/) <kbd>2024-07-29T11:00-04:00</kbd></samp>
+- <samp>[Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/) <kbd>2024-07-29T09:00-04:00</kbd></samp>
 - <samp>[GitHub Accelerator Showcase: Celebrating our second cohort and what’s next](https://github.blog/open-source/maintainers/github-accelerator-showcase-celebrating-our-second-cohort-and-whats-next/) <kbd>2024-07-25T11:00-04:00</kbd></samp>
 - <samp>[How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/) <kbd>2024-07-23T13:00-04:00</kbd></samp>
 - <samp>[How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/) <kbd>2024-07-23T12:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/) <kbd>2024-07-17T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/) <kbd>2024-07-12T16:32-04:00</kbd></samp>
 - <samp>[Advancing responsible practices for open source AI](https://github.blog/news-insights/policy-news-and-insights/advancing-responsible-practices-for-open-source-ai/) <kbd>2024-07-11T17:26-04:00</kbd></samp>
-- <samp>[Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/engineering/user-experience/exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/) <kbd>2024-07-09T15:06-04:00</kbd></samp>
-- <samp>[Beginner’s guide to GitHub: Uploading files and folders to GitHub](https://github.blog/developer-skills/github/beginners-guide-to-github-uploading-files-and-folders-to-github/) <kbd>2024-07-08T09:00-04:00</kbd></samp>
-- <samp>[Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/) <kbd>2024-06-26T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
