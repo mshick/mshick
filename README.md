@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-29T21:12-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-07-30T08:30-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How GitHub harnesses AI to transform customer feedback into action](https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/) <kbd>2024-07-30T13:00-04:00</kbd></samp>
+- <samp>[Configure GitHub Artifact Attestations for secure cloud-native delivery](https://github.blog/security/supply-chain-security/configure-github-artifact-attestations-for-secure-cloud-native-delivery/) <kbd>2024-07-30T12:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/) <kbd>2024-07-29T13:13-04:00</kbd></samp>
 - <samp>[How GitHub supports neurodiverse employees (and how your company can, too)](https://github.blog/engineering/engineering-principles/how-github-supports-neurodiverse-employees-and-how-your-company-can-too/) <kbd>2024-07-29T11:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/) <kbd>2024-07-29T09:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/) <kbd>2024-07-23T12:00-04:00</kbd></samp>
 - <samp>[3 ways to get Remote Code Execution in Kafka UI](https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/) <kbd>2024-07-22T11:00-04:00</kbd></samp>
 - <samp>[How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/) <kbd>2024-07-17T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/) <kbd>2024-07-12T16:32-04:00</kbd></samp>
-- <samp>[Advancing responsible practices for open source AI](https://github.blog/news-insights/policy-news-and-insights/advancing-responsible-practices-for-open-source-ai/) <kbd>2024-07-11T17:26-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
