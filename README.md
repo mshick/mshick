@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-08-12T21:14-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-08-13T08:32-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What are AI agents and why do they matter?](https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/) <kbd>2024-08-13T17:41-04:00</kbd></samp>
+- <samp>[The ultimate guide to developer happiness](https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/) <kbd>2024-08-13T12:00-04:00</kbd></samp>
+- <samp>[From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/) <kbd>2024-08-13T11:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Creating a pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/) <kbd>2024-08-12T09:00-04:00</kbd></samp>
 - <samp>[How to use AI coding tools to learn a new programming language](https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/) <kbd>2024-08-07T12:00-04:00</kbd></samp>
 - <samp>[Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/) <kbd>2024-08-01T11:58-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub harnesses AI to transform customer feedback into action](https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/) <kbd>2024-07-30T13:00-04:00</kbd></samp>
 - <samp>[Configure GitHub Artifact Attestations for secure cloud-native delivery](https://github.blog/security/supply-chain-security/configure-github-artifact-attestations-for-secure-cloud-native-delivery/) <kbd>2024-07-30T12:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/) <kbd>2024-07-29T13:13-04:00</kbd></samp>
-- <samp>[How GitHub supports neurodiverse employees (and how your company can, too)](https://github.blog/engineering/engineering-principles/how-github-supports-neurodiverse-employees-and-how-your-company-can-too/) <kbd>2024-07-29T11:00-04:00</kbd></samp>
-- <samp>[Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/) <kbd>2024-07-29T09:00-04:00</kbd></samp>
-- <samp>[GitHub Accelerator Showcase: Celebrating our second cohort and what’s next](https://github.blog/open-source/maintainers/github-accelerator-showcase-celebrating-our-second-cohort-and-whats-next/) <kbd>2024-07-25T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
