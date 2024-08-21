@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-08-19T21:13-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-08-20T08:32-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Survey: The AI wave continues to grow on software development teams](https://github.blog/news-insights/research/survey-ai-wave-grows/) <kbd>2024-08-20T12:00-04:00</kbd></samp>
 - <samp>[How to level up your Git game with GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/) <kbd>2024-08-15T21:09-04:00</kbd></samp>
 - <samp>[Automating open source: How Ersilia distributes AI models to advance global health equity](https://github.blog/open-source/social-impact/automating-open-source-how-ersilia-distributes-ai-models-to-advance-global-health-equity/) <kbd>2024-08-15T16:17-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2024](https://github.blog/news-insights/company-news/github-availability-report-july-2024/) <kbd>2024-08-14T18:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/) <kbd>2024-08-13T11:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Creating a pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/) <kbd>2024-08-12T09:00-04:00</kbd></samp>
 - <samp>[How to use AI coding tools to learn a new programming language](https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/) <kbd>2024-08-07T12:00-04:00</kbd></samp>
-- <samp>[Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/) <kbd>2024-08-01T11:58-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
