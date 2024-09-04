@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-02T21:16-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-03T08:33-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/) <kbd>2024-09-03T12:00-04:00</kbd></samp>
 - <samp>[2024 is the biggest global election year in history. What’s at stake for developers?](https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/) <kbd>2024-08-28T12:57-04:00</kbd></samp>
 - <samp>[GitHub Enterprise: The best migration path from AWS CodeCommit](https://github.blog/enterprise-software/collaboration/github-enterprise-the-best-migration-path-from-aws-codecommit/) <kbd>2024-08-27T12:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Merging a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/) <kbd>2024-08-26T09:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Automating open source: How Ersilia distributes AI models to advance global health equity](https://github.blog/open-source/social-impact/automating-open-source-how-ersilia-distributes-ai-models-to-advance-global-health-equity/) <kbd>2024-08-15T16:17-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2024](https://github.blog/news-insights/company-news/github-availability-report-july-2024/) <kbd>2024-08-14T18:00-04:00</kbd></samp>
 - <samp>[Found means fixed: Secure code more than three times faster with Copilot Autofix](https://github.blog/news-insights/product-news/secure-code-more-than-three-times-faster-with-copilot-autofix/) <kbd>2024-08-14T12:00-04:00</kbd></samp>
-- <samp>[What are AI agents and why do they matter?](https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/) <kbd>2024-08-13T17:41-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
