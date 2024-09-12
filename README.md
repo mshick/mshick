@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-10T21:17-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-11T08:34-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/) <kbd>2024-09-11T15:00-04:00</kbd></samp>
+- <samp>[Streamlining your MLOps pipeline with GitHub Actions and Arm64 runners](https://github.blog/enterprise-software/ci-cd/streamlining-your-mlops-pipeline-with-github-actions-and-arm64-runners/) <kbd>2024-09-11T12:00-04:00</kbd></samp>
 - <samp>[Fine-tuned models are now in limited public beta for GitHub Copilot Enterprise](https://github.blog/news-insights/product-news/fine-tuned-models-are-now-in-limited-public-beta-for-github-copilot-enterprise/) <kbd>2024-09-10T12:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Setting up and securing your profile](https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/) <kbd>2024-09-09T09:00-04:00</kbd></samp>
 - <samp>[How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/) <kbd>2024-09-03T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Beginner’s guide to GitHub: Merging a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/) <kbd>2024-08-26T09:00-04:00</kbd></samp>
 - <samp>[GitHub named a Leader in the Gartner first-ever Magic Quadrant for AI Code Assistants](https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/) <kbd>2024-08-22T11:06-04:00</kbd></samp>
 - <samp>[Survey: The AI wave continues to grow on software development teams](https://github.blog/news-insights/research/survey-ai-wave-grows/) <kbd>2024-08-20T12:00-04:00</kbd></samp>
-- <samp>[How to level up your Git game with GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/) <kbd>2024-08-15T21:09-04:00</kbd></samp>
-- <samp>[Automating open source: How Ersilia distributes AI models to advance global health equity](https://github.blog/open-source/social-impact/automating-open-source-how-ersilia-distributes-ai-models-to-advance-global-health-equity/) <kbd>2024-08-15T16:17-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
