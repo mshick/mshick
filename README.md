@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-16T21:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-17T08:33-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-06-29T14:58-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) <kbd>2024-09-17T12:00-04:00</kbd></samp>
 - <samp>[First Look: Exploring OpenAI o1 in GitHub Copilot](https://github.blog/news-insights/product-news/openai-o1-in-github-copilot/) <kbd>2024-09-12T14:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/) <kbd>2024-09-11T15:00-04:00</kbd></samp>
 - <samp>[Streamlining your MLOps pipeline with GitHub Actions and Arm64 runners](https://github.blog/enterprise-software/ci-cd/streamlining-your-mlops-pipeline-with-github-actions-and-arm64-runners/) <kbd>2024-09-11T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[2024 is the biggest global election year in history. What’s at stake for developers?](https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/) <kbd>2024-08-28T12:57-04:00</kbd></samp>
 - <samp>[GitHub Enterprise: The best migration path from AWS CodeCommit](https://github.blog/enterprise-software/collaboration/github-enterprise-the-best-migration-path-from-aws-codecommit/) <kbd>2024-08-27T12:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Merging a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/) <kbd>2024-08-26T09:00-04:00</kbd></samp>
-- <samp>[GitHub named a Leader in the Gartner first-ever Magic Quadrant for AI Code Assistants](https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/) <kbd>2024-08-22T11:06-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
