@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-18T21:19-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-19T08:34-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-06-30T12:53-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Try out OpenAI o1 in GitHub Copilot and Models](https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/) <kbd>2024-09-19T15:44-04:00</kbd></samp>
 - <samp>[The 10 best tools to green your software](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/) <kbd>2024-09-18T12:00-04:00</kbd></samp>
 - <samp>[Software as a public good](https://github.blog/open-source/social-impact/software-as-a-public-good/) <kbd>2024-09-18T11:00-04:00</kbd></samp>
 - <samp>[Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) <kbd>2024-09-17T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Fine-tuned models are now in limited public beta for GitHub Copilot Enterprise](https://github.blog/news-insights/product-news/fine-tuned-models-are-now-in-limited-public-beta-for-github-copilot-enterprise/) <kbd>2024-09-10T12:00-04:00</kbd></samp>
 - <samp>[Beginner’s guide to GitHub: Setting up and securing your profile](https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/) <kbd>2024-09-09T09:00-04:00</kbd></samp>
 - <samp>[How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/) <kbd>2024-09-03T12:00-04:00</kbd></samp>
-- <samp>[2024 is the biggest global election year in history. What’s at stake for developers?](https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/) <kbd>2024-08-28T12:57-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
