@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-29T21:23-04:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-29T19:58-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-09-29T09:35-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-09-30T19:59-04:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-30T08:37-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Code referencing now generally available in GitHub Copilot and with Microsoft Azure AI](https://github.blog/news-insights/product-news/code-referencing-now-generally-available-in-github-copilot-and-with-microsoft-azure-ai/) <kbd>2024-09-30T16:14-04:00</kbd></samp>
+- <samp>[The nuances and challenges of moderating a code collaboration platform](https://github.blog/news-insights/policy-news-and-insights/the-nuances-and-challenges-of-moderating-a-code-collaboration-platform/) <kbd>2024-09-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available in github.com for Copilot Individual and Copilot Business plans](https://github.blog/news-insights/product-news/github-copilot-now-available-in-github-com-for-copilot-individual-and-copilot-business-plans/) <kbd>2024-09-26T14:01-04:00</kbd></samp>
 - <samp>[Kicking off Cybersecurity Awareness Month: Researcher spotlights and additional incentives!](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-researcher-spotlights-and-additional-incentives/) <kbd>2024-09-26T12:00-04:00</kbd></samp>
 - <samp>[Boost your CLI skills with GitHub Copilot](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/) <kbd>2024-09-26T11:54-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The 10 best tools to green your software](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/) <kbd>2024-09-18T12:00-04:00</kbd></samp>
 - <samp>[Software as a public good](https://github.blog/open-source/social-impact/software-as-a-public-good/) <kbd>2024-09-18T11:00-04:00</kbd></samp>
 - <samp>[Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) <kbd>2024-09-17T12:00-04:00</kbd></samp>
-- <samp>[First Look: Exploring OpenAI o1 in GitHub Copilot](https://github.blog/news-insights/product-news/openai-o1-in-github-copilot/) <kbd>2024-09-12T14:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/) <kbd>2024-09-11T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
