@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-09-30T21:52-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-09-30T21:36-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-10-01T16:20-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-01T08:36-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Cybersecurity spotlight on bug bounty researcher @imrerad](https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-imrerad/) <kbd>2024-10-01T12:00-04:00</kbd></samp>
 - <samp>[Code referencing now generally available in GitHub Copilot and with Microsoft Azure AI](https://github.blog/news-insights/product-news/code-referencing-now-generally-available-in-github-copilot-and-with-microsoft-azure-ai/) <kbd>2024-09-30T16:14-04:00</kbd></samp>
 - <samp>[The nuances and challenges of moderating a code collaboration platform](https://github.blog/news-insights/policy-news-and-insights/the-nuances-and-challenges-of-moderating-a-code-collaboration-platform/) <kbd>2024-09-30T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot now available in github.com for Copilot Individual and Copilot Business plans](https://github.blog/news-insights/product-news/github-copilot-now-available-in-github-com-for-copilot-individual-and-copilot-business-plans/) <kbd>2024-09-26T14:01-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Try out OpenAI o1 in GitHub Copilot and Models](https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/) <kbd>2024-09-19T15:44-04:00</kbd></samp>
 - <samp>[The 10 best tools to green your software](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/) <kbd>2024-09-18T12:00-04:00</kbd></samp>
 - <samp>[Software as a public good](https://github.blog/open-source/social-impact/software-as-a-public-good/) <kbd>2024-09-18T11:00-04:00</kbd></samp>
-- <samp>[Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) <kbd>2024-09-17T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
