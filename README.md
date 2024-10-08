@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-06T21:23-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-07T08:36-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-10-03T15:02-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.47](https://github.blog/open-source/git/highlights-from-git-2-47/) <kbd>2024-10-07T11:59-04:00</kbd></samp>
 - <samp>[How students teamed up to decode 2,000-year-old texts using AI](https://github.blog/ai-and-ml/machine-learning/how-students-teamed-up-to-decode-2000-year-old-texts-using-ai/) <kbd>2024-10-03T13:51-04:00</kbd></samp>
 - <samp>[Leading the way: 10 projects in the Open Source Zone at GitHub Universe 2024](https://github.blog/open-source/10-projects-in-the-open-source-zone-at-github-universe-2024/) <kbd>2024-10-02T20:05-04:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @imrerad](https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-imrerad/) <kbd>2024-10-01T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Kicking off Cybersecurity Awareness Month: Researcher spotlights and additional incentives!](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-researcher-spotlights-and-additional-incentives/) <kbd>2024-09-26T12:00-04:00</kbd></samp>
 - <samp>[Boost your CLI skills with GitHub Copilot](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/) <kbd>2024-09-26T11:54-04:00</kbd></samp>
 - <samp>[GitHub Enterprise Cloud with data residency: How we built the next evolution of GitHub Enterprise using GitHub](https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/) <kbd>2024-09-24T01:00-04:00</kbd></samp>
-- <samp>[Try out OpenAI o1 in GitHub Copilot and Models](https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/) <kbd>2024-09-19T15:44-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
