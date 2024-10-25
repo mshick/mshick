@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-23T21:21-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-24T08:35-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-10-16T10:41-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Attacking browser extensions](https://github.blog/security/vulnerability-research/attacking-browser-extensions/) <kbd>2024-10-24T14:15-04:00</kbd></samp>
+- <samp>[Cybersecurity spotlight on bug bounty researcher @adrianoapj](https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-adrianoapj/) <kbd>2024-10-24T12:00-04:00</kbd></samp>
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2024](https://github.blog/news-insights/company-news/diversity-inclusion-and-belonging-at-github-in-2024/) <kbd>2024-10-23T11:03-04:00</kbd></samp>
 - <samp>[Securing the open source supply chain: The essential role of CVEs](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/) <kbd>2024-10-21T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Nonprofits: Drive social impact one commit at a time](https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/) <kbd>2024-10-17T13:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[5 tips and tricks when using GitHub Copilot Workspace](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/) <kbd>2024-10-09T12:00-04:00</kbd></samp>
 - <samp>[The second half of software supply chain security on GitHub](https://github.blog/security/supply-chain-security/the-second-half-of-software-supply-chain-security-on-github/) <kbd>2024-10-08T14:54-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.47](https://github.blog/open-source/git/highlights-from-git-2-47/) <kbd>2024-10-07T11:59-04:00</kbd></samp>
-- <samp>[How students teamed up to decode 2,000-year-old texts using AI](https://github.blog/ai-and-ml/machine-learning/how-students-teamed-up-to-decode-2000-year-old-texts-using-ai/) <kbd>2024-10-03T13:51-04:00</kbd></samp>
-- <samp>[Leading the way: 10 projects in the Open Source Zone at GitHub Universe 2024](https://github.blog/open-source/10-projects-in-the-open-source-zone-at-github-universe-2024/) <kbd>2024-10-02T20:05-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
