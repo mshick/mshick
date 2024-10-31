@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-29T21:22-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-30T08:36-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-10-16T10:41-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Celebrating the GitHub Awards 2024 recipients 🎉](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) <kbd>2024-10-30T17:30-04:00</kbd></samp>
 - <samp>[New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) <kbd>2024-10-29T12:40-04:00</kbd></samp>
 - <samp>[Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) <kbd>2024-10-29T12:08-04:00</kbd></samp>
 - <samp>[Octoverse: AI leads Python to top language as the number of global developers surges](https://github.blog/news-insights/octoverse/octoverse-2024/) <kbd>2024-10-29T12:07-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Securing the open source supply chain: The essential role of CVEs](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/) <kbd>2024-10-21T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Nonprofits: Drive social impact one commit at a time](https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/) <kbd>2024-10-17T13:00-04:00</kbd></samp>
 - <samp>[Career growth, learning, and fun, oh my! Your guide to GitHub Universe 2024](https://github.blog/news-insights/company-news/career-growth-learning-and-fun-oh-my-your-guide-to-github-universe-2024/) <kbd>2024-10-17T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: September 2024](https://github.blog/news-insights/company-news/github-availability-report-september-2024/) <kbd>2024-10-10T16:54-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
