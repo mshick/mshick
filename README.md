@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-10-31T21:35-04:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-10-31T14:46-04:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-01T11:03-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-01T08:34-04:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
 - <samp>[decap-cms-widget-parent](https://github.com/mshick/decap-cms-widget-parent) <kbd>2024-08-30T22:13-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Game Off 2024 theme announcement](https://github.blog/open-source/game-off-2024-theme-announcement/) <kbd>2024-11-01T16:36-04:00</kbd></samp>
 - <samp>[Celebrating the GitHub Awards 2024 recipients 🎉](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) <kbd>2024-10-30T17:30-04:00</kbd></samp>
 - <samp>[New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) <kbd>2024-10-29T12:40-04:00</kbd></samp>
 - <samp>[Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) <kbd>2024-10-29T12:08-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2024](https://github.blog/news-insights/company-news/diversity-inclusion-and-belonging-at-github-in-2024/) <kbd>2024-10-23T11:03-04:00</kbd></samp>
 - <samp>[Securing the open source supply chain: The essential role of CVEs](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/) <kbd>2024-10-21T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Nonprofits: Drive social impact one commit at a time](https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/) <kbd>2024-10-17T13:00-04:00</kbd></samp>
-- <samp>[Career growth, learning, and fun, oh my! Your guide to GitHub Universe 2024](https://github.blog/news-insights/company-news/career-growth-learning-and-fun-oh-my-your-guide-to-github-universe-2024/) <kbd>2024-10-17T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
