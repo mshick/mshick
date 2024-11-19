@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-17T20:35-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-18T07:38-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Software is a team sport: Building the future of software development together](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/) <kbd>2024-11-18T12:00-05:00</kbd></samp>
+- <samp>[Does GitHub Copilot improve code quality? Here’s what the data says](https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/) <kbd>2024-11-18T11:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2024](https://github.blog/news-insights/company-news/github-availability-report-october-2024/) <kbd>2024-11-14T18:41-05:00</kbd></samp>
 - <samp>[How developers spend the time they save thanks to AI coding tools](https://github.blog/ai-and-ml/generative-ai/how-developers-spend-the-time-they-save-thanks-to-ai-coding-tools/) <kbd>2024-11-14T12:32-05:00</kbd></samp>
 - <samp>[Game Off 2024 theme announcement](https://github.blog/open-source/game-off-2024-theme-announcement/) <kbd>2024-11-01T16:36-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) <kbd>2024-10-29T12:08-04:00</kbd></samp>
 - <samp>[Octoverse: AI leads Python to top language as the number of global developers surges](https://github.blog/news-insights/octoverse/octoverse-2024/) <kbd>2024-10-29T12:07-04:00</kbd></samp>
 - <samp>[Attacking browser extensions](https://github.blog/security/vulnerability-research/attacking-browser-extensions/) <kbd>2024-10-24T14:15-04:00</kbd></samp>
-- <samp>[Cybersecurity spotlight on bug bounty researcher @adrianoapj](https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-adrianoapj/) <kbd>2024-10-24T12:00-04:00</kbd></samp>
-- <samp>[Diversity, inclusion, and belonging at GitHub in 2024](https://github.blog/news-insights/company-news/diversity-inclusion-and-belonging-at-github-in-2024/) <kbd>2024-10-23T11:03-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
