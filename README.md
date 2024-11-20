@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-18T20:26-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-19T07:37-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Announcing GitHub Secure Open Source Fund: Help secure the open source ecosystem for everyone](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/) <kbd>2024-11-19T12:00-05:00</kbd></samp>
 - <samp>[Software is a team sport: Building the future of software development together](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/) <kbd>2024-11-18T12:00-05:00</kbd></samp>
 - <samp>[Does GitHub Copilot improve code quality? Here’s what the data says](https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/) <kbd>2024-11-18T11:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2024](https://github.blog/news-insights/company-news/github-availability-report-october-2024/) <kbd>2024-11-14T18:41-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) <kbd>2024-10-29T12:40-04:00</kbd></samp>
 - <samp>[Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) <kbd>2024-10-29T12:08-04:00</kbd></samp>
 - <samp>[Octoverse: AI leads Python to top language as the number of global developers surges](https://github.blog/news-insights/octoverse/octoverse-2024/) <kbd>2024-10-29T12:07-04:00</kbd></samp>
-- <samp>[Attacking browser extensions](https://github.blog/security/vulnerability-research/attacking-browser-extensions/) <kbd>2024-10-24T14:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
