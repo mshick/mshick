@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-24T20:27-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-11-25T07:38-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/) <kbd>2024-11-25T12:00-05:00</kbd></samp>
 - <samp>[Students: Start building your skills with the GitHub Foundations certification](https://github.blog/news-insights/company-news/students-start-building-your-skills-with-the-github-foundations-certification/) <kbd>2024-11-21T11:23-05:00</kbd></samp>
 - <samp>[How to make Storybook Interactions respect user motion preferences](https://github.blog/engineering/user-experience/how-to-make-storybook-interactions-respect-user-motion-preferences/) <kbd>2024-11-20T12:00-05:00</kbd></samp>
 - <samp>[Announcing GitHub Secure Open Source Fund: Help secure the open source ecosystem for everyone](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/) <kbd>2024-11-19T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How developers spend the time they save thanks to AI coding tools](https://github.blog/ai-and-ml/generative-ai/how-developers-spend-the-time-they-save-thanks-to-ai-coding-tools/) <kbd>2024-11-14T12:32-05:00</kbd></samp>
 - <samp>[Game Off 2024 theme announcement](https://github.blog/open-source/game-off-2024-theme-announcement/) <kbd>2024-11-01T16:36-04:00</kbd></samp>
 - <samp>[Celebrating the GitHub Awards 2024 recipients 🎉](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) <kbd>2024-10-30T17:30-04:00</kbd></samp>
-- <samp>[New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/) <kbd>2024-10-29T12:40-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
