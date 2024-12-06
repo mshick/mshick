@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-05T07:38-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-05T20:35-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The top 10 gifts for the developer in your life](https://github.blog/news-insights/company-news/the-top-10-gifts-for-the-developer-in-your-life/) <kbd>2024-12-06T06:34-05:00</kbd></samp>
 - <samp>[How to generate unit tests with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/how-to-generate-unit-tests-with-github-copilot-tips-and-examples/) <kbd>2024-12-05T12:00-05:00</kbd></samp>
 - <samp>[Congratulations to the winners of the 2024 Gaady Awards](https://github.blog/news-insights/company-news/congratulations-to-the-winners-of-the-2024-gaady-awards/) <kbd>2024-12-04T12:00-05:00</kbd></samp>
 - <samp>[Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/) <kbd>2024-11-25T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Software is a team sport: Building the future of software development together](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/) <kbd>2024-11-18T12:00-05:00</kbd></samp>
 - <samp>[Does GitHub Copilot improve code quality? Here’s what the data says](https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/) <kbd>2024-11-18T11:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2024](https://github.blog/news-insights/company-news/github-availability-report-october-2024/) <kbd>2024-11-14T18:41-05:00</kbd></samp>
-- <samp>[How developers spend the time they save thanks to AI coding tools](https://github.blog/ai-and-ml/generative-ai/how-developers-spend-the-time-they-save-thanks-to-ai-coding-tools/) <kbd>2024-11-14T12:32-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
