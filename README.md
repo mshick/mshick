@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-11T20:36-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-12T07:39-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) <kbd>2024-12-12T08:51-05:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 4: Gradio framework case study](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/) <kbd>2024-12-11T10:00-05:00</kbd></samp>
 - <samp>[What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/) <kbd>2024-12-10T10:28-05:00</kbd></samp>
 - <samp>[The top 10 gifts for the developer in your life](https://github.blog/news-insights/company-news/the-top-10-gifts-for-the-developer-in-your-life/) <kbd>2024-12-06T06:34-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Students: Start building your skills with the GitHub Foundations certification](https://github.blog/news-insights/company-news/students-start-building-your-skills-with-the-github-foundations-certification/) <kbd>2024-11-21T11:23-05:00</kbd></samp>
 - <samp>[How to make Storybook Interactions respect user motion preferences](https://github.blog/engineering/user-experience/how-to-make-storybook-interactions-respect-user-motion-preferences/) <kbd>2024-11-20T12:00-05:00</kbd></samp>
 - <samp>[Announcing GitHub Secure Open Source Fund: Help secure the open source ecosystem for everyone](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/) <kbd>2024-11-19T12:00-05:00</kbd></samp>
-- <samp>[Software is a team sport: Building the future of software development together](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/) <kbd>2024-11-18T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
