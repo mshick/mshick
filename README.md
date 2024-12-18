@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-16T20:36-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-17T07:39-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Uncovering GStreamer secrets](https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/) <kbd>2024-12-17T08:51-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/) <kbd>2024-12-13T12:00-05:00</kbd></samp>
 - <samp>[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) <kbd>2024-12-12T08:51-05:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 4: Gradio framework case study](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/) <kbd>2024-12-11T10:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Congratulations to the winners of the 2024 Gaady Awards](https://github.blog/news-insights/company-news/congratulations-to-the-winners-of-the-2024-gaady-awards/) <kbd>2024-12-04T12:00-05:00</kbd></samp>
 - <samp>[Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/) <kbd>2024-11-25T12:00-05:00</kbd></samp>
 - <samp>[Students: Start building your skills with the GitHub Foundations certification](https://github.blog/news-insights/company-news/students-start-building-your-skills-with-the-github-foundations-certification/) <kbd>2024-11-21T11:23-05:00</kbd></samp>
-- <samp>[How to make Storybook Interactions respect user motion preferences](https://github.blog/engineering/user-experience/how-to-make-storybook-interactions-respect-user-motion-preferences/) <kbd>2024-11-20T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
