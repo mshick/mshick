@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-18T20:26-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-19T07:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Enhance build security and reach SLSA Level 3 with GitHub Artifact Attestations](https://github.blog/enterprise-software/devsecops/enhance-build-security-and-reach-slsa-level-3-with-github-artifact-attestations/) <kbd>2024-12-19T13:00-05:00</kbd></samp>
+- <samp>[Introducing Annotated Logger: A Python package to aid in adding metadata to logs](https://github.blog/developer-skills/programming-languages-and-frameworks/introducing-annotated-logger-a-python-package-to-aid-in-adding-metadata-to-logs/) <kbd>2024-12-19T12:00-05:00</kbd></samp>
 - <samp>[Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) <kbd>2024-12-18T13:11-05:00</kbd></samp>
 - <samp>[Uncovering GStreamer secrets](https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/) <kbd>2024-12-17T08:51-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/) <kbd>2024-12-13T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/) <kbd>2024-12-10T10:28-05:00</kbd></samp>
 - <samp>[The top 10 gifts for the developer in your life](https://github.blog/news-insights/company-news/the-top-10-gifts-for-the-developer-in-your-life/) <kbd>2024-12-06T06:34-05:00</kbd></samp>
 - <samp>[How to generate unit tests with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/how-to-generate-unit-tests-with-github-copilot-tips-and-examples/) <kbd>2024-12-05T12:00-05:00</kbd></samp>
-- <samp>[Congratulations to the winners of the 2024 Gaady Awards](https://github.blog/news-insights/company-news/congratulations-to-the-winners-of-the-2024-gaady-awards/) <kbd>2024-12-04T12:00-05:00</kbd></samp>
-- <samp>[Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/) <kbd>2024-11-25T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
