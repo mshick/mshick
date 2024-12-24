@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-22T20:23-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2024-12-23T07:35-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2024-11-08T16:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/) <kbd>2024-12-23T12:00-05:00</kbd></samp>
 - <samp>[Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/) <kbd>2024-12-20T12:04-05:00</kbd></samp>
 - <samp>[OpenAI’s latest o1 model now available in GitHub Copilot and GitHub Models](https://github.blog/news-insights/openais-o1-model-available-in-copilot-chat-and-github-models/) <kbd>2024-12-20T12:00-05:00</kbd></samp>
 - <samp>[Enhance build security and reach SLSA Level 3 with GitHub Artifact Attestations](https://github.blog/enterprise-software/devsecops/enhance-build-security-and-reach-slsa-level-3-with-github-artifact-attestations/) <kbd>2024-12-19T13:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/) <kbd>2024-12-13T12:00-05:00</kbd></samp>
 - <samp>[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) <kbd>2024-12-12T08:51-05:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 4: Gradio framework case study](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/) <kbd>2024-12-11T10:00-05:00</kbd></samp>
-- <samp>[What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/) <kbd>2024-12-10T10:28-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
