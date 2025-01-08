@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-06T20:22-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-06T15:55-05:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-07T13:37-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-07T07:36-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Building LATAM&#8217;s future tech workforce with AI](https://github.blog/developer-skills/github-education/building-latams-future-tech-workforce-with-ai/) <kbd>2025-01-07T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/) <kbd>2024-12-30T14:46-05:00</kbd></samp>
 - <samp>[Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/) <kbd>2024-12-23T12:00-05:00</kbd></samp>
 - <samp>[Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/) <kbd>2024-12-20T12:04-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) <kbd>2024-12-18T13:11-05:00</kbd></samp>
 - <samp>[Uncovering GStreamer secrets](https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/) <kbd>2024-12-17T08:51-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/) <kbd>2024-12-13T12:00-05:00</kbd></samp>
-- <samp>[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) <kbd>2024-12-12T08:51-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
