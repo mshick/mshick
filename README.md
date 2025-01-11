@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-09T20:24-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-10T07:35-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-07T13:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Game Off 2024 winners](https://github.blog/open-source/game-off-2024-winners/) <kbd>2025-01-10T16:36-05:00</kbd></samp>
+- <samp>[Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/) <kbd>2025-01-10T13:28-05:00</kbd></samp>
 - <samp>[How to secure your GitHub Actions workflows with CodeQL](https://github.blog/security/application-security/how-to-secure-your-github-actions-workflows-with-codeql/) <kbd>2025-01-09T12:00-05:00</kbd></samp>
 - <samp>[How to use GitHub Copilot: What it can do and real-world examples](https://github.blog/developer-skills/github/what-can-github-copilot-do-examples/) <kbd>2025-01-08T12:00-05:00</kbd></samp>
 - <samp>[Building LATAM&#8217;s future tech workforce with AI](https://github.blog/developer-skills/github-education/building-latams-future-tech-workforce-with-ai/) <kbd>2025-01-07T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/) <kbd>2024-12-20T12:04-05:00</kbd></samp>
 - <samp>[OpenAI’s latest o1 model now available in GitHub Copilot and GitHub Models](https://github.blog/news-insights/openais-o1-model-available-in-copilot-chat-and-github-models/) <kbd>2024-12-20T12:00-05:00</kbd></samp>
 - <samp>[Enhance build security and reach SLSA Level 3 with GitHub Artifact Attestations](https://github.blog/enterprise-software/devsecops/enhance-build-security-and-reach-slsa-level-3-with-github-artifact-attestations/) <kbd>2024-12-19T13:00-05:00</kbd></samp>
-- <samp>[Introducing Annotated Logger: A Python package to aid in adding metadata to logs](https://github.blog/developer-skills/programming-languages-and-frameworks/introducing-annotated-logger-a-python-package-to-aid-in-adding-metadata-to-logs/) <kbd>2024-12-19T12:00-05:00</kbd></samp>
-- <samp>[Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) <kbd>2024-12-18T13:11-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
