@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-14T20:20-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-15T07:34-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-07T13:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: December 2024](https://github.blog/news-insights/company-news/github-availability-report-december-2024/) <kbd>2025-01-15T15:00-05:00</kbd></samp>
+- <samp>[Documenting and explaining legacy code with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/github-copilot/documenting-and-explaining-legacy-code-with-github-copilot-tips-and-examples/) <kbd>2025-01-15T13:00-05:00</kbd></samp>
+- <samp>[How we built the GitHub Skyline CLI extension using GitHub](https://github.blog/developer-skills/application-development/how-we-built-the-github-skyline-cli-extension-using-github/) <kbd>2025-01-15T11:00-05:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-5/) <kbd>2025-01-14T13:04-05:00</kbd></samp>
 - <samp>[Game Off 2024 winners](https://github.blog/open-source/game-off-2024-winners/) <kbd>2025-01-10T16:36-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/) <kbd>2025-01-10T13:28-05:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to use GitHub Copilot: What it can do and real-world examples](https://github.blog/developer-skills/github/what-can-github-copilot-do-examples/) <kbd>2025-01-08T12:00-05:00</kbd></samp>
 - <samp>[Building LATAM&#8217;s future tech workforce with AI](https://github.blog/developer-skills/github-education/building-latams-future-tech-workforce-with-ai/) <kbd>2025-01-07T12:00-05:00</kbd></samp>
 - <samp>[GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/) <kbd>2024-12-30T14:46-05:00</kbd></samp>
-- <samp>[Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/) <kbd>2024-12-23T12:00-05:00</kbd></samp>
-- <samp>[Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/) <kbd>2024-12-20T12:04-05:00</kbd></samp>
-- <samp>[OpenAI’s latest o1 model now available in GitHub Copilot and GitHub Models](https://github.blog/news-insights/openais-o1-model-available-in-copilot-chat-and-github-models/) <kbd>2024-12-20T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
