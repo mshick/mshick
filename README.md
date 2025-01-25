@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-23T20:20-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-24T07:34-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-07T13:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[New to open source? Here’s everything you need to get started](https://github.blog/open-source/new-to-open-source-heres-everything-you-need-to-get-started/) <kbd>2025-01-24T12:00-05:00</kbd></samp>
 - <samp>[That’s a wrap: GitHub Innovation Graph in 2024](https://github.blog/news-insights/policy-news-and-insights/thats-a-wrap-github-innovation-graph-in-2024/) <kbd>2025-01-23T12:00-05:00</kbd></samp>
 - <samp>[Attacks on Maven proxy repositories](https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/) <kbd>2025-01-22T13:00-05:00</kbd></samp>
 - <samp>[Modernizing legacy code with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/github-copilot/modernizing-legacy-code-with-github-copilot-tips-and-examples/) <kbd>2025-01-22T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: December 2024](https://github.blog/news-insights/company-news/github-availability-report-december-2024/) <kbd>2025-01-15T15:00-05:00</kbd></samp>
 - <samp>[Documenting and explaining legacy code with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/github-copilot/documenting-and-explaining-legacy-code-with-github-copilot-tips-and-examples/) <kbd>2025-01-15T13:00-05:00</kbd></samp>
 - <samp>[How we built the GitHub Skyline CLI extension using GitHub](https://github.blog/developer-skills/application-development/how-we-built-the-github-skyline-cli-extension-using-github/) <kbd>2025-01-15T11:00-05:00</kbd></samp>
-- <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-5/) <kbd>2025-01-14T13:04-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
