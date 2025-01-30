@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-28T20:19-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-01-29T07:34-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-01-07T13:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2024-09-30T14:17-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Cybersecurity researchers: Digital detectives in a connected world](https://github.blog/security/vulnerability-research/cybersecurity-researchers-digital-detectives-in-a-connected-world/) <kbd>2025-01-29T12:00-05:00</kbd></samp>
 - <samp>[Considerations for making a tree view component accessible](https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/) <kbd>2025-01-28T12:00-05:00</kbd></samp>
 - <samp>[Open source AI is already finding its way into production](https://github.blog/ai-and-ml/generative-ai/open-source-ai-is-already-finding-its-way-into-production/) <kbd>2025-01-28T12:00-05:00</kbd></samp>
 - <samp>[New to open source? Here’s everything you need to get started](https://github.blog/open-source/new-to-open-source-heres-everything-you-need-to-get-started/) <kbd>2025-01-24T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Seven years of open source: A more secure and diverse ecosystem](https://github.blog/news-insights/seven-years-of-open-source-a-more-secure-and-diverse-ecosystem/) <kbd>2025-01-21T12:01-05:00</kbd></samp>
 - <samp>[How we evaluate AI models and LLMs for GitHub Copilot](https://github.blog/ai-and-ml/generative-ai/how-we-evaluate-models-for-github-copilot/) <kbd>2025-01-17T13:00-05:00</kbd></samp>
 - <samp>[Supporting the next generation of developers](https://github.blog/developer-skills/github-education/supporting-the-next-generation-of-developers/) <kbd>2025-01-17T12:00-05:00</kbd></samp>
-- <samp>[GitHub Availability Report: December 2024](https://github.blog/news-insights/company-news/github-availability-report-december-2024/) <kbd>2025-01-15T15:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
