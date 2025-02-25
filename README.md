@@ -30,9 +30,9 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-02-23T20:24-05:00</kbd></samp>
-- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-22T00:10-05:00</kbd></samp>
-- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-22T00:08-05:00</kbd></samp>
+- <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-24T15:20-05:00</kbd></samp>
+- <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-24T14:38-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-02-24T07:37-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2024-09-18T09:34-04:00</kbd></samp>
 - <samp>[decap-cms-widget-parent](https://github.com/mshick/decap-cms-widget-parent) <kbd>2024-08-30T22:13-04:00</kbd></samp>
