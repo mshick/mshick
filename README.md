@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-02-24T20:24-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-02-25T07:36-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-24T15:20-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-24T14:38-05:00</kbd></samp>
 - <samp>[repro-oi-esm](https://github.com/mshick/repro-oi-esm) <kbd>2024-12-03T14:07-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Community managers in action: Leading a developer community for good](https://github.blog/open-source/social-impact/community-managers-in-action-leading-a-developer-community-for-good/) <kbd>2025-02-25T12:00-05:00</kbd></samp>
 - <samp>[How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/) <kbd>2025-02-21T12:00-05:00</kbd></samp>
 - <samp>[Engaging with the developer community on our approach to content moderation](https://github.blog/news-insights/policy-news-and-insights/engaging-with-the-developer-community-on-our-approach-to-content-moderation/) <kbd>2025-02-20T12:00-05:00</kbd></samp>
 - <samp>[Support the open source projects you love this Valentine’s Day](https://github.blog/open-source/support-the-open-source-projects-you-love-this-valentines-day/) <kbd>2025-02-14T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[From finding to fixing: GitHub Advanced Security integrates Endor Labs SCA](https://github.blog/security/from-finding-to-fixing-github-advanced-security-integrates-endor-labs-sca/) <kbd>2025-02-07T12:00-05:00</kbd></samp>
 - <samp>[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) <kbd>2025-02-06T12:04-05:00</kbd></samp>
 - <samp>[5 tips for promoting your open source project](https://github.blog/open-source/maintainers/5-tips-for-promoting-your-open-source-project/) <kbd>2025-02-06T12:00-05:00</kbd></samp>
-- <samp>[4 steps to building a natural language search tool](https://github.blog/open-source/social-impact/4-steps-to-building-a-natural-language-search-tool/) <kbd>2025-01-30T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
