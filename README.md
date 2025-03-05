@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-03T20:25-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-04T07:37-05:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-01T09:47-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Finding leaked passwords with AI: How we built Copilot secret scanning](https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/) <kbd>2025-03-04T12:00-05:00</kbd></samp>
 - <samp>[GitHub for Beginners: How to get started with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-started-with-github-copilot/) <kbd>2025-03-03T09:00-05:00</kbd></samp>
 - <samp>[Community managers in action: Leading a developer community for good](https://github.blog/open-source/social-impact/community-managers-in-action-leading-a-developer-community-for-good/) <kbd>2025-02-25T12:00-05:00</kbd></samp>
 - <samp>[How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/) <kbd>2025-02-21T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub uses CodeQL to secure GitHub](https://github.blog/engineering/how-github-uses-codeql-to-secure-github/) <kbd>2025-02-12T12:00-05:00</kbd></samp>
 - <samp>[How to refactor code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-refactor-code-with-github-copilot/) <kbd>2025-02-11T12:00-05:00</kbd></samp>
 - <samp>[From finding to fixing: GitHub Advanced Security integrates Endor Labs SCA](https://github.blog/security/from-finding-to-fixing-github-advanced-security-integrates-endor-labs-sca/) <kbd>2025-02-07T12:00-05:00</kbd></samp>
-- <samp>[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) <kbd>2025-02-06T12:04-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
