@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-05T20:25-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-06T07:37-05:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-01T09:47-05:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Four steps toward building an open source community](https://github.blog/open-source/maintainers/four-steps-toward-building-an-open-source-community/) <kbd>2025-03-06T12:00-05:00</kbd></samp>
 - <samp>[Video: How to run dependency audits with GitHub Copilot](https://github.blog/developer-skills/github/video-how-to-run-dependency-audits-with-github-copilot/) <kbd>2025-03-05T13:03-05:00</kbd></samp>
 - <samp>[Not just for developers: How product and security teams can use GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/not-just-for-developers-how-product-and-security-teams-can-use-github-copilot/) <kbd>2025-03-05T12:00-05:00</kbd></samp>
 - <samp>[Finding leaked passwords with AI: How we built Copilot secret scanning](https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/) <kbd>2025-03-04T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Engaging with the developer community on our approach to content moderation](https://github.blog/news-insights/policy-news-and-insights/engaging-with-the-developer-community-on-our-approach-to-content-moderation/) <kbd>2025-02-20T12:00-05:00</kbd></samp>
 - <samp>[Support the open source projects you love this Valentine’s Day](https://github.blog/open-source/support-the-open-source-projects-you-love-this-valentines-day/) <kbd>2025-02-14T12:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: January 2025](https://github.blog/news-insights/company-news/github-availability-report-january-2025/) <kbd>2025-02-12T15:49-05:00</kbd></samp>
-- <samp>[How GitHub uses CodeQL to secure GitHub](https://github.blog/engineering/how-github-uses-codeql-to-secure-github/) <kbd>2025-02-12T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
