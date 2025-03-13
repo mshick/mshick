@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-11T21:25-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-12T08:37-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) <kbd>2025-03-12T17:07-04:00</kbd></samp>
+- <samp>[GitHub Availability Report: February 2025](https://github.blog/news-insights/company-news/github-availability-report-february-2025/) <kbd>2025-03-12T15:59-04:00</kbd></samp>
 - <samp>[Why Java endures: The foundation of modern enterprise development](https://github.blog/developer-skills/why-java-endures-the-foundation-of-modern-enterprise-development/) <kbd>2025-03-11T12:00-04:00</kbd></samp>
 - <samp>[Full exposure: A practical approach to handling sensitive data leaks](https://github.blog/security/full-exposure-a-practical-approach-to-handling-sensitive-data-leaks/) <kbd>2025-03-10T12:00-04:00</kbd></samp>
 - <samp>[Four steps toward building an open source community](https://github.blog/open-source/maintainers/four-steps-toward-building-an-open-source-community/) <kbd>2025-03-06T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Finding leaked passwords with AI: How we built Copilot secret scanning](https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/) <kbd>2025-03-04T12:00-05:00</kbd></samp>
 - <samp>[GitHub for Beginners: How to get started with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-started-with-github-copilot/) <kbd>2025-03-03T09:00-05:00</kbd></samp>
 - <samp>[Community managers in action: Leading a developer community for good](https://github.blog/open-source/social-impact/community-managers-in-action-leading-a-developer-community-for-good/) <kbd>2025-02-25T12:00-05:00</kbd></samp>
-- <samp>[How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/) <kbd>2025-02-21T12:00-05:00</kbd></samp>
-- <samp>[Engaging with the developer community on our approach to content moderation](https://github.blog/news-insights/policy-news-and-insights/engaging-with-the-developer-community-on-our-approach-to-content-moderation/) <kbd>2025-02-20T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
