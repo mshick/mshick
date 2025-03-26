@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-24T21:35-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-25T08:38-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Mastering GitHub Copilot: When to use AI agent mode](https://github.blog/ai-and-ml/github-copilot/mastering-github-copilot-when-to-use-ai-agent-mode/) <kbd>2025-03-25T12:00-04:00</kbd></samp>
 - <samp>[A maintainer&#8217;s guide to vulnerability disclosure: GitHub tools to make it simple](https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/) <kbd>2025-03-24T12:00-04:00</kbd></samp>
 - <samp>[World Water Day: how GitHub Copilot is helping bring clean water to communities](https://github.blog/open-source/world-water-day-how-github-copilot-is-helping-bring-clean-water-to-communities/) <kbd>2025-03-20T12:00-04:00</kbd></samp>
 - <samp>[Video: How to create checklists in Markdown for easier task tracking](https://github.blog/developer-skills/github/video-how-to-create-checklists-in-markdown-for-easier-task-tracking/) <kbd>2025-03-19T13:06-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub engineers learn new codebases](https://github.blog/developer-skills/application-development/how-github-engineers-learn-new-codebases/) <kbd>2025-03-13T12:00-04:00</kbd></samp>
 - <samp>[Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) <kbd>2025-03-12T17:07-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: February 2025](https://github.blog/news-insights/company-news/github-availability-report-february-2025/) <kbd>2025-03-12T15:59-04:00</kbd></samp>
-- <samp>[Why Java endures: The foundation of modern enterprise development](https://github.blog/developer-skills/why-java-endures-the-foundation-of-modern-enterprise-development/) <kbd>2025-03-11T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
