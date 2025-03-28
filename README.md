@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-26T21:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-03-27T08:38-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[5 GitHub Actions every maintainer needs to know](https://github.blog/open-source/maintainers/5-github-actions-every-maintainer-needs-to-know/) <kbd>2025-03-27T12:00-04:00</kbd></samp>
+- <samp>[How engineers can use one-on-ones with their manager to accelerate career growth](https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/) <kbd>2025-03-27T11:31-04:00</kbd></samp>
 - <samp>[Mastering GitHub Copilot: When to use AI agent mode](https://github.blog/ai-and-ml/github-copilot/mastering-github-copilot-when-to-use-ai-agent-mode/) <kbd>2025-03-25T12:00-04:00</kbd></samp>
 - <samp>[A maintainer&#8217;s guide to vulnerability disclosure: GitHub tools to make it simple](https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/) <kbd>2025-03-24T12:00-04:00</kbd></samp>
 - <samp>[World Water Day: how GitHub Copilot is helping bring clean water to communities](https://github.blog/open-source/world-water-day-how-github-copilot-is-helping-bring-clean-water-to-communities/) <kbd>2025-03-20T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub for Beginners: Essential features of GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-essential-features-of-github-copilot/) <kbd>2025-03-17T09:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.49](https://github.blog/open-source/git/highlights-from-git-2-49/) <kbd>2025-03-14T13:19-04:00</kbd></samp>
 - <samp>[How GitHub engineers learn new codebases](https://github.blog/developer-skills/application-development/how-github-engineers-learn-new-codebases/) <kbd>2025-03-13T12:00-04:00</kbd></samp>
-- <samp>[Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/) <kbd>2025-03-12T17:07-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: February 2025](https://github.blog/news-insights/company-news/github-availability-report-february-2025/) <kbd>2025-03-12T15:59-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
