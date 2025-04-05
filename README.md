@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-03T21:35-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-04T08:38-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/) <kbd>2025-04-04T12:25-04:00</kbd></samp>
 - <samp>[Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/) <kbd>2025-04-03T12:00-04:00</kbd></samp>
 - <samp>[GitHub found 39M secret leaks in 2024. Here&#8217;s what we&#8217;re doing to help](https://github.blog/security/application-security/next-evolution-github-advanced-security/) <kbd>2025-04-01T12:06-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/) <kbd>2025-03-31T09:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[A maintainer&#8217;s guide to vulnerability disclosure: GitHub tools to make it simple](https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/) <kbd>2025-03-24T12:00-04:00</kbd></samp>
 - <samp>[World Water Day: how GitHub Copilot is helping bring clean water to communities](https://github.blog/open-source/world-water-day-how-github-copilot-is-helping-bring-clean-water-to-communities/) <kbd>2025-03-20T12:00-04:00</kbd></samp>
 - <samp>[Video: How to create checklists in Markdown for easier task tracking](https://github.blog/developer-skills/github/video-how-to-create-checklists-in-markdown-for-easier-task-tracking/) <kbd>2025-03-19T13:06-04:00</kbd></samp>
-- <samp>[IssueOps: Automate CI/CD (and more!) with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/) <kbd>2025-03-19T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
