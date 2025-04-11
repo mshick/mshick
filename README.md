@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-09T21:36-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-10T08:39-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we’re making security easier for the average developer](https://github.blog/security/application-security/how-were-making-security-easier-for-the-average-developer/) <kbd>2025-04-10T12:37-04:00</kbd></samp>
 - <samp>[How to request a change to a CVE record](https://github.blog/security/vulnerability-research/how-to-request-a-change-to-a-cve-record/) <kbd>2025-04-09T16:02-04:00</kbd></samp>
 - <samp>[Found means fixed: Reduce security debt at scale with GitHub security campaigns](https://github.blog/security/application-security/found-means-fixed-reduce-security-debt-at-scale-with-github-security-campaigns/) <kbd>2025-04-08T12:00-04:00</kbd></samp>
 - <samp>[Git turns 20: A Q&#038;A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/) <kbd>2025-04-07T18:58-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/) <kbd>2025-03-31T09:00-04:00</kbd></samp>
 - <samp>[5 GitHub Actions every maintainer needs to know](https://github.blog/open-source/maintainers/5-github-actions-every-maintainer-needs-to-know/) <kbd>2025-03-27T12:00-04:00</kbd></samp>
 - <samp>[How engineers can use one-on-ones with their manager to accelerate career growth](https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/) <kbd>2025-03-27T11:31-04:00</kbd></samp>
-- <samp>[Mastering GitHub Copilot: When to use AI agent mode](https://github.blog/ai-and-ml/github-copilot/mastering-github-copilot-when-to-use-ai-agent-mode/) <kbd>2025-03-25T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
