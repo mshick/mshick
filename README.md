@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-13T21:40-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-14T08:39-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub for Beginners: Security best practices with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-security-best-practices-with-github-copilot/) <kbd>2025-04-14T09:00-04:00</kbd></samp>
 - <samp>[Introducing sub-issues: Enhancing issue management on GitHub](https://github.blog/engineering/architecture-optimization/introducing-sub-issues-enhancing-issue-management-on-github/) <kbd>2025-04-11T18:33-04:00</kbd></samp>
 - <samp>[What the heck is MCP and why is everyone talking about it?](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/) <kbd>2025-04-11T12:00-04:00</kbd></samp>
 - <samp>[How we’re making security easier for the average developer](https://github.blog/security/application-security/how-were-making-security-easier-for-the-average-developer/) <kbd>2025-04-10T12:37-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/) <kbd>2025-04-04T12:25-04:00</kbd></samp>
 - <samp>[Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/) <kbd>2025-04-03T12:00-04:00</kbd></samp>
 - <samp>[GitHub found 39M secret leaks in 2024. Here&#8217;s what we&#8217;re doing to help](https://github.blog/security/application-security/next-evolution-github-advanced-security/) <kbd>2025-04-01T12:06-04:00</kbd></samp>
-- <samp>[GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/) <kbd>2025-03-31T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
