@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-17T21:36-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-18T08:37-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to make your images in Markdown on GitHub adjust for dark mode and light mode](https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/) <kbd>2025-04-18T15:30-04:00</kbd></samp>
+- <samp>[Cracking the code: How to wow the acceptance committee at your next tech event](https://github.blog/developer-skills/career-growth/cracking-the-code-how-to-wow-the-acceptance-committee-at-your-next-tech-event/) <kbd>2025-04-18T12:48-04:00</kbd></samp>
 - <samp>[Which AI model should I use with GitHub Copilot?](https://github.blog/ai-and-ml/github-copilot/which-ai-model-should-i-use-with-github-copilot/) <kbd>2025-04-17T17:19-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2025](https://github.blog/news-insights/company-news/github-availability-report-march-2025/) <kbd>2025-04-16T17:02-04:00</kbd></samp>
 - <samp>[When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https://github.blog/enterprise-software/ci-cd/when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions/) <kbd>2025-04-15T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[What the heck is MCP and why is everyone talking about it?](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/) <kbd>2025-04-11T12:00-04:00</kbd></samp>
 - <samp>[How we’re making security easier for the average developer](https://github.blog/security/application-security/how-were-making-security-easier-for-the-average-developer/) <kbd>2025-04-10T12:37-04:00</kbd></samp>
 - <samp>[How to request a change to a CVE record](https://github.blog/security/vulnerability-research/how-to-request-a-change-to-a-cve-record/) <kbd>2025-04-09T16:02-04:00</kbd></samp>
-- <samp>[Found means fixed: Reduce security debt at scale with GitHub security campaigns](https://github.blog/security/application-security/found-means-fixed-reduce-security-debt-at-scale-with-github-security-campaigns/) <kbd>2025-04-08T12:00-04:00</kbd></samp>
-- <samp>[Git turns 20: A Q&#038;A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/) <kbd>2025-04-07T18:58-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
