@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-22T21:39-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-23T08:40-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[From prompt to production: Building a landing page with Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/) <kbd>2025-04-23T12:06-04:00</kbd></samp>
 - <samp>[Exploring GitHub CLI: How to interact with GitHub&#8217;s GraphQL API endpoint](https://github.blog/developer-skills/github/exploring-github-cli-how-to-interact-with-githubs-graphql-api-endpoint/) <kbd>2025-04-22T12:00-04:00</kbd></samp>
 - <samp>[Racing into 2025 with new GitHub Innovation Graph data](https://github.blog/news-insights/policy-news-and-insights/racing-into-2025-with-new-github-innovation-graph-data/) <kbd>2025-04-21T13:00-04:00</kbd></samp>
 - <samp>[How to take climate action with your code](https://github.blog/open-source/social-impact/how-to-take-climate-action-with-your-code/) <kbd>2025-04-21T09:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: March 2025](https://github.blog/news-insights/company-news/github-availability-report-march-2025/) <kbd>2025-04-16T17:02-04:00</kbd></samp>
 - <samp>[When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https://github.blog/enterprise-software/ci-cd/when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions/) <kbd>2025-04-15T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Security best practices with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-security-best-practices-with-github-copilot/) <kbd>2025-04-14T09:00-04:00</kbd></samp>
-- <samp>[Introducing sub-issues: Enhancing issue management on GitHub](https://github.blog/engineering/architecture-optimization/introducing-sub-issues-enhancing-issue-management-on-github/) <kbd>2025-04-11T18:33-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
