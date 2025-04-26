@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-24T21:39-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-25T08:39-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How the GitHub CLI can now enable triangular workflows](https://github.blog/open-source/git/how-the-github-cli-can-now-enable-triangular-workflows/) <kbd>2025-04-25T12:00-04:00</kbd></samp>
 - <samp>[A guide to deciding what AI model to use in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/a-guide-to-deciding-what-ai-model-to-use-in-github-copilot/) <kbd>2025-04-24T12:00-04:00</kbd></samp>
 - <samp>[From prompt to production: Building a landing page with Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/) <kbd>2025-04-23T12:06-04:00</kbd></samp>
 - <samp>[Exploring GitHub CLI: How to interact with GitHub&#8217;s GraphQL API endpoint](https://github.blog/developer-skills/github/exploring-github-cli-how-to-interact-with-githubs-graphql-api-endpoint/) <kbd>2025-04-22T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Cracking the code: How to wow the acceptance committee at your next tech event](https://github.blog/developer-skills/career-growth/cracking-the-code-how-to-wow-the-acceptance-committee-at-your-next-tech-event/) <kbd>2025-04-18T12:48-04:00</kbd></samp>
 - <samp>[Which AI model should I use with GitHub Copilot?](https://github.blog/ai-and-ml/github-copilot/which-ai-model-should-i-use-with-github-copilot/) <kbd>2025-04-17T17:19-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: March 2025](https://github.blog/news-insights/company-news/github-availability-report-march-2025/) <kbd>2025-04-16T17:02-04:00</kbd></samp>
-- <samp>[When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https://github.blog/enterprise-software/ci-cd/when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions/) <kbd>2025-04-15T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
