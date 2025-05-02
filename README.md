@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-04-30T21:48-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-01T08:38-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The AI-powered DevOps revolution: Redefining developer collaboration](https://github.blog/ai-and-ml/github-copilot/the-ai-powered-devops-revolution-redefining-developer-collaboration/) <kbd>2025-05-01T13:12-04:00</kbd></samp>
 - <samp>[From MCP to multi-agents: The top 10 new open source AI projects on GitHub right now and why they matter](https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/) <kbd>2025-04-30T12:00-04:00</kbd></samp>
 - <samp>[Cutting through the noise: How to prioritize Dependabot alerts](https://github.blog/security/application-security/cutting-through-the-noise-how-to-prioritize-dependabot-alerts/) <kbd>2025-04-29T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Building a REST API with Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/) <kbd>2025-04-28T09:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Exploring GitHub CLI: How to interact with GitHub&#8217;s GraphQL API endpoint](https://github.blog/developer-skills/github/exploring-github-cli-how-to-interact-with-githubs-graphql-api-endpoint/) <kbd>2025-04-22T12:00-04:00</kbd></samp>
 - <samp>[Racing into 2025 with new GitHub Innovation Graph data](https://github.blog/news-insights/policy-news-and-insights/racing-into-2025-with-new-github-innovation-graph-data/) <kbd>2025-04-21T13:00-04:00</kbd></samp>
 - <samp>[How to take climate action with your code](https://github.blog/open-source/social-impact/how-to-take-climate-action-with-your-code/) <kbd>2025-04-21T09:00-04:00</kbd></samp>
-- <samp>[How to make your images in Markdown on GitHub adjust for dark mode and light mode](https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/) <kbd>2025-04-18T15:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
