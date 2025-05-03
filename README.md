@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-01T21:40-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-02T08:38-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Copilot ask, edit, and agent modes: What they do and when to use them](https://github.blog/ai-and-ml/github-copilot/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/) <kbd>2025-05-02T12:00-04:00</kbd></samp>
+- <samp>[Building a more accessible GitHub CLI](https://github.blog/engineering/user-experience/building-a-more-accessible-github-cli/) <kbd>2025-05-02T10:30-04:00</kbd></samp>
 - <samp>[The AI-powered DevOps revolution: Redefining developer collaboration](https://github.blog/ai-and-ml/github-copilot/the-ai-powered-devops-revolution-redefining-developer-collaboration/) <kbd>2025-05-01T13:12-04:00</kbd></samp>
 - <samp>[From MCP to multi-agents: The top 10 new open source AI projects on GitHub right now and why they matter](https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/) <kbd>2025-04-30T12:00-04:00</kbd></samp>
 - <samp>[Cutting through the noise: How to prioritize Dependabot alerts](https://github.blog/security/application-security/cutting-through-the-noise-how-to-prioritize-dependabot-alerts/) <kbd>2025-04-29T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[A guide to deciding what AI model to use in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/a-guide-to-deciding-what-ai-model-to-use-in-github-copilot/) <kbd>2025-04-24T12:00-04:00</kbd></samp>
 - <samp>[From prompt to production: Building a landing page with Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/) <kbd>2025-04-23T12:06-04:00</kbd></samp>
 - <samp>[Exploring GitHub CLI: How to interact with GitHub&#8217;s GraphQL API endpoint](https://github.blog/developer-skills/github/exploring-github-cli-how-to-interact-with-githubs-graphql-api-endpoint/) <kbd>2025-04-22T12:00-04:00</kbd></samp>
-- <samp>[Racing into 2025 with new GitHub Innovation Graph data](https://github.blog/news-insights/policy-news-and-insights/racing-into-2025-with-new-github-innovation-graph-data/) <kbd>2025-04-21T13:00-04:00</kbd></samp>
-- <samp>[How to take climate action with your code](https://github.blog/open-source/social-impact/how-to-take-climate-action-with-your-code/) <kbd>2025-04-21T09:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
