@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-13T21:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-14T08:40-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: April 2025](https://github.blog/news-insights/company-news/github-availability-report-april-2025/) <kbd>2025-05-14T17:00-04:00</kbd></samp>
+- <samp>[Documentation done right: A developer’s guide](https://github.blog/developer-skills/documentation-done-right-a-developers-guide/) <kbd>2025-05-14T12:00-04:00</kbd></samp>
 - <samp>[GitHub Issues search now supports nested queries and boolean operators: Here&#8217;s how we (re)built it](https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/) <kbd>2025-05-13T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Building a React App with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-react-app-with-github-copilot/) <kbd>2025-05-12T09:00-04:00</kbd></samp>
 - <samp>[Real‑world video demo: Using different AI models in GitHub Copilot](https://github.blog/ai-and-ml/real%e2%80%91world-video-demo-using-different-ai-models-in-github-copilot/) <kbd>2025-05-10T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Dos and don’ts when sunsetting open source projects](https://github.blog/open-source/maintainers/dos-and-donts-when-sunsetting-open-source-projects/) <kbd>2025-05-06T12:00-04:00</kbd></samp>
 - <samp>[Welcome to Maintainer Month: Events, exclusive discounts, and a new security challenge](https://github.blog/open-source/maintainers/welcome-to-maintainer-month-events-exclusive-discounts-and-a-new-security-challenge/) <kbd>2025-05-05T13:30-04:00</kbd></samp>
 - <samp>[Copilot ask, edit, and agent modes: What they do and when to use them](https://github.blog/ai-and-ml/github-copilot/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/) <kbd>2025-05-02T12:00-04:00</kbd></samp>
-- <samp>[Building a more accessible GitHub CLI](https://github.blog/engineering/user-experience/building-a-more-accessible-github-cli/) <kbd>2025-05-02T10:30-04:00</kbd></samp>
-- <samp>[The AI-powered DevOps revolution: Redefining developer collaboration](https://github.blog/ai-and-ml/github-copilot/the-ai-powered-devops-revolution-redefining-developer-collaboration/) <kbd>2025-05-01T13:12-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
