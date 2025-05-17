@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-15T21:43-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-16T08:40-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Code. Create. Commit. Welcome to dev/core](https://github.blog/news-insights/company-news/code-create-commit-welcome-to-dev-core/) <kbd>2025-05-16T12:10-04:00</kbd></samp>
+- <samp>[Vibe coding: Your roadmap to becoming an AI developer](https://github.blog/ai-and-ml/vibe-coding-your-roadmap-to-becoming-an-ai-developer/) <kbd>2025-05-16T12:00-04:00</kbd></samp>
 - <samp>[Our pledge to help improve the accessibility of open source software at scale](https://github.blog/open-source/social-impact/our-pledge-to-help-improve-the-accessibility-of-open-source-software-at-scale/) <kbd>2025-05-15T04:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: April 2025](https://github.blog/news-insights/company-news/github-availability-report-april-2025/) <kbd>2025-05-14T17:00-04:00</kbd></samp>
 - <samp>[Documentation done right: A developer’s guide](https://github.blog/developer-skills/documentation-done-right-a-developers-guide/) <kbd>2025-05-14T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Real‑world video demo: Using different AI models in GitHub Copilot](https://github.blog/ai-and-ml/real%e2%80%91world-video-demo-using-different-ai-models-in-github-copilot/) <kbd>2025-05-10T12:00-04:00</kbd></samp>
 - <samp>[Design system annotations, part 2: Advanced methods of annotating components](https://github.blog/engineering/user-experience/design-system-annotations-part-2-advanced-methods-of-annotating-components/) <kbd>2025-05-09T12:56-04:00</kbd></samp>
 - <samp>[Design system annotations, part 1: How accessibility gets left out of components](https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/) <kbd>2025-05-09T12:56-04:00</kbd></samp>
-- <samp>[Dos and don’ts when sunsetting open source projects](https://github.blog/open-source/maintainers/dos-and-donts-when-sunsetting-open-source-projects/) <kbd>2025-05-06T12:00-04:00</kbd></samp>
-- <samp>[Welcome to Maintainer Month: Events, exclusive discounts, and a new security challenge](https://github.blog/open-source/maintainers/welcome-to-maintainer-month-events-exclusive-discounts-and-a-new-security-challenge/) <kbd>2025-05-05T13:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
