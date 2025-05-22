@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-20T21:43-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-21T08:41-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-03-09T19:55-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to thrive as a junior engineer: Tips and insights](https://github.blog/developer-skills/career-growth/how-to-thrive-as-a-junior-engineer-tips-and-insights/) <kbd>2025-05-21T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot: Meet the new coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/) <kbd>2025-05-19T12:02-04:00</kbd></samp>
 - <samp>[Code. Create. Commit. Welcome to dev/core](https://github.blog/news-insights/company-news/code-create-commit-welcome-to-dev-core/) <kbd>2025-05-16T12:10-04:00</kbd></samp>
 - <samp>[Vibe coding: Your roadmap to becoming an AI developer](https://github.blog/ai-and-ml/vibe-coding-your-roadmap-to-becoming-an-ai-developer/) <kbd>2025-05-16T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Issues search now supports nested queries and boolean operators: Here&#8217;s how we (re)built it](https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/) <kbd>2025-05-13T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Building a React App with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-react-app-with-github-copilot/) <kbd>2025-05-12T09:00-04:00</kbd></samp>
 - <samp>[Real‑world video demo: Using different AI models in GitHub Copilot](https://github.blog/ai-and-ml/real%e2%80%91world-video-demo-using-different-ai-models-in-github-copilot/) <kbd>2025-05-10T12:00-04:00</kbd></samp>
-- <samp>[Design system annotations, part 2: Advanced methods of annotating components](https://github.blog/engineering/user-experience/design-system-annotations-part-2-advanced-methods-of-annotating-components/) <kbd>2025-05-09T12:56-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
