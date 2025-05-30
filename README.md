@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-28T21:43-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-05-29T08:41-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[4 trends shaping open source funding—and what they mean for maintainers](https://github.blog/open-source/maintainers/4-trends-shaping-open-source-funding-and-what-they-mean-for-maintainers/) <kbd>2025-05-29T12:00-04:00</kbd></samp>
 - <samp>[Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) <kbd>2025-05-27T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Test-driven development (TDD) with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-test-driven-development-tdd-with-github-copilot/) <kbd>2025-05-26T09:00-04:00</kbd></samp>
 - <samp>[Bypassing MTE with CVE-2025-0072](https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/) <kbd>2025-05-23T06:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Copilot: Meet the new coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/) <kbd>2025-05-19T12:02-04:00</kbd></samp>
 - <samp>[Code. Create. Commit. Welcome to dev/core](https://github.blog/news-insights/company-news/code-create-commit-welcome-to-dev-core/) <kbd>2025-05-16T12:10-04:00</kbd></samp>
 - <samp>[Vibe coding: Your roadmap to becoming an AI developer](https://github.blog/ai-and-ml/vibe-coding-your-roadmap-to-becoming-an-ai-developer/) <kbd>2025-05-16T12:00-04:00</kbd></samp>
-- <samp>[Our pledge to help improve the accessibility of open source software at scale](https://github.blog/open-source/social-impact/our-pledge-to-help-improve-the-accessibility-of-open-source-software-at-scale/) <kbd>2025-05-15T04:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
