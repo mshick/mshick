@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-01T21:48-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-02T08:42-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Less TODO, more done: The difference between coding agent and agent mode in GitHub Copilot](https://github.blog/developer-skills/github/less-todo-more-done-the-difference-between-coding-agent-and-agent-mode-in-github-copilot/) <kbd>2025-06-02T12:00-04:00</kbd></samp>
 - <samp>[GitHub Universe 2025: Here’s what’s in store at this year’s developer wonderland](https://github.blog/news-insights/company-news/github-universe-2025-heres-whats-in-store-at-this-years-developer-wonderland/) <kbd>2025-05-30T12:00-04:00</kbd></samp>
 - <samp>[4 trends shaping open source funding—and what they mean for maintainers](https://github.blog/open-source/maintainers/4-trends-shaping-open-source-funding-and-what-they-mean-for-maintainers/) <kbd>2025-05-29T12:00-04:00</kbd></samp>
 - <samp>[Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) <kbd>2025-05-27T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Agent mode 101: All about GitHub Copilot’s powerful mode](https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/) <kbd>2025-05-22T15:15-04:00</kbd></samp>
 - <samp>[How to thrive as a junior engineer: Tips and insights](https://github.blog/developer-skills/career-growth/how-to-thrive-as-a-junior-engineer-tips-and-insights/) <kbd>2025-05-21T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot: Meet the new coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/) <kbd>2025-05-19T12:02-04:00</kbd></samp>
-- <samp>[Code. Create. Commit. Welcome to dev/core](https://github.blog/news-insights/company-news/code-create-commit-welcome-to-dev-core/) <kbd>2025-05-16T12:10-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
