@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-05T21:43-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-06T08:41-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Assigning and completing issues with coding agent in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/assigning-and-completing-issues-with-coding-agent-in-github-copilot/) <kbd>2025-06-06T12:00-04:00</kbd></samp>
 - <samp>[How to create issues and pull requests in record time on GitHub](https://github.blog/developer-skills/github/how-to-create-issues-and-pull-requests-in-record-time-on-github/) <kbd>2025-06-05T12:00-04:00</kbd></samp>
 - <samp>[Hack the model: Build AI security skills with the GitHub Secure Code Game](https://github.blog/security/hack-the-model-build-ai-security-skills-with-the-github-secure-code-game/) <kbd>2025-06-03T12:37-04:00</kbd></samp>
 - <samp>[DNS rebinding attacks explained: The lookup is coming from inside the house!](https://github.blog/security/application-security/dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house/) <kbd>2025-06-03T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) <kbd>2025-05-27T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Test-driven development (TDD) with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-test-driven-development-tdd-with-github-copilot/) <kbd>2025-05-26T09:00-04:00</kbd></samp>
 - <samp>[Bypassing MTE with CVE-2025-0072](https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/) <kbd>2025-05-23T06:00-04:00</kbd></samp>
-- <samp>[Shine a spotlight on your open source project](https://github.blog/open-source/shine-a-spotlight-on-your-open-source-project/) <kbd>2025-05-23T04:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
