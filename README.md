@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[hancockblock.party](https://github.com/mshick/hancockblock.party) <kbd>2025-06-11T00:22-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-10T21:46-04:00</kbd></samp>
+- <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-11T15:23-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-11T08:42-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: May 2025](https://github.blog/news-insights/company-news/github-availability-report-may-2025/) <kbd>2025-06-11T19:24-04:00</kbd></samp>
 - <samp>[How GitHub engineers tackle platform problems](https://github.blog/engineering/infrastructure/how-github-engineers-tackle-platform-problems/) <kbd>2025-06-10T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Code review and refactoring with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-code-review-and-refactoring-with-github-copilot/) <kbd>2025-06-09T09:00-04:00</kbd></samp>
 - <samp>[Assigning and completing issues with coding agent in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/assigning-and-completing-issues-with-coding-agent-in-github-copilot/) <kbd>2025-06-06T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Less TODO, more done: The difference between coding agent and agent mode in GitHub Copilot](https://github.blog/developer-skills/github/less-todo-more-done-the-difference-between-coding-agent-and-agent-mode-in-github-copilot/) <kbd>2025-06-02T12:00-04:00</kbd></samp>
 - <samp>[GitHub Universe 2025: Here’s what’s in store at this year’s developer wonderland](https://github.blog/news-insights/company-news/github-universe-2025-heres-whats-in-store-at-this-years-developer-wonderland/) <kbd>2025-05-30T12:00-04:00</kbd></samp>
 - <samp>[4 trends shaping open source funding—and what they mean for maintainers](https://github.blog/open-source/maintainers/4-trends-shaping-open-source-funding-and-what-they-mean-for-maintainers/) <kbd>2025-05-29T12:00-04:00</kbd></samp>
-- <samp>[Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) <kbd>2025-05-27T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
