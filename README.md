@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-12T21:45-04:00</kbd></samp>
-- <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-12T12:55-04:00</kbd></samp>
+- <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-13T10:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-13T08:41-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
@@ -61,7 +61,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to create issues and pull requests in record time on GitHub](https://github.blog/developer-skills/github/how-to-create-issues-and-pull-requests-in-record-time-on-github/) <kbd>2025-06-05T12:00-04:00</kbd></samp>
 - <samp>[Hack the model: Build AI security skills with the GitHub Secure Code Game](https://github.blog/security/hack-the-model-build-ai-security-skills-with-the-github-secure-code-game/) <kbd>2025-06-03T12:37-04:00</kbd></samp>
 - <samp>[DNS rebinding attacks explained: The lookup is coming from inside the house!](https://github.blog/security/application-security/dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house/) <kbd>2025-06-03T12:00-04:00</kbd></samp>
-- <samp>[Less TODO, more done: The difference between coding agent and agent mode in GitHub Copilot](https://github.blog/developer-skills/github/less-todo-more-done-the-difference-between-coding-agent-and-agent-mode-in-github-copilot/) <kbd>2025-06-02T12:00-04:00</kbd></samp>
+- <samp>[The difference between coding agent and agent mode in GitHub Copilot](https://github.blog/developer-skills/github/less-todo-more-done-the-difference-between-coding-agent-and-agent-mode-in-github-copilot/) <kbd>2025-06-02T12:00-04:00</kbd></samp>
 - <samp>[GitHub Universe 2025: Here’s what’s in store at this year’s developer wonderland](https://github.blog/news-insights/company-news/github-universe-2025-heres-whats-in-store-at-this-years-developer-wonderland/) <kbd>2025-05-30T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
