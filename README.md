@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-22T21:52-04:00</kbd></samp>
-- <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-19T10:02-04:00</kbd></samp>
+- <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-23T11:56-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-23T08:44-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
 - <samp>[shick.io](https://github.com/mshick/shick.io) <kbd>2025-02-26T16:59-05:00</kbd></samp>
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
