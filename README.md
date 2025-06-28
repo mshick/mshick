@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-26T21:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-06-27T08:41-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-06-25T09:15-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them](https://github.blog/security/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/) <kbd>2025-06-27T12:00-04:00</kbd></samp>
 - <samp>[From pair to peer programmer: Our vision for agentic workflows in GitHub Copilot](https://github.blog/news-insights/product-news/from-pair-to-peer-programmer-our-vision-for-agentic-workflows-in-github-copilot/) <kbd>2025-06-25T12:00-04:00</kbd></samp>
 - <samp>[Why developer expertise matters more than ever in the age of AI](https://github.blog/developer-skills/career-growth/why-developer-expertise-matters-more-than-ever-in-the-age-of-ai/) <kbd>2025-06-24T13:04-04:00</kbd></samp>
 - <samp>[GitHub Copilot Spaces: Bring the right context to every suggestion](https://github.blog/ai-and-ml/github-copilot/github-copilot-spaces-bring-the-right-context-to-every-suggestion/) <kbd>2025-06-18T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: May 2025](https://github.blog/news-insights/company-news/github-availability-report-may-2025/) <kbd>2025-06-11T19:24-04:00</kbd></samp>
 - <samp>[How GitHub engineers tackle platform problems](https://github.blog/engineering/infrastructure/how-github-engineers-tackle-platform-problems/) <kbd>2025-06-10T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Code review and refactoring with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-code-review-and-refactoring-with-github-copilot/) <kbd>2025-06-09T09:00-04:00</kbd></samp>
-- <samp>[Assigning and completing issues with coding agent in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/assigning-and-completing-issues-with-coding-agent-in-github-copilot/) <kbd>2025-06-06T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
