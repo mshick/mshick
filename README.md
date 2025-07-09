@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-07T21:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-08T08:43-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-07T09:06-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/) <kbd>2025-07-08T13:02-04:00</kbd></samp>
 - <samp>[CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre](https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/) <kbd>2025-07-03T16:52-04:00</kbd></samp>
 - <samp>[5 ways to transform your workflow using GitHub Copilot and MCP](https://github.blog/ai-and-ml/github-copilot/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/) <kbd>2025-07-02T13:44-04:00</kbd></samp>
 - <samp>[From idea to PR: A guide to GitHub Copilot’s agentic workflows](https://github.blog/ai-and-ml/github-copilot/from-idea-to-pr-a-guide-to-github-copilots-agentic-workflows/) <kbd>2025-07-01T14:57-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Why developer expertise matters more than ever in the age of AI](https://github.blog/developer-skills/career-growth/why-developer-expertise-matters-more-than-ever-in-the-age-of-ai/) <kbd>2025-06-24T13:04-04:00</kbd></samp>
 - <samp>[GitHub Copilot Spaces: Bring the right context to every suggestion](https://github.blog/ai-and-ml/github-copilot/github-copilot-spaces-bring-the-right-context-to-every-suggestion/) <kbd>2025-06-18T12:00-04:00</kbd></samp>
 - <samp>[5 tips for using GitHub Copilot with issues to boost your productivity](https://github.blog/ai-and-ml/github-copilot/5-tips-for-using-github-copilot-with-issues-to-boost-your-productivity/) <kbd>2025-06-17T12:00-04:00</kbd></samp>
-- <samp>[Highlights from Git 2.50](https://github.blog/open-source/git/highlights-from-git-2-50/) <kbd>2025-06-16T13:12-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
