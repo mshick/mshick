@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-13T21:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-14T08:46-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Code review in the age of AI: Why developers will always own the merge button](https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/) <kbd>2025-07-14T12:38-04:00</kbd></samp>
 - <samp>[Modeling CORS frameworks with CodeQL to find security vulnerabilities](https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/) <kbd>2025-07-10T13:38-04:00</kbd></samp>
 - <samp>[Beyond prompt crafting: How to be a better partner for your AI pair programmer](https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/) <kbd>2025-07-09T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/) <kbd>2025-07-08T13:02-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Understand your software’s supply chain with GitHub’s dependency graph](https://github.blog/security/supply-chain-security/understand-your-softwares-supply-chain-with-githubs-dependency-graph/) <kbd>2025-07-01T12:00-04:00</kbd></samp>
 - <samp>[GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them](https://github.blog/security/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/) <kbd>2025-06-27T12:00-04:00</kbd></samp>
 - <samp>[From pair to peer programmer: Our vision for agentic workflows in GitHub Copilot](https://github.blog/news-insights/product-news/from-pair-to-peer-programmer-our-vision-for-agentic-workflows-in-github-copilot/) <kbd>2025-06-25T12:00-04:00</kbd></samp>
-- <samp>[Why developer expertise matters more than ever in the age of AI](https://github.blog/developer-skills/career-growth/why-developer-expertise-matters-more-than-ever-in-the-age-of-ai/) <kbd>2025-06-24T13:04-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
