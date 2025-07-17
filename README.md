@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-15T21:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-16T08:47-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: June 2025](https://github.blog/news-insights/company-news/github-availability-report-june-2025/) <kbd>2025-07-16T17:06-04:00</kbd></samp>
+- <samp>[How to catch GitHub Actions workflow injections before attackers do](https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/) <kbd>2025-07-16T12:00-04:00</kbd></samp>
+- <samp>[For the Love of Code: a summer hackathon for joyful, ridiculous, and wildly creative projects](https://github.blog/open-source/for-the-love-of-code-2025/) <kbd>2025-07-16T11:00-04:00</kbd></samp>
 - <samp>[From chaos to clarity: Using GitHub Copilot agents to improve developer workflows](https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/) <kbd>2025-07-15T12:00-04:00</kbd></samp>
 - <samp>[Code review in the age of AI: Why developers will always own the merge button](https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/) <kbd>2025-07-14T12:38-04:00</kbd></samp>
 - <samp>[Modeling CORS frameworks with CodeQL to find security vulnerabilities](https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/) <kbd>2025-07-10T13:38-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/) <kbd>2025-07-08T13:02-04:00</kbd></samp>
 - <samp>[CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre](https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/) <kbd>2025-07-03T16:52-04:00</kbd></samp>
 - <samp>[5 ways to transform your workflow using GitHub Copilot and MCP](https://github.blog/ai-and-ml/github-copilot/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/) <kbd>2025-07-02T13:44-04:00</kbd></samp>
-- <samp>[From idea to PR: A guide to GitHub Copilot’s agentic workflows](https://github.blog/ai-and-ml/github-copilot/from-idea-to-pr-a-guide-to-github-copilots-agentic-workflows/) <kbd>2025-07-01T14:57-04:00</kbd></samp>
-- <samp>[Understand your software’s supply chain with GitHub’s dependency graph](https://github.blog/security/supply-chain-security/understand-your-softwares-supply-chain-with-githubs-dependency-graph/) <kbd>2025-07-01T12:00-04:00</kbd></samp>
-- <samp>[GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them](https://github.blog/security/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/) <kbd>2025-06-27T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
