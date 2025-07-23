@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-22T08:47-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-22T21:54-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[We need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/) <kbd>2025-07-23T03:01-04:00</kbd></samp>
 - <samp>[Debugging UI with AI: GitHub Copilot agent mode meets MCP servers](https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/) <kbd>2025-07-22T17:58-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2025](https://github.blog/news-insights/company-news/github-availability-report-june-2025/) <kbd>2025-07-16T17:06-04:00</kbd></samp>
 - <samp>[How to catch GitHub Actions workflow injections before attackers do](https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/) <kbd>2025-07-16T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Modeling CORS frameworks with CodeQL to find security vulnerabilities](https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/) <kbd>2025-07-10T13:38-04:00</kbd></samp>
 - <samp>[Beyond prompt crafting: How to be a better partner for your AI pair programmer](https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/) <kbd>2025-07-09T12:00-04:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/) <kbd>2025-07-08T13:02-04:00</kbd></samp>
-- <samp>[CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre](https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/) <kbd>2025-07-03T16:52-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
