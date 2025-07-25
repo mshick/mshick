@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-23T21:53-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-24T08:47-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to streamline GitHub API calls in Azure Pipelines](https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/) <kbd>2025-07-24T12:00-04:00</kbd></samp>
 - <samp>[Solving the inference problem for open source AI projects with GitHub Models](https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/) <kbd>2025-07-23T12:00-04:00</kbd></samp>
 - <samp>[We need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/) <kbd>2025-07-23T03:01-04:00</kbd></samp>
 - <samp>[Debugging UI with AI: GitHub Copilot agent mode meets MCP servers](https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/) <kbd>2025-07-22T17:58-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[From chaos to clarity: Using GitHub Copilot agents to improve developer workflows](https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/) <kbd>2025-07-15T12:00-04:00</kbd></samp>
 - <samp>[Code review in the age of AI: Why developers will always own the merge button](https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/) <kbd>2025-07-14T12:38-04:00</kbd></samp>
 - <samp>[Modeling CORS frameworks with CodeQL to find security vulnerabilities](https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/) <kbd>2025-07-10T13:38-04:00</kbd></samp>
-- <samp>[Beyond prompt crafting: How to be a better partner for your AI pair programmer](https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/) <kbd>2025-07-09T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
