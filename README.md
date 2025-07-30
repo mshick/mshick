@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-28T22:05-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-07-29T08:49-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[From first commits to big ships: Tune into our new open source podcast](https://github.blog/open-source/maintainers/from-first-commits-to-big-ships-tune-into-our-new-open-source-podcast/) <kbd>2025-07-29T12:31-04:00</kbd></samp>
 - <samp>[Scaling for impact: How GitHub Copilot supercharges smallholder farmers](https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/) <kbd>2025-07-28T15:53-04:00</kbd></samp>
 - <samp>[How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/) <kbd>2025-07-25T13:12-04:00</kbd></samp>
 - <samp>[How to streamline GitHub API calls in Azure Pipelines](https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/) <kbd>2025-07-24T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: June 2025](https://github.blog/news-insights/company-news/github-availability-report-june-2025/) <kbd>2025-07-16T17:06-04:00</kbd></samp>
 - <samp>[How to catch GitHub Actions workflow injections before attackers do](https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/) <kbd>2025-07-16T12:00-04:00</kbd></samp>
 - <samp>[For the Love of Code: a summer hackathon for joyful, ridiculous, and wildly creative projects](https://github.blog/open-source/for-the-love-of-code-2025/) <kbd>2025-07-16T11:00-04:00</kbd></samp>
-- <samp>[From chaos to clarity: Using GitHub Copilot agents to improve developer workflows](https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/) <kbd>2025-07-15T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
