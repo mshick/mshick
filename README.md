@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-06T21:57-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-06T08:50-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
 - <samp>[marginalia](https://github.com/mshick/marginalia) <kbd>2025-05-22T15:20-04:00</kbd></samp>
