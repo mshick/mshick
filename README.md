@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-07T21:56-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-08T08:48-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to use GitHub Copilot to level up your code reviews and pull requests](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/) <kbd>2025-08-08T12:00-04:00</kbd></samp>
 - <samp>[Junior developers aren’t obsolete: Here’s how to thrive in the age of AI](https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/) <kbd>2025-08-07T17:05-04:00</kbd></samp>
 - <samp>[Automate your project with GitHub Models in Actions](https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/) <kbd>2025-08-04T12:00-04:00</kbd></samp>
 - <samp>[Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success](https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/) <kbd>2025-07-31T13:12-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/) <kbd>2025-07-25T13:12-04:00</kbd></samp>
 - <samp>[How to streamline GitHub API calls in Azure Pipelines](https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/) <kbd>2025-07-24T12:00-04:00</kbd></samp>
 - <samp>[Solving the inference problem for open source AI projects with GitHub Models](https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/) <kbd>2025-07-23T12:00-04:00</kbd></samp>
-- <samp>[We need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/) <kbd>2025-07-23T03:01-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
