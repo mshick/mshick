@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-11T21:45-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-12T08:44-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Why we open sourced our MCP server, and what it means for you](https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/) <kbd>2025-08-12T09:52-04:00</kbd></samp>
 - <samp>[Securing the supply chain at scale: Starting with 71 important open source projects](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/) <kbd>2025-08-11T12:00-04:00</kbd></samp>
 - <samp>[Auf Wiedersehen, GitHub ♥️](https://github.blog/news-insights/company-news/goodbye-github/) <kbd>2025-08-11T10:56-04:00</kbd></samp>
 - <samp>[How to use GitHub Copilot to level up your code reviews and pull requests](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/) <kbd>2025-08-08T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[A practical guide on how to use the GitHub MCP server](https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/) <kbd>2025-07-30T12:00-04:00</kbd></samp>
 - <samp>[From first commits to big ships: Tune into our new open source podcast](https://github.blog/open-source/maintainers/from-first-commits-to-big-ships-tune-into-our-new-open-source-podcast/) <kbd>2025-07-29T12:31-04:00</kbd></samp>
 - <samp>[Scaling for impact: How GitHub Copilot supercharges smallholder farmers](https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/) <kbd>2025-07-28T15:53-04:00</kbd></samp>
-- <samp>[How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/) <kbd>2025-07-25T13:12-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
