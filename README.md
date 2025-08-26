@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-24T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-08-25T08:42-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Safeguarding VS Code against prompt injections](https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/) <kbd>2025-08-25T12:01-04:00</kbd></samp>
 - <samp>[Building your first MCP server: How to extend AI tools with custom capabilities](https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/) <kbd>2025-08-22T12:52-04:00</kbd></samp>
 - <samp>[Explore the best of GitHub Universe: 9 spaces built to spark creativity, connection, and joy](https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/) <kbd>2025-08-21T14:02-04:00</kbd></samp>
 - <samp>[Who will maintain the future? Rethinking open source leadership for a new generation](https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/) <kbd>2025-08-20T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research](https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/) <kbd>2025-08-14T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2025](https://github.blog/news-insights/company-news/github-availability-report-july-2025/) <kbd>2025-08-13T17:00-04:00</kbd></samp>
 - <samp>[From private to public: How a United Nations organization open sourced its tech in four steps](https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/) <kbd>2025-08-13T12:00-04:00</kbd></samp>
-- <samp>[Why we open sourced our MCP server, and what it means for you](https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/) <kbd>2025-08-12T09:52-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
