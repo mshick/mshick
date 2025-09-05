@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-04T08:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-04T21:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) <kbd>2025-09-05T02:00-04:00</kbd></samp>
 - <samp>[Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) <kbd>2025-09-04T12:00-04:00</kbd></samp>
 - <samp>[5 tips for writing better custom instructions for Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/) <kbd>2025-09-03T12:00-04:00</kbd></samp>
 - <samp>[Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) <kbd>2025-09-02T12:48-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to use GitHub Copilot on github.com: A power user’s guide](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/) <kbd>2025-08-27T12:00-04:00</kbd></samp>
 - <samp>[Rediscovering joy in learning: Jason Lengstorf on the state of development](https://github.blog/developer-skills/career-growth/rediscovering-joy-in-learning-jason-lengstorf-on-the-state-of-development/) <kbd>2025-08-26T12:10-04:00</kbd></samp>
 - <samp>[Safeguarding VS Code against prompt injections](https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/) <kbd>2025-08-25T12:01-04:00</kbd></samp>
-- <samp>[Building your first MCP server: How to extend AI tools with custom capabilities](https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/) <kbd>2025-08-22T12:52-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
