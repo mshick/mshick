@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-08T21:36-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-09T08:42-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to use the GitHub and JFrog integration for secure, traceable builds from commit to production](https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/) <kbd>2025-09-09T18:00-04:00</kbd></samp>
 - <samp>[How to debug a web app with Playwright MCP and GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/) <kbd>2025-09-05T12:00-04:00</kbd></samp>
 - <samp>[GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) <kbd>2025-09-05T02:00-04:00</kbd></samp>
 - <samp>[Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) <kbd>2025-09-04T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub Models can help open source maintainers focus on what matters](https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/) <kbd>2025-08-28T15:02-04:00</kbd></samp>
 - <samp>[How we accelerated Secret Protection engineering with Copilot](https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/) <kbd>2025-08-28T13:08-04:00</kbd></samp>
 - <samp>[How to use GitHub Copilot on github.com: A power user’s guide](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/) <kbd>2025-08-27T12:00-04:00</kbd></samp>
-- <samp>[Rediscovering joy in learning: Jason Lengstorf on the state of development](https://github.blog/developer-skills/career-growth/rediscovering-joy-in-learning-jason-lengstorf-on-the-state-of-development/) <kbd>2025-08-26T12:10-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
