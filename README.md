@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-11T21:24-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-12T08:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
 - <samp>[biome-repro-1750955832360](https://github.com/mshick/biome-repro-1750955832360) <kbd>2025-06-26T13:54-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Building personal apps with open source and AI](https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/) <kbd>2025-09-12T12:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2025](https://github.blog/news-insights/company-news/github-availability-report-august-2025/) <kbd>2025-09-11T15:53-04:00</kbd></samp>
 - <samp>[GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub](https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/) <kbd>2025-09-11T12:00-04:00</kbd></samp>
 - <samp>[Your guide to GitHub Universe 2025: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/) <kbd>2025-09-10T16:52-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) <kbd>2025-09-04T12:00-04:00</kbd></samp>
 - <samp>[5 tips for writing better custom instructions for Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/) <kbd>2025-09-03T12:00-04:00</kbd></samp>
 - <samp>[Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) <kbd>2025-09-02T12:48-04:00</kbd></samp>
-- <samp>[Under the hood: Exploring the AI models powering GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/) <kbd>2025-08-29T12:14-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
