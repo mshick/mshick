@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-21T21:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-22T08:41-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) <kbd>2025-09-22T20:29-04:00</kbd></samp>
+- <samp>[Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) <kbd>2025-09-22T14:24-04:00</kbd></samp>
+- <samp>[What’s next for Git? 20 years in, the community is still pushing forward](https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/) <kbd>2025-09-22T12:33-04:00</kbd></samp>
 - <samp>[5 ways to integrate GitHub Copilot coding agent into your workflow](https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/) <kbd>2025-09-18T12:00-04:00</kbd></samp>
 - <samp>[Meet the GitHub MCP Registry: The fastest way to discover MCP Servers](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/) <kbd>2025-09-16T12:27-04:00</kbd></samp>
 - <samp>[Post-quantum security for SSH access on GitHub](https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/) <kbd>2025-09-15T12:00-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: August 2025](https://github.blog/news-insights/company-news/github-availability-report-august-2025/) <kbd>2025-09-11T15:53-04:00</kbd></samp>
 - <samp>[GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub](https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/) <kbd>2025-09-11T12:00-04:00</kbd></samp>
 - <samp>[Your guide to GitHub Universe 2025: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/) <kbd>2025-09-10T16:52-04:00</kbd></samp>
-- <samp>[How to use the GitHub and JFrog integration for secure, traceable builds from commit to production](https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/) <kbd>2025-09-09T18:00-04:00</kbd></samp>
-- <samp>[How to debug a web app with Playwright MCP and GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/) <kbd>2025-09-05T12:00-04:00</kbd></samp>
-- <samp>[GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) <kbd>2025-09-05T02:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
