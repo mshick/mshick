@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-23T21:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-09-24T08:40-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-08-06T14:10-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-07-12T08:47-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/) <kbd>2025-09-24T16:24-04:00</kbd></samp>
+- <samp>[Using AI to map hope for refugees with UNHCR, the UN Refugee Agency](https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/) <kbd>2025-09-24T12:12-04:00</kbd></samp>
 - <samp>[A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/) <kbd>2025-09-23T09:00-04:00</kbd></samp>
 - <samp>[Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) <kbd>2025-09-22T20:29-04:00</kbd></samp>
 - <samp>[Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) <kbd>2025-09-22T14:24-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Meet the GitHub MCP Registry: The fastest way to discover MCP Servers](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/) <kbd>2025-09-16T12:27-04:00</kbd></samp>
 - <samp>[Post-quantum security for SSH access on GitHub](https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/) <kbd>2025-09-15T12:00-04:00</kbd></samp>
 - <samp>[Building personal apps with open source and AI](https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/) <kbd>2025-09-12T12:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: August 2025](https://github.blog/news-insights/company-news/github-availability-report-august-2025/) <kbd>2025-09-11T15:53-04:00</kbd></samp>
-- <samp>[GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub](https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/) <kbd>2025-09-11T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
