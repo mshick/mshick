@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-02T21:25-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-03T08:39-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,7 +53,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
-- <samp>[How we automated accessibility compliance in five hours with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) <kbd>2025-10-02T15:19-04:00</kbd></samp>
 - <samp>[Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) <kbd>2025-09-30T15:07-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/) <kbd>2025-09-29T11:00-04:00</kbd></samp>
 - <samp>[How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/) <kbd>2025-09-26T13:06-04:00</kbd></samp>
@@ -63,6 +62,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Using AI to map hope for refugees with UNHCR, the UN Refugee Agency](https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/) <kbd>2025-09-24T12:12-04:00</kbd></samp>
 - <samp>[A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/) <kbd>2025-09-23T09:00-04:00</kbd></samp>
 - <samp>[Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) <kbd>2025-09-22T20:29-04:00</kbd></samp>
+- <samp>[Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) <kbd>2025-09-22T14:24-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
