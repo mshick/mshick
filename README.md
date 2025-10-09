@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-08T08:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-08T21:26-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) <kbd>2025-10-09T04:00-04:00</kbd></samp>
+- <samp>[GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) <kbd>2025-10-08T22:19-04:00</kbd></samp>
 - <samp>[Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) <kbd>2025-10-08T12:00-04:00</kbd></samp>
 - <samp>[How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) <kbd>2025-10-07T13:00-04:00</kbd></samp>
 - <samp>[How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/) <kbd>2025-10-07T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/) <kbd>2025-09-29T11:00-04:00</kbd></samp>
 - <samp>[How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/) <kbd>2025-09-26T13:06-04:00</kbd></samp>
 - <samp>[Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/) <kbd>2025-09-26T11:00-04:00</kbd></samp>
-- <samp>[Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership](https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/) <kbd>2025-09-25T13:05-04:00</kbd></samp>
-- <samp>[GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/) <kbd>2025-09-24T16:24-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
