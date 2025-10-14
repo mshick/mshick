@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-12T21:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-13T08:41-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) <kbd>2025-10-13T18:40-04:00</kbd></samp>
+- <samp>[How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) <kbd>2025-10-13T12:00-04:00</kbd></samp>
 - <samp>[20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) <kbd>2025-10-09T04:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) <kbd>2025-10-08T22:19-04:00</kbd></samp>
 - <samp>[Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) <kbd>2025-10-08T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The developer role is evolving. Here’s how to stay ahead.](https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/) <kbd>2025-10-06T16:12-04:00</kbd></samp>
 - <samp>[Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) <kbd>2025-09-30T15:07-04:00</kbd></samp>
 - <samp>[CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/) <kbd>2025-09-29T11:00-04:00</kbd></samp>
-- <samp>[How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/) <kbd>2025-09-26T13:06-04:00</kbd></samp>
-- <samp>[Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/) <kbd>2025-09-26T11:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
