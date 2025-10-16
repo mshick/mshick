@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-14T21:38-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-15T08:43-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Copilot: Faster, smarter, and built for how you work now](https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/) <kbd>2025-10-15T11:00-04:00</kbd></samp>
 - <samp>[How GitHub Copilot and AI agents are saving legacy systems](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/) <kbd>2025-10-14T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) <kbd>2025-10-13T18:40-04:00</kbd></samp>
 - <samp>[How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) <kbd>2025-10-13T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) <kbd>2025-10-07T13:00-04:00</kbd></samp>
 - <samp>[How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/) <kbd>2025-10-07T12:00-04:00</kbd></samp>
 - <samp>[The developer role is evolving. Here’s how to stay ahead.](https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/) <kbd>2025-10-06T16:12-04:00</kbd></samp>
-- <samp>[Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) <kbd>2025-09-30T15:07-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
