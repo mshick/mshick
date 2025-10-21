@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-19T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-20T08:42-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Inside the breach that broke the internet: The untold story of Log4Shell](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/) <kbd>2025-10-20T12:00-04:00</kbd></samp>
 - <samp>[Accelerate developer productivity with these 9 open source AI and MCP projects](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/) <kbd>2025-10-17T12:00-04:00</kbd></samp>
 - <samp>[How to navigate GitHub Universe (or any tech conference) if you’re an introvert](https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/) <kbd>2025-10-16T12:14-04:00</kbd></samp>
 - <samp>[Copilot: Faster, smarter, and built for how you work now](https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/) <kbd>2025-10-15T11:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) <kbd>2025-10-09T04:00-04:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) <kbd>2025-10-08T22:19-04:00</kbd></samp>
 - <samp>[Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) <kbd>2025-10-08T12:00-04:00</kbd></samp>
-- <samp>[How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) <kbd>2025-10-07T13:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
