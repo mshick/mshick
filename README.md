@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-21T21:41-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-22T08:44-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/) <kbd>2025-10-22T16:30-04:00</kbd></samp>
+- <samp>[Top security researcher shares their bug bounty process](https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/) <kbd>2025-10-22T12:00-04:00</kbd></samp>
 - <samp>[How to update community health files with AI](https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/) <kbd>2025-10-21T12:00-04:00</kbd></samp>
 - <samp>[Inside the breach that broke the internet: The untold story of Log4Shell](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/) <kbd>2025-10-20T12:00-04:00</kbd></samp>
 - <samp>[Accelerate developer productivity with these 9 open source AI and MCP projects](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/) <kbd>2025-10-17T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How GitHub Copilot and AI agents are saving legacy systems](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/) <kbd>2025-10-14T12:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) <kbd>2025-10-13T18:40-04:00</kbd></samp>
 - <samp>[How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) <kbd>2025-10-13T12:00-04:00</kbd></samp>
-- <samp>[20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) <kbd>2025-10-09T04:00-04:00</kbd></samp>
-- <samp>[GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) <kbd>2025-10-08T22:19-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
