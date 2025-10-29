@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-27T21:37-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-10-28T08:41-04:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-10-01T01:27-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,9 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/) <kbd>2025-10-28T12:08-04:00</kbd></samp>
+- <samp>[Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) <kbd>2025-10-28T12:07-04:00</kbd></samp>
+- <samp>[Announcing the 2025 GitHub Partner Award winners 🎉](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/) <kbd>2025-10-28T12:00-04:00</kbd></samp>
 - <samp>[How to find, install, and manage MCP servers with the GitHub MCP Registry](https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/) <kbd>2025-10-24T12:00-04:00</kbd></samp>
 - <samp>[The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model](https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/) <kbd>2025-10-23T14:31-04:00</kbd></samp>
 - <samp>[From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/) <kbd>2025-10-22T16:30-04:00</kbd></samp>
@@ -60,9 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to update community health files with AI](https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/) <kbd>2025-10-21T12:00-04:00</kbd></samp>
 - <samp>[Inside the breach that broke the internet: The untold story of Log4Shell](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/) <kbd>2025-10-20T12:00-04:00</kbd></samp>
 - <samp>[Accelerate developer productivity with these 9 open source AI and MCP projects](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/) <kbd>2025-10-17T12:00-04:00</kbd></samp>
-- <samp>[How to navigate GitHub Universe (or any tech conference) if you’re an introvert](https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/) <kbd>2025-10-16T12:14-04:00</kbd></samp>
-- <samp>[Copilot: Faster, smarter, and built for how you work now](https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/) <kbd>2025-10-15T11:00-04:00</kbd></samp>
-- <samp>[How GitHub Copilot and AI agents are saving legacy systems](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/) <kbd>2025-10-14T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
