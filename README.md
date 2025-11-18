@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-11-16T20:43-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-11-17T07:44-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
 - <samp>[cap](https://github.com/mshick/cap) <kbd>2025-09-21T15:34-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Highlights from Git 2.52](https://github.blog/open-source/git/highlights-from-git-2-52/) <kbd>2025-11-17T12:54-05:00</kbd></samp>
 - <samp>[Unlocking the full power of Copilot code review: Master your instructions files](https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/) <kbd>2025-11-14T12:00-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2025](https://github.blog/news-insights/company-news/github-availability-report-october-2025/) <kbd>2025-11-13T12:28-05:00</kbd></samp>
 - <samp>[TypeScript, Python, and the AI feedback loop changing software development](https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/) <kbd>2025-11-13T11:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg](https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/) <kbd>2025-11-06T12:00-05:00</kbd></samp>
 - <samp>[GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)](https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/) <kbd>2025-11-05T12:00-05:00</kbd></samp>
 - <samp>[GitHub Game Off 2025 theme announcement](https://github.blog/company/github-game-off-2025-theme-announcement/) <kbd>2025-11-01T16:37-04:00</kbd></samp>
-- <samp>[Measuring what matters: How offline evaluation of GitHub MCP Server works](https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/) <kbd>2025-10-30T17:46-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
