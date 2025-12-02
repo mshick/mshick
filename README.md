@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-11-30T21:01-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-01T07:46-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/) <kbd>2025-12-01T12:00-05:00</kbd></samp>
 - <samp>[The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/) <kbd>2025-11-28T08:08-05:00</kbd></samp>
 - <samp>[Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming](https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/) <kbd>2025-11-25T12:00-05:00</kbd></samp>
 - <samp>[How GitHub&#8217;s agentic security principles make our AI agents as secure as possible](https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/) <kbd>2025-11-25T11:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to write a great agents.md: Lessons from over 2,500 repositories](https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/) <kbd>2025-11-19T12:00-05:00</kbd></samp>
 - <samp>[Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit](https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/) <kbd>2025-11-18T13:05-05:00</kbd></samp>
 - <samp>[Highlights from Git 2.52](https://github.blog/open-source/git/highlights-from-git-2-52/) <kbd>2025-11-17T12:54-05:00</kbd></samp>
-- <samp>[Unlocking the full power of Copilot code review: Master your instructions files](https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/) <kbd>2025-11-14T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
