@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-08T20:45-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-09T07:48-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/) <kbd>2025-12-09T16:00-05:00</kbd></samp>
+- <samp>[Speed is nothing without control: How to keep quality high in the AI era](https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/) <kbd>2025-12-09T12:00-05:00</kbd></samp>
 - <samp>[The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/) <kbd>2025-12-08T13:15-05:00</kbd></samp>
 - <samp>[How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/) <kbd>2025-12-04T15:35-05:00</kbd></samp>
 - <samp>[Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) <kbd>2025-12-03T12:00-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/) <kbd>2025-11-28T08:08-05:00</kbd></samp>
 - <samp>[Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming](https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/) <kbd>2025-11-25T12:00-05:00</kbd></samp>
 - <samp>[How GitHub&#8217;s agentic security principles make our AI agents as secure as possible](https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/) <kbd>2025-11-25T11:00-05:00</kbd></samp>
-- <samp>[Developers still need the right to challenge junk patents](https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/) <kbd>2025-11-24T11:00-05:00</kbd></samp>
-- <samp>[Evolving GitHub Copilot’s next edit suggestions through custom model training](https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/) <kbd>2025-11-20T13:02-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
