@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-11T20:48-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-12T07:47-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) <kbd>2025-12-12T15:43-05:00</kbd></samp>
 - <samp>[Let’s talk about GitHub Actions](https://github.blog/news-insights/product-news/lets-talk-about-github-actions/) <kbd>2025-12-11T12:40-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: November 2025](https://github.blog/news-insights/company-news/github-availability-report-november-2025/) <kbd>2025-12-11T11:03-05:00</kbd></samp>
 - <samp>[MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/) <kbd>2025-12-09T16:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) <kbd>2025-12-03T12:00-05:00</kbd></samp>
 - <samp>[“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) <kbd>2025-12-02T12:19-05:00</kbd></samp>
 - <samp>[How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/) <kbd>2025-12-01T12:00-05:00</kbd></samp>
-- <samp>[The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/) <kbd>2025-11-28T08:08-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
