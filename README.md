@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-22T20:49-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2025-12-23T07:48-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2025-09-30T10:32-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) <kbd>2025-12-23T18:52-05:00</kbd></samp>
 - <samp>[5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) <kbd>2025-12-22T19:15-05:00</kbd></samp>
 - <samp>[This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) <kbd>2025-12-22T18:48-05:00</kbd></samp>
 - <samp>[The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) <kbd>2025-12-12T15:43-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Speed is nothing without control: How to keep quality high in the AI era](https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/) <kbd>2025-12-09T12:00-05:00</kbd></samp>
 - <samp>[The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/) <kbd>2025-12-08T13:15-05:00</kbd></samp>
 - <samp>[How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/) <kbd>2025-12-04T15:35-05:00</kbd></samp>
-- <samp>[Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) <kbd>2025-12-03T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
