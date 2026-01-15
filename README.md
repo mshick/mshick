@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-13T20:56-05:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-12T15:59-05:00</kbd></samp>
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-14T13:09-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-14T07:51-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) <kbd>2026-01-14T17:06-05:00</kbd></samp>
+- <samp>[Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) <kbd>2026-01-14T13:45-05:00</kbd></samp>
 - <samp>[What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) <kbd>2026-01-13T13:39-05:00</kbd></samp>
 - <samp>[Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) <kbd>2026-01-12T12:00-05:00</kbd></samp>
 - <samp>[Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) <kbd>2026-01-10T16:36-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) <kbd>2025-12-29T17:01-05:00</kbd></samp>
 - <samp>[WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) <kbd>2025-12-26T12:56-05:00</kbd></samp>
 - <samp>[Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) <kbd>2025-12-23T18:52-05:00</kbd></samp>
-- <samp>[5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) <kbd>2025-12-22T19:15-05:00</kbd></samp>
-- <samp>[This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) <kbd>2025-12-22T18:48-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
