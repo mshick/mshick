@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-14T20:51-05:00</kbd></samp>
-- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-14T13:09-05:00</kbd></samp>
+- <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-15T11:18-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-15T07:50-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Building an agentic memory system for GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/) <kbd>2026-01-15T16:31-05:00</kbd></samp>
+- <samp>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/) <kbd>2026-01-15T15:54-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) <kbd>2026-01-14T17:06-05:00</kbd></samp>
 - <samp>[Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) <kbd>2026-01-14T13:45-05:00</kbd></samp>
 - <samp>[What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) <kbd>2026-01-13T13:39-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) <kbd>2026-01-08T17:25-05:00</kbd></samp>
 - <samp>[Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) <kbd>2025-12-30T12:20-05:00</kbd></samp>
 - <samp>[Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) <kbd>2025-12-29T17:01-05:00</kbd></samp>
-- <samp>[WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) <kbd>2025-12-26T12:56-05:00</kbd></samp>
-- <samp>[Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) <kbd>2025-12-23T18:52-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
