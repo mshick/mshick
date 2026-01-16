@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-15T20:53-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-15T11:18-05:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-15T07:50-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
 - <samp>[hancockblock-party](https://github.com/mshick/hancockblock-party) <kbd>2025-11-01T01:21-04:00</kbd></samp>
