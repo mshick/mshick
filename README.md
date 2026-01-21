@@ -30,7 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-19T20:53-05:00</kbd></samp>
+- <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-20T07:54-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-19T14:16-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
 - <samp>[shick.us](https://github.com/mshick/shick.us) <kbd>2025-11-18T18:19-05:00</kbd></samp>
@@ -39,7 +40,6 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 - <samp>[tufted](https://github.com/mshick/tufted) <kbd>2025-02-25T21:29-05:00</kbd></samp>
 - <samp>[decap-cms-widget-parent](https://github.com/mshick/decap-cms-widget-parent) <kbd>2024-08-30T22:13-04:00</kbd></samp>
 - <samp>[flac-to-alac](https://github.com/mshick/flac-to-alac) <kbd>2024-07-24T23:28-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2024-06-16T06:13-04:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) <kbd>2026-01-20T14:52-05:00</kbd></samp>
+- <samp>[Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot](https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/) <kbd>2026-01-20T12:00-05:00</kbd></samp>
 - <samp>[Building an agentic memory system for GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/) <kbd>2026-01-15T16:31-05:00</kbd></samp>
 - <samp>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/) <kbd>2026-01-15T15:54-05:00</kbd></samp>
 - <samp>[GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) <kbd>2026-01-14T17:06-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) <kbd>2026-01-12T12:00-05:00</kbd></samp>
 - <samp>[Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) <kbd>2026-01-10T16:36-05:00</kbd></samp>
 - <samp>[Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) <kbd>2026-01-08T17:25-05:00</kbd></samp>
-- <samp>[Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) <kbd>2025-12-30T12:20-05:00</kbd></samp>
-- <samp>[Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) <kbd>2025-12-29T17:01-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
