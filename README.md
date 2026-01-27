@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-25T21:03-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-01-26T07:52-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-01-19T14:16-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Power agentic workflows in your terminal with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/) <kbd>2026-01-26T13:54-05:00</kbd></samp>
 - <samp>[Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/) <kbd>2026-01-22T10:01-05:00</kbd></samp>
 - <samp>[A cheat sheet to slash commands in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/) <kbd>2026-01-21T12:09-05:00</kbd></samp>
 - <samp>[AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) <kbd>2026-01-20T14:52-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) <kbd>2026-01-14T17:06-05:00</kbd></samp>
 - <samp>[Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) <kbd>2026-01-14T13:45-05:00</kbd></samp>
 - <samp>[What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) <kbd>2026-01-13T13:39-05:00</kbd></samp>
-- <samp>[Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) <kbd>2026-01-12T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
