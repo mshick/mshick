@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-02-03T21:11-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-02-04T08:03-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-03T10:37-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Pick your agent: Use Claude and Codex on Agent HQ ](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/) <kbd>2026-02-04T12:00-05:00</kbd></samp>
 - <samp>[What the fastest-growing tools reveal about how software is being built](https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/) <kbd>2026-02-03T12:00-05:00</kbd></samp>
 - <samp>[How to maximize GitHub Copilot&#8217;s agentic capabilities](https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/) <kbd>2026-02-02T12:00-05:00</kbd></samp>
 - <samp>[From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/) <kbd>2026-01-28T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Power agentic workflows in your terminal with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/) <kbd>2026-01-26T13:54-05:00</kbd></samp>
 - <samp>[Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/) <kbd>2026-01-22T10:01-05:00</kbd></samp>
 - <samp>[A cheat sheet to slash commands in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/) <kbd>2026-01-21T12:09-05:00</kbd></samp>
-- <samp>[AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) <kbd>2026-01-20T14:52-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
