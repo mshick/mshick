@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-02-11T21:27-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-02-12T08:11-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-03T10:37-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Welcome to the Eternal September of open source. Here&#8217;s what we plan to do for maintainers.](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/) <kbd>2026-02-12T15:14-05:00</kbd></samp>
 - <samp>[GitHub availability report: January 2026](https://github.blog/news-insights/company-news/github-availability-report-january-2026/) <kbd>2026-02-11T18:12-05:00</kbd></samp>
 - <samp>[Continuous AI in practice: What developers can automate today with agentic CI](https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/) <kbd>2026-02-05T12:00-05:00</kbd></samp>
 - <samp>[Pick your agent: Use Claude and Codex on Agent HQ ](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/) <kbd>2026-02-04T12:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Year recap and future goals for the GitHub Innovation Graph](https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/) <kbd>2026-01-28T11:00-05:00</kbd></samp>
 - <samp>[7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript](https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/) <kbd>2026-01-27T12:17-05:00</kbd></samp>
 - <samp>[Help shape the future of open source in Europe](https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/) <kbd>2026-01-27T09:16-05:00</kbd></samp>
-- <samp>[Power agentic workflows in your terminal with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/) <kbd>2026-01-26T13:54-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
