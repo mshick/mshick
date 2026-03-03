@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-01T21:21-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-02T08:02-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-25T16:09-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub for Beginners: Getting started with GitHub Issues and Projects](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/) <kbd>2026-03-02T12:00-05:00</kbd></samp>
 - <samp>[From idea to pull request: A practical guide to building with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/) <kbd>2026-02-27T11:00-05:00</kbd></samp>
 - <samp>[What&#8217;s new with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/) <kbd>2026-02-26T15:47-05:00</kbd></samp>
 - <samp>[Multi-agent workflows often fail. Here’s how to engineer ones that don’t.](https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/) <kbd>2026-02-24T11:00-05:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Automate repository tasks with GitHub Agentic Workflows  ](https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/) <kbd>2026-02-13T09:00-05:00</kbd></samp>
 - <samp>[Welcome to the Eternal September of open source. Here&#8217;s what we plan to do for maintainers.](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/) <kbd>2026-02-12T15:14-05:00</kbd></samp>
 - <samp>[GitHub availability report: January 2026](https://github.blog/news-insights/company-news/github-availability-report-january-2026/) <kbd>2026-02-11T18:12-05:00</kbd></samp>
-- <samp>[Continuous AI in practice: What developers can automate today with agentic CI](https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/) <kbd>2026-02-05T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
