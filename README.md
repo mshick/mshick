@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-18T22:27-04:00</kbd></samp>
-- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-03-17T21:33-04:00</kbd></samp>
+- <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-03-19T21:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-19T09:08-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-25T16:09-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/) <kbd>2026-03-19T14:00-04:00</kbd></samp>
+- <samp>[How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/) <kbd>2026-03-19T12:09-04:00</kbd></samp>
 - <samp>[ Investing in the people shaping open source and securing the future together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/) <kbd>2026-03-17T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Getting started with GitHub Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/) <kbd>2026-03-16T12:00-04:00</kbd></samp>
 - <samp>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/) <kbd>2026-03-12T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The era of “AI as text” is over. Execution is the new interface.](https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/) <kbd>2026-03-10T16:16-04:00</kbd></samp>
 - <samp>[Under the hood: Security architecture of GitHub Agentic Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/) <kbd>2026-03-09T12:00-04:00</kbd></samp>
 - <samp>[How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/) <kbd>2026-03-06T16:09-05:00</kbd></samp>
-- <samp>[60 million Copilot code reviews and counting](https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/) <kbd>2026-03-05T15:10-05:00</kbd></samp>
-- <samp>[Scaling AI opportunity across the globe: Learnings from GitHub and Andela](https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/) <kbd>2026-03-05T12:00-05:00</kbd></samp>
 
 <!-- POSTS:END -->
 
