@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-24T22:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-03-25T09:14-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-03-19T21:44-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-25T16:09-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
@@ -53,16 +53,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) <kbd>2026-03-25T15:02-04:00</kbd></samp>
 - <samp>[Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/) <kbd>2026-03-24T12:00-04:00</kbd></samp>
 - <samp>[GitHub expands application security coverage with AI‑powered detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/) <kbd>2026-03-23T12:00-04:00</kbd></samp>
 - <samp>[Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/) <kbd>2026-03-19T14:00-04:00</kbd></samp>
 - <samp>[How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/) <kbd>2026-03-19T12:09-04:00</kbd></samp>
-- <samp>[ Investing in the people shaping open source and securing the future together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/) <kbd>2026-03-17T12:00-04:00</kbd></samp>
+- <samp>[Investing in the people shaping open source and securing the future together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/) <kbd>2026-03-17T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Getting started with GitHub Actions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/) <kbd>2026-03-16T12:00-04:00</kbd></samp>
 - <samp>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/) <kbd>2026-03-12T12:00-04:00</kbd></samp>
 - <samp>[GitHub availability report: February 2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/) <kbd>2026-03-11T23:23-04:00</kbd></samp>
 - <samp>[Addressing GitHub’s recent availability issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) <kbd>2026-03-11T17:41-04:00</kbd></samp>
-- <samp>[The era of “AI as text” is over. Execution is the new interface.](https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/) <kbd>2026-03-10T16:16-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
