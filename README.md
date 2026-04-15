@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-04-13T22:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-04-14T09:45-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-04-08T14:48-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-25T16:09-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game](https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/) <kbd>2026-04-14T14:17-04:00</kbd></samp>
+- <samp>[How exposed is your code? Find out in minutes—for free](https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/) <kbd>2026-04-14T11:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Getting started with GitHub Pages](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/) <kbd>2026-04-13T11:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/) <kbd>2026-04-10T12:00-04:00</kbd></samp>
 - <samp>[GitHub availability report: March 2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/) <kbd>2026-04-08T22:21-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[The uphill climb of making diff lines performant](https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/) <kbd>2026-04-03T12:00-04:00</kbd></samp>
 - <samp>[Securing the open source supply chain across GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/) <kbd>2026-04-01T15:20-04:00</kbd></samp>
 - <samp>[Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/) <kbd>2026-04-01T11:00-04:00</kbd></samp>
-- <samp>[Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) <kbd>2026-03-31T12:00-04:00</kbd></samp>
-- <samp>[GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) <kbd>2026-03-30T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
