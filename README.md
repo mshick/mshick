@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-04-19T22:52-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-04-20T09:45-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-04-08T14:48-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-02-25T16:09-05:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Changes to GitHub Copilot Individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/) <kbd>2026-04-20T14:15-04:00</kbd></samp>
+- <samp>[Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/) <kbd>2026-04-20T12:43-04:00</kbd></samp>
 - <samp>[Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/) <kbd>2026-04-17T14:00-04:00</kbd></samp>
 - <samp>[Bringing more transparency to GitHub’s status page](https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/) <kbd>2026-04-17T12:00-04:00</kbd></samp>
 - <samp>[How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/) <kbd>2026-04-16T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game](https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/) <kbd>2026-04-14T14:17-04:00</kbd></samp>
 - <samp>[How exposed is your code? Find out in minutes—for free](https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/) <kbd>2026-04-14T11:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Getting started with GitHub Pages](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/) <kbd>2026-04-13T11:00-04:00</kbd></samp>
-- <samp>[GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/) <kbd>2026-04-10T12:00-04:00</kbd></samp>
-- <samp>[GitHub availability report: March 2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/) <kbd>2026-04-08T22:21-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
