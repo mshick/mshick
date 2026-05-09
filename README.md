@@ -30,10 +30,10 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-08T15:57-04:00</kbd></samp>
+- <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-09T08:55-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-08T22:56-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-05-08T15:52-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-05-08T15:30-04:00</kbd></samp>
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-08T09:52-04:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
 - <samp>[vibe](https://github.com/mshick/vibe) <kbd>2026-01-20T10:28-05:00</kbd></samp>
 - <samp>[nvim](https://github.com/mshick/nvim) <kbd>2026-01-07T10:52-05:00</kbd></samp>
