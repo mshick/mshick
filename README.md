@@ -30,8 +30,8 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-14T23:38-04:00</kbd></samp>
-- <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-12T23:22-04:00</kbd></samp>
+- <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-15T16:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-15T10:09-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-05-08T15:52-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-05-08T15:30-04:00</kbd></samp>
 - <samp>[delica-parts](https://github.com/mshick/delica-parts) <kbd>2026-02-03T10:24-05:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/) <kbd>2026-05-15T12:00-04:00</kbd></samp>
 - <samp>[Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program](https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/) <kbd>2026-05-15T10:00-04:00</kbd></samp>
 - <samp>[GitHub availability report: April 2026](https://github.blog/news-insights/company-news/github-availability-report-april-2026/) <kbd>2026-05-14T18:02-04:00</kbd></samp>
 - <samp>[From latency to instant: Modernizing GitHub Issues navigation performance](https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/) <kbd>2026-05-14T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub for Beginners: Getting started with OSS contributions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/) <kbd>2026-05-11T12:00-04:00</kbd></samp>
 - <samp>[Why age assurance laws matter for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/) <kbd>2026-05-08T12:30-04:00</kbd></samp>
 - <samp>[How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/) <kbd>2026-05-08T11:00-04:00</kbd></samp>
-- <samp>[Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) <kbd>2026-05-07T19:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
