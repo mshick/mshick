@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-21T23:50-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-05-22T10:41-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
 - <samp>[dyno](https://github.com/mshick/dyno) <kbd>2026-05-18T22:37-04:00</kbd></samp>
 - <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-15T16:26-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) <kbd>2026-05-22T12:10-04:00</kbd></samp>
 - <samp>[Beyond the engine: 10 open source projects shaping how games actually get made](https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/) <kbd>2026-05-21T14:00-04:00</kbd></samp>
 - <samp>[Building GitHub&#8217;s next chapter in accessibility](https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/) <kbd>2026-05-21T12:00-04:00</kbd></samp>
 - <samp>[Investigating unauthorized access to GitHub-owned repositories](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/) <kbd>2026-05-20T17:07-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub availability report: April 2026](https://github.blog/news-insights/company-news/github-availability-report-april-2026/) <kbd>2026-05-14T18:02-04:00</kbd></samp>
 - <samp>[From latency to instant: Modernizing GitHub Issues navigation performance](https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/) <kbd>2026-05-14T12:00-04:00</kbd></samp>
 - <samp>[Dungeons &#038; Desktops: 10 roguelikes that never die (because their communities won’t let them)](https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/) <kbd>2026-05-13T12:00-04:00</kbd></samp>
-- <samp>[GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan](https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/) <kbd>2026-05-12T13:35-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
