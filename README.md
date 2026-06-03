@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-02T00:08-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-02T12:27-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
 - <samp>[dyno](https://github.com/mshick/dyno) <kbd>2026-05-18T22:37-04:00</kbd></samp>
 - <samp>[dawn](https://github.com/mshick/dawn) <kbd>2026-05-15T16:26-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot app: The agent-native desktop experience](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) <kbd>2026-06-02T13:30-04:00</kbd></samp>
 - <samp>[Still a developer. Just outside. Our latest GitHub Shop collection is here.](https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/) <kbd>2026-05-28T14:18-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Getting started with Git and GitHub in VS Code](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/) <kbd>2026-05-25T12:00-04:00</kbd></samp>
 - <samp>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) <kbd>2026-05-22T12:10-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/) <kbd>2026-05-18T12:54-04:00</kbd></samp>
 - <samp>[Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/) <kbd>2026-05-15T12:00-04:00</kbd></samp>
 - <samp>[Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program](https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/) <kbd>2026-05-15T10:00-04:00</kbd></samp>
-- <samp>[GitHub availability report: April 2026](https://github.blog/news-insights/company-news/github-availability-report-april-2026/) <kbd>2026-05-14T18:02-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
