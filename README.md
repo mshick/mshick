@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-16T00:22-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-16T12:55-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-13T09:57-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
 - <samp>[dyno](https://github.com/mshick/dyno) <kbd>2026-05-18T22:37-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/) <kbd>2026-06-16T16:58-04:00</kbd></samp>
 - <samp>[GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/) <kbd>2026-06-15T16:15-04:00</kbd></samp>
 - <samp>[Accelerating researchers and developers building multilingual AI with a new open dataset](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/) <kbd>2026-06-15T15:17-04:00</kbd></samp>
 - <samp>[How we made GitHub Copilot CLI more selective about delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/) <kbd>2026-06-12T18:26-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/) <kbd>2026-06-09T12:00-04:00</kbd></samp>
 - <samp>[GitHub for Beginners: Answers to some common questions](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/) <kbd>2026-06-08T12:00-04:00</kbd></samp>
 - <samp>[GitHub Universe is back: All together now, in the agentic era](https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/) <kbd>2026-06-04T12:00-04:00</kbd></samp>
-- <samp>[GitHub Copilot app: The agent-native desktop experience](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) <kbd>2026-06-02T13:30-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
