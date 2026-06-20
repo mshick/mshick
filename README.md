@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-19T00:26-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-19T11:21-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-18T23:08-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) <kbd>2026-06-19T12:00-04:00</kbd></samp>
 - <samp>[How pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) <kbd>2026-06-18T12:00-04:00</kbd></samp>
 - <samp>[Getting more from each token: How Copilot improves context handling and model routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/) <kbd>2026-06-17T15:41-04:00</kbd></samp>
 - <samp>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/) <kbd>2026-06-16T16:58-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[GitHub availability report: May 2026](https://github.blog/news-insights/company-news/github-availability-report-may-2026/) <kbd>2026-06-11T17:30-04:00</kbd></samp>
 - <samp>[Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/) <kbd>2026-06-11T12:00-04:00</kbd></samp>
 - <samp>[Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/) <kbd>2026-06-10T12:00-04:00</kbd></samp>
-- <samp>[From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/) <kbd>2026-06-09T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
