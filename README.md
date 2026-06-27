@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-25T23:53-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-06-26T10:26-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,7 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
-- <samp>[Transitioning as a hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) <kbd>2026-06-26T08:00-04:00</kbd></samp>
+- <samp>[GitHub and UNDP team up to advance development priorities in Ghana with open source](https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/) <kbd>2026-06-26T12:53-04:00</kbd></samp>
+- <samp>[Transitioning as a Hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) <kbd>2026-06-26T08:00-04:00</kbd></samp>
 - <samp>[Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) <kbd>2026-06-25T18:59-04:00</kbd></samp>
 - <samp>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) <kbd>2026-06-23T12:00-04:00</kbd></samp>
 - <samp>[GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) <kbd>2026-06-23T11:48-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) <kbd>2026-06-18T12:00-04:00</kbd></samp>
 - <samp>[Getting more from each token: How Copilot improves context handling and model routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/) <kbd>2026-06-17T15:41-04:00</kbd></samp>
 - <samp>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/) <kbd>2026-06-16T16:58-04:00</kbd></samp>
-- <samp>[GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/) <kbd>2026-06-15T16:15-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
