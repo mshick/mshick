@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-01T00:02-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-01T10:38-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[6 security settings every GitHub maintainer should enable this week](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/) <kbd>2026-07-01T11:59-04:00</kbd></samp>
 - <samp>[How GitHub maintains compliance for open source dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) <kbd>2026-06-30T13:28-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.55](https://github.blog/open-source/git/highlights-from-git-2-55/) <kbd>2026-06-29T13:25-04:00</kbd></samp>
 - <samp>[Inside the Advisory Database and what happens when vulnerability volume breaks records](https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/) <kbd>2026-06-29T12:10-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) <kbd>2026-06-23T12:00-04:00</kbd></samp>
 - <samp>[GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) <kbd>2026-06-23T11:48-04:00</kbd></samp>
 - <samp>[From pledge to practice: Building a more inclusive open source ecosystem](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/) <kbd>2026-06-22T13:20-04:00</kbd></samp>
-- <samp>[How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) <kbd>2026-06-19T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
