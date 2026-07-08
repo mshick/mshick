@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-06T23:33-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-07T10:37-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide](https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/) <kbd>2026-07-07T12:00-04:00</kbd></samp>
 - <samp>[How GitHub used secret scanning to reach inbox zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) <kbd>2026-07-02T12:00-04:00</kbd></samp>
 - <samp>[6 security settings every GitHub maintainer should enable this week](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/) <kbd>2026-07-01T11:59-04:00</kbd></samp>
 - <samp>[How GitHub maintains compliance for open source dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) <kbd>2026-06-30T13:28-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Transitioning as a Hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) <kbd>2026-06-26T08:00-04:00</kbd></samp>
 - <samp>[Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) <kbd>2026-06-25T18:59-04:00</kbd></samp>
 - <samp>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) <kbd>2026-06-23T12:00-04:00</kbd></samp>
-- <samp>[GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) <kbd>2026-06-23T11:48-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
