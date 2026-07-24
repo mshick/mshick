@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-22T22:50-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-23T10:02-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) <kbd>2026-07-23T12:00-04:00</kbd></samp>
 - <samp>[Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) <kbd>2026-07-22T15:00-04:00</kbd></samp>
 - <samp>[Next chapter: Restructuring GitHub&#8217;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) <kbd>2026-07-22T12:00-04:00</kbd></samp>
 - <samp>[How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) <kbd>2026-07-21T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) <kbd>2026-07-10T11:57-04:00</kbd></samp>
 - <samp>[How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/) <kbd>2026-07-09T12:29-04:00</kbd></samp>
 - <samp>[Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/) <kbd>2026-07-08T17:11-04:00</kbd></samp>
-- <samp>[GitHub availability report: June 2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/) <kbd>2026-07-08T15:35-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
