@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-28T22:44-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-29T10:11-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/) <kbd>2026-07-29T12:00-04:00</kbd></samp>
 - <samp>[Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) <kbd>2026-07-28T12:00-04:00</kbd></samp>
 - <samp>[The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) <kbd>2026-07-27T14:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) <kbd>2026-07-27T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) <kbd>2026-07-21T12:00-04:00</kbd></samp>
 - <samp>[$100 million for open source: A milestone built by the community](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/) <kbd>2026-07-20T12:00-04:00</kbd></samp>
 - <samp>[The cost of saying yes has changed](https://github.blog/engineering/the-cost-of-saying-yes-has-changed/) <kbd>2026-07-17T12:46-04:00</kbd></samp>
-- <samp>[GitHub for Beginners: Your roadmap to mastering the GitHub essentials](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/) <kbd>2026-07-15T13:29-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
