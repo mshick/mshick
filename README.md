@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-30T22:54-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-07-31T10:08-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Don&#8217;t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) <kbd>2026-07-31T12:00-04:00</kbd></samp>
 - <samp>[Stacked sessions and pull requests in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/) <kbd>2026-07-30T13:30-04:00</kbd></samp>
 - <samp>[Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/) <kbd>2026-07-29T12:00-04:00</kbd></samp>
 - <samp>[Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) <kbd>2026-07-28T12:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) <kbd>2026-07-22T15:00-04:00</kbd></samp>
 - <samp>[Next chapter: Restructuring GitHub&#8217;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) <kbd>2026-07-22T12:00-04:00</kbd></samp>
 - <samp>[How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) <kbd>2026-07-21T12:00-04:00</kbd></samp>
-- <samp>[$100 million for open source: A milestone built by the community](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/) <kbd>2026-07-20T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
