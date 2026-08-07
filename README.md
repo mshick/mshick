@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-08-05T22:39-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-08-06T10:11-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/) <kbd>2026-08-06T15:49-04:00</kbd></samp>
+- <samp>[How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/) <kbd>2026-08-06T12:51-04:00</kbd></samp>
 - <samp>[How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/) <kbd>2026-08-04T15:02-04:00</kbd></samp>
 - <samp>[Turn one giant AI-generated pull request to a reviewable stack](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/) <kbd>2026-08-04T12:47-04:00</kbd></samp>
 - <samp>[Don&#8217;t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) <kbd>2026-07-31T12:00-04:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) <kbd>2026-07-28T12:00-04:00</kbd></samp>
 - <samp>[The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) <kbd>2026-07-27T14:00-04:00</kbd></samp>
 - <samp>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) <kbd>2026-07-27T12:00-04:00</kbd></samp>
-- <samp>[The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) <kbd>2026-07-23T12:00-04:00</kbd></samp>
-- <samp>[Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) <kbd>2026-07-22T15:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
