@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-09-17T12:27-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-09-17T23:40-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-06-18T12:19-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Should you read the code, is RAG dead, and did Skills kill MCP?](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/) <kbd>2026-09-18T11:00-04:00</kbd></samp>
 - <samp>[Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) <kbd>2026-09-16T20:26-04:00</kbd></samp>
 - <samp>[Marketing ops as code: Automating events from planning to follow-up on GitHub](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/) <kbd>2026-09-11T14:26-04:00</kbd></samp>
 - <samp>[GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/) <kbd>2026-09-10T17:31-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/) <kbd>2026-09-02T17:00-04:00</kbd></samp>
 - <samp>[How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) <kbd>2026-09-02T14:00-04:00</kbd></samp>
 - <samp>[OpenClaw went viral. Meet the maintainers building and securing it.](https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/) <kbd>2026-08-27T12:00-04:00</kbd></samp>
-- <samp>[GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/) <kbd>2026-08-26T16:12-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
