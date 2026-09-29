@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-09-28T15:21-04:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-09-29T00:44-04:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-09-19T16:21-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,7 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[Developer policy update: Transparency, state policy, and what’s ahead](https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/) <kbd>2026-09-29T11:00-04:00</kbd></samp>
 - <samp>[How we found 24 Android vulnerabilities using our open source AI security agent](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/) <kbd>2026-09-28T15:00-04:00</kbd></samp>
 - <samp>[Highlights from Git 2.56](https://github.blog/open-source/git/highlights-from-git-2-56/) <kbd>2026-09-28T13:23-04:00</kbd></samp>
 - <samp>[GitHub Copilot app for Beginners: How to build custom workflows with canvases](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/) <kbd>2026-09-25T14:00-04:00</kbd></samp>
@@ -62,7 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/) <kbd>2026-09-23T14:29-04:00</kbd></samp>
 - <samp>[Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.](https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/) <kbd>2026-09-23T09:00-04:00</kbd></samp>
 - <samp>[Should you read the code, is RAG dead, and did Skills kill MCP?](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/) <kbd>2026-09-18T11:00-04:00</kbd></samp>
-- <samp>[Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) <kbd>2026-09-16T20:26-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
