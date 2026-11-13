@@ -30,7 +30,7 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 
 <!-- PUSHES:START -->
 
-- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-11-12T01:10-05:00</kbd></samp>
+- <samp>[mshick](https://github.com/mshick/mshick) <kbd>2026-11-12T14:38-05:00</kbd></samp>
 - <samp>[dotfiles](https://github.com/mshick/dotfiles) <kbd>2026-09-19T16:21-04:00</kbd></samp>
 - <samp>[add-pr-comment](https://github.com/mshick/add-pr-comment) <kbd>2026-06-23T18:38-04:00</kbd></samp>
 - <samp>[restak-onsite](https://github.com/mshick/restak-onsite) <kbd>2026-05-19T15:48-04:00</kbd></samp>
@@ -53,6 +53,8 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/) <kbd>2026-11-12T19:20-05:00</kbd></samp>
+- <samp>[Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/) <kbd>2026-11-12T17:54-05:00</kbd></samp>
 - <samp>[Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/) <kbd>2026-11-10T13:00-05:00</kbd></samp>
 - <samp>[Beyond code generation: A developer&#8217;s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) <kbd>2026-11-06T17:15-05:00</kbd></samp>
 - <samp>[Inside GitHub&#8217;s new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) <kbd>2026-11-05T15:23-05:00</kbd></samp>
@@ -61,8 +63,6 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 - <samp>[Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/) <kbd>2026-11-01T16:36-05:00</kbd></samp>
 - <samp>[GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/) <kbd>2026-10-28T12:09-04:00</kbd></samp>
 - <samp>[Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) <kbd>2026-10-28T12:07-04:00</kbd></samp>
-- <samp>[How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/) <kbd>2026-10-22T13:21-04:00</kbd></samp>
-- <samp>[The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/) <kbd>2026-10-21T12:00-04:00</kbd></samp>
 
 <!-- POSTS:END -->
 
